@@ -20,7 +20,7 @@ def set_vector_db():
         print(type(text["content"]))
         texts.append(text["content"])
 
-    text_splitter = CharacterTextSplitter(chunk_size=100, chunk_overlap=40)
+    text_splitter = CharacterTextSplitter(chunk_size=200, chunk_overlap=40)
 
     chunks = text_splitter.create_documents(texts)
     print(len(chunks))
