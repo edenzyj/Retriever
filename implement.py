@@ -1,4 +1,5 @@
 import os
+import shutil
 import glob
 from tika import parser
 
@@ -30,6 +31,9 @@ def set_vector_db():
         model_kwargs = {'device': 'cuda'},
         encode_kwargs = {'normalize_embeddings': False}
     )
+    
+    if os.path.isdir(database_path):
+        shutil.rmtree(database_path)
 
     chromadb = Chroma.from_documents(chunks, embeddings_model, persist_directory=database_path)
     chromadb.persist()
@@ -47,7 +51,7 @@ def retrieve(user_query):
     
     chromadb = Chroma(embedding_function=embeddings_model, persist_directory=database_path)
 
-    results = chromadb.similarity_search_with_score(user_query, 10)
+    results = chromadb.similarity_search_with_score(user_query, 50)
     
     unique_results = set()
     final_results = []
@@ -62,8 +66,17 @@ def retrieve(user_query):
 
     return_message = user_query
     
+    print("number of unique results : {}".format(len(unique_results)))
+    print("=======================")
+
+    '''for i in range(min(50, len(final_results))):
+        print("Result {}, score = {} :".format(i, final_results[i][1]))
+        print(final_results[i][0])
+        print("=======================")'''
+    
     if final_results[0][1] <= 0.8:
         print(final_results[0][1])
+        print(len(final_results[0][0]))
         return_message = return_message + " " + final_results[0][0]
     
     # print(type(return_message))
@@ -74,3 +87,7 @@ def retrieve(user_query):
 # run this python file only when a new vector DB is going to be set up
 if __name__ == "__main__":
     set_vector_db()
+    
+    '''user_query = "What is Anthracnose caused by?"
+    answer = retrieve(user_query)
+    print(answer)'''
