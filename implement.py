@@ -34,6 +34,8 @@ def set_vector_db():
     
     if os.path.isdir(database_path):
         shutil.rmtree(database_path)
+        
+    os.makedirs(database_path)
 
     chromadb = Chroma.from_documents(chunks, embeddings_model, persist_directory=database_path)
     chromadb.persist()
@@ -88,6 +90,6 @@ def retrieve(user_query):
 if __name__ == "__main__":
     set_vector_db()
     
-    '''user_query = "What is Anthracnose caused by?"
+    user_query = "What is Anthracnose caused by?"
     answer = retrieve(user_query)
-    print(answer)'''
+    print(answer)
