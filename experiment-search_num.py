@@ -9,7 +9,7 @@ from langchain_community.vectorstores import Chroma
 
 database_path = "vectorDB_test"
 
-def set_vector_db():
+def set_vector_db(chunk_size):
     pdf_dir = 'pdf/starwberry_file/EN'
     file_names = glob.glob(pdf_dir + "/*.pdf")
     
@@ -20,7 +20,7 @@ def set_vector_db():
         print(type(text["content"]))
         texts.append(text["content"])
 
-    text_splitter = CharacterTextSplitter(chunk_size=200, chunk_overlap=40)
+    text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=40)
 
     chunks = text_splitter.create_documents(texts)
     print(len(chunks))
@@ -40,7 +40,7 @@ def set_vector_db():
     chromadb = Chroma.from_documents(chunks, embeddings_model, persist_directory=database_path)
     chromadb.persist()
     
-    return
+    return len(chunks)
 
 def retrieve(user_query, num):
     print(user_query)
@@ -86,11 +86,12 @@ def retrieve(user_query, num):
 
 # run this python file only when a new vector DB is going to be set up
 if __name__ == "__main__":
-    set_vector_db()
+    chunk_size = 200
+    chunk_number = set_vector_db(chunk_size)
     
     user_query = "What is Anthracnose caused by?"
     
-    nums = [10, 20, 50, 100, 150, 200, 1359]
+    nums = [10, 20, 50, 100, 150, 200, chunk_number]
     scores = []
     
     for i in range(len(nums)):
