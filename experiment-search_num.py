@@ -20,7 +20,7 @@ def set_vector_db():
         print(type(text["content"]))
         texts.append(text["content"])
 
-    text_splitter = CharacterTextSplitter(chunk_size=400, chunk_overlap=40)
+    text_splitter = CharacterTextSplitter(chunk_size=100, chunk_overlap=40)
 
     chunks = text_splitter.create_documents(texts)
     print(len(chunks))
@@ -86,7 +86,7 @@ def retrieve(user_query, num):
 
 # run this python file only when a new vector DB is going to be set up
 if __name__ == "__main__":
-    # set_vector_db()
+    set_vector_db()
     
     user_query = "What is Anthracnose caused by?"
     
