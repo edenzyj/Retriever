@@ -1,3 +1,4 @@
+glob
 tika
 langchain
 langchain-community
