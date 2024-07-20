@@ -93,7 +93,7 @@ if __name__ == "__main__":
     chunk_size = 1000
     chunk_number = set_vector_db(chunk_size)
     
-    num = 10
+    num = 50
     score = retrieve(user_query, num)
     
     print()
