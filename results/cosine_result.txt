@@ -1,0 +1,66 @@
+Result 0, with score = 0.27055078744888306 :
+ANTHRACNOSE INFECTION
+PROCESS AND PATHOGEN
+
+DISPERSAL
+
+Result 1, with score = 0.28725725412368774 :
+The disease cycles of anthracnose on different hosts have similar
+
+components (Peres et al., 2005; De Silva et al., 2017); they are
+
+generally polycyclic, with splash-borne asexual spores (conidia)
+
+Result 2, with score = 0.2952931523323059 :
+ANTHRACNOSE DISEASE
+SYMPTOMS
+
+Result 3, with score = 0.3285679817199707 :
+1060 PHYTOPATHOLOGY 
+
+lesions typical of anthracnose that eventually girdled the stolon  
+or petiole.
+
+Result 4, with score = 0.3339804410934448 :
+INHERITANCE OF RESISTANCE TO
+ANTHRACNOSE
+
+Result 5, with score = 0.3399803042411804 :
+(conidia) produced in acervuli are considered as the only inoculum
+
+responsible for the development of anthracnose epidemics.
+
+Exclusion of a possible (even though unlikely) ascosporic
+
+Result 6, with score = 0.34959876537323 :
+., 1998; Kim & Nam, 1999). Anthracnose is
+one of the most damaging diseases of strawberries, caus-
+ing wilting and death of transplants in the nursery field.
+The pathogen known to be responsible for the disease in
+Korea is
+
+Result 7, with score = 0.35568177700042725 :
+m
+
+ 
+
+ potassium,
+and 3 m
+
+ 
+
+m
+
+ 
+
+ calcium (Table 2).
+Anthracnose symptoms first appeared in the nitrogen
+
+Result 8, with score = 0.3629924982242412 :
+Wang, X. X., Wang, B., Liu, J. L., Chen, J., Cui, X. P., Jiang, H., et al. (2010). First
+report of anthracnose caused by Colletotrichum gloeosporioides on ramie in China.
+Plant Dis. 94, 1508–1508. doi: 10.1094/PDIS-08-10-0556
+
+Result 9, with score = 0.3631724715232849 :
+Ocfemia, GO, Agati JA (1925). The cause of anthracnose of avocado, mango and 
+upo in the Philippine Islands. Philippine Agriculturalist 14: 199–216.
