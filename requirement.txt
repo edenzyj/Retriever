@@ -1,6 +1,11 @@
-glob
+# Retriever
 tika
 langchain
 langchain-community
 sentence-transformers
 chromadb
+
+# Re-ranker
+torch
+numpy
+SentencePiece
