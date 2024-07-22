@@ -64,3 +64,4 @@ Plant Dis. 94, 1508–1508. doi: 10.1094/PDIS-08-10-0556
 Result 9, with score = 0.7263450622558594 :
 Ocfemia, GO, Agati JA (1925). The cause of anthracnose of avocado, mango and 
 upo in the Philippine Islands. Philippine Agriculturalist 14: 199–216.
+

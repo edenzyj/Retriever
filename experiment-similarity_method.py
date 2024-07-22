@@ -39,8 +39,8 @@ def set_vector_db():
 
     chromadb = Chroma.from_documents(documents=chunks,
                                      embedding=embeddings_model,
-                                     collection_name='coll_ip',
-                                     collection_metadata={"hnsw:space": "ip"},
+                                     collection_name='coll_l2',
+                                     collection_metadata={"hnsw:space": "l2"},
                                      persist_directory=database_path)
     chromadb.persist()
     
@@ -57,8 +57,8 @@ def retrieve(user_query, num):
     )
     
     chromadb = Chroma(embedding_function=embeddings_model,
-                      collection_name='coll_ip',
-                      collection_metadata={"hnsw:space": "ip"},
+                      collection_name='coll_l2',
+                      collection_metadata={"hnsw:space": "l2"},
                       persist_directory=database_path)
 
     results = chromadb.similarity_search_with_score(user_query, num)
@@ -83,10 +83,19 @@ def retrieve(user_query, num):
     else:
         first_num = 10
 
-    for i in range(first_num):
-        print("Result {}, with score = {} :".format(i, final_results[i][1]))
-        print(final_results[i][0])
-        print()
+    result_dir = "results/"
+    result_file = "l2_result.txt"
+    
+    if os.path.isfile(result_dir+result_file):
+        os.remove(result_dir+result_file)
+    
+    with open(result_dir+result_file, "w") as output_file:
+        for i in range(first_num):
+            output_file.write("Result {}, with score = {} :".format(i, final_results[i][1]))
+            output_file.write("\n")
+            output_file.write(final_results[i][0])
+            output_file.write("\n")
+            output_file.write("\n")
         
     return
 
