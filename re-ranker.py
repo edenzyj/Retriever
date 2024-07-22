@@ -22,4 +22,8 @@ with torch.no_grad():
     scores = model(**features).logits
     normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
 
+print()
+print("==========")
+print(np.argmax(normalized_scores))
+print("----------")
 print([p_1, p_2][np.argmax(normalized_scores)])
