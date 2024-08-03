@@ -150,9 +150,12 @@ def retrieve_with_re_ranker(user_query, num):
             with torch.no_grad():
                 scores = model(**features).logits
                 normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
-            final_results[np.argmax(normalized_scores)][1] = final_results[np.argmax(normalized_scores)][1] + 1
+            if np.argmax(normalized_scores) == 0:
+                final_results[i][1] = final_results[i][1] + 1
+            else:
+                final_results[j][1] = final_results[j][1] + 1
     
-    final_results.sort(key=lambda a: a[1])
+    final_results.sort(reverse=True, key=lambda a: a[1])
     
     if len(final_results) < 10:
         first_num = len(final_results)
