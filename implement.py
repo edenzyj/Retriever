@@ -25,7 +25,7 @@ def set_vector_db(chunk_size, embedding_model):
         text = parser.from_file(file_name)
         print(type(text["content"]))
         pdf_str = text["content"].split("Reference")
-        texts.append(pdf_str)
+        texts.append(pdf_str[0])
 
     text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=40)
 
