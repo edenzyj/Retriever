@@ -19,8 +19,11 @@ def set_vector_db(chunk_size):
     for file_name in file_names:
         text = parser.from_file(file_name)
         print(type(text["content"]))
-        pdf_str = text["content"].split("Reference")
-        texts.append(pdf_str)
+        pdf_str = text["content"].split("References")
+        for i in range(len(pdf_str) - 1):
+            texts.append(pdf_str[i])
+        if len(pdf_str) == 1:
+            texts.append(pdf_str[0])
 
     text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=40)
 
@@ -85,7 +88,9 @@ def retrieve(user_query, num):
     
     avrg_score = total_score / first_num
     
-    return avrg_score
+    answer = final_results[0][0]
+    
+    return answer, avrg_score
 
 # run this python file only when a new vector DB is going to be set up
 if __name__ == "__main__":
@@ -95,9 +100,10 @@ if __name__ == "__main__":
     chunk_number = set_vector_db(chunk_size)
     
     num = 50
-    score = retrieve(user_query, num)
+    result, score = retrieve(user_query, num)
     
     print()
     print("Chunk size = {} :".format(chunk_size))
     print("Number of chunks = {}".format(chunk_number))
     print("average score = {}".format(score))
+    print("result : {}".format(result))
