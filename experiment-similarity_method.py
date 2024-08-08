@@ -24,7 +24,8 @@ def set_vector_db():
     for file_name in file_names:
         text = parser.from_file(file_name)
         print(type(text["content"]))
-        texts.append(text["content"])
+        pdf_str = text["content"].split("Reference")
+        texts.append(pdf_str)
 
     text_splitter = CharacterTextSplitter(chunk_size=200, chunk_overlap=40)
 

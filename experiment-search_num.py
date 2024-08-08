@@ -18,7 +18,8 @@ def set_vector_db(chunk_size):
     for file_name in file_names:
         text = parser.from_file(file_name)
         print(type(text["content"]))
-        texts.append(text["content"])
+        pdf_str = text["content"].split("Reference")
+        texts.append(pdf_str)
 
     text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=40)
 
@@ -98,7 +99,14 @@ if __name__ == "__main__":
         scores.append(retrieve(user_query, nums[i]))
         print()
         print("Search {} results, and the score is : {}.".format(nums[i], scores[i]))
+        
+    for cnt in range(49):
+        for i in range(len(nums)):
+            scores[i] = scores[i] + retrieve(user_query, nums[i])
+    
+    for i in range(len(scores)):
+        scores[i] = scores[i] / 50
     
     for i in range(len(nums) - 1):
         print()
-        print("multiple of the score of {} results relative to the score of 1359 results is : {}.".format(nums[i], scores[i] / scores[-1]))
+        print("multiple of the score of {} results relative to the score of {} results is : {}.".format(nums[i], chunk_number, scores[i] / scores[-1]))
