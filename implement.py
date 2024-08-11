@@ -102,7 +102,7 @@ def retrieve(user_query, num, embedding_model):
     
     return return_message, avrg_score
 
-def retrieve_with_re_ranker(user_query, num, embedding_model):
+def retrieve_with_re_ranker(user_query, num, embedding_model, chunk_size):
     embeddings_model = HuggingFaceEmbeddings(
         model_name = embedding_model,
         model_kwargs = {'device': 'cuda'},
@@ -157,7 +157,7 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
         first_num = 10
 
     result_dir = "results/"
-    result_file = "re-ranker_result.txt"
+    result_file = "re-ranker_result_{}.txt".format(chunk_size)
     
     if os.path.isfile(result_dir+result_file):
         os.remove(result_dir+result_file)
@@ -178,19 +178,31 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
     
     return return_message
 
+def llama_generate(llm, tokenizer, sampling_params, message, history):
+    history_chat_format = []
+    for human, assistant in history:
+        history_chat_format.append({"role": "user", "content": human })
+        history_chat_format.append({"role": "assistant", "content": assistant})
+    history_chat_format.append({"role": "user", "content": message})
+      
+    prompt = tokenizer.apply_chat_template(history_chat_format, tokenize=False)
+    
+    for chunk in llm.generate(prompt, sampling_params):
+        yield chunk.outputs[0].text
+
 # run this python file only when a new vector DB is going to be set up
 if __name__ == "__main__":
     user_query = "What is Anthracnose caused by?"
     
     embedding_model = 'sentence-transformers/all-MiniLM-L6-v2'
     
-    chunk_size = 200
+    chunk_size = 400
     chunk_number = set_vector_db(chunk_size, embedding_model)
     
     num = 50
     answer_similarity, score = retrieve(user_query, num, embedding_model)
     
-    answer_reranker = retrieve_with_re_ranker(user_query, num, embedding_model)
+    answer_reranker = retrieve_with_re_ranker(user_query, num, embedding_model, chunk_size)
     
     print("This is the answer with naive RAG :")
     print(answer_similarity)
