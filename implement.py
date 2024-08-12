@@ -26,11 +26,12 @@ def set_vector_db(chunk_size, embedding_model):
     for file_name in file_names:
         text = parser.from_file(file_name)
         print(type(text["content"]))
-        pdf_str = text["content"].split("References")
+        '''pdf_str = text["content"].split("References")
         for i in range(len(pdf_str) - 1):
             texts.append(pdf_str[i])
         if len(pdf_str) == 1:
-            texts.append(pdf_str[0])
+            texts.append(pdf_str[0])'''
+        texts.append(text["content"])
 
     text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=40)
 
@@ -212,9 +213,13 @@ if __name__ == "__main__":
     answer_reranker = ""
     
     for ans in generation_similarity:
-        answer_similarity = answer_similarity + ans
+        answer_similarity = ans
     print(answer_similarity)
     
+    print()
+    print("//////////**********//////////")
+    print()
+    
     for ans in generation_reranker:
-        answer_reranker = answer_reranker + ans
+        answer_reranker = ans
     print(answer_reranker)
