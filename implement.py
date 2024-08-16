@@ -26,12 +26,17 @@ def set_vector_db(chunk_size, embedding_model):
     for file_name in file_names:
         text = parser.from_file(file_name)
         print(type(text["content"]))
-        '''pdf_str = text["content"].split("References")
+        
+        pdf_str = text["content"]
+        
+        # split References which is not using now.
+        '''pdf_str = pdf_str.split("References")
         for i in range(len(pdf_str) - 1):
             texts.append(pdf_str[i])
         if len(pdf_str) == 1:
             texts.append(pdf_str[0])'''
-        texts.append(text["content"])
+        
+        texts.append(pdf_str)
 
     text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=40)
 
@@ -190,7 +195,7 @@ if __name__ == "__main__":
     
     embedding_model = 'sentence-transformers/all-MiniLM-L6-v2'
     
-    chunk_size = 400
+    chunk_size = 200
     chunk_number = set_vector_db(chunk_size, embedding_model)
     
     num = 50
