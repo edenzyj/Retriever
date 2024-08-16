@@ -1,0 +1,36 @@
+Result 0 :
+The second result from retriever is more related to the question. It directly addresses the cause of anthracnose by identifying that it is caused by Colletotrichum spp., and it provides specific details about how this pathogen affects strawberry plants. This result is directly relevant to understanding the causative agent of anthracnose, which is what the farmer is asking about.
+The first result, while potentially useful for understanding the infection process and pathogen dispersal, does not specifically mention the causative pathogen.
+
+Result 1 :
+The second result is more directly related to the question "What is Anthracnose caused by?"
+The first result discusses the general characteristics of the disease cycles of anthracnose but does not specifically identify the pathogen causing it.
+The second result, on the other hand, directly identifies one of the pathogens responsible for anthracnose: Colletotrichum gloeosporioides. This is a specific fungus known to cause anthracnose in various plants.
+
+Result 2 :
+
+
+Result 3 :
+
+
+Result 4 :
+
+
+Result 5 :
+
+
+Result 6 :
+
+
+Result 7 :
+
+
+Result 8 :
+
+
+Result 9 :
+
+
+Result 10 :
+
+
