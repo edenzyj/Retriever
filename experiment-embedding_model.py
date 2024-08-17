@@ -167,7 +167,7 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
         first_num = 10
 
     result_dir = "results/"
-    result_file = "tart_miniLML6.txt"
+    result_file = "tart_BGElarge.txt"
     
     if os.path.isfile(result_dir+result_file):
         os.remove(result_dir+result_file)
@@ -186,7 +186,7 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
 if __name__ == "__main__":
     user_query = "What is Anthracnose caused by?"
     
-    embedding_model = 'sentence-transformers/all-MiniLM-L6-v2'
+    embedding_model = 'BAAI/bge-large-en-v1.5'
     
     chunk_size = 200
     chunk_number = set_vector_db(chunk_size, embedding_model)
