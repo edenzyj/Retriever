@@ -142,17 +142,17 @@ def retrieve_with_re_ranker(user_query, num, embedding_model, chunk_size):
         final_results.append([result, 0])
     
     unique_results = list(unique_results)
-    unique_result_best = unique_results[-1]
-    for i in range(len(unique_results) - 1):
-        features = tokenizer(['{0} [SEP] {1}'.format(in_answer, user_query), '{0} [SEP] {1}'.format(in_answer, user_query)], 
-                             [unique_results[i], unique_result_best], padding=True, truncation=True, return_tensors="pt")
-        with torch.no_grad():
-            scores = model(**features).logits
-            normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
-        if np.argmax(normalized_scores) == 0:
-            final_results[i][1] = final_results[i][1] + 1
-        else:
-            final_results[j][1] = final_results[j][1] + 1
+    for i in range(len(unique_results)):
+        for j in range(i+1, len(unique_results)):
+            features = tokenizer(['{0} [SEP] {1}'.format(in_answer, user_query), '{0} [SEP] {1}'.format(in_answer, user_query)], 
+                                 [unique_results[i], unique_results[j]], padding=True, truncation=True, return_tensors="pt")
+            with torch.no_grad():
+                scores = model(**features).logits
+                normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
+            if np.argmax(normalized_scores) == 0:
+                final_results[i][1] = final_results[i][1] + 1
+            else:
+                final_results[j][1] = final_results[j][1] + 1
     
     final_results.sort(reverse=True, key=lambda a: a[1])
     
