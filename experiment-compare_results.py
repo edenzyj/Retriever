@@ -161,7 +161,7 @@ def retrieve_with_re_ranker(user_query, num, embedding_model, chunk_size):
     else:
         first_num = 10
 
-    '''
+    
     result_dir = "results/"
     result_file = "re-ranker_result_{}.txt".format(chunk_size)
     
@@ -177,7 +177,7 @@ def retrieve_with_re_ranker(user_query, num, embedding_model, chunk_size):
             output_file.write(final_results[i][0])
             output_file.write("\n")
             output_file.write("\n")
-    '''
+    
         
     return_messages = []
     
@@ -222,6 +222,5 @@ if __name__ == "__main__":
         answer_reranker = ""
         for ans in generation_reranker:
             answer_reranker = ans
-            print(answer_reranker)
         print(answer_reranker)
         print("=====++++++++++=====")
