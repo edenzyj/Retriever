@@ -20,3 +20,18 @@ def generate_with_loop(message, histories):
     
     for chunk in llm.generate(prompt, sampling_params):
         yield chunk.outputs[0].text
+
+if __name__ == "__main__":
+    user_query = "What is Anthracnose caused by?"
+    
+    result = user_query + " " + "All three species also cause leaf spots (Howard et al., 1992; Maas and Palm, 1997; Smith, 1998c)."
+    
+    histories = ""
+    
+    generated_answer = generate_with_loop(result, histories)
+    
+    answer = ""
+    
+    for ans in generated_answer:
+        answer = ans
+    print(answer)
