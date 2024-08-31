@@ -11,7 +11,7 @@ from langchain_community.vectorstores import Chroma
 database_path = "vectorDB_test"
 
 def set_vector_db(chunk_size):
-    pdf_dir = 'pdf/starwberry_file/EN'
+    pdf_dir = 'pdf/strawberry_file/EN'
     file_names = glob.glob(pdf_dir + "/*.pdf")
     
     texts = []

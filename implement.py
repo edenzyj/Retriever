@@ -4,8 +4,8 @@ import glob
 from tika import parser
 
 from langchain.text_splitter import CharacterTextSplitter
-from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_chroma import Chroma
 
 from tart.TART.src.modeling_enc_t5 import EncT5ForSequenceClassification
 from tart.TART.src.tokenization_enc_t5 import EncT5Tokenizer
@@ -13,12 +13,12 @@ import torch
 import torch.nn.functional as F
 import numpy as np
 
-from generation import generate_with_loop
+# from generation import generate_with_loop
 
 database_path = "vectorDB"
 
 def set_vector_db(chunk_size, embedding_model):
-    pdf_dir = 'pdf/starwberry_file/EN'
+    pdf_dir = 'pdf/strawberry_file/EN'
     file_names = glob.glob(pdf_dir + "/*.pdf")
     
     texts = []
@@ -209,7 +209,7 @@ if __name__ == "__main__":
     print("This is the answer with RAG + Re-ranker :")
     print(result_reranker)
     
-    histories = ""
+    '''histories = ""
     
     generation_similarity = generate_with_loop(result_similarity, histories)
     generation_reranker = generate_with_loop(result_reranker, histories)
@@ -227,4 +227,4 @@ if __name__ == "__main__":
     
     for ans in generation_reranker:
         answer_reranker = ans
-    print(answer_reranker)
+    print(answer_reranker)'''

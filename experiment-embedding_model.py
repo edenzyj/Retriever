@@ -17,7 +17,7 @@ import numpy as np
 database_path = "vectorDB_test"
 
 def set_vector_db(chunk_size, embedding_model):
-    pdf_dir = 'pdf/starwberry_file/EN'
+    pdf_dir = 'pdf/strawberry_file/EN'
     file_names = glob.glob(pdf_dir + "/*.pdf")
     
     texts = []

@@ -4,7 +4,7 @@ import glob
 from tika import parser
 
 from langchain.text_splitter import CharacterTextSplitter
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
 from tart.TART.src.modeling_enc_t5 import EncT5ForSequenceClassification
@@ -13,12 +13,12 @@ import torch
 import torch.nn.functional as F
 import numpy as np
 
-from generation import generate_with_loop
+# from generation import generate_with_loop
 
 database_path = "vectorDB"
 
 def set_vector_db(chunk_size, embedding_model):
-    pdf_dir = 'pdf/starwberry_file/EN'
+    pdf_dir = 'pdf/strawberry_file/EN'
     file_names = glob.glob(pdf_dir + "/*.pdf")
     
     texts = []
@@ -55,7 +55,11 @@ def set_vector_db(chunk_size, embedding_model):
         
     os.makedirs(database_path)
 
-    chromadb = Chroma.from_documents(chunks, embeddings_model, persist_directory=database_path)
+    chromadb = Chroma.from_documents(documents=chunks,
+                                     embedding=embeddings_model,
+                                     collection_name='coll_l2',
+                                     collection_metadata={"hnsw:space": "l2"},
+                                     persist_directory=database_path)
     chromadb.persist()
     
     return len(chunks)
@@ -70,7 +74,10 @@ def retrieve(user_query, num, embedding_model):
         encode_kwargs = {'normalize_embeddings': False}
     )
     
-    chromadb = Chroma(embedding_function=embeddings_model, persist_directory=database_path)
+    chromadb = Chroma(embedding_function=embeddings_model,
+                      collection_name='coll_l2',
+                      collection_metadata={"hnsw:space": "l2"},
+                      persist_directory=database_path)
 
     results = chromadb.similarity_search_with_score(user_query, num)
     
@@ -114,7 +121,10 @@ def retrieve_with_re_ranker(user_query, num, embedding_model, chunk_size):
         encode_kwargs = {'normalize_embeddings': False}
     )
     
-    chromadb = Chroma(embedding_function=embeddings_model, persist_directory=database_path)
+    chromadb = Chroma(embedding_function=embeddings_model,
+                      collection_name='coll_l2',
+                      collection_metadata={"hnsw:space": "l2"},
+                      persist_directory=database_path)
 
     results = chromadb.similarity_search_with_score(user_query, num)
     
@@ -163,7 +173,7 @@ def retrieve_with_re_ranker(user_query, num, embedding_model, chunk_size):
 
     
     result_dir = "results/"
-    result_file = "re-ranker_result_{}.txt".format(chunk_size)
+    result_file = "re-ranker_result_question2.txt".format(chunk_size)
     
     if os.path.isfile(result_dir+result_file):
         os.remove(result_dir+result_file)
@@ -189,12 +199,12 @@ def retrieve_with_re_ranker(user_query, num, embedding_model, chunk_size):
 
 # run this python file only when a new vector DB is going to be set up
 if __name__ == "__main__":
-    user_query = "What is Anthracnose caused by?"
+    user_query = "How to prevent and treat Anthracnose?"
     
     embedding_model = 'sentence-transformers/all-MiniLM-L6-v2'
     
     chunk_size = 200
-    # chunk_number = set_vector_db(chunk_size, embedding_model)
+    chunk_number = set_vector_db(chunk_size, embedding_model)
     
     num = 50
     
@@ -215,7 +225,7 @@ if __name__ == "__main__":
     # reranker
     results_reranker = retrieve_with_re_ranker(user_query, num, embedding_model, chunk_size)
     
-    histories = ""
+    '''histories = ""
     
     for result_reranker in results_reranker:
         generation_reranker = generate_with_loop(result_reranker, histories)
@@ -223,4 +233,4 @@ if __name__ == "__main__":
         for ans in generation_reranker:
             answer_reranker = ans
         print(answer_reranker)
-        print("=====++++++++++=====")
+        print("=====++++++++++=====")'''
