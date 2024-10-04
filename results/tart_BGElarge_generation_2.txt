@@ -1,0 +1,637 @@
+Answer 0 :
+This text appears to be a scientific article discussing the threat of anthracnose disease caused by Colletotrichum spp. to strawberry production, particularly in warm and humid climates. The article highlights the following points:
+
+1. Rain-splashed conidia of Colletotrichum spp. serve as the major inoculum causing epidemics of strawberry anthracnose disease.
+2. The conidia germinate, form appressoria, and penetrate epidermal cells, causing black spots or irregular spots on leaves, sunken black spots or necrosis lesions on petioles, stolons, and fruits, and wilting of the whole plant due to crown rot.
+3. In the US state of Florida, anthracnose causes the death of up to 80% of seedlings in the nursery and yield losses of over 50% in the field.
+4. In Taiwan, strawberry seedlings are propagated from March to September, and the high temperature, high humidity, and heavy rainfall during this period provide a suitable environment for epidemics.
+5. From 2010 to 2016, anthracnose crown rot caused the loss of 30-40% of seedlings and ~20% of plants after transplanting.
+
+The article seems to be discussing the significance of Colletotrichum spp. as a major pathogen affecting strawberry production, particularly in warm and humid climates, and highlighting the importance of understanding the disease mechanism and its impact on strawberry production.
+
+Answer 1 :
+This text appears to be a scientific article discussing the effectiveness of fungicides in controlling anthracnose and other diseases in strawberry plants. The article highlights the development of resistance to certain fungicides, such as benomyl, and the need for alternative treatments.
+
+The text mentions several studies and researchers, including Horn et al. (1972), Howard (1971), LaMondia (1993, 1995), McInnes et al. (1992a, 1992b), Smith and Black (1991, 1992, 1993). These studies were conducted to evaluate the effectiveness of different fungicides, including benomyl, carbendazim, propiconazole, and captafol.
+
+The article reports that benomyl was initially effective in controlling anthracnose, but the pathogens developed resistance to it and other bendimiazole fungicides. In-vitro trials were used to screen fungicides for their ability to control anthracnose, and Smith and Black (1993) found that all isolates of C. acutatum, C. fragariae, and C. gloeosporioides were resistant to benomyl.
+
+The article also discusses the results of a greenhouse study, which found that plants treated with propiconazole had lower disease severity ratings than those treated with captafol or benomyl. However, the propiconazole-treated plants were shorter with thicker leaves than the untreated plants.
+
+Overall, the article highlights the importance of monitoring the effectiveness of fungicides and developing alternative treatments to control diseases in strawberry plants.
+
+Answer 2 :
+This text is discussing the importance of in-vitro fungicide studies for controlling anthracnose, a fungal disease that affects crops. The text states that until resistant cultivars are available, growers must rely on chemical applications and cultural practices to reduce losses due to anthracnose. However, the text also notes that failure of fungicides to control anthracnose epidemics may be due to the development of fungicide resistance in the Colletotrichum spp. population.
+
+In other words, the text is highlighting the need for effective fungicide management strategies to control anthracnose, as the fungus that causes the disease (Colletotrichum spp.) can develop resistance to fungicides over time. This emphasizes the importance of in-vitro fungicide studies to identify effective fungicides and develop strategies to prevent or delay the development of resistance.
+
+Answer 3 :
+It appears you've provided a list of references in the format of a citation. Here's a breakdown of each reference:
+
+1. Coelho et al. (1999)
+
+* DOI: 10.1080/07060661.1999.10600116
+* Authors: Coelho, M. V., Palma, F. R., and Cafe-Filho, A. C.
+* Journal: Int.J. Pest Manage.
+* Volume and pages: 54, 347–354
+
+2. Coelho et al. (2008)
+
+* DOI: 10.1080/09670870802419610
+* Authors: Coelho, M. V., Palma, F. R., and Cafe-Filho, A. C.
+* Journal: Int.J. Pest Manage.
+* Volume and pages: 54, 347–354
+
+3. Conner et al. (no year specified)
+
+* Authors: Conner, R. L., Gillard, C. L., Mcrae, K. B., Hwang, S. F., Chen, Y. Y., Hou, A., et al.
+* Journal: (no journal specified)
+* Volume and pages: 46
+
+Note that the third reference lacks a year of publication and journal information, making it difficult to provide a complete citation. If you can provide more information about the journal or publication date, I'd be happy to help you format the citation correctly.
+
+Answer 4 :
+This text discusses ways to prevent the spread of anthracnose, a disease that affects plants, within a field. The methods mentioned include:
+
+1. **Splashing water**: The text states that anthracnose spreads within a field by splashing water. This suggests that reducing water splashing may help prevent the spread of the disease.
+2. **Living mulches**: The text recommends using living mulches, such as wheat, rye, or rye grass, in row middles to reduce disease spread within a field. This is because living mulches can help absorb water and reduce splashing.
+3. **Sublethal doses of herbicides**: The text suggests using sublethal doses of grass-specific herbicides, such as sethoxydim, to prevent excessive growth of ryegrass.
+4. **Organic mulches**: The text recommends using organic mulches, such as wheat straw or pine needles, to reduce splash and lower the incidence of anthracnose.
+5. **Drip irrigation**: The text states that anthracnose is less severe when water is supplied to plants using drip irrigation rather than overhead irrigation.
+
+Overall, the text provides several strategies for preventing the spread of anthracnose within a field, including using living mulches, organic mulches, and drip irrigation, and reducing water splashing and excessive plant growth.
+
+Answer 5 :
+This text is discussing the pathogens that cause anthracnose diseases in strawberries. Specifically, it mentions three species of Colletotrichum: C. fragariae, C. acutatum, and C. gloeosporioides.
+
+According to the text, C. fragariae was previously considered the primary cause of strawberry anthracnose in the United States. However, in 1986, Smith and Black reported the presence of C. acutatum on strawberry in the United States. This fungus had previously been reported to cause anthracnose fruit rot of strawberry in Queensland, Australia, but it was likely present in the United States under the name Gloeosporium spp. for some time.
+
+The text also mentions that C. gloeosporioides causes anthracnose crown rot, petiole lesions, and leaf spots that are indistinguishable from those caused by C. fragariae.
+
+Overall, the text highlights the complexity of the relationships between Colletotrichum species and their hosts, and suggests that multiple species may be involved in causing anthracnose diseases in strawberries.
+
+Answer 6 :
+This appears to be a list of references, specifically citations for scientific papers and articles related to strawberry diseases. The references are formatted according to a specific citation style, likely the American Psychological Association (APA) style.
+
+Here's a breakdown of the references:
+
+1. Smith, B.J. (1998a). Anthracnose crown rot, pp. 46-48. In: J.L. Maas (ed.), Compendium of strawberry diseases (2nd ed.). American Phytopathological Society, St. Paul, MN.
+2. Smith, B.J. (1998b). Anthracnose fruit rot (blackspot), pp. 31-33. In: J.L. Maas (ed.), Compendium of strawberry diseases (2nd ed.). American Phytopathological Society, St. Paul, MN.
+3. Smith, B.J. (1998c). Anthracnose leaf spot and irregular leaf spot, pp. 24-25. In: J.L. Maas (ed.), Compendium of strawberry diseases (2nd ed.). American Phytopathological Society, St. Paul, MN.
+4. Smith, B.J. (2002). Susceptibility of vegetative tissues of fruit and vegetable hosts to infection by various Colletotrichum species. Acta Hort., 567, 631-634.
+5. Smith, B.J., & Black, L.L. (1986). First report of Colletotrichum acutatum on strawberry in the United States. Plant Dis., 70, 1074.
+
+The references are listed in chronological order, with the earliest publication date first (1986). The references include a mix of book chapters, journal articles, and conference proceedings.
+
+Answer 7 :
+This appears to be a list of scientific articles, with the following information for each article:
+
+1. Authors: Hempfling, J. W., Clarke, B. B., and Murphy, J. A.
+2. Year: 2015
+3. Journal: Crop Science
+4. Page numbers: 437-443
+5. DOI: 10.2135/cropsci2014.04.0297
+
+The second article has the same format:
+
+1. Authors: Hempfling, J. W., Murphy, J. A., and Clarke, B. B.
+2. Year: 2020
+3. Journal: Agron. J.
+4. Page numbers: 3411-3417
+5. DOI: 10.1002/agj2.20202
+
+The third and fourth articles have a slightly different format:
+
+1. Authors: Hildebrand, P. D., and Jensen, K. I. N.
+2. Year: 1991
+3. Journal: Canadian Journal of Plant Pathology
+4. Page numbers: 60-70
+5. DOI: 10.1080/07060669109500966
+
+The fifth and sixth articles have a similar format to the first two:
+
+1. Authors: Hingole, D. G., Kurundkar, B. P., and Munde, G. R.
+2. Year: 2011
+3. Journal: International Journal of Plant Protection
+4. Page numbers: 61-63
+
+It appears that the articles are related to plant pathology, with topics including anthracnose disease, biological control, and the effects of relative humidity on conidial germination and disease development.
+
+Answer 8 :
+The text is providing advice on how to reduce the buildup of anthracnose fruit rot in a field. The primary means of reducing the buildup is to:
+
+1. Harvest fruit frequently: Regularly picking fruit can help reduce the spread of the disease.
+2. Remove all rotten fruit from the field: Any fruit that has already been infected should be removed to prevent the disease from spreading further.
+3. Strip infected fruit from plants and remove from the field: If the infection occurs early in the fruiting season, all infected fruit should be removed from the plants to prevent the disease from spreading.
+4. Harvest infected areas last: When harvesting, it's best to start with the un-infected areas and work towards the infected areas to minimize the risk of spreading the disease.
+5. Wash and change clothes when entering un-infected areas: After harvesting in areas where fruit rot is present, workers should wash their hands and change their clothes before entering un-infected areas to prevent the spread of the disease.
+
+By following these steps, farmers can help reduce the buildup of anthracnose fruit rot in their field and prevent the disease from spreading further.
+
+Answer 9 :
+This is a scientific text discussing the results of fungicide trials conducted on strawberry plants. Here's a breakdown of the text:
+
+* The study involved evaluating 16 different fungicide treatments on three strawberry cultivars at two locations (Hammond, LA, and Poplarville, MS) over three fruiting seasons (2002, 2003, and 2005).
+* The fungicides were applied at 7-10 day intervals to the strawberry plants.
+* The most common fruit rots observed at harvest were:
+	+ Anthracnose fruit rot (caused by Colletotrichum spp.)
+	+ Stem end rot (caused by Gnomonia comari P. Karst)
+	+ Botrytis gray mold (caused by Botrytis cinerea Pers.:Fr.)
+* Compared to the untreated control treatment, the following fungicide treatments reduced the occurrence of anthracnose fruit rot:
+	+ Pyraclostrobin + boscalid
+	+ Cyprodinil + fludioxonil
+	+ Azoxystrobin
+	+ Pyraclostrobin
+	+ Captan + fenhexamid
+	+ Captan
+
+Answer 10 :
+This is a scientific article published in the journal Frontiers in Plant Science, titled "Development of a model for Colletotrichum diseases with calibration for phylogenetic clades on different host plants". Here's a summary of the article:
+
+**Background**: Fungi in the genus Colletotrichum cause significant losses to various agricultural crops worldwide. The authors aim to develop a mechanistic model to predict anthracnose progress on aerial organs of different crops, taking into account the pathogen's life cycle and weather effects.
+
+**Methodology**: The authors conducted a systematic literature review to gather published information on Colletotrichum anthracnose diseases on different host plants. They developed a model incorporating the main stages of the pathogen's life cycle and weather effects. The model was parameterized for seven Colletotrichum clades (acutatum, dematium, destructivum, gloeosporioides, graminicola, and orbiculare) and the singleton species, C. coccodes.
+
+**Results**: The model was evaluated for anthracnose diseases caused by fungi belonging to five clades on six hosts using data from 17 epidemics in Italy, the USA, Canada, and Japan. The comparison of observed versus predicted data showed a concordance correlation coefficient of 0.928 and an average distance between real data and the fitted line of 0.044.
+
+**Conclusion**: The developed model can predict anthracnose progress on aerial organs of different crops, taking into account the pathogen's life cycle and weather effects. The model was calibrated for seven Colletotrichum clades and can be used to inform disease management strategies and predict disease outbreaks.
+
+The article is written in a formal and technical tone, using specialized vocabulary and abbreviations (e.g., DOI, DOI 10.3389/fpls.2023.1069092). The authors assume a high level of background knowledge in plant pathology and epidemiology.
+
+Answer 11 :
+This is a scientific text that discusses the relationship between nutrient levels and anthracnose in strawberries. Here's a breakdown of the main points:
+
+1. Increasing nitrogen and potassium in nutrient solutions can lead to higher dry matter percentages of these elements in strawberries.
+2. However, this increased nutrient level can also increase the severity of anthracnose, a fungal disease that affects strawberries.
+3. To mitigate the effects of anthracnose, it is recommended to use a fertilizer that contains a minimum amount of nitrogen and potassium, but not exceeding 15 and 10 units, respectively.
+
+The text suggests that a balanced fertilizer with moderate levels of nitrogen and potassium is necessary to promote healthy strawberry growth while minimizing the risk of anthracnose.
+
+Answer 12 :
+This text appears to be a passage from a scientific paper or article about controlling anthracnose, a fungal disease that affects strawberries. Here's a breakdown of the main points:
+
+* The primary source of infection in most strawberry fields is infected transplants.
+* To prevent the spread of anthracnose, strawberry growers in the southeastern United States were advised to obtain their transplants from nurseries in the northern United States, Canada, or California, which are outside the range of the fungus Colletotrichum fragariae.
+* However, more recently, the fungus C. acutatum has been found in some nurseries in these areas, which means that even these supposedly "safe" sources may not be reliable.
+
+The reference [37] likely refers to a specific study or publication by McInnes et al. that supports the information presented in this passage.
+
+Answer 13 :
+The conclusion is that:
+
+* As knowledge of anthracnose pathogens and epidemiology has increased, so has the ability to control the disease.
+* Changes in cultural practices have reduced the levels of disease.
+* Development of more effective fungicides and their registration for use on strawberries have greatly reduced losses due to anthracnose crown rot and fruit rot.
+* Anthracnose-resistant cultivars have also reduced economic losses due to these diseases.
+* However, growers may still sustain severe losses when environmental factors are highly favorable for anthracnose development.
+
+Answer 14 :
+Here is a rewritten version of the text in a clear and concise manner:
+
+"Despite limited research on the impact of plant nutrition on strawberry anthracnose, this study aimed to explore the effects of nitrogen, phosphorus, potassium, and calcium concentrations on the development of the disease. The ultimate goal is to develop practical strategies for managing strawberry anthracnose."
+
+Answer 15 :
+This appears to be a list of references in the format commonly used in scientific papers. Each reference is composed of several elements:
+
+1. The title of the publication (in this case, a journal article or a book chapter)
+2. The name of the journal or publication (e.g. "PloS One", "Phytopathology", "Ann. Appl. Biol.")
+3. The volume and page numbers of the publication (e.g. "11", "640-641")
+4. The digital object identifier (DOI) of the publication (e.g. "10.1371/journal.pone.0144573", "10.1094/Phyto-66-640")
+5. The authors of the publication, listed in the format "Last Name, First Initial. (Year of Publication). Title of Publication. Journal/ Publication, Volume, Page Numbers. doi: DOI Number"
+
+The list contains 34 references, which appear to be related to the study of disease modeling for agricultural crops, specifically the anthracnose disease of mango.
+
+Answer 16 :
+This text discusses the control of anthracnose disease in sorghum fields. The main points are:
+
+1. Crop debris removal can reduce anthracnose severity by about 30%.
+2. Using resistant cultivars could be an environmentally friendly and cost-effective way to control the disease, but currently available cultivars may not provide enough resistance.
+3. Biological control agents (BCAs) such as Trichoderma spp. and Bacillus subtilus have been considered, but their efficacy is variable under field conditions.
+4. Many farmers still prefer combining cultural practices and chemical control methods, which may lead to intensive fungicide sprays.
+5. Calendar-based application of chemicals remains the main tool for controlling anthracnose diseases, which may involve needless applications that are not economically or ecologically sustainable.
+
+Overall, the text highlights the need for more effective and sustainable methods of controlling anthracnose disease, and suggests that a combination of cultural practices and biological control agents may be a more environmentally friendly and cost-effective approach.
+
+Answer 17 :
+A scientific citation!
+
+Here's a breakdown of the citation:
+
+* Authors:
+	+ Howard, C.M.
+	+ Maas, J.L.
+	+ Chandler, C.K.
+	+ Albregts, E.E.
+* Year: 1992
+* Journal: Plant Disease (abbreviated as "Plant Dis.")
+* Volume: 76
+* Pages: 976-981
+* Note: The number in square brackets, [32], is likely a reference number or a footnote indicating that this citation is one of 32 references cited in the text.
+
+This citation appears to be a scientific article published in the journal Plant Disease in 1992, written by the four authors listed, on the topic of anthracnose of strawberries caused by the Colletotrichum complex in Florida.
+
+Answer 18 :
+It looks like you've provided a reference citation!
+
+Here's a breakdown of the citation:
+
+* ['48: This is likely a reference number or a label to identify the citation.
+* Lin, Y. H.: The author's name is Lin, Yih-Hung.
+* Identification of Antagonistic Microorganisms Against Anthracnose on Tea and Passion Fruit and Their Potential Application In Disease Control: The title of the research.
+* (National Chung Hsing University, Taichung City, 2015): The publication information, including the university, city, and year of publication.
+
+So, the citation is referencing a research paper published by Lin, Yih-Hung in 2015, titled "Identification of Antagonistic Microorganisms Against Anthracnose on Tea and Passion Fruit and Their Potential Application In Disease Control" from National Chung Hsing University in Taichung City.
+
+Answer 19 :
+This appears to be a list of scientific articles related to the topic of anthracnose, a type of fungal disease that affects various plant species. The list includes:
+
+1. "Plant Dis. 84, 128–133. doi: 10.1094/PDIS.2000.84.2.128" - A study on the control of antracnosis in yellow passionfruit using fungicides and silicate clay.
+2. "Semina.: Cie ̂ncias. Agrárias. 33, 1803–1808. doi: 10.5433/1679-0359.2012v33n5p1803" - A study on the control of antracnosis in yellow passionfruit using fungicides and silicate clay.
+3. "Ann. Appl. Biol. 98,65–77. doi: 10.1111/j.1744-7348.1981.tb00423.x" - A study on the epidemiological aspects of postbloom fruit drop disease (Colletotrichum gloeosporioides) in citrus.
+4. "Fungal Biol. Rev. 31, 155–168. doi: 10.1016/j.fbr.2017.05.001" - A review on the lifestyles of Colletotrichum species and their implications for plant biosecurity.
+5. "Annu. Rev. Phytopa tho l . 45 , 203–220 . do i : 10 . 1146 /annurev.phyto.44.070505.143329" - A review on the disease cycle approach to plant disease prediction.
+6. "Plant Dis. 98, 687–687. doi:10.1094/PDIS-05-13-0491-PDN" - A report of Colletotrichum truncatum causing anthracnose of tomato in China.
+7. "Phytopathology 101, 1013–1020. doi:10.1094/PHYTO-07-10-0193" - A study on the effect of wetness duration and temperature on the development of anthracnose on selected almond tissues and comparison of cultivar susceptibility.
+8. "Phytopathology 92, 1110–1121" - A spatiotemporal model for simulating the spread of anthracnose in a lupin field.
+
+These articles appear to be related to the study of anthracnose, a fungal disease that affects various plant species, and the methods used to control and predict its spread.
+
+Answer 20 :
+This appears to be a list of academic papers and books related to the topic of Colletotrichum, a genus of fungi that includes several species of anthracnose pathogens. The list includes:
+
+1. Thomas, G. J., and Sweetingham, M. W. (2004). Cultivar and environment influence the development of lupin anthracnose caused by Colletotrichum lupini. Australas. Plant Pathol. 33, 571–577. doi: 10.1071/AP04060
+2. Thompson, D. C., and Jenkins, S. F. (1985). Effect of temperature, moisture, and cucumber cultivar resistance on lesion size increase and conidial production by Colletotrichum lagenarium. Phytopathology 75, 828–832. doi: 10.1094/Phyto-75-828
+3. Turechek, W. W., Peres, N. A., and Werner, N. A. (2006). Pre-and post-infection activity of pyraclostrobin for control of anthracnose fruit rot of strawberry caused by Colletotrichum acutatum. Plant Dis. 90, 862–868. doi: 10.1094/PD-90-0862
+4. Uematsu, S., Kageyama, K., Moriwaki, J., and Sato, T. (2012). Colletotrichum carthami comb. nov., an anthracnose pathogen of safflower, garland chrysanthemum and pot marigold, revived by molecular phylogeny with authentic herbarium specimens. J. Gen. Plant Pathol. 78, 316–330. doi: 10.1007/s10327-012-0397-3
+5. Uysal, A., and Kurt, Ş (2017). Influence of inoculum density, temperature, wetness duration, and leaf age on infection and development of spinach anthracnose caused by the fungal pathogen Colletotrichum spinaciae. Eur. J. Plant Pathol. 149, 1041–1052. doi: 10.1007/s10658-017-1249-y
+6. Uysal, A., and Kurt, Ş (2019). First report of Colletotrichum karstii causing anthracnose on citrus in the Mediterranean region of Turkey. J. Plant Pathol. 101, 753–753. doi: 10.1007/s42161-018-00215-0
+7. Vanderplank, J. E. (1963). Plant diseases: epidemics and control (New York: Academic Press Inc).
+8. Vanderplank, J. E. (1975). Principles of plant infection (New York: Academic Press Inc).
+9. Verma, N., MacDonald, L., and Punja, Z. K. (2006). Inoculum prevalence, host infection and biological control of Colletotrichum acutatum: causal agent of blueberry anthracnose in British Columbia. Plant Pathol. 55, 442–450. doi: 10.1111/j.13653059.2006.01401.x
+10. Vieira, W. A., Bezerra, P. A., da Silva, A. C., Veloso, J. S., Câmara, M. P. S., and Doyle, V. P. (2020). Optimal markers for the identification of Colletotrichum species.
+
+These papers and books appear to be related to the study of Colletotrichum species, including their biology, ecology, and interactions with their hosts.
+
+Answer 21 :
+This text is an abstract of a research article published in the journal "Frontiers in Plant Science". Here's a breakdown of the content:
+
+* The research team developed a new model to predict anthracnose diseases caused by Colletotrichum spp. on aerial plant parts of different host plants in the field.
+* The model is weather-driven and mechanistic, meaning it takes into account various weather conditions and the biological processes involved in the disease cycle.
+* Previous models for anthracnose diseases were limited to specific species or crops and only considered one aspect of the pathogen life cycle, mainly conidial infection.
+* This new model is the first of its kind to be developed, calibrated for different clades and host plants, and evaluated to make predictions of anthracnose patterns on multiple crops.
+* The model's novelty lies in its ability to predict anthracnose patterns on multiple crops, which was not possible with previous models.
+
+Overall, the text highlights the significance of the research and its potential impact on predicting and managing anthracnose diseases in different crops.
+
+Answer 22 :
+A scientific citation!
+
+Here's a breakdown of the citation:
+
+* Author: Kim HG, Nam MH
+* Year: 1999
+* Title: Anthracnose of strawberry in Korea
+* Journal: Plant Disease Agriculture
+* Volume: 5
+* Pages: 8-13
+* Reference number: 27
+
+This citation is likely referring to a scientific article published in the journal "Plant Disease Agriculture" in 1999, written by Kim HG and Nam MH. The article discusses anthracnose disease of strawberries in Korea, and is cited as reference 27 in a larger work or publication.
+
+Answer 23 :
+It appears to be a list of references related to strawberry anthracnose, a fungal disease that affects strawberries. Here's a breakdown of each reference:
+
+1. ['Control of the crown rot phase of strawberry anthracnose through sanitation, breeding for resistance, and benomyl. Plant Dis. Rep. 56:515–519.']
+
+* This reference discusses the control of strawberry anthracnose, specifically the crown rot phase, using a combination of sanitation, breeding for resistance, and the fungicide benomyl.
+
+2. Howard, C.M. 1971. Control of strawberry anthracnose with benomyl. Plant Dis. Rep. 55:139–141.
+
+* This reference is a research paper by C.M. Howard, published in 1971, which explores the use of benomyl to control strawberry anthracnose.
+
+3. Howard, C.M. 1983. Black leaf spot phase of strawberry anthracnose caused by Colletotrichum gloeosporioides (= C. fragariae). Plant Dis. 67:1144–1146.
+
+* This reference is another research paper by C.M. Howard, published in 1983, which focuses on the black leaf spot phase of strawberry anthracnose caused by the fungus Colletotrichum gloeosporioides (also known as C. fragariae).
+
+The number [26] at the end is likely a citation number or a footnote reference.
+
+Answer 24 :
+This passage discusses the effects of nitrogen and calcium levels in soil on the severity of anthracnose crown rot and fruit rot in strawberries.
+
+The main points of the passage are:
+
+1. In commercial fields, anthracnose crown rot is less severe when strawberries are grown on soils with low nitrogen fertility (Howard et al., 1992).
+2. In greenhouse studies, strawberries grown in soils with high levels of nitrogen, especially from ammonium sources, are more susceptible to anthracnose than plants grown in soils with lower nitrogen levels or those with high levels of calcium nitrate (Smith, 1987, 1989).
+3. Anthracnose fruit rot caused by C. acutatum is less severe on fruit from greenhouse-grown plants receiving drench or foliar applications of calcium sulfate than on fruit from plants receiving water, calcium chloride, or calcium nitrate treatments.
+4. Fruit from plants receiving foliar applications of CaCl2 developed less fruit rot than that from plants receiving soil applications of CaCl2 (Smith and Gupton, 1993).
+
+Overall, the passage suggests that strawberries are more susceptible to anthracnose when grown in soils with high levels of nitrogen and that calcium sulfate and CaCl2 may help reduce the severity of anthracnose fruit rot.
+
+Answer 25 :
+This text appears to be a scientific article or passage about a plant disease, specifically anthracnose disease. Here's a breakdown of the content:
+
+**Introduction**: The text mentions that anthracnose disease has been disseminated worldwide, likely through international plant exchanges, and that its genetic polymorphism and geographical origins are not correlated.
+
+**Symptoms**: The text describes the symptoms of anthracnose crown rot, caused by either Colletotrichum fragariae or Colletotrichum gloeosporioides. The symptoms include:
+
+1. Wilting of the youngest leaves, especially in the hottest part of the day.
+2. Leaves may appear to recover and become turgid in the evenings, but most will wilt and die after a few days.
+3. A red discoloration appears within the crown tissue.
+4. The causal pathogen (Colletotrichum spp.) may be isolated from discolored tissue.
+5. After several days, the crown tissue turns dark brown to black, making it difficult to isolate the pathogen.
+
+**Additional information**: The text also mentions that Colletotrichum acutatum can cause crown death, but typically only infects a single side of the crown, and infected plants are stunted but do not die.
+
+Overall, the text provides a detailed description of the symptoms and characteristics of anthracnose disease, as well as some additional information about the pathogen and its effects on plants.
+
+Answer 26 :
+This text is a summary of a research report on anthracnose diseases in strawberries, specifically in the United States (excluding California and Florida). The report aims to understand the causes and control of these diseases, which have been increasing in importance and causing significant economic losses to strawberry growers worldwide.
+
+The report highlights that the shift from matted-row culture to annual plasticulture production system, as well as changes in cultivars, may have contributed to the increased losses due to anthracnose fruit and crown rots since the 1980s.
+
+The text does not provide specific details about the research findings, but rather serves as an introduction to the report, outlining the objectives and scope of the research.
+
+Answer 27 :
+It appears to be a citation in the format of a journal article. Here's a breakdown of the components:
+
+* ['30.]: The number in brackets likely refers to the citation number.
+* Novotny, D., Krizkova, I. & Salava, J.: The authors' names, initials, and surnames, separated by commas and ampersands.
+* First report of anthracnose caused by Colletotrichum acutatum on strawberry in the Czech republic.: The title of the article.
+* Plant Dis. 91, 1516–1516 (2007.): The journal title, volume, and pages of the article, along with the year of publication.
+* 22: The number of references in the citation.
+
+So, this citation is referring to a journal article titled "First report of anthracnose caused by Colletotrichum acutatum on strawberry in the Czech republic" published in the journal Plant Disease, volume 91, pages 1516-1516, in 2007.
+
+Answer 28 :
+Here is a summary of the materials and methods section:
+
+* Plant material: Tissue-cultured seedlings of strawberry cv. Nyoho at the three-leaf stage
+* Containers: 15 cm (1.6 L) plastic pots filled with perlite
+* Irrigation: Plants were irrigated with distilled water for a month to leach out nutrients from the perlite
+* Nutrient treatment: After the leaching period, plants were watered with a nutrient treatment solution every 2 days for 50 days.
+
+Answer 29 :
+This appears to be a list of 20 references in the format commonly used in academic papers, specifically in the field of plant pathology. Each reference includes the following information:
+
+1. Author(s): The names of the authors, with initials typically used.
+2. Year: The year the paper was published.
+3. Title: A brief title of the paper, often shortened.
+4. Journal: The name of the journal where the paper was published.
+5. Volume and page numbers: The volume number and page range of the paper.
+6. DOI (Digital Object Identifier): A unique identifier for the paper, which can be used to locate it online.
+
+The references appear to be in a specific citation style, possibly APA (American Psychological Association) or a variation of it.
+
+Answer 30 :
+This appears to be a list of scientific articles related to plant pathology, specifically focusing on fungal diseases such as anthracnose and ramulosis. The articles are from various journals and cover topics including:
+
+1. The effects of temperature and moisture on the development of Fusarium graminearum perithecia in maize stalk residues.
+2. Disease progress and inoculum sources of Colletotrichum acutatum on almond in Australia.
+3. The effect of environmental factors on infection of blueberry fruit by Colletotrichum acutatum.
+4. A model defining the relationship between temperature and leaf wetness duration, and infection of watermelon by Colletotrichum orbiculare.
+5. Development of ramulosis disease of cotton under controlled environment and field conditions.
+6. Clover anthracnose caused by Colletotrichum trifolii.
+
+The articles were published in various journals, including Agronomic Forestry Meteorology, Applied and Environmental Microbiology, European Journal of Plant Pathology, Plant Pathology, and Phytopathology.
+
+Answer 31 :
+This passage describes the development of a mathematical model to simulate the spread of anthracnose diseases caused by Colletotrichum species. The model is designed to be general, meaning it can be applied to different species, clades, and host plants, and is driven by weather conditions.
+
+The model development process involved several steps:
+
+1. Conducting a systematic literature search to gather information on Colletotrichum anthracnose diseases.
+2. Developing a conceptual model of the diseases using systems analysis.
+3. Creating mathematical equations to describe the system dynamically and quantitatively.
+4. Calibrating the model for seven major clades and the singleton species C. coccodes (also referred to as the coccodes clade).
+5. Evaluating the model's ability to represent the real system.
+
+The model is designed to incorporate key epidemiological components and account for the effects of external variables, such as environmental and host-related factors. The model can be used to simulate the spread of anthracnose diseases and inform management strategies to control the diseases.
+
+Answer 32 :
+This text appears to be a scientific article discussing the relationship between nutrient concentrations and the development of anthracnose disease in strawberry plants.
+
+The article reviews previous studies that have shown correlations between nitrogen concentration and severity of anthracnose, as well as the effects of calcium and manganese on disease development. It notes that while calcium has been shown to inhibit anthracnose in some studies, no effect was found in the current study.
+
+The article then presents the results of the current study, which investigated the effects of different concentrations of nitrogen, phosphorus, potassium, and calcium on strawberry plant growth and anthracnose development. The results are summarized in tables and figures.
+
+The tables present the regression equations and coefficients for each nutrient, showing the relationship between concentration and plant dry weight. The figures show the development of anthracnose and nutrient concentration in strawberry plants treated with different concentrations of each nutrient.
+
+The article concludes that while manganese content may be related to anthracnose development, further research is needed to determine this. It also notes that phosphorus supplied as phosphite was effective at reducing phytophthora root and crown rot in tomato and pepper plants, but suppressed plant growth.
+
+Answer 33 :
+The passage suggests that:
+
+* The shift from matted-row culture to annual plasticulture production system in the United States may be contributing to increased losses due to anthracnose fruit and crown rots.
+* Breeding for genetic resistance to anthracnose and developing resistant cultivars are primary means to reduce economic losses due to this disease.
+* This approach is environmentally sound because it reduces the use of fungicides, which is a chemical-based solution to the problem.
+
+Answer 34 :
+A scientific citation!
+
+Here's a breakdown of the citation:
+
+* Authors: Smith, B.J. and C.L. Gupton
+* Year: 1993
+* Title: Calcium applications before harvest affects the severity of anthracnose fruit rot in greenhouse-grown strawberries
+* Journal: Acta Hort
+* Volume: 348
+* Pages: 477-482
+* Note: [15] likely refers to a reference number in the bibliography or footnote.
+
+So, if you were to look up this citation, you would find the article in Acta Hort, Volume 348, starting on page 477 and ending on page 482, written by Smith and Gupton in 1993.
+
+Answer 35 :
+This text describes the USDA-ARS Anthracnose Breeding Program, which was established in the early 1980s to develop strawberry cultivars resistant to anthracnose disease in the southeastern United States. Here are the main points:
+
+1. The program was initiated by the USDA-ARS at the Small Fruit Research Station in Poplarville, MS, and the Fruit Laboratory in Beltsville, MD, in collaboration with state experiment stations in Florida, Louisiana, and North Carolina.
+2. The breeding program involved crossing over 448 parent lines to produce more than 160,000 progeny, primarily at Beltsville, MD, from 1976 to 1995.
+3. The initial parent lines were eastern cultivars and advanced selections from the breeding program at Beltsville.
+4. As the program progressed, resistant selections from the anthracnose program were crossed with commercial cultivars to improve the horticultural characteristics of the progeny.
+
+Overall, the program aimed to develop strawberry cultivars that were resistant to anthracnose disease, which was a major issue in strawberry production in the southeastern United States at the time.
+
+Answer 36 :
+A scientific reference!
+
+Here's a breakdown of the reference:
+
+* **Journal**: Biol. Control
+* **Volume**: 76
+* **Pages**: 114-123
+* **DOI**: 10.1016/j.biocontrol.2014.06.003 (digital object identifier)
+* **Authors**: Bertetti, D., Gullino, M. L., and Garibaldi, A.
+* **Year**: 2014 ( publication year)
+* **Title**: Effect of leaf wetness duration, temperature and inoculum concentration on infection of evergreen azalea by Colletotrichum acutatum, the causal agent of anthracnose.
+* **Journal Abbreviation**: J. Plant Pathol.
+* **Volume**: 91
+* **Pages**: 763-766
+* **Year**: 2009 (publication year)
+
+This reference appears to be a scientific article published in the journal "Biol. Control" in 2014, with the article discussing the effect of certain environmental factors on the infection of evergreen azalea by the fungus Colletotrichum acutatum. The article was also published in "J. Plant Pathol." in 2009.
+
+Answer 37 :
+This text describes the history and characteristics of the fungus Colletotrichum fragariae, which causes anthracnose in strawberries. Here are the main points:
+
+* Colletotrichum fragariae was first identified in Florida in 1931.
+* It spread throughout the southeastern United States and caused significant damage to strawberry nurseries in the 1970s.
+* The fungus has a narrow host range, infecting only strawberries and a few weed hosts.
+* It is rarely found outside the southeastern United States.
+* Colletotrichum fragariae causes more severe symptoms on petioles and crowns compared to Colletotrichum acutatum.
+* Some researchers consider Colletotrichum fragariae to be a host-specific or con-specific form of Colletotrichum gloeosporioides.
+
+Overall, the text highlights the significance of Colletotrichum fragariae as a major pathogen of strawberries, its limited geographic range, and its distinct characteristics compared to other similar fungi.
+
+Answer 38 :
+This is a scientific text discussing the disease cycles of anthracnose on different hosts. Here's a breakdown of the text:
+
+* The text starts by stating that the disease cycles of anthracnose on different hosts have similar components.
+* It then explains that these disease cycles are generally polycyclic, meaning they involve multiple cycles of infection and disease development.
+* The text also mentions that splash-borne asexual spores (conidia) are responsible for the initiation and spread of the epidemics.
+* The text then mentions that other Colletotrichum diseases have been described, including crown rot of strawberry and black dot on tomato and potato roots.
+* The references cited are Peres et al. (2005), De Silva et al. (2017), Dillard and Cobb (1997), Dillard and Cobb (1998), and Waller et al. (2002).
+
+Overall, the text is discussing the biology and epidemiology of anthracnose diseases caused by the fungus Colletotrichum, and how they affect different hosts.
+
+Answer 39 :
+This text discusses the importance of fungicide efficacy and the detection of pathogen resistance to some fungicides, particularly in the context of strawberry breeding programs in the southern United States. The text also highlights the significance of Colletotrichum species, which cause anthracnose diseases in strawberries, and the impact of these diseases on strawberry nurseries and fruit production fields in the southeastern United States.
+
+Some key points from the text include:
+
+* Fungicide efficacy has been determined in in-vitro, greenhouse, and field studies, and pathogen resistance to some fungicides has been detected.
+* Anthracnose-resistant cultivars are a major objective of most strawberry breeding programs in the southern United States.
+* Colletotrichum species cause serious diseases of many fruit and vegetable crops worldwide.
+* Three species of Colletotrichum (C. fragariae, C. acutatum, and C. gloeosporioides) cause anthracnose diseases of strawberry.
+* Anthracnose crown rot caused by C. fragariae and C. gloeosporioides has been a destructive disease in strawberry nurseries and fruit production fields in the southeastern United States since the 1930s.
+* The presence of the anthracnose fruit rot pathogen, C. acutatum, was first reported on strawberry in the United States in 1986.
+
+Overall, the text emphasizes the importance of developing effective fungicides and resistant cultivars to combat the impact of anthracnose diseases on strawberry production in the southern United States.
+
+Answer 40 :
+This text discusses the potential advantages of using clade-based calibration in the study of anthracnose diseases caused by Colletotrichum species. Here are the main points:
+
+1. Colletotrichum species belonging to the same clade often cause similar diseases in different regions, depending on the location.
+2. For example, the main causal agents of olive anthracnose are in the acutatum clade, with different species dominant in different regions (e.g., C. godetiae in Spain, Italy, Greece, and Tunisia, and C. nymphaeae in Portugal).
+3. Proper identification of Colletotrichum species requires molecular analysis of multiple DNA regions.
+4. Species within the same clade have similar environmental requirements, which could make clade-based calibration useful for predicting disease spread and making predictions for a wide range of hosts and climatic conditions.
+5. Clade-based calibration could also help overcome knowledge gaps for single Colletotrichum species, favor practical model usage when species identification is not possible due to capacity or economic limitations.
+
+Overall, the text suggests that using clade-based calibration could be a useful approach for studying and predicting anthracnose diseases caused by Colletotrichum species, particularly when species identification is not possible or practical.
+
+Answer 41 :
+It appears that you have provided a list of references in the format of:
+
+"[Author(s), Year. Title. Journal/Source, Volume:Pages]"
+
+Here are the references you provided:
+
+1. Madden, L.V. and L.L. Wilson. 1997. Effect of rain distribution alteration of splash dispersal of Colletotrichum acutatum. Phytopathology, 87:649–655.
+2. McInnes, T.B., L.L. Black, and J.M. Gatti, Jr. 1992a. Disease-free plants for management of strawberry anthracnose crown rot. Plant Dis., 76:260–264.
+3. McInnes, T.B., L.L. Black, and J.M. Gatti, Jr. 1992b. Fungicides for control of strawberry anthracnose crown rot in summer nurseries.
+
+Let me know if you need any further assistance!
+
+Answer 42 :
+It appears that you've provided a list of references in a specific format, which is commonly used in academic papers. Here's a breakdown of the references:
+
+1. Bi, Y., Guo, W., Zhang, G. J., Liu, S. C., and Chen, Y. (2017). First report of Colletotrichum truncatum causing anthracnose of strawberry in China. Plant Dis. 101, 832–832. doi: 10.1094/PDIS-07-16-1036-PDN
+
+* The reference is a journal article published in 2017.
+* The authors are Bi, Y., Guo, W., Zhang, G. J., Liu, S. C., and Chen, Y.
+* The title of the article is "First report of Colletotrichum truncatum causing anthracnose of strawberry in China".
+* The article was published in the journal Plant Dis., volume 101, pages 832-832.
+* The doi (digital object identifier) is provided, which is a permanent link to the article.
+
+2. Biesbroek, G. R., Klostermann, J. E., Termeer, C. J., and Kabat, P. (2013). On the nature of barriers to climate change adaptation. Reg. Environ. Change. 13, 1119–1129.
+
+* The reference is a journal article published in 2013.
+* The authors are Biesbroek, G. R., Klostermann, J. E., Termeer, C. J., and Kabat, P.
+* The title of the article is "On the nature of barriers to climate change adaptation".
+* The article was published in the journal Reg. Environ. Change., volume 13, pages 1119-1129.
+
+Note that there are 7 references in total, but only two are provided in the text.
+
+Answer 43 :
+This is a scientific article discussing the relationship between nitrogen and potassium concentrations in a treatment solution and the development of anthracnose disease in strawberry plants.
+
+Here are the main points:
+
+1. Anthracnose symptoms appeared 2 weeks after inoculation in the nitrogen treatment.
+2. A positive correlation was found between nitrogen concentration and anthracnose disease, with the greatest disease severity at a nitrogen concentration of 30 mM.
+3. There was a trend towards more severe disease in treatments receiving NH4 than NO3, but the difference was not statistically significant.
+4. A similar positive relationship was found between potassium concentration and anthracnose disease, with the greatest disease severity at a potassium concentration of 30 mM.
+5. The article also provides the composition of the nutrient solutions used in the study, including nitrogen, phosphorus, potassium, calcium, magnesium, and sulfur.
+
+Overall, the study suggests that high concentrations of nitrogen and potassium in the treatment solution can contribute to the development of anthracnose disease in strawberry plants.
+
+Answer 44 :
+It looks like you have a list of 15 references related to olive anthracnose caused by Colletotrichum spp. Here's a breakdown of the references:
+
+1. Moral, J., and Trapero, A. (2012). Effect of temperature, wetness duration, and planting density on olive anthracnose caused by Colletotrichum spp.
+2. Moral, J., Agustí-Brisach, C., Sánchez, M. I., Raya, M. C., Jurado-Bello, J., LópezMoral, A., et al. (2021). Diversity of Colletotrichum Species associated with olive anthracnose worldwide.
+3. Moreira, R. R., Bergamin Filho, A., Zeviani, W. M., and May De Mio, L. L. (2020). Comparative epidemiology of three Colletotrichum species complex causing glomerella leaf spot on apple.
+4. Moreira, R. R., Zielinski, E. C., Castellar, C., Bergamin Filho, A., and May De Mio, L. L. (2021). Study of infection process of five species of Colletotrichum comparing symptoms of glomerella leaf spot and bitter rot in two apple cultivars.
+5. Narouei-Khandan, H. A., Shakya, S. K., Garrett, K. A., Goss, E. M., Dufault, N. S., Andrade-Piedra, J. L., et al. (2020). BLIGHTSIM: A new potato late blight model simulating the response of Phytophthora infestans to diurnal temperature and humidity fluctuations in relation to climate change.
+6. Nash, J. E., and Sutcliffe, J. V. (1970). River flow forecasting through conceptual models part I–a discussion of principles.
+7. Nekoduka, S., Tanaka, K., and Sano, T. (2018). Epidemiology of apple bitter rot caused by Colletotrichum acutatum sensu lato.
+8. Nita, M., Atwal, A., Bly, A., and Lewallen, K. (2019). The growth rate of apple bitter rot lesion, caused by Colletotrichum spp., is affected by temperature, fungal species, and cultivar.
+9. Ntahimpera, N., Dillard, H. R., Cobb, A. C., and Seem, R. C. (1996). Anthracnose development in mixtures of resistant and susceptible dry bean cultivars.
+10. Ntahimpera, N., Wilson, L. L., Ellis, M. A., and Madden, L. V. (1999). Comparison of rain effects on splash dispersal of three Colletotrichum species infecting strawberry.
+
+It appears that these references are related to the study of olive anthracnose caused by Colletotrichum spp., as well as the epidemiology of apple bitter rot and glomerella leaf spot caused by the same fungus.
+
+Answer 45 :
+A scientific citation!
+
+Here's a breakdown of the citation:
+
+* `Madden, L.V. and M.A. Boudreau`: The authors of the paper, with their initials and full names.
+* `1997`: The year the paper was published.
+* `Effect of strawberry density on the spread of anthracnose caused by Colletotrichum acutatum`: The title of the paper, which describes the research topic.
+* `Phytopathology`: The journal in which the paper was published. Phytopathology is a peer-reviewed scientific journal that publishes research on plant diseases.
+* `87:828–838`: The volume and page numbers of the journal where the paper was published.
+
+So, the full citation is:
+
+Madden, L.V. and M.A. Boudreau. 1997. Effect of strawberry density on the spread of anthracnose caused by Colletotrichum acutatum. Phytopathology 87:828–838.
+
+Answer 46 :
+This text describes the process of breeding strawberries for resistance to anthracnose, a fungal disease caused by Colletotrichum fragariae. Here's a breakdown of the main points:
+
+1. **Breeding process**: Strawberry seeds from crosses made at Beltsville were germinated at Poplarville, and the resulting seedlings were inoculated with a fungal suspension of C. fragariae. The seedlings were then evaluated for anthracnose severity 30 days after inoculation.
+2. **Selection criteria**: Resistant seedlings were selected based on yield, fruit quality, plant habit, and resistance to other diseases such as leaf scorch, leaf spot, powdery mildew, and two-spotted spider mites.
+3. **Field testing**: The resistant seedlings were field-tested in several states, including Florida, Louisiana, Mississippi, Maryland, and North Carolina.
+4. **Release of resistant clones**: Four anthracnose-resistant strawberry clones were released as breeding lines and have been used as a source of resistance in several breeding programs.
+5. **Release of the cultivar Pelican**: The cultivar Pelican was released, which is highly resistant to both anthracnose crown rot and anthracnose fruit rot caused by C. fragariae, as well as five races of red stele caused by Phytophthora fragariae.
+6. **Ongoing evaluation**: The USDA anthracnose-resistance screening procedure is an ongoing project, and over 32,000 resistant strawberry seedlings were identified between 1998 and 1999 from the North Carolina State University breeding program.
+
+Overall, this text highlights the efforts of researchers to breed strawberries with improved resistance to anthracnose, a significant disease affecting strawberry production.
+
+Answer 47 :
+The text discusses the inheritance of resistance to anthracnose in runners. The main points are:
+
+1. **Dominance genetic variance is higher**: Gupton and Smith (1991) found that the estimates of dominance genetic variance were 6-10 times higher than those for additive genetic variance.
+2. **Bimodal frequency distribution**: The frequency distribution of disease severity ratings was bimodal, suggesting major gene action.
+3. **Heritability estimates**: Narrow-sense heritability estimates were 0.37 and 0.26, which are sufficient to produce gains from recurrent selection. Broad-sense heritability estimates were 0.87 and 0.85, indicating that selection of clonal value is possible.
+4. **Non-additive effects**: Giménez and Ballington (2002) found that non-additive effects were more important than additive effects in the inheritance of resistance.
+5. **Epistatic nature**: The epistatic nature of anthracnose resistance on runners is supported by the results of crosses between susceptible parents, which can produce up to 20% resistant seedlings.
+6. **Quantitative inheritance**: The frequency distribution of lesion lengths within progenies suggests that resistance to C. acutatum on runners is quantitative. Results from Garcés et al. (2002) also support the theory that inheritance of resistance to anthracnose is quantitative in nature.
+
+Answer 48 :
+A scientific reference!
+
+This appears to be a citation in a academic paper or document, referencing a study published in 1992. Here's a breakdown:
+
+* `(1992a)` indicates that this reference is the first of multiple references cited in the document, all published in 1992.
+* `(1992a)` refers to a study published in 1992, likely in a scientific journal or publication.
+* `demonstrated that anthracnose-free transplants can be produced in the southeastern United States by locating nurseries in areas where strawberries are not grown commercially.` is the summary of the study's findings.
+* `Disease-free transplants remain the primary control of anthracnose crownrot and fruit rot.` is a statement summarizing the significance of the study's findings.
+
+In essence, this reference is saying that a study published in 1992 showed that by locating strawberry nurseries in areas where strawberries are not commercially grown, it is possible to produce disease-free transplants, which remain the primary method for controlling anthracnose crownrot and fruit rot.
+
+Answer 49 :
+This text is discussing the results of a model that was developed to predict anthracnose epidemics. The model was validated using independent data, meaning data that was not used to train the model. The results show that the model was able to make accurate and robust predictions, with a high concordance between the model's predictions and reality (CCC = 0.928). This means that the model was able to correctly predict the outcome of the anthracnose epidemics most of the time.
+
+The text also mentions that the model had few errors (RMSE = 0.044), which means that the predictions were very close to the actual outcomes. The only issue was that the model tended to overestimate the outcome, but this was not a significant problem.
+
+Overall, the text is saying that the model was very effective at predicting anthracnose epidemics, and that the assumptions and simplifications made in developing the model did not greatly reduce its ability to make correct predictions.
+

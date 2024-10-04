@@ -9,3 +9,7 @@ chromadb
 torch
 numpy
 SentencePiece
+
+# ChatGPT comparison
+selenium
+undetected_chromedriver

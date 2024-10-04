@@ -14,6 +14,8 @@ import torch
 import torch.nn.functional as F
 import numpy as np
 
+from generation import generate_with_loop
+
 database_path = "vectorDB_test"
 
 def set_vector_db(chunk_size, embedding_model):
@@ -24,18 +26,28 @@ def set_vector_db(chunk_size, embedding_model):
     
     for file_name in file_names:
         text = parser.from_file(file_name)
-        print(type(text["content"]))
-        
         pdf_str = text["content"]
         
-        # split References which is not using now.
-        '''pdf_str = pdf_str.split("References")
-        for i in range(len(pdf_str) - 1):
-            texts.append(pdf_str[i])
-        if len(pdf_str) == 1:
-            texts.append(pdf_str[0])'''
+        new_str = ""
         
-        texts.append(pdf_str)
+        for i in range(len(pdf_str)):
+            if pdf_str[i] == '-' and pdf_str[i+1] == '\n':
+                continue
+            if pdf_str[i] != '\n':
+                new_str = new_str + pdf_str[i]
+                continue
+            if i == 0:
+                continue
+            if pdf_str[i-1] == '.':
+                first_letter = str(new_str.split(' ')[-1][0])
+                if not first_letter.isupper():
+                    new_str = new_str + pdf_str[i]
+                continue
+        
+        new_list = new_str.split('\n')
+        
+        for split_str in new_list:
+            texts.append(split_str)
 
     text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=40)
 
@@ -167,7 +179,7 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
         first_num = 10
 
     result_dir = "results/"
-    result_file = "tart_BGElarge.txt"
+    result_file = "tart_BGElarge_2.txt"
     
     if os.path.isfile(result_dir+result_file):
         os.remove(result_dir+result_file)
@@ -180,11 +192,11 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
             output_file.write("\n")
             output_file.write("\n")
         
-    return
+    return final_results
 
 # run this python file only when a new vector DB is going to be set up
 if __name__ == "__main__":
-    user_query = "What is Anthracnose caused by?"
+    user_query = "How to prevent and treat Anthracnose?"
     
     embedding_model = 'BAAI/bge-large-en-v1.5'
     
@@ -193,10 +205,30 @@ if __name__ == "__main__":
     
     num = 50
     
-    score = retrieve(user_query, num, embedding_model)
+    # score = retrieve(user_query, num, embedding_model)
     
-    print()
-    print("Embedding Model = {} :".format(embedding_model))
-    print("average score = {}".format(score))
+    # print()
+    # print("Embedding Model = {} :".format(embedding_model))
+    # print("average score = {}".format(score))
         
-    retrieve_with_re_ranker(user_query, num, embedding_model)
+    retrieved_results = retrieve_with_re_ranker(user_query, num, embedding_model)
+    
+    result_dir = "results/"
+    result_file = "tart_BGElarge_generation_2.txt"
+    
+    with open(result_dir+result_file, "w") as output_file:
+        for i in range(len(retrieved_results)):
+            histories = ""
+
+            generation_reranker = generate_with_loop(retrieved_results[i], histories)
+
+            answer_reranker = ""
+
+            for ans in generation_reranker:
+                answer_reranker = ans
+            
+            output_file.write("Answer {} :".format(i))
+            output_file.write("\n")
+            output_file.write(answer_reranker)
+            output_file.write("\n")
+            output_file.write("\n")
