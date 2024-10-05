@@ -3,3 +3,5 @@ pdf
 vectorDB*
 
 __pycache__
+.ipynb_checkpoints
+
