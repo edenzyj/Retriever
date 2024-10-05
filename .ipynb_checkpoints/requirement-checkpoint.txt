@@ -1,0 +1,15 @@
+# Retriever
+tika
+langchain
+langchain-community
+sentence-transformers
+chromadb
+
+# Re-ranker
+torch
+numpy
+SentencePiece
+
+# ChatGPT comparison
+selenium
+undetected_chromedriver

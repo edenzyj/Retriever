@@ -1,5 +1,4 @@
 import os
-import sys
 import time
 import shutil
 import glob
@@ -16,8 +15,6 @@ import torch.nn.functional as F
 import numpy as np
 
 from generation import generate_with_loop
-
-from sentence_transformers import SentenceTransformer
 
 database_path = "vectorDB_test"
 
@@ -218,15 +215,13 @@ if __name__ == "__main__":
     retrieved_results = retrieve_with_re_ranker(user_query, num, embedding_model)
     
     result_dir = "results/"
-    result_file = "tart_stella_3.txt"
+    result_file = "tart_stella_generation_3.txt"
     
     with open(result_dir+result_file, "w") as output_file:
         for i in range(len(retrieved_results)):
             histories = ""
 
-            retrieved_result = retrieved_results[i][0]
-
-            generation_reranker = generate_with_loop(user_query + " " + retrieved_result, histories)
+            generation_reranker = generate_with_loop(retrieved_results[i], histories)
 
             answer_reranker = ""
 
