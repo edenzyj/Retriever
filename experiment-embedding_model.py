@@ -218,7 +218,7 @@ if __name__ == "__main__":
     retrieved_results = retrieve_with_re_ranker(user_query, num, embedding_model)
     
     result_dir = "results/"
-    result_file = "tart_stella_3.txt"
+    result_file = "tart_stella_generation_3.txt"
     
     with open(result_dir+result_file, "w") as output_file:
         for i in range(len(retrieved_results)):
