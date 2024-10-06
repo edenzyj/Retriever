@@ -71,8 +71,8 @@ def set_vector_db(chunk_size, embedding_model):
 
     chromadb = Chroma.from_documents(chunks, 
                                      embedding=embeddings_model,
-                                     collection_name='coll_l2',
-                                     collection_metadata={"hnsw:space": "l2"},
+                                     collection_name='coll_cosine',
+                                     collection_metadata={"hnsw:space": "cosine"},
                                      persist_directory=database_path)
     chromadb.persist()
     
@@ -132,8 +132,8 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
     )
     
     chromadb = Chroma(embedding_function=embeddings_model,
-                      collection_name='coll_l2',
-                      collection_metadata={"hnsw:space": "l2"},
+                      collection_name='coll_cosine',
+                      collection_metadata={"hnsw:space": "cosine"},
                       persist_directory=database_path)
 
     results = chromadb.similarity_search_with_score(user_query, num)
@@ -183,7 +183,7 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
         final_results = final_results[:10]
 
     result_dir = "results/"
-    result_file = "tart_stella_3.txt"
+    result_file = "tart_stella400M_3.txt"
     
     if os.path.isfile(result_dir+result_file):
         os.remove(result_dir+result_file)
@@ -202,7 +202,7 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
 if __name__ == "__main__":
     user_query = "What are the most effective methods for preventing and controlling anthracnose in strawberry crops?"
     
-    embedding_model = 'dunzhang/stella_en_1.5B_v5'
+    embedding_model = 'dunzhang/stella_en_400M_v5'
     
     chunk_size = 200
     chunk_number = set_vector_db(chunk_size, embedding_model)
@@ -218,7 +218,7 @@ if __name__ == "__main__":
     retrieved_results = retrieve_with_re_ranker(user_query, num, embedding_model)
     
     result_dir = "results/"
-    result_file = "tart_stella_generation_3.txt"
+    result_file = "tart_stella400M_generation_3.txt"
     
     with open(result_dir+result_file, "w") as output_file:
         for i in range(len(retrieved_results)):
