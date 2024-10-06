@@ -1,5 +1,6 @@
 dataset*
 pdf
+finetune_embed
 vectorDB*
 
 __pycache__

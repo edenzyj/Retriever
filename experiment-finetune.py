@@ -4,10 +4,12 @@ import time
 import shutil
 import glob
 from tika import parser
+from typing import List
 
 from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
+import chromadb
 
 from tart.TART.src.modeling_enc_t5 import EncT5ForSequenceClassification
 from tart.TART.src.tokenization_enc_t5 import EncT5Tokenizer
@@ -21,7 +23,19 @@ from sentence_transformers import SentenceTransformer
 
 database_path = "vectorDB_test"
 
-def set_vector_db(chunk_size, embedding_model):
+class MyEmbedding:
+    def __init__(self, model):
+        self.model = SentenceTransformer(model, trust_remote_code=True)
+
+    def embed_documents(self, texts: List[str]) -> List[List[float]]:
+        return [self.model.encode(t).tolist() for t in texts]
+
+    def embed_query(self, query: str) -> List[float]:
+        encoded_query = self.model.encode(query)
+        return self.model.encode(query).tolist()
+
+
+def set_vector_db(chunk_size, model_path):
     pdf_dir = 'pdf/strawberry_file/EN'
     file_names = glob.glob(pdf_dir + "/*.pdf")
     
@@ -52,27 +66,38 @@ def set_vector_db(chunk_size, embedding_model):
         for split_str in new_list:
             texts.append(split_str)
 
-    text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=40)
-
-    chunks = text_splitter.create_documents(texts)
-    print(len(chunks))
-    print(chunks[0])
-
-    embeddings_model = HuggingFaceEmbeddings(
-        model_name = embedding_model,
-        model_kwargs = {'device': 'cuda'},
-        encode_kwargs = {'normalize_embeddings': False}
-    )
+    '''# Use local finetuned model
+    embeddings_model = SentenceTransformer(embedding_model, trust_remote_code=True)
+    embedded_texts = embeddings_model.encode(texts)
     
     if os.path.isdir(database_path):
         shutil.rmtree(database_path)
         
     os.makedirs(database_path)
 
+    client = chromadb.PersistentClient(path = database_path)
+
+    collection = client.create_collection(name="finetune", metadata={"hnsw:space": "cosine"})
+
+    collection.add(documents=texts,
+                   embeddings=embedded_texts,
+                   ids=["paragraph{}".format(i) for i in range(len(texts))])'''
+
+    text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=40)
+
+    chunks = text_splitter.create_documents(texts)
+
+    embedding_model = MyEmbedding(model_path)
+
+    if os.path.isdir(database_path):
+        shutil.rmtree(database_path)
+        
+    os.makedirs(database_path)
+
     chromadb = Chroma.from_documents(chunks, 
-                                     embedding=embeddings_model,
-                                     collection_name='coll_l2',
-                                     collection_metadata={"hnsw:space": "l2"},
+                                     embedding=embedding_model,
+                                     collection_name='coll_cosine',
+                                     collection_metadata={"hnsw:space": "cosine"},
                                      persist_directory=database_path)
     chromadb.persist()
     
@@ -89,8 +114,8 @@ def retrieve(user_query, num, embedding_model):
     )
     
     chromadb = Chroma(embedding_function=embeddings_model,
-                      collection_name='coll_l2',
-                      collection_metadata={"hnsw:space": "l2"},
+                      collection_name='coll_cosine',
+                      collection_metadata={"hnsw:space": "cosine"},
                       persist_directory=database_path)
 
     results = chromadb.similarity_search_with_score(user_query, num)
@@ -124,30 +149,25 @@ def retrieve(user_query, num, embedding_model):
     
     return avrg_score
 
-def retrieve_with_re_ranker(user_query, num, embedding_model):
-    embeddings_model = HuggingFaceEmbeddings(
-        model_name = embedding_model,
-        model_kwargs = {'device': 'cuda'},
-        encode_kwargs = {'normalize_embeddings': False}
-    )
+def retrieve_with_re_ranker(user_query, num, model_path):
+    '''# Use local finetuned model
+    embeddings_model = SentenceTransformer(embedding_model, trust_remote_code=True)
     
-    chromadb = Chroma(embedding_function=embeddings_model,
-                      collection_name='coll_l2',
-                      collection_metadata={"hnsw:space": "l2"},
+    client = chromadb.PersistentClient(path=database_path)
+
+    collection = client.get_collection(name="finetune")
+
+    results = collection.query(query_texts=[user_query], n_results=50)["documents"][0]'''
+
+    # Use local finetuned model
+    embedding_model = MyEmbedding(model_path)
+    
+    chromadb = Chroma(embedding_function=embedding_model,
+                      collection_name='coll_cosine',
+                      collection_metadata={"hnsw:space": "cosine"},
                       persist_directory=database_path)
 
     results = chromadb.similarity_search_with_score(user_query, num)
-    
-    unique_results = set()
-
-    for i in range(len(results)):
-        content = results[i][0].page_content
-        if content not in unique_results:
-            unique_results.add(content)
-    
-    print("number of unique results : {}".format(len(unique_results)))
-    print("=======================")
-    print()
     
     model = EncT5ForSequenceClassification.from_pretrained("facebook/tart-full-flan-t5-xl")
     tokenizer =  EncT5Tokenizer.from_pretrained("facebook/tart-full-flan-t5-xl")
@@ -158,14 +178,13 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
 
     final_results = []
     
-    for result in unique_results:
-        final_results.append([result, 0])
+    for result in results:
+        final_results.append([result[0].page_content, 0])
     
-    unique_results = list(unique_results)
-    for i in range(len(unique_results)):
-        for j in range(i+1, len(unique_results)):
+    for i in range(len(results)):
+        for j in range(i+1, len(results)):
             features = tokenizer(['{0} [SEP] {1}'.format(in_answer, user_query), '{0} [SEP] {1}'.format(in_answer, user_query)], 
-                                 [unique_results[i], unique_results[j]], padding=True, truncation=True, return_tensors="pt")
+                                 [results[i][0].page_content, results[j][0].page_content], padding=True, truncation=True, return_tensors="pt")
             with torch.no_grad():
                 scores = model(**features).logits
                 normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
@@ -183,7 +202,7 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
         final_results = final_results[:10]
 
     result_dir = "results/"
-    result_file = "tart_stella_3.txt"
+    result_file = "tart_finetune_3.txt"
     
     if os.path.isfile(result_dir+result_file):
         os.remove(result_dir+result_file)
@@ -195,14 +214,14 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
             output_file.write(final_results[i][0])
             output_file.write("\n")
             output_file.write("\n")
-        
+    
     return final_results
 
 # run this python file only when a new vector DB is going to be set up
 if __name__ == "__main__":
     user_query = "What are the most effective methods for preventing and controlling anthracnose in strawberry crops?"
     
-    embedding_model = 'dunzhang/stella_en_1.5B_v5'
+    embedding_model = 'finetune_embed/epoch_5_b420241002'
     
     chunk_size = 200
     chunk_number = set_vector_db(chunk_size, embedding_model)
@@ -218,7 +237,7 @@ if __name__ == "__main__":
     retrieved_results = retrieve_with_re_ranker(user_query, num, embedding_model)
     
     result_dir = "results/"
-    result_file = "tart_stella_generation_3.txt"
+    result_file = "tart_finetune_generation_3.txt"
     
     with open(result_dir+result_file, "w") as output_file:
         for i in range(len(retrieved_results)):
