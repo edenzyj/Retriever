@@ -17,6 +17,7 @@ with open('sentences_EN.txt', 'w') as fw:
         new_str = ""
         for i in range(len(pdf_str)):
             if pdf_str[i] == '-' and pdf_str[i+1] == '\n':
+                i = i + 1
                 continue
             if pdf_str[i] != '\n':
                 new_str = new_str + pdf_str[i]
@@ -26,7 +27,8 @@ with open('sentences_EN.txt', 'w') as fw:
             if pdf_str[i-1] == '.':
                 first_letter = str(new_str.split(' ')[-1][0])
                 if not first_letter.isupper():
-                    new_str = new_str + pdf_str[i]
+                    texts.append(new_str)
+                    new_str = ""
                 continue
         new_list = new_str.split('\n')
         for split_str in new_list:
