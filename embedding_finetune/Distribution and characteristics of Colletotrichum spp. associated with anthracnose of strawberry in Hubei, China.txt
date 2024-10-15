@@ -1,0 +1,352 @@
+PDIS09151016RE 996..1006 
+Distribution and Characteristics of Colletotrichum spp. Associated with
+Anthracnose of Strawberry in Hubei, China 
+Y. C. Han, X. G. Zeng, and F. Y. Xiang, Institute of Industrial Crops, Hubei Academy of Agricultural Sciences, Wuhan 430064, China;
+L. Ren, Oil Crops Research Institute of the Chinese Academy of Agricultural Sciences, Wuhan 430062, China; and F. Y. Chen and Y. C. Gu,
+Institute of Industrial Crops, Hubei Academy of Agricultural Sciences Abstract 
+Han, Y. C., Zeng, X. G., Xiang, F. Y., Ren, L., Chen, F. Y., and Gu, Y. C. 2016. Distribution and characteristics of Colletotrichum spp. associated with anthracnose of strawberry in Hubei, China. Plant Dis. 100:996-1006.
+Anthracnose caused by Colletotrichum spp. is a serious disease of straw berry. The etiology of anthracnose of strawberry is complex, and several
+Colletotrichum spp. have been regarded as causal agents. In the present study, multilocus (actin, b-tubulin, calmodulin, glyceraldehyde-3 phosphate dehydrogenase, and chitin synthase) phylogenetic analysis revealed that 100 isolates of Colletotrichum associated with anthracnose of strawberry in central China belong to five species. In total, 97 isolates were identified belonging to the Colletotrichum gloeosporioides species complex, with C. murrayae, C. gloeosporioides, C. fructicola, and
+C. aenigma accounting for 81, 8, 4, and 4% of the total isolates, respec tively. Three isolates belonging to the C. acutatum complex were identi fied as C. nymphaeae. On inoculated strawberry plants, isolates of
+C. fructicola and C. murrayae species showed strong pathogenicity to both leaves and petioles of strawberry, with plant mortality 30 days after inoculation of 77.8 and 55.6%, respectively.C. gloeosporioides,C. aenigma, and C. nymphaeae showed strong pathogenicity to leaves but weak path ogenicity to petioles, with plant mortality 30 days after inoculation of 5.6, 16.7, and 11.1%, respectively. The five species were divided into four classes based on their maximum growth temperatures. Isolates ofC. mur rayae and C. gloeosporioides were more tolerant to high temperature (>34°C) than isolates of other species, followed by C. fructicola and
+C. aenigma. Isolates ofC. nymphaeae, which are only distributed in areas of higher altitude (1,100 m), were highly sensitive to higher temperature.
+These results indicate that pathogenicity and adaptation to temperature are important factors in the distribution of Colletotrichum spp. on straw berry plants. This research may increase our understanding of how Colle totrichum spp. emerge and spread to geographical regions with different latitudes or elevations.
+Strawberry (Fragaria × ananassa) is a small fruit crop of global importance. The area used for strawberry cultivation in China has in creased rapidly in recent years. Anthracnose can cause considerable yield losses under appropriate environmental conditions (Henz et al.
+1992). Strawberry infected with Colletotrichum spp. may develop le sions on the petiole and crown, in serious cases resulting in the collapse and death of the plant. In nurseries, lesions form on stolons, resulting in the wilting and death of unrooted daughter plants (Freeman and Katan 1997). Infected transplants are capable of spreading the disease from the nursery to the field, where typical anthracnose symptoms are later manifested as irregular and black leaf spots, crown rot, flower blight, and fruit rot (Howard et al. 1992). Three species have been reported as causal agents of strawberry anthracnose: Colletotrichum gloeospor ioides, C. fragariae, and C. acutatum (Denoyes-Rothan et al. 2003).
+Anthracnose disease caused by Colletotrichum spp. affects a wide variety of woody and herbaceous plants, particularly tropical and subtropical crops and fruit trees (Cannon et al. 2012; Freeman et al. 1998; Hyde et al. 2009; Sutton 1992; Wikee et al. 2011). The genus was recently denoted the world’s eighth most important group of plant-pathogenic fungi, based on perceived scientific and eco nomic importance (Dean et al. 2012). However, the identification of Colletotrichum spp. has long been problematic. Single-gene phy logenetic analyses have not been successful in delineating species (Hyde et al. 2009). Ko Ko et al. (2011) noted the need to resurvey plant pathogens such as Colletotrichum spp. using molecular ap proaches because previous data based on morphology and internal transcribed spacer sequences are likely incorrect. Understanding of
+Colletotrichum spp. has been significantly improved with the use of multilocus phylogenetic analysis on species complexes, as well as the epitypification of many important pathogenic species (Cai et al. 2009; Cannon et al. 2012; Damm et al. 2012a; Doyle et al.
+2013; Su et al. 2011; Weir et al. 2012). An important contribution to the taxonomy of the C. gloeosporioides and C. acutatum species complex was made by Weir et al. (2012) and Damm et al. (2012a).
+Hyde et al. (2014) reviewed the species identification of members of Colletotrichum and revealed that the C. gloeosporioides complex consisted of 34 taxa. The C. acutatum complex currently comprises at least 31 taxa (Damm et al. 2012a).
+Hitherto, little was known about the species and distribution of 
+Colletotrichum associated with strawberry anthracnose in China. The first objective of this study was to identify and characterize the species associated with strawberry anthracnose in central China based on morphological, molecular, and pathogenic characteristics.
+The second objective was to analyze the distribution of Colletotri chum spp. based on a large number of isolates.Material and Methods
+Fungal isolate collections. Hubei Province is in the central region of the Yangtze River and has a warm, humid, subtropical climate (Zhang et al. 2009). From 2012 to 2014, plants exhibiting stunting, chlorosis, and root necrosis were collected from nurseries and pro duction fields in central China. Thirteen locations were sampled from different geographical regions in central China. The altitudes of the sampling locations were determined by GPS positioning using an
+HTC desire 816D (HTC Co., Ltd., Shanghai, China). Most areas of
+Hubei Province are plains area with an elevation of no more than 100 m. The 10-day average temperatures from 2012 to 2013 in
+Wuhan and Lichuan were supplied by the meteorological service center of Hubei Province, China. The 10-day average temperature inWuhan (with an elevation of less than 100m) from July to Septem ber was 20.7 to 32.4°C in2012 and 2013 (Fig. 1). Enshi is a moun tainous area to the west of Hubei Province; the elevation of the sampling location in Enshi was approximately 1,100 m. The 10-day average temperature from July to September in Lichuan 
+Corresponding author: Y. C. Gu; E-mail: gych119@126.com 
+Accepted for publication 14 December 2015. http://dx.doi.org/10.1094/PDIS-09-15-1016-RE © 2016 The American Phytopathological Society 996 Plant Disease /Vol. 100 No. 5 mailto:gych119@126.com (the sampling area in Enshi) was 16.1 to 25.2°C in 2012 and 2013 (Fig. 1).
+Fungi were isolated from diseased tissues such as petioles, stolons, leaf lesions, or diseased crowns of infected strawberry plants. The dis eased plant tissues were surface disinfected in 70% ethanol for 10 s and 1% NaClO3 for 3 min, then rinsed three times with sterile distilled wa ter and, finally, dried with sterilized tissue paper. The samples were cut into 5-by-5-mm pieces and plated onto potato dextrose agar (PDA) acidified with lactic acid at a final concentration of 0.05% to inhibit bacterial growth. The isolation plates were incubated under continuous fluorescent light in an incubator at 28°C for 3 to 7 days. The growing edges of any fungal hyphae developing on the PDA plates were then transferred aseptically to new PDA plates. The initial identification was based on the colonymorphology onPDAplates. Single-spore sub cultures were obtained forColletotrichum isolates, and isolates without conidia on the PDA plates were purified by transferring samples from the edge of each colony to new PDA plates three to five times. In total, 100 Colletotrichum isolates were obtained from typical anthracnose lesions from strawberry petioles, stolons, and leaves. Of these, 98 iso lates were from Hubei Province and 2 isolates (Nj-2 and Nj-122) were obtained from Jiangsu Province in October. All isolates were stored at 10°C for about 1 to 2 weeks before DNA extraction.
+Extraction of fungal DNA. To obtain mycelia from Colletotri chum spp., a 5-mm-diameter plug from the growing margin of a 5-day-old colony was inoculated on the center of an autoclaved cel lophane membrane placed on PDA (pH 7.0) in a petri dish (90 mm in diameter) (Lou et al. 2015). The dish was incubated at 28°C for 4 days. The mycelia of each isolate in the dish were collected using an autoclaved spatula and stored at −20°C until use. The mycelia of each isolate were ground to a fine powder in liquid nitrogen with a mortar and pestle. Genomic DNA (gDNA) was extracted and puri fied as described elsewhere (Lee and Taylor 1990). DNA samples from each isolate were stored at −20°C until use.
+Polymerase chain reaction and DNA sequencing. Partial se quences corresponding to actin (ACT), b-tubulin (TUB2), calmodu lin (CAL), glyceraldehyde-3-phosphate dehydrogenase (GPDH), and chitin synthase (CHS-1) were amplified from gDNA from the in dicated Colletotrichum isolates (Table 1) by polymerase chain reac tion (PCR). ACT and TUB2 were amplified using the primer pairs
+ACT512F and ACT-R2, and T1 and Tub2-R2, respectively. CAL,
+GPDH, and CHS-1 were amplified using the primer pairs CL1C and CL2C, GDF2 and GDR3, and CHS-88F and CHS-834R, respectively (Table 1). Primers of Act-R2, TUB-R2, GDR3, and
+CHS-834Rwere designed downstream of the binding site of standard primers (Weir et al. 2012) at these loci. All new primers designed in this study from the conserved domain in the corresponding genes in
+C. crassipes, C. graminicola, and C. gloeosporioides provided more specific amplification for species in this study (data not presented).
+The primers were used for PCR and PCR product sequencing unidi rectionally, because this was more convenient than sequencing from both ends.
+The PCR amplification mixtures were set up in a 0.25-ml tube con taining 60ml of reactionmixture comprising 1ml of each primer solution (50 mM), 2 ml of dNTP mix solution (2.5 mM), 1 ml of gDNA solution (approximately 50 ng per reaction mixture), 1 ml of Taq DNA polymer ase (5 U per reaction mixture; TAKARA Biotechnology Co., Ltd.,
+Dalian, China), 6 ml of PCR buffer, and 49 ml of PCR-grade water.
+PCRwas performed in a thermal cycler (PTC-100TMPeltier Ther mal Cycler; Hercules, CA). The cycling parameters for GPDH con sisted of a denaturation step at 94°C for 5 min; followed by 30 cycles of 94°C for 30 s, 65°C for 30 s, and 72°C for 1 min; and a final cycle at 72°C for 10 min. The cycling parameters for CAL were 94°C for 5 min; followed by 30 cycles of 94°C for 1 min, 55°C for 30 s, and 72°C for 2 min; and a final step at 72°C for 10 min. The cycling parameters for the ACT, TUB2, and CHS-1 regions consisted of a 5-min denaturing step at 94°C; followed by 30 cycles of 94°C for 30 s, 59°C for 30 s, and 72°C for 1 min; and a final cycle of 10 min at 72°C. A 5-ml aliquot of each PCRwas separated by electrophoresis in a 1.5% agarose gel in 1.0× Tris-acetate EDTA buffer and photo graphed under UV light after staining with Gel Red for 30 min.
+PCR products containing the target band were purified using the
+AxyPrep PCR Cleanup Kit (Axygen Biological Technology Co.,
+Ltd., Hangzhou, Zhejiang Province, China) according to the manu facturer’s instructions, then individually sequenced on an ABI
+PRISM 377-96 automatic sequencer (Beijing AuGCT Biotechnol. Co., Ltd., Beijing) via the dideoxynucleotide termination method us ing a Big Dye Terminator v2.0 Sequencing Kit (Applied Biosystems
+Inc., Foster City, CA). All sequences were divided into 25 groups by genes and species (based on the result of preliminary phylogenetic analyses) and were aligned with DNAMAN (v. 7.0). Sequences with single-nucleotide polymorphisms were amplified and sequenced a total of three times to ensure that polymorphisms were not due to sequencing errors.
+Molecular identification and phylogenetic analyses. The partial 
+DNA sequences of ACT, CAL, CHS-1, GPDH, and TUB2 for all iso lates, except Lch-5, Lch-9-1, and Lch-13 (Table 2), representative 
+Fig. 1. The 10-day average temperature from 2012 to 2013. Data were supplied by the
+Hubei meteorological service center.
+Table1. Primers used in this study 
+Geney Primers Direction Length (bp) Sequence Reference 
+ACT ACT-512F Forward 399 ATGTGCAAGGCCGGTTTCGC Carbone and Kohn (1999)
+ACT-R2z Reverse … AGGTGTGGTGCCAAATCTTCTC This study 
+TUB2 T1 Forward 870 AACATGCGTGAGATTGTAAGT O’Donnell and Cigelnik (1997)
+TUB2-R2z Reverse … TGGGTGATCTGGAAACCCTG This study 
+CAL CL1Cz Forward 773 GAATTCAAGGAGGCCTTCTC Weir et al. (2012)
+CL2Cz Reverse … CTTCTGCATCATGAGCTGGAC Weir et al. (2012) 
+GAPDH GDF2 Forward 870 TCCCATCAAGGTCGGCATCA This study
+GDR3z Reverse … ACCTTGCCGACAGCCTTGG This study 
+CHS-1 CHS-88F Forward 779 GATGCCTGGAAGAAGATTGTCGT This study
+CHS-834Rz Reverse … GTCTCGCCAGTAGCGGACTTGAC This study y Actin (ACT), b-tubulin (TUB2), calmodulin (CAL), glyceraldehyde-3-phosphate dehydrogenase (GPDH), and chitin synthase (CHS-1).
+z Used for polymerase chain reaction product sequencing.
+Plant Disease /May 2016 997 isolates of recognized species within the C. gloeosporioides complex (Hyde et al. 2014; Weir et al. 2012), and isolate CBS123755 of
+C. boninense (Damm et al. 2012b), were used to establish a five-locus combined dataset (ACT + CAL + CHS-1 + GPDH + TUB2) in the first Bayesian inference (A) analysis. C. boninense (ICMP17958) was used as an outgroup. The sequence of CAL was missing for sev eral representative isolates within the C. acutatum species complex.
+Therefore, partial DNA sequences of ACT, CHS-1, GADH, and
+TUB2 for isolates Lch-5, Lch-9-1, and Lch-13 (Table 2) and for 31 representative isolates (Damm et al.2012a; Hyde et al. 2014) were used to establish a four-locus combined dataset (ACT + CHS-1 +
+GPDH + TUB2) in the second Bayesian inference (B) analysis.
+C. pseudoacutatum was used as an outgroup in this analysis.
+Multiple sequence alignments of each gene were constructed using 
+ClustalW as implemented in MEGA v.5 (Tamura et al. 2011). The sequences generated for the genes in this study were manually trun cated to align with the reference sequences of the type isolates for constructing phylogenetic trees. Bayesian inference was used to re construct the phylogenetic trees using MrBayes v. 3.2.1 (Ronquist et al. 2012). The best-fit models of nucleotide substitution for ACT 
+Table 2. Strains and sequence used in this study GenBank accession number 
+Species Isolates Substrate Locality Datez GPDH CHS-1 CAL ACT TUB2 
+Colletotrichum aenigma Lbwuh-4-2 Leaf Wuhan, Hubei, China 2013.05 KM053192 KM053001 KJ420134 KM053098 KJ420040
+C. aenigma Wha-2 Leaf Wuhan, Hubei, China 2012.08 KM053193 KM053002 KJ420135 KM053099 KJ420041
+C. aenigma Hzau-1 Leaf Wuhan, Hubei, China 2014.10 KP339285 KP339292 KP339280 KP339273 KP339266
+C. aenigma Hzau-2-1 Leaf Wuhan, Hubei, China 2014.10 KP339286 KP339293 KP339281 KP339274 KP339267
+C. fructicola Fch-3 Stolons Xiangyang, Hubei, China 2012.08 KM053201 KM053010 KJ420143 KM053107 KJ420049
+C. fructicola Sha-4 Crown Jingzhou, Hubei, China 2012.12 KM053202 KM053011 KJ420144 KM053108 KJ420050
+C. fructicola Sab-4-3 Crown Jingzhou, Hubei, China 2013.06 KM053203 KM053012 KJ420145 KM053109 KJ420051
+C. fructicola Lch-39-2 Leaf Enshi, Hubei, China 2013.09 KM053204 KM053013 KJ420146 KM053110 KJ420052
+C. gloeosporioides Lch-1911 Petiole Enshi, Hubei, China 2013.07 KM053194 KM053003 KJ420136 KM053100 KJ420042
+C. gloeosporioides Jsh-6-1 Leaf Wuhan, Hubei, China 2013.07 KM053195 KM053004 KJ420137 KM053101 KJ420043
+C. gloeosporioides Jsh-6-2 Leaf Wuhan, Hubei, China 2013.07 KM053196 KM053005 KJ420138 KM053102 KJ420044
+C. gloeosporioides Jsh-7-1 Petiole Wuhan, Hubei, China 2013.07 KM053197 KM053006 KJ420139 KM053103 KJ420045
+C. gloeosporioides Wha-4 Petiole Wuhan, Hubei, China 2012.08 KM053198 KM053007 KJ420140 KM053104 KJ420046
+C. gloeosporioides Yd-2 Petiole Yichang, Hubei, China 2012.07 KM053199 KM053008 KJ420141 KM053105 KJ420047
+C. gloeosporioides Xya-221 Stolons Xiangyang, Hubei, China 2012.08 KM053200 KM053009 KJ420142 KM053106 KJ420048
+C. gloeosporioides Hzau-5-2 Leaf Wuhan, Hubei, China 2014.10 KP339287 KP339294 KP339282 KP339275 KP339268
+C. murrayae 7hao Petiole Wuhan, Hubei, China 2012.08 KM053111 KM052920 KJ420053 KM053017 KJ419959
+C. murrayae DS-10-1 Petiole Wuhan, Hubei, China 2013.08 KM053112 KM052921 KJ420054 KM053018 KJ419960
+C. murrayae Ds-10-4 Petiole Wuhan, Hubei, China 2013.08 KM053113 KM052922 KJ420055 KM053019 KJ419961
+C. murrayae Ds-12-1 Petiole Wuhan, Hubei, China 2013.08 KM053114 KM052923 KJ420056 KM053020 KJ419962
+C. murrayae Ezh-2 Petiole Ezhou, Hubei, China 2012.08 KM053115 KM052924 KJ420057 KM053021 KJ419963
+C. murrayae Ezh-3 Crown Ezhou, Hubei, China 2012.08 KM053116 KM052925 KJ420058 KM053022 KJ419964
+C. murrayae Fch-2 Stolons Xiangyang, Hubei, China 2012.08 KM053117 KM052926 KJ420059 KM053023 KJ419965
+C. murrayae Fch-3-1 Stolons Xiangyang, Hubei, China 2012.08 KM053118 KM052927 KJ420060 KM053024 KJ419966
+C. murrayae Gay-7-3 Crown Jingzhou, Hubei, China 2013.06 KM053119 KM052928 KJ420061 KM053025 KJ419967
+C. murrayae Gay-7-4 Crown Jingzhou, Hubei, China 2013.06 KM053120 KM052929 KJ420062 KM053026 KJ419968
+C. murrayae Gay-9-1 Crown Jingzhou, Hubei, China 2013.06 KM053121 KM052930 KJ420063 KM053027 KJ419969
+C. murrayae Gsh-2 Stolons Suizhou, Hubei, China 2012.08 KM053122 KM052931 KJ420064 KM053028 KJ419970
+C. murrayae Hga-6-2 Crown Huanggang, Hubei, China 2012.08 KM053123 KM052932 KJ420065 KM053029 KJ419971
+C. murrayae Hy-2-2 Stolons Xianing, Hubei, China 2013.07 KM053124 KM052933 KJ420066 KM053030 KJ419972
+C. murrayae Hy-2-5 Stolons Xianing, Hubei, China 2013.07 KM053125 KM052934 KJ420067 KM053031 KJ419973
+C. murrayae Hy-8 Leaf Xianing, Hubei, China 2013.07 KM053126 KM052935 KJ420068 KM053032 KJ419974
+C. murrayae Jy-3-2 Leaf Xianing, Hubei, China 2013.07 KM053127 KM052936 KJ420069 KM053033 KJ419975
+C. murrayae MC-10-1 Stolons Huanggang, Hubei, China 2013.08 KM053128 KM052937 KJ420070 KM053034 KJ419976
+C. murrayae MC-10-3 Stolons Huanggang, Hubei, China 2013.08 KM053129 KM052938 KJ420071 KM053035 KJ419977
+C. murrayae Mc-13-1 Stolons Huanggang, Hubei, China 2013.08 KM053130 KM052939 KJ420072 KM053036 KJ419978
+C. murrayae MC-14-1 Stolons Huanggang, Hubei, China 2013.08 KM053131 KM052940 KJ420073 KM053037 KJ419979
+C. murrayae MC-14-2 Stolons Huanggang, Hubei, China 2013.08 KM053132 KM052941 KJ420074 KM053038 KJ419980
+C. murrayae MC-15-2 Stolons Huanggang, Hubei, China 2013.08 KM053133 KM052942 KJ420075 KM053039 KJ419981
+C. murrayae MC-17-1 Stolons Huanggang, Hubei, China 2013.08 KM053134 KM052943 KJ420076 KM053040 KJ419982
+C. murrayae MC-19-3 Stolons Huanggang, Hubei, China 2013.08 KM053135 KM052944 KJ420077 KM053041 KJ419983
+C. murrayae MC-20-2 Stolons Huanggang, Hubei, China 2013.08 KM053136 KM052945 KJ420078 KM053042 KJ419984
+C. murrayae MC-20-3 Stolons Huanggang, Hubei, China 2013.08 KM053137 KM052946 KJ420079 KM053043 KJ419985
+C. murrayae MC-2-1 Petiole Huanggang, Hubei, China 2012.08 KM053138 KM052947 KJ420080 KM053044 KJ419986
+C. murrayae Mc-21-2 Stolons Huanggang, Hubei, China 2013.08 KM053139 KM052948 KJ420081 KM053045 KJ419987
+C. murrayae MC-2-2 Stolons Huanggang, Hubei, China 2012.08 KM053140 KM052949 KJ420082 KM053046 KJ419988
+C. murrayae MC-221 Stolons Huanggang, Hubei, China 2013.08 KM053141 KM052950 KJ420083 KM053047 KJ419989
+C. murrayae MC-22-2 Stolons Huanggang, Hubei, China 2013.09 KM053142 KM052951 KJ420084 KM053048 KJ419990
+C. murrayae MC-23-2 Stolons Huanggang, Hubei, China 2013.09 KM053143 KM052952 KJ420085 KM053049 KJ419991
+C. murrayae MC-23-3 Stolons Huanggang, Hubei, China 2013.09 KM053144 KM052953 KJ420086 KM053050 KJ419992
+C. murrayae Mc-23-4 Stolons Huanggang, Hubei, China 2013.09 KM053145 KM052954 KJ420087 KM053051 KJ419993 (continued on next page) z Sample date: year and month (01 = January through 12 = December) collected. 998 Plant Disease /Vol. 100 No. 5 (K80+G), CAL (GTR+G), CHS-1 (K80+G), GPDH (HKY+I), and
+TUB2 (GTR+I) were selected with MrModelTest v. 2.3 (Nylander 2004) using the Akaike Information Criteria. The multiple nucleotide sequence alignments of all genes were concatenated, and analysis was performed twice on the full data set for 5 × 107 generations. Sam ples were taken from the results every 1,000 generations. The conver gence of all parameters was verified using the Tracer program (Rambaut and Drummond 2007). The first 25% of generations were discarded as burn-in. The concatenated alignment and trees were sub mitted to TreeBASE (www.treebase.org) with a submission number of 16878.
+Isolates for biological characteristics. Based on the result of phy logenetic analyses, 21 representative Colletotrichum isolates obtained from different locations were selected for further characterization of colony and mycelial growth at different temperatures. The selected isolates included five C. murrayae isolates (Yd-8, Ydu-15, Nj-2,
+Nj-122, and MC-17-1), four C. fructicola isolates (Sab-4-3, Sha-4,
+Lch-39-2, and Fch-3), five C. gloeosporioides isolates (Lch-1911,
+Xya-221,Yd-2, Jsh-6-1, and Wha-4), four C. aenigma isolates (Wha-2, Lbwuh-4-2, Hzau-1, and Hzau-2-1), and three C. nymphaeae isolates (Lch-5, Lch-9-1, and Lch-13). Morphological and cultural characterization. Morphological and cultural characterizations were performed according to the meth ods described by Cai et al. (2009). Mycelial discs (5 mm in diameter) were taken from areas near the colony edge of 5-day-old cultures, transferred to PDA, and incubated at 28°C under mixed white and near-UV fluorescent light sources under a cycle of 12 h of light and 12 h of darkness. The experiment was designed as a randomized complete block with three replicates of each isolate. Colony color, conidial dimensions, and morphology were assessed (Cai et al.
+Table 2. (continued from preceding page) GenBank accession number 
+Species Isolates Substrate Locality Datez GPDH CHS-1 CAL ACT TUB2 
+C. murrayae MC-24-1 Stolons Huanggang, Hubei, China 2013.09 KM053146 KM052955 KJ420088 KM053052 KJ419994
+C. murrayae Mc-3-1 Petiole Huanggang, Hubei, China 2012.08 KM053147 KM052956 KJ420089 KM053053 KJ419995
+C. murrayae Mc-3-2 Petiole Huanggang, Hubei, China 2012.08 KM053148 KM052957 KJ420090 KM053054 KJ419996
+C. murrayae MC-4-1 Petiole Huanggang, Hubei, China 2012.08 KM053149 KM052958 KJ420091 KM053055 KJ419997
+C. murrayae MC-5-1 Petiole Huanggang, Hubei, China 2012.08 KM053150 KM052959 KJ420092 KM053056 KJ419998
+C. murrayae MC-5-3 Petiole Huanggang, Hubei, China 2012.08 KM053151 KM052960 KJ420093 KM053057 KJ419999
+C. murrayae MC-6-2 Stolons Huanggang, Hubei, China 2012.08 KM053152 KM052961 KJ420094 KM053058 KJ420000
+C. murrayae MC-9-3 Stolons Huanggang, Hubei, China 2012.08 KM053153 KM052962 KJ420095 KM053059 KJ420001
+C. murrayae Nj-122 Petiole Nanjing, Jiangsu, China 2013.09 KM053154 KM052963 KJ420096 KM053060 KJ420002
+C. murrayae Nj-2 Petiole Nanjing, Jiangsu, China 2013.09 KM053155 KM052964 KJ420097 KM053061 KJ420003
+C. murrayae Sab-552 Stolons Jingzhou, Hubei, China 2013.06 KM053156 KM052965 KJ420098 KM053062 KJ420004
+C. murrayae Sab-6-1 Stolons Jingzhou, Hubei, China 2013.06 KM053157 KM052966 KJ420099 KM053063 KJ420005
+C. murrayae Sha-1 Crown Jingzhou, Hubei, China 2012.12 KM053158 KM052967 KJ420100 KM053064 KJ420006
+C. murrayae Sha-2 Crown Jingzhou, Hubei, China 2012.12 KM053159 KM052968 KJ420101 KM053065 KJ420007
+C. murrayae Sha-3 Crown Jingzhou, Hubei, China 2012.12 KM053160 KM052969 KJ420102 KM053066 KJ420008
+C. murrayae Sha-5 Crown Jingzhou, Hubei, China 2013.03 KM053161 KM052970 KJ420103 KM053067 KJ420009
+C. murrayae Sha-6 Crown Jingzhou, Hubei, China 2013.03 KM053162 KM052971 KJ420104 KM053068 KJ420010
+C. murrayae Sha-7-1 Crown Jingzhou, Hubei, China 2013.03 KM053163 KM052972 KJ420105 KM053069 KJ420011
+C. murrayae Sha-7-2 Crown Jingzhou, Hubei, China 2013.03 KM053164 KM052973 KJ420106 KM053070 KJ420012
+C. murrayae Wha-7 Petiole Wuhan, Hubei, China 2012.08 KM053165 KM052974 KJ420107 KM053071 KJ420013
+C. murrayae Wha-8 Petiole Wuhan, Hubei, China 2012.08 KM053166 KM052975 KJ420108 KM053072 KJ420014
+C. murrayae Wuh-13 Crown Wuhan, Hubei, China 2013.04 KM053167 KM052976 KJ420109 KM053073 KJ420015
+C. murrayae Wuh-13-1 Crown Wuhan, Hubei, China 2013.04 KM053168 KM052977 KJ420110 KM053074 KJ420016
+C. murrayae Wuh-13-2 Crown Wuhan, Hubei, China 2013.04 KM053169 KM052978 KJ420111 KM053075 KJ420017
+C. murrayae Xt-1 Petiole Xiantao, Hubei, China 2012.08 KM053170 KM052979 KJ420112 KM053076 KJ420018
+C. murrayae Xt-18-1 Crown Xiantao, Hubei, China 2013.06 KM053171 KM052980 KJ420113 KM053077 KJ420019
+C. murrayae Ych-1-2 Crown Xiaogan, Hubei, China 2012.08 KM053172 KM052981 KJ420114 KM053078 KJ420020
+C. murrayae Yd-3 Leaf Yichang, Hubei, China 2012.07 KM053173 KM052982 KJ420115 KM053079 KJ420021
+C. murrayae Yd-8 Petiole Yichang, Hubei, China 2012.07 KM053174 KM052983 KJ420116 KM053080 KJ420022
+C. murrayae Ydu-11 Petiole Yichang, Hubei, China 2013.08 KM053175 KM052984 KJ420117 KM053081 KJ420023
+C. murrayae Ydu-12-1 Petiole Yichang, Hubei, China 2013.08 KM053176 KM052985 KJ420118 KM053082 KJ420024
+C. murrayae Ydu-12-2 Petiole Yichang, Hubei, China 2013.08 KM053177 KM052986 KJ420119 KM053083 KJ420025
+C. murrayae Ydu-14-1 Petiole Yichang, Hubei, China 2013.08 KM053178 KM052987 KJ420120 KM053084 KJ420026
+C. murrayae Ydu-15 Petiole Yichang, Hubei, China 2013.08 KM053179 KM052988 KJ420121 KM053085 KJ420027
+C. murrayae Zhd-11 Petiole Wuhan, Hubei, China 2013.10 KM053180 KM052989 KJ420122 KM053086 KJ420028
+C. murrayae Zhd-13-1 Crown Wuhan, Hubei, China 2013.10 KM053181 KM052990 KJ420123 KM053087 KJ420029
+C. murrayae Zhd-14-1 Crown Wuhan, Hubei, China 2013.10 KM053182 KM052991 KJ420124 KM053088 KJ420030
+C. murrayae Zhd-4 Crown Wuhan, Hubei, China 2012.12 KM053183 KM052992 KJ420125 KM053089 KJ420031
+C. murrayae Zhd-4-2 Crown Wuhan, Hubei, China 2012.12 KM053184 KM052993 KJ420126 KM053090 KJ420032
+C. murrayae Zhd-6 Crown Wuhan, Hubei, China 2012.12 KM053185 KM052994 KJ420127 KM053091 KJ420033
+C. murrayae Zhd-8-1 Petiole Wuhan, Hubei, China 2012.12 KM053186 KM052995 KJ420128 KM053092 KJ420034
+C. murrayae Zhd-8-2 Petiole Wuhan, Hubei, China 2012.12 KM053187 KM052996 KJ420129 KM053093 KJ420035
+C. murrayae Zj-1-2 Leaf Xianning, Hubei, China 2013.07 KM053188 KM052997 KJ420130 KM053094 KJ420036
+C. murrayae Zj-3-2 Leaf Xianning, Hubei, China 2013.07 KM053189 KM052998 KJ420131 KM053095 KJ420037
+C. murrayae Zj-6-1 Stolons Xianning, Hubei, China 2013.07 KM053190 KM052999 KJ420132 KM053096 KJ420038
+C. murrayae Zj-9-2 Petiole Xianning, Hubei, China 2013.07 KM053191 KM053000 KJ420133 KM053097 KJ420039
+C. nymphaeae Lch-5 Stolons Enshi, Hubei, China 2013.07 KP339288 KP339295 … KP339276 KP339269
+C. nymphaeae Lch-9-1 Leaf Enshi, Hubei, China 2013.07 KP339289 KP339296 … KP339277 KP339270
+C. nymphaeae Lch-13 Leaf Enshi, Hubei, China 2014.08 KP339290 KP339297 … KP339278 KP339271 
+Plant Disease /May 2016 999 http://www.treebase.org/ 2009; Peng et al. 2012; Weir et al. 2012). Conidial suspensions of each species were prepared in lactic acid from conidial masses on
+PDA. The shape and color of the conidia were observed, and the size of 50 conidia per isolate was measured using a microscope (BM2000;
+Nanjing Jiangnan Novel Optics Co., Ltd., Nanjing, China). Effect of temperature onmycelial growth. In total, 21 isolates of the five species were evaluated to determine the effect of temperature on radial colony growth in culture. All isolates were maintained on
+PDA supplemented with lactic acid at 28°C for 5 days. Plugs of agar with a diameter of 5 mm were cut from the leading edge of colonies and placed in the center of petri plates containing PDA. The plates were then wrapped with parafilm and placed in an incubator (BPH 9272; Shanghai Yiheng Scientific Instrument Co., Ltd., Shanghai,
+China) at 1 of 11 temperatures (6, 10,14, 18, 22, 26, 28, 30, 32, 34, 36, 38, 40, and 42°C [±0.2°C]) in the dark. After 4 days, colony diameters were measured and used to calculate the mycelial growth rate (in millimeters per day). The experiment was designed as a ran domized complete block, with three replicates of each isolate for each temperature treatment. The experiment was repeated once.
+Pathogenicity assays. Not all the Colletotrichum isolates could sporulate on PDA plus 0.2% yeast extract (PDAY); therefore, one isolate of each species that could sporulate on PDAY was selected 
+Fig. 2. Bayesian inference phylogenetic tree of 132 isolates of the Colletotrichum gloeosporioides species complex. The tree was built using concatenated sequences of the ACT,
+TUB2, CAL, GPDH, and CHS-1 genes, each with a separate model of DNA evolution. Values next to the nodes of the tree are Bayesian posterior probability values based on 5,000,000 generations. C. boninense was used as an outgroup. Ex-type cultures are emphasized in bold, and include the taxonomic name as originally described. The scale bar indicates the number of expected changes per site. 1000 Plant Disease /Vol. 100 No. 5 for pathogenicity assays. C. murrayae isolate Nj-2, C. gloeospor ioides isolate Jsh-7-1, C. fructicola isolate Lch-39-2, C. aenigma iso late Lbwuh-4-2, and C. nymphaeae isolate Lch-5 were utilized for pathogenicity tests. The five isolates were maintained on PDA sup plemented with lactic acid at 28°C for 5 days. Plugs of agar with a diameter of 5 mm were cut from the leading edge of colonies and placed in the center of petri plates containing PDAY. The fungal iso lates were grown at 28°C under mixed white and near-UV fluorescent light sources under a cycle of 12 h of light and 12 h of darkness (de los
+Santos Garcıá de Paredes and Romero Muñoz 2002), and sporulated profusely after 7 to 10 days. Plates were flooded with sterile distilled water, the spore suspension was passed through cheesecloth to remove dislodged mycelia (Mangandi et al. 2015), and the suspension was adjusted to 2 × 106 conidia/ml.
+Healthy 6-week-old strawberry plants (‘Benihopp’) devoid of any exposure to fungicides were used for plant inoculation experiments.
+Plants were inoculated by spraying conidial suspensions (2 × 106 conidia/ml) of the five isolates (Nj-2, Jsh-7-1, Lch-39-2, Lbwuh-4-2, and Lch-5) until runoff (Freeman and Katan 1997). Negative control plants received sterile water without conidia. Nine plants were inocu lated with each isolate separately and maintained in a moisture cham ber at 25 to 35°C for 48 h, then transferred to a greenhouse at 25 to 35°C for 30 days under natural daylight conditions.
+The pathogenicity to strawberry of different species were evalu ated by calculating the disease index (DI) according to the symptoms severity (SS) of leaves and petioles, respectively. The SS class of leaves, which was calculated based on a percentage of infected leaf surface caused by Colletotrichum spp., was described on a six-point scale, as follows: 0 = healthy leaves with no lesions or 1 = 0.1 to 5.0, 3 = 5.1 to 15.0, 5 = 15.1 to 30.0, 7 = 30.1 to 50.0, and 9 = 50.1 to 100% infected leaf surface or dead leaves. The SS class of petioles, calculated based on the length of lesions caused by
+Colletotrichum spp. on petioles, was described on a six-point scale, as follows: 0 = healthy petiole with no lesions or lesions of 1 = 0.1 to 2, 3 = 2.1 to 5.0, 5 = 5.1 to 9.0, 7 = 9.1 to 15.0, and 9 = >15.0 mm in length or leaves wilting) (Wang et al. 2008). All leaves and petioles on each plant were evaluated individually.
+The number of leaves or petioles in each SS class was recorded 20 days after inoculation (dai) and plant mortality was recorded 30 dai. These experiments were conducted twice.
+SS were converted to DI that was calculated using the formula of 
+Horiuchi and Hori (1980): DI = [(n0 × 0 + n1 × 1 + n3 × 3 + n5 × 5 + n7 × 7 + n9 × 9)/9N] × 100, where n is the number of leaves or petioles in this SS class; the subscript numbers 0, 1, 3, 5, 7, and 9 are the SS class; and N is the total number of leaves or petioles.
+Data analysis. Data from the pathogenicity test were subjected to analysis of variance using the Statistical Analysis Systems (SAS, ver sion 8.0; SAS Institute, Cary, NC) in order to determine the signifi cance of treatment differences. Means for different species from the pathogenicity test were separated using the least significance differ ence (LSD) test at P = 0.05 level. The minimum, optimum, and max imum growth temperature data were analyzed using the general linear model procedure (PROC GLM) in SAS. Species were consid ered fixed effects and isolates were considered random effects. When 
+Fig. 3. Bayesian inference phylogenetic tree of 34 isolates of the Colletotrichum acutatum species complex. The tree was built using concatenated sequences of the ACT, TUB2,
+GPDH, and CHS-1 genes, each with a separate model of DNA evolution. Values next to the nodes of the tree are Bayesian posterior probability values based on 500,000 generations. C. pseudoacutatum was used as an outgroup. Ex-type cultures are emphasized in bold, and include the taxonomic name as originally described. The scale bar indicates the number of expected changes per site.Plant Disease /May 2016 1001 
+F values were significant (P < 0.05), species means were compared using the LSD test.Results
+Molecular identification and phylogenetic analyses. ACT, 
+CAL, CHS-1, GPDH, and TUB2 regions of all isolates were success fully amplified and sequenced. Among the 100 isolates, 97 isolates were identified belonging to the C. gloeosporioides species complex and 3 isolates were identified belonging to the C. acutatum species complex.
+The Bayesian inference (A) with the haplotypes belonging to the 
+C. gloeosporioides species complex was performed with the com bined TUB2, ACT, CAL, GPDH, and CHS-1 sequences and com prised 2,352 characters after alignment. The boundaries of the loci used in the alignment were as follows: TUB2, 1 to 733; ACT, 734 to 1,028; CAL, 1,029 to 1,776; GPDH, 1,777 to 2,081; and CHS-1, 2,082 to 2,352. The Bayesian inference (B) with the haplotypes belonging to the C. acutatum species complex was performed with the combined TUB2, ACT, GPDH, and CHS-1 sequences and com prised 1,265 characters after alignment. The boundaries of the loci used in the alignment were as follows: TUB2, 1 to 495; ACT, 496 to 745; GPDH, 746 to 1,015; CHS-1, 1,016 to 1,265.
+The isolates from strawberry belonged to five clades. In Bayesian inference (A), 81 isolates clustered with C. murrayae Li J. Peng &
+K. D. Hyde; 8 isolates clustered with C. gloeosporioides (Penz.)
+Penz. & Sacc., 4 isolates clustered with C. fructicola Prihastuti,
+L. Cai & K. D. Hyde; and 4 isolates clustered with C. aenigma
+B. S. Weir & P. R. Johnst. (Fig. 2). In Bayesian inference (B), three isolates clustered with C. nymphaeae (Pass.) Aa (Fig. 3). C. murrayae was the most frequently isolated species, comprising 81% of all isolates, followed by C. gloeosporioides at 7%. Isolates of
+C. murrayae were widely distributed in Hubei Province. C. gloeosporioides was primarily distributed in Wuhan, Xiangyang,
+Yichang, and Enshi. C. fructicola was mainly distributed in
+Xiangyang, Jingzhou, and Enshi. All four isolates of C. aenigma were isolated from Wuhan. C. nymphaeae was distributed in Enshi (Fig. 4).The altitudes of the sampling locations were no higher than 100 m, with the exception of Enshi (with an altitude of 1,100 m).
+Morphological and cultural characterization. Few differences of colonymorphologywere observed among the five species identified when grown on PDA. All selected isolates developed white colonies that became gray after 10 days. Isolates ofC. nymphaeae andC. gloeo sporioides produced numerous conidia on PDA, while isolates of the other three species produced fewer conidia (Fig. 5). The conidia pro duced by C. nymphaeae were sharp at both ends (Fig. 6). This mor phology was different from that of the other four species in this study (Table 3).
+Effect of temperature on mycelial growth. The optimum tem perature of all five Colletotrichum spp. in the current study was 28°C but the tolerance to high temperature (34°C) among species was different (Fig. 7). The five species were divided into four groups based on their maximum growth temperatures (Table 4). Isolates of
+C. nymphaeae, which were isolated only in Enshi, were sensitive to high temperatures. The average growth rates of the three isolates were 0.11 mm/day at 34°C, and no mycelial growth in vitro was ob served at temperatures above 34°C (Table 4).
+Isolates of C. fructicola and C. aenigma were similar in their tol erances to high temperatures. These two species were moderately sensitive to high temperature and grew very slowly at 36°C, with col ony diameters smaller than those of isolates of C. murrayae and
+C. gloeosporioides but larger than those of isolates of C. nymphaeae.
+No mycelial growth in vitro of the C. fructicola and C. aenigma iso lates was observed at temperatures above 36°C (Fig. 7). Isolates of
+C. gloeosporioides and C. murrayae were tolerant to high tempera tures, with a significantly larger colony diameter than the other four species when the ambient temperature was above 36°C. Mycelial growth in vitro was observed even at 40°C, with average growth rates of 0.11 and 0.08 mm/day, respectively (Fig. 7).
+Pathogenicity assays. All isolates of Colletotrichum tested were pathogenic to nonwounded strawberry leaves and petioles. Symp toms first appeared on leaves. Infected leaves developed sunken, prominent, dark-brown to black decay, and necrotic lesions, and typ ical orange conidial masses were often observed on leaves 7 to 10 dai.
+Symptoms of anthracnose were not observed on petioles at 10 dai. At 20 dai, symptoms appeared on both leaves and petioles of strawberry (Fig. 5). Disease severity caused by the five species showed signifi cant differences. Isolates of C. fructicola and C. murrayae species showed strong pathogenicity on both leaves and petioles of straw berry (Table 5). Plant mortalities caused by C. fructicola and 
+Fig. 4. Distribution of Colletotrichum spp. associated with anthracnose of strawberry in Hubei Province, China. 1002 Plant Disease /Vol. 100 No. 5 
+C. murrayae at 30 dai were 77.8 and 55.6% respectively (Table 5).
+C. gloeosporioides, C. aenigma, and C. nymphaeae showed strong pathogenicity to leaves but weak to petioles. Plant mortal ities caused by these species at 30 dai were 5.6, 16.7, and 11.1%, respectively (Table 5), as compared with 0% for the water control plants.Discussion
+This study represents the first attempt to characterize Colletotri chum spp. associated with anthracnose of strawberry in China using a polyphasic approach. GPDH, CAL, CHS-1, ACT, and TUB2 loci were employed in the phylogenetic analysis. Phylogenetic analysis showed that the 100 Colletotrichum isolates from strawberry plants belonged to five species. This study provides the first report of
+C. gloeosporioides, C. aenigma, C. murrayae, C. fructicola, and
+C. nymphaeae from strawberry in China, while C. fructicola and
+C. nymphaeae have been recorded from strawberry previously (Damm et al. 2012a; Weir et al. 2012). Together with the 9 species in the C. gloeosporioides and C. acutatum species complexes (Damm et al. 2012a; Weir et al. 2012), 12 Colletotrichum spp. are now known to be associated with strawberry hosts. C. gloeosporioides, which was previously recognized as a pathogen of strawberry, is actually a species complex. C. gloeosporioides was typified by Cannon et al. (2008) and a recent study indicated this species was associ ated with the genera Citrus, Ficus, Mangifera, Pueraria, and Vitis (Weir et al. 2012). These results are in agreement with previous re ports that C. gloeosporioides species complex is the most preva lent agent of strawberry anthracnose in China, while C. acutatum species complex only occasionally causes anthracnose (Xie et al.
+2010). C. theobromicola (synonymous with C. fragariae) has been reported to infect strawberry plants (Brooks 1931; Xie et al. 2010) but no isolates of this species were identified in this study.
+Important progress on taxonomy of the C. gloeosporioides and 
+C. acutatum species complex have been made by Weir et al.
+(2012) and Damm et al. (2012a) but the biological characteristics such as temperature characteristics, host range, and pathogenicity of different Colletotrichum spp. is unclear. Many pathogens are sensitive to temperature, rainfall, and humidity (Harvell et al. 2002;
+Wilson et al. 1990). Temperature is a major factor affecting epidemics of plant disease; it can affect spore germination and infection, latent period, sporulation, spore survival, and host resistance to many path ogens (Bonde et al. 2012; Wilson et al. 1990). Temperature highs and their frequency can be factors in the delay or absence of plant dis ease (Bonde et al. 2012, 2013). On the other hand, the adaptation of pathogens to temperature is an important factor for disease emergence 
+Fig. 5. Culture characteristics and pathogenicity of five Colletotrichum spp. from strawberry. A, Colletotrichum murrayae; B, C. fructicola; C, C. gloeosporioides; D, C. aenigma; and
+E, C. nymphaeae. Cultures on potato dextrose agar, growth at 18°C for 10 days from mycelial discs (5 mm in diameter) from 1, aerial and 2, reverse view; 3, symptoms caused by
+Colletotrichum spp. on strawberry 30 days after spray inoculation with conidia.
+Plant Disease /May 2016 1003 and spread. For example, Botrytis fruit rot of strawberry caused by
+Botrytis cinerea occurs mainly at low temperatures in winter and spring (Elad et al. 2007); however, Colletotrichum spp. require rela tively hot temperatures and mainly cause anthracnose of strawberry in summer (Henz et al. 1992; Xie et al. 2010). The minimum, opti mum, and maximum growth temperatures are important biological characteristics and widely used to characterize microorganisms (Damm et al. 2012a,b; Prihastuti et al. 2009; Weir et al. 2012). In this study, no significant differences were observed in the minimum and optimum growth temperatures of the five Colletotrichum spp. but the maximum growth temperatures were different (Table 4). The five
+Colletotrichum spp. were grouped into four classes based on their maximum growth temperatures.
+C. murrayae was originally reported from Citrus leaves in China (Peng et al. 2012). C. murrayae is tolerant to high temperature and showed strong pathogenicity to strawberry plants. C. murrayae was the most frequently isolated species, distributed in nearly all sampling areas, and seems to be the most economically important species in strawberry nurseries in Hubei, China. C. gloeosporioides was tolerant to high temperature but was weakly pathogenic to straw berry plants. C. gloeosporioides was the second most prevalent spe cies, with 8% of all isolates (Fig. 4). C. fructicola was originally reported causing coffee berry disease in Thailand (Prihastuti et al.
+2009). Although C. fructicola showed stronger pathogenicity to strawberry plants than other four species in this study, it showed less tolerance to high temperature than C. murrayae and C. gloeospor ioides, and occurred only sporadically.
+C. aenigma was first described by Weir et al. (2012) and causes anthracnose of Pyrus pyrifolia in Japan and Persea americana in Israel (Weir et al. 2012). C. nymphaeae was originally described in detail in morphological and pathological terms by van der Aa (1978). A description in morphological and multilocus phylogenetic analysis of this species was provided by Damm et al. (2012a).
+C. aenigma and C. nymphaeae showed weak pathogenicity to strawberry plants and were less tolerant to high temperature than
+C. murrayae and C. gloeosporioides. C. aenigma and C. nymphaeae occurred very sporadically in Hubei, China (Fig. 4).
+According to current data, the results revealed that each species possesses a stable and distinguishable maximum growth tempera ture, which may be used for distinguishing Colletotrichum spp., particularly morphologically similar species. The frequencies and distribution of these five species are related to differences in high temperature tolerance and pathogenicity. This research may in crease our understanding of how Colletotrichum spp. emerge and spread to geographical regions with different latitudes or ele vations. Due to climate change, pathogens are exposed to increas ingly warmer environments, and the impact of anthropogenic climate change on terrestrial organisms is often predicted to in crease with latitude and elevation (Colwell et al. 2008; Deutsch et al. 2008; Harvell et al. 2002). This research is also important for predicting changes that may occur due to global warming con ditions. Further studies should be conducted on the host range, distribution, and pathogenicity of Colletotrichum spp. at different temperatures.
+Fig. 6. Conidia of five Colletotrichum spp. from strawberry. A, Colletotrichum murrayae; B, C. fructicola; C, C. gloeosporioides; D, C. aenigma; and E, C. nymphaeae. Conidial suspensions of each species were prepared in lactic acid from conidial masses on potato dextrose agar.
+Table 3. Summary of morphological data of Colletotrichum isolates Conidiax 
+Species Characteristicsy Length (mm) Width (mm) Shapez 
+Colletotrichum murrayae White, lacking 14.3 ± 0.9 (10.4–17.0) 3.8 ± 0.8 (2.8–6.6) Rounded
+C. gloeosporioides White, with 14.4 ± 1.5 (11.3–18.0) 5.1 ± 1.0 (2.8–6.6) Rounded
+C. fructicola White, lacking 14.0 ± 0.8 (11.3–15.1) 4.8 ± 0.8 (2.8–6.6) Rounded
+C. aenigma White, lacking 14.4 ± 0.9 (12.2–16.0) 4.1 ± 0.3 (3.8–4.7) Rounded
+C. nymphaeae White, with 11.2 ± 0.8 (9.4–13.2) 3.9 ± 0.5 (2.8–4.7) Pointed x Data are mean ± standard deviation or standard error, with ranges in parentheses.
+y Colony characteristics: White, lacking = white mycelia lacked conidial masses and White, with = white to gray mycelia with mass conidial masses.z Shape at ends. 1004 Plant Disease /Vol. 100 No. 5 Acknowledgments
+This study was financially supported by the Youth Science Foundation of the 
+Hubei Academy of Agricultural Sciences (2013NKYJJ04), the Agricultural Sci ence and Technology Innovation Center Program of Hubei Province (2007-620 006-003 and 2015-620-003-001), and Open Fund Project of Hubei Key Laboratory of Crop Diseases, Insect Pests and Corp Weeds Control & Key Laboratory of In tegrated Pest Management on Crops in Central China (2015ZTSJJ8).Literature Cited
+Bonde, M. R., Nester, S. E., and Berner, D. K. 2012. Effects of daily temperature highs on development of Phakopsora pachyrhizi on soybean. Phytopathology 102:761-768.
+Bonde, M. R., Nester, S. E., and Berner, D. K. 2013. Effects of frequency of “extreme” temperature highs on development of soybean rust. Phytopathology 103:708-716.
+Brooks, A. N. 1931. Anthracnose of strawberry caused by Colletotrichum fragariae, n. sp. Phytopathology 21:739-744.
+Cai, L., Hyde, K. D., Taylor, P. W. J., Weir, B. S., Waller, J., Abang, M. M., and
+Johnston, P. R. 2009. A polyphasic approach for studying Colletotrichum. Fungal Divers. 39:183-204.
+Carbone, I., and Kohn, L. M. 1999. A method for designing primer sets for speciation studies in filamentous ascomycetes. Mycologia 91:553-556.
+Cannon, P. F., Buddie, A. G., and Bridge, P. D. 2008. The typification of
+Colletotrichum gloeosporioides. Mycotaxon 104:189-204.
+Cannon, P. F., Damm, U., Johnston, P. R., and Weir, B. S. 2012. Colletotrichum—
+Current status and future directions. Stud. Mycol. 73:181-213.
+Colwell, R. K., Brehm, G., Cardelús, C. L., Gilman, A. C., and Longino, J. T. 2008.
+Global warming, elevational range shifts, and lowland biotic attrition in the wet tropics. Science 322:258-261.
+Damm, U., Cannon, P. F., Woudenberg, J. H. C., and Crous, P. W. 2012a. The
+Colletotrichum acutatum species complex. Stud. Mycol. 73:37-113.
+Damm, U., Cannon, P. F., Woudenberg, J. H. C., Johnston, P. R., Weir, B. S., Tan,
+Y. P., Shivas, R. G., and Crous, P. W. 2012b. The Colletotrichum boninense species complex. Stud. Mycol. 73:1-36.
+Dean, R., Van Kan, J. A., Pretorius, Z. A., Hammond-Kosack, K. E., Di Pietro, A.,
+Spanu, P. D., and Foster, G. D. 2012. The top 10 fungal pathogens in molecular plant pathology. Mol. Plant Pathol. 13:414-430. de los Santos Garcıá de Paredes, B., and Romero Muñoz, F. 2002. Effect of different fungicides in the control of Colletotrichum acutatum, causal agent of anthracnose crown rot in strawberry plant. Crop Prot. 21:11-15.
+Denoyes-Rothan, B., Guérin, G., Délye, C., Smith, B., Minz, D., Maymon, M., and Freeman, S. 2003. Genetic diversity and pathogenic variability among isolates of Colletotrichum species from strawberry. Phytopathology 93: 219-228.
+Deutsch, C. A., Tewksbury, J. J., Huey, R. B., Sheldon, K. S., Ghalambor, C. K.,
+Haak, D. C., and Martin, P. R. 2008. Impacts of climate warming on terrestrial ectotherms across latitude. Proc. Natl. Acad. Sci. USA 105:6668-6672.
+Doyle, V. P., Oudemans, P. V., Rehner, S. A., and Litt, A. 2013. Habitat and host indicate lineage identity in Colletotrichum gloeosporioides s.l. from wild and agricultural landscape in North America. PLoS One 8:e62394.
+Elad, Y. B., Williamson, B., Tudzynski, P., and Delen, N. M., eds. 2007. Botrytis:
+Biology, Pathology and Control. Springer, Dordrecht, The Netherlands. 
+Freeman, S., and Katan, T. 1997. Identification of Colletotrichum species responsible for anthracnose and root necrosis of strawberry in Israel. Phytopathology 87:516-521.
+Freeman, S., Katan, T., and Shabi, E. 1998. Characterization of Colletotrichum species responsible for anthracnose disease of various fruits. Plant Dis. 82: 596-605.
+Harvell, C. D., Mitchell, C. E., Ward, J. R., Altizer, S., Dobson, A. P., Ostfeld,
+R. S., and Samuel, M. D. 2002. Climate warming and disease risks for terrestrial and marine biota. Science 296:2158-2162.
+Henz, G. P., Boiteux, L. S., and Lopes, C. A. 1992. Outbreak of strawberry anthracnose caused by Colletotrichum acutatum in central Brazil. Plant Dis. 76:212.
+Horiuchi, S., and Hori, M. 1980. A simple greenhouse technique for obtaining high levels of clubroot incidence. Bull. Chugoku Natl. Agric. Exp. Stn. E. 17:33-55.
+Howard, C. M., Maas, J. L., Chandler, C. K., and Albregts, E. E. 1992.
+Anthracnose of strawberry caused by the Colletotrichum complex in Florida. Plant Dis. 76:976-981.
+Hyde, K. D., Cai, L., Cannon, P. F., Crouch, J. A., Crous, P.W., Damm,U., and Zhang,
+J. Z. 2009. Colletotrichum -names in current use. Fungal Divers. 39:147-182.
+Hyde, K. D., Nilsson, R. H., Alias, S. A., Ariyawansa, H. A., Blair, J. E., Cai, L., de
+Cock, A. W. A. M., Dissanayake, A. H., Glockling, S. L., Goonasekara, I. D.,
+Gorczak, M., Hahn, M., Jayawardena, R. S., van Kan, J. A. L., Laurence, M. H.,
+Lévesque, C. A., Li, X. H., Liu, J. K., Maharachchikumbura, S. S. N.,
+Manamgoda, D. S., Martin, F. N., McKenzie, E. H. C., McTaggart, A. R.,
+Mortimer, P. E., Nair, P. V. R., Pawłowska, J., Rintoul, T. L., Shivas, R. G.,
+Spies, C. F. J., Summerell, B. A., Taylor, P. W. J., Terhem, R. B., Udayanga,
+D., Vaghefi, N., Walther, G., Wilk, M., Wrzosek, M., Xu, J. C., Yan, J. Y., and Zhou, N. 2014. One stop shop: Backbones trees for important phytopathogenic genera: I (2014). Fungal Divers. 67:21-125.
+Ko Ko, T. W., Stephenson, S. L., Bahkali, A. H., and Hyde, K. D. 2011. From morphology to molecular biology: Can we use sequence data to identify fungal endophytes? Fungal Divers. 50:113-120.
+Lee, S. B., and Taylor, J. W. 1990. Isolation of DNA from fungal mycelia and single spores. Pages 282-287 in: PCR Protocols, A Guide to Methods and
+Applications. M. A. Innis, D. H. Gelfand, J. J. Sninsky, and T. J. White, eds.
+Academic Press, San Diego, CA. 
+Lou, Y., Han, Y. C., Yang, L., Wu, M. D., Zhang, J., Cheng, J. S., Wang, M. Y.,
+Jiang, D. H., Chen, W. D., and Li, G. Q. 2015. CmpacC regulates mycoparasitism, oxalate degradation and antifungal activity in the mycoparasitic fungus Coniothyrium minitans. Environ. Microbiol. 17:4711-4729.
+Mangandi, J., Peres, N. A., and Whitaker, V. M. 2015. Identifying resistance to crown rot caused by Colletotrichum gloeosporioides in strawberry. Plant Dis. 99:954-961.
+Fig. 7. Colony growth rate of Colletotrichum spp. from strawberry under different temperatures. Isolates of Colletotrichum murrayae (five isolates), C. gloeosporioides (five isolates), C. fructicola (four isolates), C. aenigma (four isolates), and C. nymphaeae (three isolates) were cultured on potato dextrose agar in the dark at different temperatures for 4 days.
+Table 4. Minimum, optimum, and maximum growth temperatures of Colle totrichum spp.Temperature (�C)z 
+Species Minimum Optimum Maximum 
+Colletotrichum murrayae 10.0 a 28.0 a 38.8 b
+C. gloeosporioides 10.0 a 28.0 a 40.0 a
+C. fructicola 10.0 a 28.4 a 36.0 c
+C. aenigma 10.0 a 28.0 a 36.0 c
+C. nymphaeae 10.0 a 28.0 a 34.0 d z Mean values with the same letters are not significantly different (P# 0.05).
+Isolates of C. murrayae (five isolates), C. gloeosporioides (five isolates),
+C. fructicola (four isolates), C. aenigma (four isolates), and C. nymphaeae (three isolates) were cultured on potato dextrose agar in the dark at different temperature for 4 days.
+Table 5. Pathogenicity of Colletotrichum isolates on strawberryx Disease indexy 
+Species Foliar Petiole Mortality (%)z 
+Colletotrichum murrayae 70.0 ab 38.6 ab 55.6 b
+C. gloeosporioides 57.7 ab 4.7 c 5.6 d
+C. fructicola 78.5 a 42.4 a 77.8 a
+C. aenigma 46.7 b 8.6 bc 16.7 c
+C. nymphaeae 53.1 b 3.5 c 11.1 cd
+LSD 24.8 32.0 9.0 x Data are mean ± standard deviation. Mean values with the same letters were not statistically different (P >0.05) according to the least significant differ ence (LSD) test. y Disease index was evaluated at 20 days after inoculation.
+z Percentage of plant mortality were evaluated at 30 days after inoculation.
+Mean percent mortality of strawberry with conidial suspension of Colleto trichum spp. by spray methods.Plant Disease /May 2016 1005 
+Nylander, J. A. A. 2004. MrModeltest v2. Program distributed by the author.
+Evolutionary Biology Centre, Uppsala University, Uppsala, Sweden. 
+O’Donnell, K., and Cigelnik, E. 1997. Two divergent intragenomic rDNA
+ITS2 types within a monophyletic lineage of the fungus Fusarium are nonorthologous. Mol. Phylogenet. Evol. 7:103-116.
+Peng, L. J., Yang, Y. L., Hyde, K. D., Bahkali, A. H., and Liu, Z. Y. 2012.
+Colletotrichum species on citrus leaves in Guizhou and Yunnan provinces,
+China. Cryptogam., Mycol. 33:267-283.
+Prihastuti, H., Cai, L., Chen, H., McKenzie, E. H. C., and Hyde, K. D. 2009.
+Characterisation of Colletotrichum species associated with coffee berries in northern Thailand. Fungal Divers. 39:89-109.
+Rambaut, A., and Drummond, A. J. 2007. Tracer v1.4. University of Oxford,
+Oxfordshire, U. K. Available from: http://beast.bio.ed.ac.uk/Tracer.
+Ronquist, F., Teslenko, M., Van der Mark, P., Ayres, D. L., Darling, A., Höhna, S.,
+Larget, B., Liu, L., Suchard, M. A., and Huelsenbeck, J. P. 2012. MrBayes v. 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space. Syst. Biol. 61:539-542.
+Su, Y. Y., Noireung, P., Liu, F., Hyde, K. D., Moslem, M. A., Bahkali, A. H.,
+Abd-Elsalam, K. A., and Cai, L. 2011. Epitypification of Colletotrichum musae, the causative agent of banana anthracnose. Mycoscience 52:376-382.
+Sutton, B. C. 1992. The genusGlomerella and its anamorph Colletotrichum. Pages 1-26 in: Colletotrichum: Biology, Pathology and Control. J. A. Bailey and
+M. J. Jeger, eds. CAB International, Wallingford, UK. 
+Tamura, K., Peterson, D., Peterson, N., Stecher, G., and Nei, M. 2011. MEGA5:
+Molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods. Mol. Biol. Evol. 28:2731-2739. van der Aa, H. A. 1978. A leaf spot of Nymphaea alba in the Netherlands. Neth. J. Plant Pathol. 84:109-115.
+Wang, F., Ma, Y., Gao, X. Y., and Zhang, Z. H. 2008. Study on the identification techniques for determining strawberry cultivars resistance to anthracnose.J. Fruit Sci. 25:542-547.
+Weir, B. S., Johnston, P. R., and Damm, U. 2012. The Colletotrichum gloeosporioides species complex. Stud. Mycol. 73:115-180.
+Wikee, S., Cai, L., Pairin, N., McKenzie, E. H., Su, Y. Y., Chukeatirote, E., and
+Hyde, K. D. 2011. Colletotrichum species from Jasmine (Jasminum sambac).Fungal Divers. 46:171-182.
+Wilson, L. L., Madden, L. V., and Ellis, M. A. 1990. Influence of temperature and wetness duration on infection of immature and mature strawberry fruit by
+Colletotrichum acutatum. Phytopathology 80:111-116.
+Xie, L., Zhang, J. Z., Wan, Y., and Hu, D. W. 2010. Identification of
+Colletotrichum spp. isolated from strawberry in Zhejiang Province and
+Shanghai City, China. J. Zhejiang Univ. Sci. B 11:61-70.
+Zhang, Z., Gong, D., Hu, M., Guo, D., He, X., and Lei, Y. 2009. Anomalous winter temperature and precipitation events in southern China. J. Geogr. Sci. 19: 471-488. 1006 Plant Disease /Vol. 100 No. 5 http://beast.bio.ed.ac.uk/Tracer 

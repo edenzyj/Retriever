@@ -1,0 +1,122 @@
+
+Effects of nitrogen, phosphorus, potassium and calcium nutrition on strawberry anthracnose  
+Plant Pathology   (2006)  55  , 246–249 Doi: 10.1111/j.1365-3059.2005.01322.x 246  © 2006 BSPP  Blackwell Publishing Ltd  
+Effects of nitrogen, phosphorus, potassium and calcium nutrition on strawberry anthracnose  
+M.  H. Nam  a  , S.  K. Jeong  a  , Y.  S. Lee  b  , J.  M. Choi  c   and H.  G. Kim  b  *  a  
+Nonsan Strawberry Experiment Station, Chungnam ARES, Nonsan 320-862;  b  
+Department of Applied Biology, Chungnam National 
+University, Daejeon 305-764; and  c  
+Division of Horticultural and Landscape Architecture, Pai Chai University, Daejeon 302-735, Korea  
+The effects of a range of concentrations of four nutrients – nitrogen, phosphorus, potassium and calcium – in fertilizer solutions on the severity of anthracnose on strawberry cv. Nyoho cultivated under a noncirculation hydroponics system were determined after inoculation with  
+Colletotrichum gloeosporioides  . Crop growth and tissue nitrogen, phosphorus, potassium and calcium contents of the entire above-ground parts of the plant were also investigated. Elevated nitrogen and potassium concentrations in the fertilizer solution increased disease severity in contrast to phosphorus and calcium.
+Treatment with either NH  4   or NO  3   nitrogen was not significantly different. The dry weight of the strawberry plants increased significantly with elevated concentrations of nitrogen (  
+R  2   = 0·9078) and phosphorus (  
+R  2   = 0·8842), but was not influenced by the elevated amounts of potassium (  
+R  2   = 0·8587) and calcium (  
+R  2   = 0·6526) concentrations.  Keywords  :  
+Colletotrichum gloeosporioides  , disease severity, fertilizer, macronutrients, strawberry anthracnose  Introduction  In Korea, strawberries (  
+Fragaria    ×    ananassa  ) are favoured for winter cultivation when the production of other vege tables and fruits is relatively low. In 2003 strawberries were planted on a total area of 7503 ha in Korea, with plastic greenhouse cultivation comprising 7172 ha and production for fresh market totalling 205 427 tonnes (Anonymous, 2004). The use of forcing, where straw berries are transplanted into greenhouses in mid-September and forced into fruiting in December (Oda, 1991), is increasing in Korea. June-bearing cultivars such as Mae hyang, Akihime and Nyoho used for forcing have proven difficult to grow due to their susceptibility to anthracnose (Nam  et al  ., 1998; Kim & Nam, 1999). Anthracnose is one of the most damaging diseases of strawberries, caus ing wilting and death of transplants in the nursery field.
+The pathogen known to be responsible for the disease inKorea is  
+Colletotrichum gloeosporioides   and was initially reported in 1992 (Kim  et al  ., 1992).
+The nutritional status of a plant has a major impact on susceptibility to disease, and this has been exploited for the reduction of disease severity (Huber & Watson, 1974;
+Engelhard, 1989; Huber & McCay-Buis, 1993). In parti cular, nitrogen, and the form of nitrogen used, can be influential. For example, black root rot complex (  Rhizoc tonia fragariae  /  
+Pratylenchus penetrans  ) of strawberries was suppressed by application of (NH  4  )  2  SO  4   (Elmer &LaMondia, 1999), and  
+C. phomoides   was controlled using NH  4  -N fertilizer (Williams, 1965). However, the severity of fusarium disease of tomato (Duffy & Dèfago, 1999) and anthracnose (  
+C. gossypii  ) of cotton (Huber &
+Watson, 1974) was elevated with NH  4  -N. Similarly, rice blast disease (  
+Magnaporthe grisea  ) is exacerbated in the presence of excess nitrogen (Teng, 1994). In contrast, when calcium was applied, tomato showed increased resistance to fusarium wilt (Woltz  et al  ., 1992).
+Little is currently known about the influence of plant nutrition on anthracnose of strawberry. The purpose of this study was to investigate the effects of concentration of nitrogen, phosphorus, potassium and calcium on the development of strawberry anthracnose, with the aim of developing practical strategies to manage the disease.  Materials and methods  Plant preparation  
+Tissue-cultured seedlings of strawberry cv. Nyoho at the three-leaf stage were transplanted into 15 cm (1·6 L) plas tic pots containing perlite. Transplants were irrigated for a month with distilled water to leach out nutrients con tained in the perlite. This also lowered the tissue nutrient content of the strawberry plants. Following this, plants  *E-mail: hgkim@cnu.ac.kr  
+Accepted 13 August 2005  © 2006 BSPP  
+Plant Pathology   (2006)  55  , 246–249  
+Effects of N, P, K and Ca on strawberry anthracnose  247 were watered with the nutrient treatment solution every 2 days for 50 days.  Nutrient solutions  
+Hoagland nutrient solution (Hoagland & Arnon, 1950) was modified to make treatment solutions containing 0, 5, 10, 15, 20 and 30 m  m   nitrogen; 0, 0·25, 0·5, 0·75, 1 and 3 m  m   phosphorus; 0, 10, 20 and 30 m  m   potassium; or 0, 1·5, 3, 4·5 and 6·0 m  m   calcium. The composition and chemical sources of micronutrients are shown in Table 1.
+The pH of all treatment solutions were adjusted to 6·5 using 1 N HCl or KOH. The effect of the form of nitrogen was tested by comparing 5, 10 and 15 m  m   nitrate and ammonium compounds.  Cultural practice  
+The experimental design was a completely randomized plot with five replications. Pots were placed 25 cm apart in rows. The experiment was conducted in a glasshouse with a temperature range of 17–18  °  C at night and 24– 28  °  
+C during the day. The relative humidity ranged from 40 to 80%, and daylight intensity from 550 to 1200 mol m  −  2   s  −  1   during the experimental period.  Plant analysis  
+Plant tissue was sampled from shoots after 1 month of nutrient solution treatments. Tissue samples were washed with 0·2 N HCl for 1 min, rinsed with distilled water, dried for 2 days at 70  °  
+C, and ground in a Wiley mill to pass through the 1 mm particle size sieve. Total N was deter mined by a modified Kjeldahl procedure which included a salicylic acid pretreatment to aid in the reduction of NO  3  (Eastin, 1978). Tissue used for P, K and Ca analysis was dry-ashed at 500  °  
+C, dehydrated in HCl and finally dissolved in 0·5 N HCl. Analysis of K and Ca was done by atomic absorption spectrometry, and colorimetric analysis was performed for P (Chapman & Pratt, 1961).  
+Inoculation and disease assessment  
+Growth characteristics were determined for plants after 1 month of nutrient solution treatments. Inoculum of  
+C. gloeosporioides   (CGF43) was prepared at 10  6   conidia mL  −  1   and sprayed on the plants. The inoculated plants were incubated in dew chamber at 30  °  
+C and 100% RH for 2 days and then moved to a glasshouse held between 24 and 28  °  
+C (Gupton & Smith, 1991). After 17 days, the disease severity on each plant was rated. Disease severity was rated as a disease index (DI) on a scale of 0–4, as follows: 0, healthy; 1, < 50% of petioles affected; 2,  ≥   50% of petioles affected; 3, wilted; 4, necrosis formed on entire plants (Ishikawa  et al  ., 1989).  Data analysis  
+Data from nutrient concentrations and different nitrogen source trials were subjected to analysis of variance, and treatment means were compared by Duncan’s multiple range test at  
+P   = 0·05. The relationships between nutrient concentrations and dry weight, and nutrient concentra tions and disease index, were evaluated using regression analysis (Duffy & Dèfago, 1999; Choi  et al  ., 2000). All data analysis was performed using the SAS program (SASInstitute, Inc., USA).  Results and discussion  
+Dry weight of strawberry plants was greatest when provided with 30 m  m   nitrogen, 1 m  m   phosphorus, 10 m  m   potassium, and 3 m  m   calcium (Table 2).
+Anthracnose symptoms first appeared in the nitrogen treatment approximately 2 weeks after inoculation. A positive correlation (adjusted (Adj)  
+R  2   = 0·96) was found between nitrogen concentration of treatment solution and anthracnose disease (Fig. 1a). Disease was greatest (DI  ∼  3) at a nitrogen concentration of 30 m  m  . Anthracnose tended to be more severe in treatments receiving NH  4   than
+NO  3  , but these differences were not significant according to Duncan’s multiple range test (  
+P =   0·05) (Fig. 2). A similar positive relationship (adjusted  
+R  2   = 0·84) between disease and potassium concentration of treatment solution was shown, with a maximum DI of  ∼  3 at 30 m  m   potassium 
+Table 1 Composition of nutrient solutions applied to strawberry plants  Treatment (mM) Nutrient N P K Ca Mg SO4 
+N 0 0 2 14 5 2 5 5 5 2 14 5 2 5 10 10 1 14 5 2 5 15 15 1 14 5 2 5 20 20 1 14 5 2 5 30 30 1 14 5 2 5 
+P 0 15 0 15 5 2 5 0·25 15 0·25 14·25 5 2 5 0·5 15 0·5 14·5 5 2 5 0·75 15 0·75 14·75 5 2 5 1 15 1 15 5 2 5 3 15 3 17 5 2 5 
+K 0 15 1 0 5 2 2 10 15 1 10 5 2 2 20 15 1 20 5 2 4 30 15 1 30 5 2 6 
+Ca 0 15 1 15 0 2 2 1·5 15 1 15 1·5 2 2 3·0 15 1 15 3·0 2 2 4·5 15 1 15 4·5 2 2 6·0 15 1 15 6·0 2 2 
+The following micronutrients were applied to all pots: MnCl2·4H2O (1·8 g L−1), H3BO3 (2·86 g L−1), ZnSO4·7H2O (0·22 g L−1), CuSO4·5H2O (0·08 g L−1), H2MoO4·H2O (0·09 g L−1), Na2FeEDTA (0·79 g L−1).  13653059, 2006, 2, D ow nloaded from  https://bsppjournals.onlinelibrary.w iley.com /doi/10.1111/j.1365-3059.2006.01322.x by N ational Y ang M ing C hiao T ung U niversity, W iley O nline L ibrary on [20/07/2024]. See the T erm s and C onditions (https://onlinelibrary.w iley.com /term s-and-conditions) on W iley O nline L ibrary for rules of use; O 
+A  articles are governed by the applicable C reative C om m ons L icense  © 2006 BSPP  
+Plant Pathology   (2006)  55  , 246–249  248  M. H. Nam  et al. (Fig. 1c). In contrast, neither increasing concentrations of calcium (  
+P =   0·62) nor those of phosphorus (  
+P =   0·68) had a patterned effect on disease (Fig. 1b and d). For all treatments, the relative dry matter content of each nutrient in the test plants increased with increasing concentration in the treatment solution (Fig. 1).
+Previous studies have shown correlations between nitrogen concentration and severity of anthracnose, as in the case of cotton (Huber & Watson, 1974). Previously,
+Choi  et al  . (2000) showed that, as tissue nitrogen content decreased, Ca and Mn contents, which have a direct role in phenolic metabolism, increased in the strawberry. Man ganese may increase synthesis of host defence products and thereby reduce disease incidence and/or severity (Huber & McCay-Buis, 1993), whilst calcium has been shown to inhibit anthracnose (caused by  C. gloeosporio ides   or  
+C. acutatum  ) in apples (Biggs, 1999) and decrease postharvest disease development on strawberry (Cheour  et al  ., 1990). Woltz  et al  . (1992) also found that treatment with CaCO  3   (3·0 kg m  −  3  ) in tomato reduced fusarium crown rot disease. Calcium may be important for resist ance against certain cell-wall-degrading enzymes pro duced by fungal pathogens (Conway & Sams, 1984; Biggs & Peterson, 1990). However, in this study, no effect was found of calcium content on anthracnose disease in straw berry. As manganese content is increased under low nitro gen conditions in plants, additional work is needed to determine whether manganese levels are related to anthrac nose development. Phosphorus supplied as phosphite was effective at reducing phytophthora root and crown rot on tomato and pepper plants but also suppressed plant growth (Förster  et al  ., 1998). In the study reported here, Nutrient 
+Concentration giving greatest dry weight (mM) Regression equation R2 P 
+Nitrogen 30 y = 5·08 + 0·44x − 0·006x2 0·9078 0·02
+Phosphorus 1 y = 5·49 + 5·04x − 1·34x2 0·8842 0·03
+Potassium 10 y = 5·79 + 0·23x − 0·007x2 0·8587 0·37
+Calcium 3 y = 5·63 + 2·14x − 0·33x2 0·6526 0·34 
+Table 2 Analysis of regression relating concentration of individual nutrients to strawberry plant dry weight 
+Figure 1 Development of anthracnose (scatter plot with error bars) and nutrient concentration (vertical bars) in strawberry plants treated with different concentrations of nitrogen (a), phosphorus (b), potassium (c) and calcium (d). Disease index: 0, healthy; 1, < 50% petioles affected; 2, ≥ 50% petioles affected; 3, wilted; 4, necrosis formed on entire plants. Adjusted regression coefficients and line derivations in (a) and (c) were significant (P ≤ 0·05). Differences in (b) and (d) were nonsignificant (P ≥ 0·62). Error bars represent ± standard error of mean.  13653059, 2006, 2, D ow nloaded from  https://bsppjournals.onlinelibrary.w iley.com /doi/10.1111/j.1365-3059.2006.01322.x by N ational Y ang M ing C hiao T ung U niversity, W iley O nline L ibrary on [20/07/2024]. See the T erm s and C onditions (https://onlinelibrary.w iley.com /term s-and-conditions) on W iley O nline L ibrary for rules of use; O 
+A  articles are governed by the applicable C reative C om m ons L icense © 2006 BSPP Plant Pathology (2006) 55, 246–249 
+Effects of N, P, K and Ca on strawberry anthracnose 249 phosphorus concentration had no influence on anthrac nose development.
+Strawberry prefers NH4 to NO3 nitrogen for optimal growth (Park, 1990). Other studies have shown the use of the former increases cotton anthracnose (Bollenbacher & Fulton, 1971) and fusarium crown rot severity (Woltz et al., 1992) more than the use of nitrate. It was found on average that strawberry plants receiving ammonium nitrogen had more disease than those receiving nitrate treatments, but these differences were not significant.
+It has been shown that increasing nitrogen and potas sium in nutrient solutions resulted in higher dry matter percentages of both elements in strawberry but also increased the severity of anthracnose. To decrease anthrac nose in strawberries, it is suggested that a minimum of nitrogen and potassium should be present in any fertilizer used and that this should not exceed 15 and 10 units of nitrogen and potassium, respectively.References 
+Anonymous, 2004. 2003 Vegetable Production Results. 
+Gwacheon, Korea: Ministry of Agriculture and Forestry of Korea.
+Biggs AR, 1999. Effects of calcium salts on apple bitter rot caused by two Colletotrichum spp. Plant Disease 83, 1001–5.
+Biggs AR, Peterson CA, 1990. Effect of chemical applications to peach bark wounds on accumulation of lignin and suberin and susceptibility to Leucostoma persoonii. Phytopathology 80, 861–5.
+Bollenbacher K, Fulton ND, 1971. Effects of nitrogen compounds on resistance of Gossypium arboreum seedlings to Colletotrichum gossypii. Phytopathology 61, 1394–5.
+Chapman HD, Pratt PF, 1961. Method of Analysis for Soil, 
+Plants and Waters. Berkeley, CA, USA: University of 
+California Division of Agricultural Science. 
+Cheour F, Willemot C, Arul J, Desjardins Y, Makhlouf J, 
+Charest PM, Gosselin A, 1990. Foliar application of calcium chloride delays postharvest ripening of strawberry. Journal of the American Society for Horticultural Science 115, 789–92.
+Choi JM, Jeong SK, Cha KH, Chung HJ, Seo KS, 2000. 
+Deficiency symptom, growth characteristics, and nutrient uptake of ‘Nyoho’ strawberry as affected by controlled nitrogen concentrations in fertilizer solution. Journal of the Korean Society for Horticultural Science 41, 339–44.
+Conway WS, Sams CE, 1984. Possible mechanisms by which postharvest calcium treatment reduces decay in apples. Phytopathology 74, 208–10.
+Duffy BK, Dèfago G, 1999. Macro- and microelement fertilizers influence the severity of Fusarium crown and root rot of tomato in a soilless production system. HortScience 34, 287–91.
+Eastin EF, 1978. Total nitrogen determination for plant material containing nitrate. Analytical Biochemistry 85, 591–4.
+Elmer WH, LaMondia JA, 1999. Influence of ammonium sulfate and rotation crops on strawberry black root rot. Plant Disease 83, 119–23.
+Engelhard AW, ed., 1989. Soilborne Plant Pathogens: 
+Management of Diseases with Macro- and Microelements. St Paul, MN, USA: APS Press. 
+Förster H, Adaskaveg JE, Kim DH, Stanghellini ME, 1998. 
+Effect of phosphite on tomato and pepper plants and on susceptibility of pepper to Phytophthora root and crown rot in hydroponic culture. Plant Disease 82, 1165–70.
+Gupton CL, Smith BJ, 1991. Inheritance of resistance to 
+Colletotrichum species in strawberry. Journal of the American 
+Society for Horticultural Science 116, 724–7.
+Hoagland DR, Arnon DI, 1950. The Water-Culture Method for 
+Growing Plants Without Soil. Berkeley, CA, USA: University of California Agricultural Experiment Station. Circular 347.
+Huber DM, McCay-Buis TS, 1993. A multiple component analysis of the take-all disease of cereals. Plant Disease 77, 437–47.
+Huber DM, Watson RD, 1974. Nitrogen form and plant disease. 
+Annual Review of Phytopathology 12, 139–65.
+Ishikawa S, Nakayama K, Ogane Z, 1989. Reactions of some strawberry cultivars to infection of strawberry anthracnose. 
+Proceedings of the Kanto-Tosan Plant Protection Society 36, 85–6.
+Kim WG, Cho WD, Lee YH, 1992. Anthracnose of strawberry caused by Colletotrichum gloeosporioides Penz. Korean 
+Journal of Plant Pathology 8, 213–5.
+Kim HG, Nam MH, 1999. Anthracnose of strawberry in Korea. 
+Plant Disease Agriculture 5, 8–13.
+Nam MH, Jung SK, Yoo SJ, Seo KS, Kim HG, 1998. Cultural and pathogenic characteristics between Colletotrichum gloeosporioides and Glomerella cingulata isolated from strawberry in Korea. Korean Journal of Plant Pathology 14, 654–60.
+Oda Y, 1991. The strawberry in Japan. In: Dale A, Luby JJ, eds. 
+The Strawberry into the 21st Century. Portland, OR, USA: Timber Press, 36–46.
+Park SH, ed., 1990. The Technique for Hydroponic Culture. 
+Suwon, Korea: Rural Development Administration. 
+Teng PS, 1994. The epidemiological basis for blast management. 
+In: Zeigler RS, Leong SA, Teng PS, eds. Rice Blast Disease. 
+Wallingford, UK: CABI & IRRI, 409–33.
+Williams FJ, 1965. Antecedent nitrogen sources affecting virulence of Colletotrichum phomoides. Phytopathology 55, 333–5.
+Woltz SS, Jones JP, Scott JW, 1992. Sodium chloride, nitrogen source and lime influence Fusarium crown rot severity in tomato. HortScience 27, 1087–8.
+Figure 2 Comparison of anthracnose severity between strawberry plants treated with different nitrogen sources. Disease index: 0, healthy; 1, < 50% petioles affected; 2, ≥ 50% petioles affected; 3, wilted; 4, necrosis formed on entire plants. Vertical bars represent ± standard error of mean.  13653059, 2006, 2, D ow nloaded from  https://bsppjournals.onlinelibrary.w iley.com /doi/10.1111/j.1365-3059.2006.01322.x by N ational Y ang M ing C hiao T ung U niversity, W iley O nline L ibrary on [20/07/2024]. See the T erm s and C onditions (https://onlinelibrary.w iley.com /term s-and-conditions) on W iley O nline L ibrary for rules of use; O 
+A  articles are governed by the applicable C reative C om m ons L icense 

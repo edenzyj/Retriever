@@ -1,0 +1,235 @@
+PDIS09171516RE 1283..1289 
+Identification and Characterization of Colletotrichum Species Associated with Mango Anthracnose in Guangxi, China 
+Jianyou Mo, Institute of Plant Protection, Guangxi Academy of Agricultural Sciences, Nanning, Guangxi, 530007, China, and Guangxi Key
+Laboratory of Biology for Crop Diseases and Insect Pests, Nanning, Guangxi, 530007, China; Guang Zhao, Department of Guangxi Forestry
+Pest Management, Nanning, Guangxi, 530028, China; Qili Li,† Ghulam S. Solangi, Lihua Tang, Tangxun Guo, and Suiping Huang, In stitute of Plant Protection, Guangxi Academy of Agricultural Sciences, Nanning, Guangxi, 530007, China, and Guangxi Key Laboratory of
+Biology for Crop Diseases and Insect Pests, Nanning, Guangxi, 530007, China; and Tom Hsiang, School of Environmental Sciences, Univer sity of Guelph, ON, Canada Abstract 
+Mango (Mangifera indica) is widely grown across southern China, especially in the provinces of Guangxi, Hainan, Yunnan, Sichuan, and
+Taiwan. Guangxi itself has over 86,667 ha of mango production. The purpose of this study was to identify Colletotrichum species associated with mango in different parts of Guangxi and examine their pathogenicity on leaves and fruits of mango in vitro. Diseased leaves were collected from 25 mango orchards in different areas of Guangxi province. Sixty five isolates were obtained from mango leaves with anthracnose symp toms, and these were further characterized based on morphology and
+DNA sequencing. Twenty-nine isolates from different areas were se lected for sequencing and analyses of the internal transcribed spacer region, glyceraldehyde-3-phosphate dehydrogenase, partial actin, b-tubulin, and chitin synthase genomic regions. The most common fungal isolates were these three species: Colletotrichum asianum,
+C. fructicola, and C. siamense. C. asianum was the most common and widely distributed in Guangxi (51.7%), followed by C. fructicola (37.9%) and C. siamense (10.2%), both found in Tiandong, Tianyang, and Wuming counties. There was no evidence of geographical speciali zation of the different species. Pathogenicity assays showed that all iso lates were pathogenic to mango leaves and fruit (cultivar Tainong). No relationship was found between origin of isolates and their virulence.
+This is the first description of C. asianum, C. fructicola, and C. siamense as causal agents of mango leaf anthracnose from Guangxi province,China.
+Mango, Mangifera indica (L.), is considered one of the most im portant tropical or subtropical fruit crops (Nelson 2008). In China, mango is cultivated mainly in southern and southwestern provinces.
+The planted area of mango was almost 130,000 ha, producing almost 900,000 tons in China during 2012 (Li et al. 2013). Guangxi province is the largest producing area of mango in China, and the mango indus try contributes significantly to the local economy of Guangxi (Li et al.
+2013). Anthracnose disease of mango caused by several Colletotri chum species is considered the most important disease of mango in
+China (Hong et al. 2016). Mango anthracnose is mainly caused by
+Colletotrichum gloeosporioides, but sometimes C. acutatum has also been reported as the causal agent (Freeman et al. 1998; Jayasinghe and
+Fernando 2009; Phoulivong et al. 2010). Mango anthracnose appears as irregularly shaped, black necrotic spots on upper and lower sides of mango leaves. Symptoms can also be found on stalks and flowers. Al thoughmany parts of the plant may be affected, themajor losses occur during ripening and postharvest, when black lesions appear on mango fruit surfaces (Arauz 2000; Freeman et al. 1998).
+Identification and characterization of Colletotrichum species is usually based on morphological characteristics (Hyde et al. 2009;
+Photita et al. 2005), such as conidial morphological, production of perithecia (Freeman et al. 2000), and sensitivity to benomyl (Valero et al. 2010). However, morphological differences are not sufficient to separate Colletotrichum species because there are differences for the same specimen when grown in the lab and under different growth conditions. Hence, molecular techniques are needed to separate species of Colletotrichum and to examine genetic variation within and between species and populations (Cai et al. 2009; Hyde et al.
+2009; Phoulivong et al. 2010). Studies on the systematics of Colleto trichum species recently have placed species of this genus into nine major clades plus small clusters and isolated species, with clades probably representing species complexes (Cannon et al. 2012).
+The internal transcribed spacer region (ITS) of ribosomal DNA has been frequently used to separate Colletotrichum species (Freeman et al.
+2000) but not always satisfactorily (Cannon et al. 2012). Other markers, such as actin (ACT), b-tubulin (TUB2), chitin synthase 1 (CHS-1), and glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene have been used to resolve relationships among Colletotrichum spe cies (Weir et al. 2012). Considering recent changes in classification of Colletotrichum species, and the lack of information on the iden tity and characteristics of isolates causing mango anthracnose in
+China, the objectives of this study were as follows: (i) identify and characterize species of Colletotrichum associated with mango anthracnose in Guangxi, China, based on morphology and DNA se quence comparisons; (ii) examine virulence of isolates from different parts of Guangxi province and whether there are geographical differ ences; and (iii) investigate relationships among isolates ofColletotrichum spp. from mango using sequences of ITS, ACT, TUB2, CHS-1, andGAPDH.Materials and Methods
+Fungal isolation. Mango leaves with symptoms of anthracnose were collected from production fields of six counties (Tiandong,
+Tianyang, Tianlin, Youjiang, Wuming, and Qinzhou) in Guangxi province, ranging over an area of 450 by 300 km. Small (3 × 3-mm) sections were cut from lesion margins and were surface sterilized in 75% ethanol for 15 s and 0.1% (v/v) mercuric chloride for 45 s, followed by rinses in sterile water. The sections were then plated onto potato dextrose agar (PDA) and incubated at 25°C. Fungal growth was examined daily up to 14 days. Isolates were subcultured onto fresh PDA and purified by single-spore culture. Isolates were stored on PDA slants at 4°C. †Corresponding author: Qili Li; E-mail: 65615384@qq.com, liqili@gxaas.net 
+Funding: The research was supported by National Natural Science Founda tion of China (Grant No. 31600029, 31560526), Guangxi Natural Science
+Foundation (Grant No. 2016GXNSFCB380004), Guangxi Key Laboratory of Biology for Crop Disease and Insect Pests (Grant No. 15-140-45-ST-2), and Foundation for Development of Science and Technology Guangxi Acad emy of Agricultural Sciences (2016JZ24, 2017JZ01).
+Accepted for publication 29 December 2017. © 2018 The American Phytopathological Society 
+Plant Disease / July 2018 1283 
+Plant Disease • 2018 • 102:1283-1289 • https://doi.org/10.1094/PDIS-09-17-1516-RE mailto:65615384@qq.com mailto:liqili@gxaas.net https://doi.org/10.1094/PDIS-09-17-1516-RE 
+Morphological characterization. Isolates were cultured on PDA plates at 25°C under continuous fluorescent light for 5 days. Plugs (6-mmdiameter) from colonymargins were placed in the center of each 90-mm-diameter plate with four replications. The colony color and culture diameters (two perpendicular directions) were recorded after 3, 7, and 10 days at 25°C. Colony diameters were used to calculate hyphal growth rate (mm/day). Isolates were incubated at 25°C for 21 days on PDA plates to examine conidial production and the shape and size of conidia. The length and width of 150 conidia per isolate were measured.
+DNA isolation, polymerase chain reaction (PCR), and sequencing. Isolates were cultured on PDA in Petri plates overlaid with cellophane for 7 days at 25°C. Mycelia were harvested with a flamed spatula, and genomic DNA of the isolates was extracted with the cetyltrimethyl ammonium bromide method (Taylor et al.
+1993). All strains in this study were subjected to analysis of the rDNA-ITS, partial GAPDH, partial ACT, partial TUB2, and partial
+CHS-1 genomic regions (Table 1). PCR amplification of GAPDH was done using the primers GDF1 and GDR1 (Templeton et al.
+1992) and that of CHS-1 with CHS79F and CHS354R (Carbone and Kohn 1999). The partial ACT, TUB2, and ITS regions were am plified with the primer pairs ACT512F and ACT783R (Carbone and
+Kohn 1999), T1 and Bt2b (Glass and Donaldson 1995), and ITS1 and
+ITS4 (White et al. 1990), respectively. All PCR reactions were con ducted in 50-ml volumes containing 1× PCR buffer, 0.2 mM concen trations of each dNTP, 4 mMMgCl2, 0.5 mM concentrations of each 
+Table 1. Primers used for PCR amplification and DNA sequencing 
+Genez Primer Primer sequences References 
+Actin ACT-512F ATGTGCAAGGCCGGTTTCGC Carbone and Kohn (1999)ACT-783R TACGAGTCCTTCTGGCCCAT 
+GAPDH GDF1 GCCGTCAACGACCCCTTCATTGA Guerber et al. (2003)
+GDR1 GGGTGGAGTCGTACTTGAGCATGT Templeton et al. (1992) 
+CHS-1 CHS I-79F TGGGGCAAGGATGCTTGGAAGAAG Carbone and Kohn (1999)
+CHS I-354R TGGAAGAACCATCTGTGAGAGTTG b-Tubulin T1 AACATGCGTGAGATTGTAAGT O’Donnell et al. (2000) bt2b ACCCTCAGTGTAGTGACCCTTGGC Glass and Donaldson (1995) 
+ITS ITS1 TCCGTAGGTGAACCTGCGG White et al. (1990)
+ITS4 TCCTCCGCTTATTGATATGC z GAPDH = glyceraldehyde-3-phosphate dehydrogenase; CHS-1 = chitin synthase; and ITS = rDNA internal transcribed spacer region.
+Table 2. Sequences of Colletotrichum isolates used in the phylogenetic study Species Culturey Host Country GenBank accession numbersz ITS GAPDH ACT CHS-1 TUB2 
+C. asianum IMI 313839 Mangifera indica Australia JX010192 JX009915 JX009576 JX009753 JX010384
+ICMP 18580 Coffea arabica Thailand FJ972612 JX010053 JX009584 JX009867 JX010406 
+C. fructicola ICMP 18613 Limonium sinuatum Israel JX010167 JX009998 JX009491 JX009772 JX010388
+ICMP 18727 Fragaria ananassa U.S.A. JX010179 JX010035 JX009565 JX009812 JX010394 
+C. ignotum CBS 125397 Tetragastris panamensis Panama JX010173 JX010032 JX009581 JX009874 JX010409
+UASB-Cg-50 Pepper India JN248667 JN861219 JN861154 KC790583 JN861169 
+C. siamense ICMP 12567 Persea americana Australia JX010250 JX009940 JX009541 JX009761 JX010387
+ICMP 17795 Malus domestica U.S.A. JX010162 JX010051 JX009506 JX009805 JX010393
+ICMP 18121 Dioscorea rotundata Nigeria JX010245 JX009942 JX009460 JX009845 JX010402 
+C. gloeosporioides IMI 356878 Citrus sinensis Italy JX010152 JX010056 JX009531 JX009818 JX010445
+C. acutatum CBS 126521 Anemone hybride Netherlands JQ948366 JQ948697 JQ949687 JQ949027 JQ950017
+C. aenigma ICMP 18686 Pyrus pyrifolia Japan JX010243 JX009913 JX009519 JX009789 JX010390C. aeschynomenes ICMP 17673*, ATCC 201874
+Aeschynomene virginica U.S.A. JX010176 JX009930 JX009483 JX009799 JX010392 
+C. alienum IMI 313842, ICMP 18691 Persea americana Australia JX010217 JX010018 JX009580 JX009754 JX010385
+C. nupharicola CBS 469.96, ICMP 17938 Nuphar lutea subsp. polysepala
+U.S.A. JX010189 JX009936 JX009486 JX009834 JX010397 
+C. queenslandicum ICMP 1778* Carica papaya Australia JX010276 JX009934 JX009447 JX009899 JX010414
+C. aotearoa ICMP 18532 Vitex lucens New Zealand JX010220 JX009906 JX009544 JX009764 JX010421C. musae CBS 116870*, ICMP 19119
+Musa sp. U.S.A. JX010146 JX010050 JX009433 JX009896 HQ596280 
+C. salsolae ICMP 19051* Salsola tragus Hungary JX010242 JX009916 JX009562 JX009863 JX010403
+C. siamense (syn. C. hymenocallidis) CBS 125378(*),ICMP 18642 
+Hymenocallis americana China JX010278 JX010019 GQ856775 GQ856730 JX010410 
+C. ti ICMP 5285 Cordyline australis New Zealand JX010267 JX009910 JX009553 JX009897 JX010441
+C. theobromicola ICMP 18566 Olea europaea Australia JX010282 JX009953 JX009496 JX009801 JX010376C. xanthorrhoeae BRIP 45094*, ICMP 17903,CBS 127831 
+Xanthorrhoea preissii Australia JX010261 JX009927 JX009478 JX009823 JX010448 y IMI = culture collection of CABI Europe UK Centre, Egham, UK; ICMP = International Collection of Microorganisms from Plant, Landcare Research, Auck land, New Zealand; CBS = CBS-KNAW, Fungal Biodiversity Centre, Utrecht, Netherlands; UASB =University of Agricultural Sciences, Bangalore, India; and
+BRIP = Plant Pathology Herbarium, Department of Employment, Economic, Development and Innovation, Queensland, Australia. z ITS = rDNA internal transcribed spacer region; ACT = actin gene; GAPDH = glyceraldehyde-3-phosphate dehydrogenase; CHS-1 = chitin synthase; TUB2 = b-tubulin; and * = ex-holotype or ex-epitype cultures. 1284 Plant Disease /Vol. 102 No. 7 primer, 0.5 units of Taq DNA polymerase (Takara), and 1 ml of tem plate DNA (20 ng/ml). The PCR program for GAPDH, ACT, and
+TUB2 included a denaturation step at 94°C for 2 min, followed by 35 cycles at 94°C for 45 s, 60°C for 45 s, and 72°C for 1 min, and a final cycle at 72°C for 10 min. The PCR program for the ITS region included a 2-min denaturing step at 94°C followed by 34 cycles at 94°C for 1 min, 55°C for 30 s, and 72°C for 1 min, and a final cycle of 10 min at 72°C. The amplification products were sent to Shanghai
+Sangon Company for purification and sequencing. Sequences of mango Colletotrichum isolates obtained from Guangxi were submit ted to GenBank. Phylogenetic analyses. Sequences were edited and assembled using DNAMAN (version 5.2.2; Lynnon Biosoft) to produce con sensus sequences that were compared by BLAST (Altschul et al.
+1990) against the NCBI nonredundant database. Sequences from extype or ex-epitype isolates of Colletotrichum species from GenBank were selected for use in the phylogenetic analyses (Table 2). Sequence alignments of each gene and combined genes weremadewithClustalX version 1.83. Phylogenetic trees were constructed with MEGA4 soft ware version 4.0 using the maximum parsimony method.
+Pathogenicity and virulence on mango tissues. Select isolates were used for pathogenicity and virulence tests on detached fruits and leaves of mango (cultivar Tainong) in controlled conditions. Iso lates were incubated on PDA plates for 7 to 10 days at 25°C in the laboratory. Fresh young leaves and fresh harvested mango fruits without visible disease from Tiandong, Guangxi, were used for inoc ulation. The leaves and mango fruits were washed with running wa ter, surface sterilized in 70% ethanol for 30 s and 1% NaClO for 1 min, and finally rinsed with sterile distilled water.
+After air drying, detached young healthy leaves (12 to 15 cm) were placed into plastic containers (252 × 174 × 93 mm) lined with moist absorbent paper and, and six stab wounds were made in the midre gion forming a circle with a 5 mm diameter using a sterilized needle.
+Hyphal plugs from actively growing margins of PDA cultures were placed on each wound spot on the leaves. The experiment was completely randomized with three replicates per isolate involving five leaves per replicate. Fifteen leaves were inoculated for each iso late, and in controls, leaves were treated with sterile agar plugs. The containers were partially sealed in plastic and incubated at 25°C in the dark in a growth chamber. Virulence was assessed by measuring lesion length at 7 days post inoculation (DPI) in two perpendicular directions on each leaf.
+After washing and air drying, nearly ripened mango fruits (~200 g) were wounded in the protruding fleshy parts by stabbing with a flamed needle through the skin a depth of 3 mm, again forming a cir cle with a 5 mm diameter. Mycelial plugs of 6-mm diameter from
+PDA cultures were placed on wound sites. Control treatments used sterile agar plugs. Inoculated fruits were placed in plastic containers (252 × 174 × 93mm) overlaid with moist absorbent paper to maintain humidity. The containers were placed in unsealed bags and incubated at 25°C in the dark. Fruits were checked for development of symptoms up to 10 days. Isolates were considered pathogenic when lesions ex panded beyond the 5-mm diameter initial wound site. Virulence was evaluated by measuring lesion length at 10 DPI in two perpendicular directions. Significant differences in virulence caused were assessed by an analysis of variance, and when significant treatment effects were found, means were compared by LSD (P = 0.05) using Data Process ing System software (DPS 3.0) for Windows (Zhejiang University,Hangzhou, China). Results
+Fungal isolation. From 2011 to 2014, leaves of mango with anthracnose symptoms were collected from 25 mango orchards in
+Guangxi province, China. At least one isolate from each field was chosen for further analysis. In total, 65 Colletotrichum isolates were obtained from different areas of Guangxi, and 29 single-spore 
+Table 3. Mango isolates of Colletotrichum spp. from Guangxi used in the study and their GenBank accession numbers for several genomic regions 
+Isolate Species Geographic area GenBank accession numbersz ACT TUB2 GAPDH CHS-1 ITS 
+NN19 C. asianum Tuanluo, Nanning MF039745 MF039774 MF040763 MF039803 MF039832
+WM52 C. asianum Lijian, Wuming MF039746 MF039775 MF040764 MF039804 MF039833
+QZ-3 C. asianum Wuli, Lingshan MF039747 MF039776 MF040765 MF039805 MF039834
+TD6-7 C. asianum Sitang, Tiandong MF039748 MF039777 MF040766 MF039806 MF039835
+NN133 C. asianum Dingdang, Long’an MF039749 MF039778 MF040767 MF039807 MF039836
+LY12 C. asianum Junting, Lingyun MF039750 MF039779 MF040768 MF039808 MF039837
+LA130 C. asianum Dingdang, Long’an MF039751 MF039780 MF040769 MF039809 MF039838
+LA1 C. asianum Tanliang, Long’an MF039752 MF039781 MF040770 MF039810 MF039839
+NN105 C. asianum Jinlin, Nanning MF039753 MF039782 MF040771 MF039811 MF039840
+NN8 C. asianum Guangxi Subtropical Crops Research Institute MF039754 MF039783 MF040772 MF039812 MF039841
+BS13 C. asianum Youjiang, Baise MF039755 MF039784 MF040773 MF039813 MF039842
+NN7 C. asianum Guangxi Academy of Agricultural Sciences MF039756 MF039785 MF040774 MF039814 MF039843
+TL110 C. asianum Leli, Tianlin MF039757 MF039786 MF040775 MF039815 MF039844
+TL107 C. asianum Leli, Tianlin MF039757 MF039787 MF040776 MF039816 MF039845
+NKY-1 C. asianum Guangxi Academy of Agricultural Sciences MF039758 MF039788 MF040777 MF039817 MF039846
+WM01-2 C. fructicola Lijian, Wuming MF039759 MF039789 MF040778 MF039818 MF039847
+LZ120 C. fructicola Longzhou, Chongzuo MF039760 MF039790 MF040779 MF039819 MF039848
+NN10 C. fructicola Tunli, Nanning MF039761 MF039791 MF040780 MF039820 MF039849
+TD6-5 C. fructicola Sitang, Tiandong MF039762 MF039792 MF040781 MF039821 MF039850
+TD1 C. fructicola Pingma, Tiandong MF039763 MF039793 MF040782 MF039822 MF039851
+TL111 C. fructicola Leli, Tianlin MF039764 MF039794 MF040783 MF039823 MF039852
+NN20 C. fructicola Tanluo, Nanning MF039765 MF039795 MF040784 MF039824 MF039853
+TD8 C. fructicola Pingma, Tiandong MF039766 MF039796 MF040785 MF039825 MF039854
+WM03-1 C. fructicola Lijian, Wuming MF039767 MF039797 MF040786 MF039826 MF039855
+TD7 C. fructicola Sitang, Tiandong MF039768 MF039798 MF040787 MF039827 MF039856
+TD4 C. fructicola Pingma, Tiandong MF039769 MF039799 MF040788 MF039828 MF039857
+TD3 C. siamense Silin, Tiandong MF039770 MF039800 MF040789 MF039829 MF039858
+TY9 C. siamense Tianzhou, Tianyang MF039771 MF039801 MF040790 MF039830 MF039859
+WM03-2 C. siamense Lijian, Wuming MF039772 MF039802 MF040791 MF039831 MF039860 z ACT = actin gene; TUB2 = b-tubulin; GAPDH = glyceraldehyde-3-phosphate dehydrogenase; CHS-1 = chitin synthase; and ITS = rDNA internal transcribed spacer region.
+Plant Disease / July 2018 1285 isolates were used for further study (Table 3) (one isolate from each orchard, but for some large orchards more than one isolate was chosen for further study). Among the 29 isolates, 15 were identified as C. asianum, 11 as C. fructicola, and 3 as C. siamense using mor phological and molecular methods. Other species isolated such as species of Alternaria, Phomopsis, Botryosphaeria, or Pestalotia were not considered further in this study.
+Phylogenetic analyses. In the present study, 29 isolates from dif ferent areas were selected for sequencing and analyses of ITS,
+GAPDH, ACT, TUB2, and CHS-1. BLASTn searches of generated
+DNA sequences from 15 isolates against GenBank showed high sim ilarity (>99%) with the sequences of C. asianum, 11 isolates showed high similarity with the sequences of C. fructicola, and 3 isolates showed high similarity (99 or 100%)with the sequences ofC. siamense.
+Fig. 1. Phylogenetic tree using sequences of 29 Colletotrichum isolates from mango trees in Guangxi and from extype or ex-epitype isolates in GenBank using combined internal transcribed spacer, actin, glyceraldehyde-3-phosphate dehydrogenase, b-tubulin, and chitin synthase 1 genes. Bootstrap values > 50% (1,000 replication) are given at the nodes.
+Colletotrichum acutatum was used as the outgroup. Isolates from this study are emphasized in bold. 1286 Plant Disease /Vol. 102 No. 7 
+ACT, TUB2, CHS-1, GAPDH, and ITS sequences of Colletotri chum from mango trees in Guangxi province were submitted to
+GenBank (Table 3) and aligned with GenBank sequences of Colleto trichum species from different hosts and other countries (Table 2).
+The gene boundaries in the alignment were as follows: ACT (282 to 289 bp), TUB2 (699 to 701 bp), CHS-1 (299 bp), GAPDH (277 to 280 bp), and ITS (546 bp).
+A phylogenetic tree of 29 Colletotrichum isolates from this study and sequences from extype or ex-epitype isolates from GenBank us ing combined ITS, ACT, GAPDH, TUB2, and CHS-1 genes with maximum parsimony analysis is shown in Figure 1. The combined data set produced three well-separated clades. FifteenColletotrichum isolates composed a highly supported clade (99% bootstrap support) with C. asianum isolates ICMP18580 from Coffea arabica in Thai land and IMI313839 from Mangifera indica in Australia. Eleven isolates composed a supported clade (69% bootstrap support) with 
+C. fructicola isolates ICMP18727, ICMP18613, and ICMP12568 and
+C. ignotum (= C. fructicola) isolates ICMP125397 and UASB-Cg-50. Three isolates composed a supported clade (51% bootstrap support), which closed with C. siamense isolate ICMP17795. The diversity analyses from 29 isolates of Colletotrichum species showed the following distribution: 15 isolates (51.7%) belonging to C. asianum, 11 isolates (37.9%) to C. fructicola, and 3 isolates (10.2%) to C. siamense.
+Morphological and cultural characterization.All tested isolates developed white colonies that turned to gray to black after 14 days on
+PDA (Fig. 2). Colony sectoring was observed in 8 of 29 isolates.
+There was considerable variation in mycelial growth rate among the 29 isolates of Colletotrichum (Table 2). The average mycelial growth rate forC. asianumwas 6.7 to 10.7 mm/day, forC. fructicola, 7.3 to 12.4 mm/day, and for C. siamense, 9.4 to 11.1 mm/day.
+Conidia were all hyaline, guttulate, one-celled, and cylindrical. The 
+Fig. 2. Morphological characteristics of colonies and conidia of mango Colletotrichum isolates from Guangxi. Upper (A) and reverse (B) sides of C. asianum NN8 PDA plate at 14 days after inoculation; and conidia of C. asianum (C). Upper (D) and reverse (E) sides of C. fructicola isolate WM01-2 culture on PDA 14 days after inoculation; and conidia of
+C. fructicola (F). Upper (G) and reverse (H) sides of C. siamense isolate TY9 culture on PDA 14 days after inoculation; and conidia of C. siamense (I). Bars: 10 mm.
+Plant Disease / July 2018 1287 average conidial sizes for isolates wereC. asianum, 12.1 to 18.6 × 4.2 to 5.6 mm; C. fructicola, 14.1 to 20.2 × 3.7 to 4.3 mm; and C. sia mense, 15.0 to 18.5 × 5.0 to 5.5mm. The various Colletotrichum spe cies reported here showed differences in conidial size and growth rates (Table 4).
+Pathogenicity and virulence in tissues. All 29 tested isolates were pathogenic to mango leaves and fruits. Ripened fruits with an thracnose develop sunken, dark brown to black decay. The virulence of the 29 isolates of Colletotrichum from Guangxi province showed significant differences, with lesion diameters ranging from 7.0 to 30.0 cm on leaves and from 6 to 21 mm on fruits. The lesion diameter of C. asianum on leaves ranged from 9.2 to 28.2 mm and on fruits ranged from 6.2 to 21 mm. For C. fructicola it was 8.8 to 30.0 mm on leaves and 5.8 to 13.6 mm on fruits. For C. siamense it was 7.0 to 22.2 mm on leaves and 6.0 to 6.5 mm on fruits. The virulence of C. fructicola isolates TD1 and TD4 from the same field showed significant differences (P # 0.05) (Table 4).Discussion
+This is the first report characterizing Colletotrichum species asso ciated with anthracnose of mango in Guangxi province, China, using morphological identification and phylogenetic analysis. The mor phological features of the isolates agreed with the description of
+C. gloeosporioides, but cultural characteristics, which may be diverse owing to cultural conditions, and conidial morphology cannot distin guish between species within the C. gloeosporioides complex (Weir et al. 2012). Based on morphological identification, single gene se quence analysis, and the five-gene combined phylogenetic analysis, the isolates obtained from mango in Guangxi included in this study belong to the C. gloeosporioides complex. C. gloeosporioides has previously been shown to be the causal agent of tropical fruit rots in cludingmango, and the present study showed that all 29 isolates from mango leaves with anthracnose symptoms across a 450 by 300 km region belonged to the species complex C. gloeosporioides. In the contrast, Phoulivong et al. (2010) reported that C. gloeosporioides was not a common pathogen in the tropics and was not the cause of mango anthracnose in Thailand or Laos. The species complex C. gloeosporioides has been separated into many different species (Weir et al. 2012). Three species were found to be associated with mango leaf anthracnose: C. asianum, C. fructi cola, and C. siamense. These species have also been previously recorded from mango in Brazil (Phoulivong et al. 2010). Among the genomic regions tested, C. asianum, C. fructicola, and C. siamense could be separated by all except for ITS. This does not agree with the results of Weir et al. (2012), who found C. asianum can be separated from these other taxa using any of the genes tested, including ITS. ITS sequences do not reliably separate C. asianum, C. siamense, and
+C. fructicola, butC. siamense andC. fructicola can be distinguished us ing TUB2, and this agrees with the previous reports (Weir et al. 2012).
+C. asianum was well separated using five-gene combined phylo genetic analysis in this study, and it was the predominant species as sociated with mango in Guangxi, South China, in agreement with
+Vieira et al. (2014), who found that C. asianum was the most com mon endophytic species from mango trees. C. asianum is a well known pathogen of mangoes from India, Australia, Panama, andThailand (Sharma et al. 2015).
+Table 4. Morphological and virulence descriptions of Colletotrichum isolates from mango trees in Guangxi, China Isolate Conidial size (mm)xMycelial growth (mm/day)y
+Lesion diameter on mango leaves (mm)z
+Lesion diameter on mango fruit (mm)z C. asianum
+NN19 18.6 ± 0.5 × 5.6 ± 0.3 8.4 bcdef 12.6 bcd 18.2 hi
+WM52 17.8 ± 0.6 × 4.4 ± 0.3 7.9 bc 14.4 bcde 12.0 abcdefg
+TL107 17.3 ± 1.0 × 6.0 ± 0.4 9.2 efghi 28.2 ij 11.5 abcdefg
+TL110 16.4 ± 0.6 × 5.8 ± 0.3 9.5 fghij 14.0 bcde 9.7 abcdef
+BS13 15.6 ± 0.5 × 6.5 ± 0.4 8.3 bcde 9.2 b 13.5 defgh
+NN7 15.5 ± 0.4 × 4.7 ± 0.2 8.4 bcdef 15.4 bcdef 8.9 abcde
+LA1 15.2 ± 0.6 × 5.7 ± 0.3 8.9 cdefg 24.8 hij 12.4 bcdefg
+LY12 15.2 ± 0.5 × 4.9 ± 0.3 9.1 defgh 14.2 bcde 6.3 ab
+QZ-3 14.2 ± 0.8 × 5.8 ± 0.3 10.7 klmn 26.2 hij 15.2 fgh
+NN105 13.3 ± 0.5 × 4.6 ± 0.2 8.2 bcd 20.4 efgh 6.2 ab
+LA130 13.1 ± 0.5 × 5.2 ± 0.4 8.3 bcde 20.2 efgh 9.5 abcdef
+NN8 12.9 ± 0.4 × 4.8 ± 0.2 6.7 a 16.6 cdefg 16.6 gh
+TD6-7 12.4 ± 0.6 × 5.3 ± 0.3 10.5 jklmn 24.0 hij 21.1 i
+NN133 12.1 ± 0.5 × 4.2 ± 0.3 7.9 bc 14.6 bcde 12.6 cdefg
+NKY-1 16.7 ± 0.3 × 4.6 ± 0.3 9.9 hijkl 30.0 j 15.1 fgh C. fructicola
+TL111 20.2 ± 0.4 × 4.3 ± 0.3 10.7 jklmn 22.0 fghi 12.1 abc
+TD6-5 16.9 ± 0.3 × 4.8 ± 0.3 7.3 ab 8.8 b 6.3 ab
+TD4 15.4 ± 0.6 × 5.2 ± 0.4 10.3 ijklm 9.0 b 7.9 abcd
+TD7 15.3 ± 0.5 × 4.9 ± 0.2 10.9 lmno 26.0 hij 10.9 abcdef
+WM03-1 15.2 ± 0.3 × 4.0 ± 0.2 9.7 ghijk 25.0 hij 13.6 defgh
+TD8 15.0 ± 0.5 × 5.3 ± 0.4 10.8 klmn 23.0 ghij 8.7 abcde
+NN20 14.6 ± 0.7 × 4.6 ± 0.3 11.7 nop 30.0 j 7.9 abcd
+TD1 14.1 ± 0.8 × 3.7 ± 0.4 11.9 op 22.2 fghi 7.0 abc
+NN10 20.1 ± 0.5 × 4.2 ± 0.2 9.4 fghij 13.6 bcde 5.8 a
+WM01-2 17.2 ± 0.5 × 5.4 ± 0.2 12.4 p 18.8 defgh 10.9 abcdefg
+LZ120 14.9 ± 0.6 × 4.1 ± 0.2 9.5 ghijk 19.8 defgh 6.8 abc C. siamense
+TY9 18.5 ± 0.3 × 5.0 ± 0.3 11.1 mno 22.2 fghi 6.5 abcdefg
+TD3 15.4 ± 0.5 × 4.2 ± 0.1 10.4 ijklm 7.0 a 6.0 a
+WM03-2 15.0 ± 0.5 × 5.5 ± 0.3 9.4 fghij 10.6 bc 14.4 efgh x The length and width of 150 conidia per isolate on PDA were measured after 21 days at 25°C.
+y The colony diameter (mm) was measured in two perpendicular directions. The colony diameter data were used to calculate the mycelial growth rate (mm/day).
+z The virulence of the isolates was evaluated by measuring lesion length at 7 and 10 days postinoculation in two perpendicular directions on leaves and fruits, respectively. 1288 Plant Disease /Vol. 102 No. 7 
+C. fructicola is diverse morphologically and geographically. The species has been found on coffee berries (Thailand), Pyrus pyrifolia (Japan), Limonium (Israel), Malus sp. and Fragaria × ananassa (U.S.A.), Persea americana (Australia), Ficus sp. (Germany), Malus sp. (Brazil), Dioscorea sp. (Nigeria), Theobroma sp. and Tetragastris sp. (Panama) (Weir et al. 2012), and Vitis sp. (China) (Peng et al.
+2013). C. fructicola has been described in association with mango in
+Brazil and Korea (Joa et al. 2016); however, this is the first report of
+C. fructicola infecting mango in China. C. ignotum = C. fructicola (Weir et al. 2012), and our genetic analyses showed the isolates from these two species were in one clade but two subgroups.
+C. siamense has been associated with mango anthracnose in 
+Colombia (Pardo-De la Hoz et al. 2016) and on mango fruit (Qin et al. 2017) in Sanya, Hainan province, China, and also in postharvest of mango fruits from supermarkets in Changchun, northeast China (Liu et al. 2017), but this species is not common on mango in
+Guangxi province, and only three isolates were found to be C. sia mense. In this study, this species was not well separated from the
+C. gloeosporioides complex with the combined five genes, and more genes may be needed in future study.
+Pathogenicity tests using three species of Colletotrichum isolates showed that all species were pathogenic to mango leaves and fruits in wound-inoculation studies. Symptoms may vary considerably with factors such as variety and conditions of the fruit, humidity and temperature, and the inoculum concentration (Freeman et al. 1998).
+Hence, the observations from this study may not reflect the full vir ulence potential. Additional research should be conducted to deter mine the virulence potential of Colletotrichum species under field conditions with natural inoculum rather than just in vitro artificial inoculation.
+The Colletotrichum isolates from mango examined in this study showed diversity based on sequence analysis and morphological fea tures. Higher genetic diversity is often correlated with higher evolution ary potential andwith greater ability to adapt to changing environmental conditions (McDonald and Linde 2002). In addition, sensitivity of
+C. gloeosporioides andC. acutatum species frommango to carbendazim and thiabendazole are significantly different from each other in China (Hu et al. 2005). Such information can be used by pathologists and breeders to develop strategies and cultivars towardmore effective man agement of mango anthracnose disease. Future studies should focus on surveys of more isolates and tests on other features such as fun gicide sensitivity.Literature Cited
+Altschul, S. F., Gish, W., Miller, W., Myers, E. W., and Lipman, D. J. 1990. Basic local alignment search tool. J. Mol. Biol. 215:403-410.
+Arauz, L. F. 2000. Mango anthracnose: Economic impact and current options for integrated management. Plant Dis. 84:600-611.
+Cai, L., Hyde, K. D., Taylor, P. W. J., Weir, B., Waller, J. M., Abang, M. M., 
+Zhang, J. Z., Yang, Y. L., Phoulivong, S., Liu, Z. Y., Prihastuti, H., Shivas,
+R. G., McKenzie, E. H. C., and Johnston, P. R. 2009. A polyphasic approach for studying Colletotrichum. Fungal Divers. 39:183-204.
+Cannon, P. F., Damm, U., Johnston, P. R., and Weir, B. S. 2012. Colletotrichum—
+Current status and future directions. Stud. Mycol. 73:181-213.
+Carbone, I., and Kohn, L. 1999. A method for designing primer sets for speciation studies in filamentous ascomycetes. Mycologia 91:553-556.
+Freeman, S., Katan, T., and Shabi, E. 1998. Characterization of Colletotrichum species responsible for anthracnose diseases of various fruits. Plant Dis. 82:596-605.
+Freeman, S., Minz, D., Jurkevitch, E., Maymon,M., and Shabi, E. 2000.Molecular analyses of Colletotrichum species from almond and other fruits. Phytopathology 90:608-614.
+Glass, N. L., and Donaldson, G. C. 1995. Development of primer sets designed for use with the PCR to amplify conserved genes from filamentous ascomycetes.
+Appl. Environ. Microbiol. 61:1323-1330.
+Guerber, J. C., Liu, B., Correll, J. C., and Johnston, P. R. 2003. Characterization of diversity in Colletotrichum acutatum sensu lato by sequence analysis of two gene introns, mtDNA and intron RFLPs, and mating compatibility. Mycologia 95:872-895.
+Hong, K., Gong, D., Zhang, L., Hu, H., Jia, Z., Gu, H., and Song, K. 2016.
+Transcriptome characterization and expression profiles of the related defense genes in postharvest mango fruit against Colletotrichum gloeosporioides.Gene 576:275-283.
+Hu, M., Li, M., Yang, F., and Zheng, F. 2005. Biological characteristics of 2 species of Colletotrichum causing mango postharvest athracnose. Southw. China J. Agric. Sci. 18:306-310.
+Hyde, K. D., Cai, L., McKenzie, E. H. C., Yang, Y. L., Zhang, J. Z., and Prihastuti,
+H. 2009. Colletotrichum: A catalogue of confusion. Fungal Divers. 39: 183-204.
+Jayasinghe, C. K., and Fernando, T. H. P. S. 2009. First report of Colletotrichum acutatum onMangifera indica in Sri Lanka. Ceylon J. Sci. Biol. Sci. 38:31-34.
+Li, R. W., Huang, G. D., Su, M. H., Zhou, J. A., and Chen, Y. S. 2013. Status and developmental strategies of mango industry in China. J. South. Agric. 44: 875-878.
+Liu, L., Shu, J., Zhang, L., Hu, R., Chen, C., Yang, L. N., Lu, B. H., Liu, Y. N., Yu,
+L., Wang, X., and Li, Y. 2017. First report of post-harvest anthracnose on mango (Mangifera indica) caused by Colletotrichum siamense in China. Plant Dis. 101:833.
+McDonald, B. A., and Linde, C. 2002. The population genetics of plant pathogens and breeding strategies for durable resistance. Euphytica 124:163-180.
+Nelson, S. C. 2008. Mango Anthracnose (Colletotrichum gloeosporiodes).
+Publication PD-48. Cooperative Extension Service, College of Tropical Agriculture and Human Resources, University of Hawai’i at Manoa, U.S.A. 
+O’Donnell, K., Nirenberg, H. I., Aoki, T., and Cigelnik, E. 2000. A multigene phylogeny of the Gibberella fujikuroi species complex: Detection of additional phylogenetically distinct species. Mycoscience 41:61-78.
+Pardo-de la Hoz, C. J., Calderón, C., Rincón, A. M., Cárdenas, M., Danies, G.,
+López-kleine, L., Restrepo S., and Jiménez, P. 2016. Species from the
+Colletotrichum acutatum, Colletotrichum boninense and Colletotrichum gloeosporioides species complexes associated with tree tomato and mango crops in Colombia. Plant Pathol. 65:227-237.
+Peng, L. J., Sun, T., Yang, Y. L., Cai, L., Hyde, K. D., Bahkali, A. H., and Liu, Z. Y. 2013. Colletotrichum species on grape in Guizhou and Yunnan provinces,China. Mycoscience 54:29-41.
+Photita, W., Taylor, P. W., Ford, R., Hyde, K. D., and Lumyong, S. 2005.
+Morphological and molecular characterization of Colletotrichum species from herbaceous plants in Thailand. Fungal Divers. 18:117-133.
+Phoulivong, S., Cai, L., Chen, H., McKenzie, E. H., Abdelsalam, K., Chukeatirote,
+E., and Hyde, K. D. 2010. Colletotrichum gloeosporioides is not a common pathogen on tropical fruits. Fungal Divers. 44:33-43.
+Qin, L. P., Huang, S. L., Lin, S. H., and Lin, C. H. 2017. First report of anthracnose ofMangifera indica caused by Colletotrichum siamense in Sanya city in China. Plant Dis. 101:1038.
+Sharma, G., Gryzenhout, M., Hyde, K. D., Pinnaka, A. K., and Shenoy, B. D. 2015. First report of Colletotrichum asianum causing mango anthracnose in
+South Africa. Plant Dis. 99:725.
+Taylor, B. H., Manhart, J. R., and Amasino, R. M. 1993. Isolation and characterization of plant DNAs. Pages 37-65 in: Methods in Plant Molecular
+Biology and Biotechnology. B. R. Glick and J. E. Thompson, eds. CRCPress, Boca Raton, FL. 
+Templeton, M. D., Rikkerink, E. H., Solon, S. L., and Crowhurst, R. N. 1992.
+Cloning and molecular characterization of the glyceraldehyde-3-phosphate dehydrogenase-encoding gene and cDNA from the plant pathogenic fungus
+Glomerella cingulata. Gene 122:225-230.
+Valero, M., Garcı́a-Martı́nez, S., Giner, M. J., Alonso, A., and Ruiz, J. J. 2010.
+Benomyl sensitivity assays and species-specific PCR reactions highlight association of two Colletotrichum gloeosporioides types and C. acutatum with rumple disease on Primofiori lemons. Eur. J. Plant Pathol. 127: 399-405.
+Vieira, W. A., Michereff, S. J., de Morais, M. A., Jr., Hyde, K. D., and Câmara,
+M. P. 2014. Endophytic species of Colletotrichum associated with mango in northeastern Brazil. Fungal Divers. 67:181-202.
+Weir, B. S., Johnston, P. R., and Damm, U. 2012. TheColletotrichum gloeosporioides species complex. Stud. Mycol. 73:115-180.
+White, T. J., Bruns, T., Lee, S. J. W. T., and Taylor, J. W. 1990. Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. Pages 315-322 in: PCR Protocols: A Guide to Methods and Applications. M. Innis,
+D. Gelfand, J. Sninsky, and T. White, eds. Academic Press, San Diego, CA. 
+Plant Disease / July 2018 1289 

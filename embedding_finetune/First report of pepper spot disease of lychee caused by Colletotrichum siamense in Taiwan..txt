@@ -1,0 +1,35 @@
+
+808  Journal of Plant Pathology (2017), 99 (3), 799-818 Received June 29, 2017 Accepted August 9, 2017 Corresponding author: H.F. Ni E-mail: hfni@dns.caes.gov.tw Disease Note FIRST REPORT OF PEPPER SPOT DISEASE OF LYCHEE CAUSED BY 
+COLLETOTRICHUM SIAMENSE IN TAIWAN 
+H.F. Ni1, C.W. Huang1, C.J. Wu1, H.R. Yang1,  
+C.Y. Lin1, J.Y. Chang2 and J.W. Chang2 1 Department of Plant Protection, Chiayi Agricultural Experiment 
+Branch, Taiwan Agricultural Research Institute, Taiwan, R.O.C. 2 Department of Horticulture, Chiayi Agricultural Experiment 
+Branch, Taiwan Agricultural Research Institute, Taiwan, R.O.C. 
+In 2013, fruits and leaves of Litchi chinensis [No Mai 
+Tsz (73-S-20)] with symptoms of pepper spot (Cooke and 
+Coates, 2002) were collected from Yunlin county in Taiwan. 
+Diseased leaf tissue was surface-sterilized with 70% etha nol and placed on acidified potato dextrose agar (APDA). 
+A single spore isolate (C-1001) with aerial white mycelium that turned gray at 25°C and a 12 h photoperiod produced salmon conidial masses after 10 days. Conidia were hyaline, aseptate, cylindrical, 14.3 (12.77-15.38) × 4.9 (3.95-5.56) μm in size. For further identification, partial sequences of ac tin (ACT), calmodulin (CAL), chitin synthase (CHS-1), glyceraldehye-3-phosphate dehydrogenase (GAPDH), and ribosomal internal transcribed spacer (ITS) (Weir et al., 2012) were generated and deposited in GenBank (accession 
+Nos. MF098594, MF135496, MF098596, MF098598 and 
+MF135494, respectively). Baysian inference analysis using multilocus alignment with the deposited sequences placed the isolate (C-1001) in the same clade with the ex-type of C. siamense (ICMP 18578) (Weir et al., 2012). Based on cultural characteristics, conidial morphology (Sutton, 1992) and phy logenetic analysis, the fungus was identified as Colletotri chum siamense (Penz.) Penz. & Sacc. Pathogenicity tests were conducted in the field. Young leaves of lychee cv. ‘No Mai 
+Tsz (73-S-20)’ were inoculated using a conidial suspension (1.5 × 106 conidia/ml) and covered with moist plastic bags for 48 h. Dark lesions of the pepper spot disease developed on leaves 4 weeks after inoculation. C. siamense was reisolated from the inoculated leaves. To our knowledge, this is the first report of C. siamense causing pepper spot disease of lychee in Taiwan. 
+Cooke A.W., Coates L.M., 2002. Pepper spot: a preharvest disease of lychee caused by Colletotrichum gloeosporioides. Austral asian Plant Pathology 31: 303-304.
+Sutton B.C., 1992. The genus Glomerella and its anamorph Col letotrichum. In: Bailey J.A., Jeger M.J. (eds). Colletotrichum: 
+Biology, Pathology and Control, pp 1-26. CAB International, Wallingford, UK. 
+Weir B.S., Jonson P.R., Damm U., 2012. The Colletotrichum gloeo porioides species complex. Studies in Mycology 73:115-180.Received June 22, 2017 Accepted August 28, 2017 
+Corresponding author: O.A. Pérez-Vera 
+E-mail: oalejandrovera@gmail.com Disease Note 
+FIRST REPORT OF POWDERY MILDEW 
+CAUSED BY CYSTOTHECA LANESTRIS 
+ON QUERCUS CRASSIPES IN MEXICO 
+D. Cibrián-Tovar1, O.A. Pérez-Vera1 and C. Nava-Díaz2 1 División de Ciencias Forestales (Departamento de Ecología y 
+Silvicultura). Universidad Autónoma Chapingo. Km 38.5 Carretera 
+México-Texcoco, Chapingo, Texcoco, 56230. Estado de México, México 2 Fitopatología, Instituto de Fitosanidad, Campus Montecillo, 
+Colegio de Postgraduados. Km 36.5 Carretera México-Texcoco, 
+Montecillo, Texcoco, 56230. Estado de México, México 
+Red oak or Tuchi (Quercus crassipes) is an ornamental endemic species of Mexico. On November 9, 2016, pow dery mildew was observed on leaves of Tuchi in Santa Fe, 
+Mexico City. The symptoms and signs included deformed leaves, irregular necrotic lesions on both sides of the leaf, premature leaf drop, chasmothecia and mycelium. A refer ence specimen (CMPH-ECO23S) was deposited in the Her barium of the Colegio de Postgraduados. The fungus pro duced light brown to dark reddish chasmothecia immersed in the mycelium. Chasmothecia were grouped or dispersed, 99-111 μm in diameter, composed of polygonal peridial cells of 12-18 μm; with simple, sinuous, poorly developed, short, or almost absent mycelial appendages (4-4.5 μm wide) that were interlaced with the surrounding mycelium. The single ascus was hyaline, ellipsoid or ovoid to globose, sessile, 80 91 × 55-68 μm to 134 × 85 μm. The ascospores were hyaline, ellipsoid to ovoid, 25-32 × 18-22 μm. Conidiophores and co nidia were not observed. Amplification of ITS was carried out using primers ITS4 and ITS5. The PCR product (459 bp) was sequenced and deposited in GenBank (accession No. 
+MF170000). The obtained sequence showed 100% similarity to AF011289 from Q. agrifolia. No ex-type sequence of C. lanestris is in GenBank, but the type and this sequence are from Q. agrifolia in California, USA. Based on morphologi cal and molecular characteristics, the fungus observed on 
+Quercus crassipes was identified as Cystotheca lanestris (Braun and Cook, 2012). To our knowledge, this is the first report of this fungus causing powdery mildew of red oak in Mexico. 
+Braun U., Cook R.T.A., 2012. Taxonomic Manual of the Ery siphales (Powdery Mildews). CBS-KNAW Fungal Biodiversity 
+Centre. Utrecht, The Netherlands. 

@@ -1,0 +1,254 @@
+
+Genetic Diversity and Pathogenic Variability Among Isolates of Colletotrichum Species from Strawberry  Vol. 93, No. 2, 2003 219 Genetics and Resistance 
+Genetic Diversity and Pathogenic Variability Among Isolates of Colletotrichum Species from Strawberry 
+Béatrice Denoyes-Rothan, Guy Guérin, Christophe Délye, 
+Barbara Smith, Dror Minz, Marcel Maymon, and Stanley Freeman 
+First and second authors: UREFV, INRA, BP 81, 33883, Villenave d’Ornon Cedex, France; third author: Laboratoire de Malherbologie et 
+Agronomie, INRA, BV 1540, 21034, Dijon Cedex, France; fourth author: U.S. Department of Agriculture-Agriculture Research Services, 
+Poplarville, MS 39470; fifth author: Institute of Soil, Water and Environmental Sciences, ARO, The Volcani Center, P.O. Box 6, Bet 
+Dagan 50250; and sixth and seventh authors: Department of Plant Pathology, ARO, The Volcani Center, P.O. Box 6, Bet Dagan 50250, Israel.  
+Accepted for publication 25 September 2002. ABSTRACT 
+Denoyes-Rothan, B., Guérin, G., Délye, C., Smith, B., Minz, D., 
+Maymon, M., and Freeman, S. 2003. Genetic diversity and pathogenic variability among isolates of Colletotrichum species from strawberry. Phytopathology 93:219-228. 
+Ninety-five isolates of Colletotrichum including 81 isolates of C. acutatum (62 from strawberry) and 14 isolates of C. gloeosporioides (13 from strawberry) were characterized by various molecular methods and pathogenicity tests. Results based on random amplified polymorphic 
+DNA (RAPD) polymorphism and internal transcribed spacer (ITS) 2 se quence data provided clear genetic evidence of two subgroups in C. acutatum. The first subgroup, characterized as CA-clonal, included only isolates from strawberry and exhibited identical RAPD patterns and nearly identical ITS2 sequence analysis. A larger genetic group, CA variable, included isolates from various hosts and exhibited variable 
+RAPD patterns and divergent ITS2 sequence analysis. Within the C. acutatum population isolated from strawberry, the CA-clonal group is prevalent in Europe (54 isolates of 62). A subset of European C. acutatum isolates isolated from strawberry and representing the CA-clonal and 
+CA-variable groups was assigned to two pathogenicity groups. No correlation could be drawn between genetic and pathogenicity groups. On the basis of molecular data, it is proposed that the CA-clonal subgroup contains closely related, highly virulent C. acutatum isolates that may have developed host specialization to strawberry. C. gloeosporioides isolates from Europe, which were rarely observed were either slightly or nonpathogenic on strawberry. The absence of correlation between genetic polymorphism and geographical origin in Colletotrichum spp. suggests a worldwide dissemination of isolates, probably through international plant exchanges. 
+Additional keywords: Glomerella cingulata, internal transcribed spacer, phylogeny, rDNA.  
+Three species have been reported as causal agents of strawberry anthracnose, Colletotrichum acutatum J.H. Simmonds, C. fragariae 
+Brooks, and C. gloeosporioides (Penz.) Penz. & Sacc. (teleo morph Glomerella cingulata (Stoneman) Spauld. & H. Schrenk) (19,24). These species cause similar symptoms on strawberry in cluding crown rot, fruit rot, and stolon lesions (15). In Europe, C. acutatum is the most prevalent species causing anthracnose, whereas C. gloeosporioides is found only occasionally, and C. fragariae has not yet been observed (5). 
+Colletotrichum spp. are currently identified using morpho taxonomic criteria such as morphological characters, i.e., conidial shape and size, appressorium morphology and size, setae mor phology and temperature response on potato dextrose agar (PDA) medium (12,18,24,29). Recently, a variety of molecular approach es have been used to discriminate various Colletotrichum spp. (2,13,14) or to study the genetic diversity within Colletotrichum spp. (9,27). Some of these studies have focused on Colletotrichum spp. isolated from strawberry, distinguishing the three species pathogenic on strawberry (1,3,8,20,26). 
+Although important progress for identification of Colletotrichum spp. pathogenic on strawberry has been made, genetic diversity within these Colletotrichum spp. has been investigated to a lesser extent. Moreover, no correlation between genetic polymorphism and the two groups of pathogenicity (5) has been studied. The purpose of this work was (i) to investigate genetic polymorphism and pathogenicity of C. acutatum, the major pathogen isolated from strawberry in Europe, and (ii) to determine the genetic re latedness of this pathogen to representative isolates of C. acutatum obtained from strawberry and other hosts from various countries worldwide. In addition, isolates of C. gloeosporioides, observed occasionally on strawberry in Europe, were included in this work. MATERIALS AND METHODS 
+Fungal isolates. The 62 isolates of C. acutatum isolated from strawberry were chosen from various collections representing a range of isolation dates (1978 to 1998) and geographic regions worldwide (Table 1). Nineteen C. acutatum isolates from other host plants were included in the study for comparison. Among these 81 isolates, 22 exhibiting a pink chromogenic coloring in culture are referred as C. acutatum chromogenic (Table 1). In addition, 13 isolates of C. gloeosporioides from strawberry origi nating from Europe and the United States and one isolate from mango used as an outgroup were studied. All isolates were single conidia cultures. Stock cultures were maintained on silica gel at 4°C as described by Perkins (22). Cultures were initiated by trans ferring silica gel particles from the stock cultures to PDA (Difco 
+Laboratories, Detroit, MI) plates to produce fungal material for molecular analysis and pathogenicity tests. All isolates were identified using classical taxonomic criteria such as conidial shape and growth on PDA (5). 
+Corresponding author: B. Denoyes-Rothan; E-mail address: denoyes@bordeaux.inra.fr 
+Publication no. P-2002-1213-03R 
+This article is in the public domain and not copyrightable. It may be freely re printed with customary crediting of the source. The American Phytopathological
+Society, 2003.  220 PHYTOPATHOLOGY 220 
+Isolation of genomic DNA. Fungal mycelium was produced in 200 ml of liquid medium (24 g/liter of potato dextrose broth [PDB, 
+Difco Laboratories], 1 g/liter of yeast extract [Difco Laboratories], and 1 g/liter of casein hydrolysate [Difco Laboratories]). Cultures were shaken at 100 rpm for 5 days at 27°C. Mycelium was harvested by filtration through mesh sieves (40 µm), washed with sterile water, and deposited onto Whatman paper to remove excess water. Mycelium was ground to a fine powder in liquid nitrogen using a mortar and pestle and stored at –80°C. Three grams of mycelium powder was transferred to a 50-ml tube, and DNA  was extracted using a method adapted from Saghai-Maroof  (23) by the addition of two chloroform/octanol phases and the addition of 10 mg/ml RNase A (Sigma Chemicals, St Quentin 
+Fallavier, France). DNA concentration was assessed using spec trometric measurement (GeneQuant II, Pharmacia Biotech, Cambridge, UK). 
+PCR amplification. All 95 Colletotrichum isolates were ana lyzed using random amplified polymorphic DNA polymerase chain reaction (RAPD-PCR) (30,31). Amplifications were carried out in 15-µl reaction mixtures containing 30 ng of genomic DNA, 1.5 mM MgCl2, 50 mM KCl, 10 mM Tris-HCl (pH 8.6), 200 µM each of dATP, dTTP, dCTP, and dGTP, 0.2 µM ten-base primers (Operon Technologies, Rungis, France), 0.2 mg/ml bovine serum albumin, 0.05% (wt/vol) polyoxyethylene-ether W1 (Sigma 
+Chemicals, St Quentin Fallavier, France), and 0.7 units of Taq 
+DNA polymerase (Gibco BRL, Life Technologies, Cergy Pontoise, 
+France). A Perkin-Elmer Cetus DNA thermal cycler (Model 9600, 
+Perkin-Elmer Cetus Instruments Division, Courtaboeuf, France) was used with the following program: 1 min denaturation at 95°C, 45 cycles of 10 s at 95°C, 15 s at 37°C, and 2 min at 72°C and a final extension step of 5 min at 72°C. Twenty RAPD primers were tested on six isolates (three strawberry isolates per species of 
+Colletotrichum). Four primers (OPA13 [CAGCACCCAC], 
+OPB07 [GGTGACGCAG], OPO02 [ACGTAGCGTC], and 
+OPQ16 [AGTGCAGCCA]) that revealed clear and polymor- phic patterns were selected for further RAPD analysis. All  
+RAPD-PCR were performed twice. Universal PCR primers (ITS1, 
+TCCGTAGGTGAACCTGCGG and ITS4, TCCTCCGCTTATT 
+TABLE 1. Origin of the 95 analyzed single spore isolates of Colletotrichum spp. used in this study 
+Isolates Geographic origin Host plant species Date of isolation Color on potato dextrose agar (PDA)a RAPDb genetic group 
+C. acutatum from strawberry    1079a France Strawberry 1989 Orange CA-clonal 1267b France Strawberry 1988 Orange CA-clonal 1341a France Strawberry 1990 Orange CA-clonal 162a France Strawberry 1990 Orange CA-clonal 1641a France Strawberry 1995 Orange CA-clonal 2033a France Strawberry 1995 Orange CA-clonal 2050a France Strawberry 1992 Orange CA-clonal 2077a France Strawberry 1995 Orange CA-clonal 2081a France Strawberry 1995 Orange CA-clonal 2102c France Strawberry 1996 Orange CA-clonal 2184a France Strawberry 1992 Orange CA-clonal 2218a France Strawberry 1992 Orange CA-clonal 318a France Strawberry 1995 Orange CA-clonal 528a France Strawberry 1990 Orange CA-clonal 66b France Strawberry 1992 Orange CA-clonal 688b France Strawberry 1990 Orange CA-clonal 703a France Strawberry 1996 Orange CA-clonal 
+Cha-s France Strawberry 1994 Orange CA-clonal 
+Delorgueil.a France Strawberry 1992 Orange CA-clonal 
+F1a France Strawberry 1985 Orange CA-clonal 
+F2b France Strawberry 1985 Orange CA-clonal 
+F2c France Strawberry 1985 Orange CA-clonal 
+F5a France Strawberry 1985 Orange CA-clonal 
+F7a France Strawberry 1984 Orange CA-clonal 
+V1a France Strawberry 1995 Orange CA-clonal 494a France Strawberry 1990 Chromogenic CA-variable 
+F3c France Strawberry 1984 Orange CA-variable 
+F3e France Strawberry 1984 Orange CA-variable 
+All.F2a Germany Strawberry 1995 Orange CA-clonal 87.8.41 Italy Strawberry 1994 Orange CA-clonal 
+Cuneo.a Italy Strawberry 1994 Orange CA-clonal 
+Dana Italy Strawberry 1994 Orange CA-clonal 2020a  Poland Strawberry 1995 Orange CA-clonal 1159.5c Spain Strawberry 1988 Orange CA-clonal 1159.2a Spain Strawberry 1988 Orange CA-variable 
+Coll.11a Switzerland Strawberry 1996 Orange CA-clonal 
+Suisse.a Switzerland Strawberry 1993 Orange CA-clonal 
+Coll.15a Switzerland Strawberry 1996 Chromogenic CA-variable 382a United States Strawberry … Orange CA-clonal 388a United States Strawberry … Orange CA-clonal 394a United States Strawberry … Orange CA-clonal 
+Ca1B United States Strawberry 1984 Orange CA-clonal 
+CalA.a United States Strawberry 1984 Orange CA-clonal 
+CA-OH1 United States Strawberry … Orange CA-clonal 
+CT6 United States Strawberry 1991 Orange CA-clonal 
+Fla411 United States Strawberry 1992 Orange CA-clonal      (continued on next page) a Orange or chromogenic = isolates exhibiting orange or pink chromogenic coloring on PDA culture, respectively. b RAPD = random amplified polymorphic DNA. c Other strawberry representatives included 138 clonal isolates from Israel (8).  Vol. 93, No. 2, 2003 221 
+GATATGC) were used for amplification of the ITS1 and ITS2 regions between the small and large nuclear rDNA including the 5.8S rDNA from representative isolates of C. acutatum and C. gloeosporioides, which were selected according to RAPD analysis (one isolate per subgroup) (Table 2). For rDNA amplification, denaturation for 5 min at 95°C was followed by 40 cycles con sisting of 30 s at 95°C, 30 s at 50°C, and 1.5 min at 72°C. The amplification products were analyzed by electrophoresis on 1.5% agarose gels stained with ethidium bromide and viewed under UV light. All ITS-PCR experiments were repeated at least four times with consistent results being achieved. 
+ITS2 sequencing procedure. PCR amplified rDNA products using the primer pair ITS1 and ITS4 (32) resulted in a product of approximately 560 bp, which was extracted from agarose gels using the Jetsorb kit (Genomed GmbH, Germany). The Big Dye 
+Terminator DNA sequencing kit (Perkin-Elmer Inc., Branch- burg, NJ) was used for determining the sequence of the ITS2 regions (32). The sequence was determined using an ABI  prism 377 DNA sequencer (Applied Biosystem Inc., Foster  
+City, CA) and was performed at the Molecular Biology Center, Rehovot, Israel. 
+Pathogenicity tests. Pathogenicity of a subset of 38 European isolates of C. acutatum and C. gloeosporioides selected according to RAPD analysis, plus the isolate Goff from the United States, was assessed. To assign C. acutatum isolates to pathogenicity groups 1 or 2, two strawberry cultivars (Belrubi and Elsanta), were chosen as differential hosts (4). Cv. Belrubi is resistant to pathogenicity group 2 isolates and sensitive to pathogenicity group 1 isolates. Cv. Elsanta is susceptible to isolates in both pathogenicity groups and exhibits different severity of symptoms depending on the aggressiveness of isolates. Three 6-week-old plants originating from micropropagation were inoculated with each isolate by spraying a conidial suspension adjusted to 2 ×  106 conidia per ml, as previously described in a controlled en vironment chamber (27 � 2°C, 90 to 95% relative humidity, and 14-h light) (5). Disease response was recorded 4 weeks after inoculation and based on a 0 to 5 disease severity scale where 0 = no symptom and 5 = dead plant (5). 
+TABLE 1. (continued from preceding page) 
+Isolates Geographic origin Host plant species Date of isolation Color on potato dextrose agar (PDA)a RAPDb genetic group 
+Goff United States Strawberry 1988 Orange CA-clonal 
+J.Jenkins United States Strawberry 1989 Orange CA-clonal 
+L.Levigne United States Strawberry 1989 Orange CA-clonal 
+La30 United States Strawberry 1998 Orange CA-clonal 
+LLB10 United States Strawberry 1988 Orange CA-clonal 
+LLB5 United States Strawberry 1986 Orange CA-clonal 
+MD16 United States Strawberry 1998 Orange CA-clonal 
+Mil1a United States Strawberry 1983 Orange CA-clonal 
+Mil-2 United States Strawberry 1984 Orange CA-clonal 
+MS1 United States Strawberry 1998 Orange CA-clonal 
+NC2 United States Strawberry 1998 Orange CA-clonal 
+OKU1 United States Strawberry 1992 Orange CA-clonal 
+Cooley1b United States Strawberry 1990 Chromogenic CA-variable 
+Cooley2 United States Strawberry 1990 Chromogenic CA-variable 
+NY3 United States Strawberry 1998 Chromogenic CA-variable 
+TUT-5954c Israel Strawberry 1996 Orange CA-clonal 
+C. acutatum from various hosts    
+G4a France Lupin 1984 Orange … 
+Myrtille.a France Bilberry 1995 Chromogenic CA-variable 
+Patriot France Raspberry 1995 Chromogenic CA-variable 
+Coll.14a Switzerland Blackberry … Orange … 
+Coll.4a Switzerland Bilberry 1996 Chromogenic CA-variable 
+Coll36 Switzerland Blackberry … Chromogenic CA-variable 120V.2II United States Raspberry 1993 Chromogenic … 
+BB Pop#11 United States Blueberry 1994 Chromogenic CA-variable 
+BB Pop#19 United States Blueberry 1994 Chromogenic CA-variable 
+BJS Tomato United States Tomato 1997 Chromogenic CA-variable 
+CA-MIL United States Blackberry 1987 Chromogenic CA-variable 
+Clemson SF-21 United States Peach 1993 Chromogenic CA-variable 
+DA3 United States Dogwood 1988 Chromogenic CA-variable 
+Dolly BB#25 United States Blueberry 1995 Chromogenic CA-variable 
+Nantana A1 United States Grape 1995 Chromogenic CA-variable 
+NC87-22 United States Apple 1988 Chromogenic CA-variable 
+RB-Ant-91E United States Raspberry 1993 Chromogenic CA-variable 
+Tomato ARK United States Tomato 1988 Chromogenic CA-variable 
+Wanda’s tomato United States Tomato 1996 Chromogenic CA-variable 
+C. gloeosporioides      9.89r2 France Strawberry 1989   9.89n1 France Strawberry 1989   
+ArkP1 United States Strawberry 1982   
+CG55a United States Strawberry …   
+CG63a United States Strawberry …   
+CG162a United States Strawberry …   86.16 United States Strawberry …   89.15 United States Strawberry …   1159.5d Spain Strawberry 1988   1159.5e Spain Strawberry 1988   Na1a Japan Strawberry 1978   Shi1a Japan Strawberry 1992   Na8a Japan Strawberry 1993   
+Manguier.a Reunion Mango 1981    222 PHYTOPATHOLOGY 222 
+Analysis of RAPD data. Only RAPD fragments clearly visible and observed in both experiments were considered for analysis. 
+Presence or absence of fragments was scored as 1 or 0, respec tively. Genetic similarities between all pairs of isolates were com puted using the formula given by Nei and Li (21): S = 2bij/(bi + bj), where bij is the number of fragments shared by two isolates, i and j, and bi and bj are the total number of fragments found in isolates i and j, respectively. Dissimilarities were computed as genetic distance = 1 – S, and the data were used to construct a dendogram using the unweighted pair-group method with arith metic average (UPGMA) (25). Distance calculations and con struction of the dendogram were performed using Splus 3.1 software (Statistical Sciences Inc., Seattle, WA). Bootstrap analy sis (6) was used to support the major groups observed in the dendogram. One hundred genetic dissimilarity matrixes were computed using the Splus software by generating 100 binary ma trixes of the same size as the original RAPD data sets by random sampling with replacement. Data were analyzed with the pro grams Neighbor and Consense of the PHYLIP software package (Phylogeny Inference Package, J. Felsenstein, University of 
+Washington) and used to construct the consensus UPGMA dendo gram. Mean genetic dissimilarities between genetic groups were calculated as the arithmetical mean of all pairs of isolate of the two groups. Since the summary table of RAPD data is very large (69 markers), it was not convenient to include this table in the manuscript. All relevant information is available upon request from the corresponding author. 
+Phylogenetic analysis of sequence data. Analyses of internal transcribed spacer (ITS) sequences were carried out using the pro gram package ARB (28). Alignment of sequences was performed with the implemented ARB automated alignment tool, and align ments were refined manually. Phylogenetic analyses were perform ed by applying ARB parsimony, distance matrix, and maximum likelihood methods. Branching order was similar in all methods used. To determine the robustness of phylogenetic trees, analyses were performed on the original data set and a data set from which highly variable positions were removed by use of a 50% conserva tion filter for the members of Colletotrichum to reduce potential tree artifacts that may result from multiple base changes. All se quences used in this study were aligned according to 155 bases in the ITS2 region and used for phylogenetic analysis. Analysis was conducted on sequences from representative isolates of C. acutatum from strawberry (Cha-s, France; 1267b, France; F3c, France; F3e, 
+France; Cooley2, United States; Coll.15a, Switzerland; and TUT 5954, Israel), tomato (BJS Tomato and Tomato ARK, United 
+States), blackberry (Coll.14a, France), raspberry (120V.211, 
+United States), grape (Nantana A.1, United States), and bilberry (Myrtille.a, France), of C. gloeosporioides from strawberry (1159.5d, Spain), and a number of Colletotrichum sequences previ ously sequenced by the authors (9,11) as well as a number retrieved from GenBank (Table 2). As previously shown (9), DNA sequence analysis of the ITS2 region was more informative and showed a greater interspecies divergence than the ITS1 region alone. Complete ITS1-2 sequences of the isolates were submitted to GenBank with accession numbers appearing in Table 2. 
+Analyses of pathogenicity experiments. Six plants of each of the cvs. Belrubi and Elsanta were inoculated with the tested iso lates. For statistical analysis, the means of disease rating from two experiments were pooled for each cultivar and isolate. Isolates of 
+C. acutatum were assigned to pathogenicity group 1 when disease ratings were similar on cvs. Belrubi and Elsanta, and to patho genicity group 2 when cv. Belrubi was found to be much more resistant (disease rating <1) than cv. Elsanta (disease rating �1), according to Student’s t test (P = 0.05).  
+TABLE 2. Internal transcribed spacer (ITS) 2 sequences of Colletotrichum isolates used in this study 
+Species Isolate Host EMBL accession 
+C. graminicola DR1a Poa annua AF 059676 
+C. linicola CBS 172.51b �� AB 046609 
+C. dematium IMI-080025c … AB 046608�
+C. gloeosporioides CG 231d Fragaria × ananassa AF 272780 
+C. gloeosporioides AVO-37-4Bd Persea americana AF 207792 
+C. gloeosporioides APL 7d Malus domestica AF 272779 
+C. acutatum IMI 348494d Fragaria × ananassa AF 272785 
+C. acutatum TUT 5954d Fragaria × ananassa AF 207794 
+C. acutatum PCN 5d Carya illinoensis AF 272786 
+C. acutatum PCH 8d Prunus persica AF 272788 
+C. acutatum ANE-HV83Cd Anemone coronaria AF 272782 
+C. acutatum STR 3d Fragaria × ananassa AF 272784 
+C. acutatum ALM-US-4d Prunus dulcis AF 207793 
+C. acutatum IMI 223120d Anemone coronaria AF 272783 
+C. acutatum APL 2d Malus domestica AF 272787 
+C. acutatum ANE-NL12Ad Anemone coronaria AF 272781 
+C. acutatum IMI 345026d Fragaria × ananassa AF 272789 
+Colletotrichum ALM-KSH-10d Prunus dulcis AF 207791 
+C. gloeosporioides 1159.5de Fragaria × ananassa AF 489568 
+C. acutatum Myrtille.ae Vaccinium myrtillus AF 489567 
+C. acutatum Tomato ARKe Lycopersicon esculentum AF 489560 
+C. acutatum F3ce Fragaria × ananassa AF 489566 
+C. acutatum F3ee Fragaria × ananassa AF 489561 
+C. acutatum Nantana A1e Vitis sp. AF 489559 
+C. acutatum 120V.211e Rubus sp. AF 489556 
+C. acutatum Coll.15ae Fragaria × ananassa AF 489557 
+C. acutatum Cooley2e Fragaria × ananassa AF 489558 
+C. acutatum Coll.14ae Rubus sp. AF 489563 
+C. acutatum BJS Tomatoe Lycopersicon esculentum AF 489565 
+C. acutatum 1267be Fragaria × ananassa AF 489562 
+C. acutatum Cha-se Fragaria × ananassa AF 489564 a Isolate sequenced by E. A. Travanty, L. M. Buttonow, R. T. Kane, S. B. Martin, J. S. Gregos, and D. P. Maxwell (unpublished) (EMBL Accession No. AF 059676). b Isolate sequenced by Moriwaki and Tsukiboshi, (unpublished, host not described) (EMBL Accession No. AB 046609). c Isolate sequenced by Moriwaki and Tsukiboshi, (unpublished, host not described (EMBL Accession No. AB 046608). d Isolates sequenced by Freeman et al. (10). e Isolates sequenced by authors.  Vol. 93, No. 2, 2003 223 RESULTS 
+RAPD polymorphism. Four RAPD primers were used to amplify DNA from 95 Colletotrichum isolates. Sixty-nine repro ducible RAPD fragments were obtained. Each primer yielded an average of 17 RAPD fragments, ranging in size from 450 to  3,200 bp. Representative RAPD banding patterns obtained using primer OPC02 and OPA13 are shown in Figure 1. UPGMA cluster analysis using the 69 RAPD fragments yielded a dendogram (Fig. 2). The 95 isolates clustered into two distinct groups (Fig. 2), CA and CG, C. acutatum and C. gloeosporioides, respectively. The 81 isolates of C. acutatum displayed 49 fragments. None were mono morphic or group CA-specific, whereas one was specific to all C. acutatum isolates except for isolate 120V-II. Three isolates, 120V
+II from raspberry, Coll.14a from blackberry, and G4a from lupin displayed the most divergent patterns within group CA and showed 10, 5, and 5 specific fragments for each isolate, respec tively. Within the CA group, two subgroups were distinguished that encompassed the 78 remaining C. acutatum isolates, CA clonal (54 isolates) and CA-variable (24 isolates). The 54 CA clonal isolates collected from strawberry during the years 1983 to 1998 in North America and Europe and displaying a salmon orange coloring in culture on PDA, clustered into one clade, pres ent in 100% of the bootstrap-generated trees. All these isolates displayed identical banding patterns with a total of 11 monomor phic fragments, six of which were subgroup CA-clonal-specific and five of which were present in the RAPD patterns of several isolates in subgroup CA-variable. The 24 CA-variable isolates clustered into a more diverse genetic group and were collected from 1984 to 1998 from various host plants in North America and 
+Europe (Table 1). These isolates, except for isolates F3e, F3c, and 1159-2a, exhibited a pink-chromogenic coloring in PDA culture. 
+The RAPD patterns of the 24 isolates in subgroup CA-variable displayed 22 fragments, eight of which were monomorphic. Five monomorphic fragments were specific to subgroup CA-variable. 
+The CA-variable isolates of C. acutatum could be separated into two subgroups present in 99% of generated trees according to bootstrap analysis. One of them included all the isolates from tomato (three isolates), bilberry (three isolates), and grape (one isolate) and displayed four specific fragments; the other one in cluded isolates from strawberry, peach, blackberry, dogwood, rasp berry, bilberry, and apple and displayed two specific fragments. 
+The 14 isolates of C. gloeosporioides displayed 23 RAPD frag ments, four of which were monomorphic. Among the four mono morphic fragments, three were specific to this group and one was also present in the RAPD patterns of two C. acutatum isolates, 120V-II and Coll.14a. The isolate Manguier.a from mango dis played the most divergent pattern within group CG containing six specific fragments. Within group CG, the 13 isolates from straw berry clustered into a subgroup that was present in 99% of the dendograms generated by bootstrap (Fig. 2). In this subgroup, two 
+Japanese isolates, Na8a and Shi1a, were the most divergent, and all four European isolates, 1159.5d, 1159.5e, 9.89n1, and 9.89r2, clustered into a distinct subgroup which was well supported by bootstrap analysis (75% of generated trees). 
+Sequence and phylogenetic analysis. Sequence analyses were conducted on representative isolates of CA-clonal, CA-variable, and CG chosen according to RAPD analysis (Table 2). Represen tatives of CA-clonal from strawberry included the isolates TUT 5954 from Israel and Cha-s and 1267b from France. Represen tatives of CA-variable included: strawberry isolates F3c and F3e from France, Coll.15a from Switzerland, and Cooley2 from the 
+United States; tomato isolates BJS Tomato and Tomato ARK  from the United States; blackberry isolate Coll.14a from France;   
+Fig. 1. Random amplified polymorphic DNA (RAPD) patterns of Colletotrichum acutatum (CA, 19 isolates) including subgroups CA-clonal (12 isolates) and 
+CA-variable (five isolates), and isolates 120V2-II and Coll.14a, and RAPD patterns of C. gloeosporioides (CG, three isolates) obtained with A, primer OPC02 and B, primer OPA13. Lane M = DNA markers in kilobases.  224 PHYTOPATHOLOGY   
+Fig. 2. Dendogram generated by unweighted pair-group method with arithmetic average cluster analysis of random amplified polymorphic DNA (RAPD) data from 95 isolates of two Colletotrichum species, C. acutatum and C. gloeosporioides. Numbers at major nodes indicate the number of times the group of isolates at the left of the node occurred among the sample of 100 bootstrap-generated dendograms. CA = C. acutatum group; CG = C. gloeosporioides group; Ca = C acutatum; Ca/c = C. acutatum exhibiting pink chromogenic coloring in potato dextrose agar culture; and Cg = C. gloeosporioides. Host plants from the isolates are indicated: ap = apple; bi = bilberry; bl = blackberry; bu = blueberry; do = dogwood; gr = grape; pe = peach; ra = raspberry; st = strawberry; to = tomato; lu = lupin; and ma = mango. Scored bands are indicated by arrows.  
+Vol. 93, No. 2, 2003 225 raspberry isolate 120V.2II from the United States; grape isolate 
+Nantana A1 from the United States; and bilberry isolate Myrtille.a from France. The representative isolate 1159.5d of C. gloeospo rioides from strawberry from Spain was also sequenced. 
+Phylogenetic analysis was performed using the ITS2 region (Table 2; Fig. 3). Comparative analysis of ITS2 sequences pro duced a phylogenetic tree (Fig. 3) that supported the previous analysis published by Freeman et al. (9) and Sreenivasaprasad et al. (28). Analysis of sequences of the ITS2 fragments supported the phylogeny inferred from the RAPD dendogram grouping the 
+CG isolates separately from the CA isolates. This analysis confirmed that 24 of the C. acutatum isolates, 12 from this study, were grouped separately from reference cultures of the species C. gloeosporioides, C. dematium, and C. graminicola. In addition, based on ITS2 sequence analysis two C. acutatum clusters were revealed, which corresponded to the CA-clonal and CA-variable subgroups previously identified by RAPD-PCR (Fig. 2). The three representative CA-clonal isolates were grouped together (nearly identical sequence), but apart from the other subgroup of CA variable isolates. The CA-variable isolates were further grouped into subsets indicating the diversity of these populations (Fig. 3). 
+The analysis was performed on ITS2 sequences of 12 isolates mentioned above, as well as 18 additional sequences of isolates available in GenBank (Table 2). It should be noted that sequences from submissions to GenBank were not independently confirmed in this study. 
+Pathogenicity testing. C. acutatum isolates were assigned to pathogenicity group 1 when disease ratings were similar on cvs. 
+Belrubi and Elsanta, or to pathogenicity group 2 when cv. Belrubi was found to be resistant (disease rating of <1), while cv. Elsanta was susceptible (disease rating fo �1) (Table 3). All the 35 C. acutatum isolates inoculated onto strawberry caused at least one developing lesion on cv. Elsanta (disease rating of �1), and were therefore considered as pathogenic on strawberry. Two isolates from group CA-clonal (i.e., isolates F7a and F2b) displayed a very low virulence level and were not assigned to any pathogenic group. The remaining 29 CA-clonal group isolates tested were assigned to pathogenicity group 1 (15 isolates) or 2 (14 isolates). 
+Isolates collected during the years 1988 to 1994 displayed higher aggressiveness than those collected at the beginning of the 1980s (Table 3). All four inoculated CA-variable isolates, collected from 1984 to 1990, were assigned to pathogenicity group 1. They dis played a relatively high level of aggressiveness. The four C. gloeosporioides isolates tested for pathogenicity produced only a few necrotic symptoms or none at all on both inoculated cultivars. DISCUSSION 
+The main objective of this study was to investigate genetic di versity and pathogenicity of a large representative population of 
+C. acutatum isolated from strawberry (62 isolates) mainly from 
+Europe and the United States. Results based on RAPD and ITS2 sequence analyses provide clear genetic evidence of at least two well characterized groups among the tested isolates of C. acuta tum from strawberry. Subgroup CA-clonal was homogeneous, containing isolates only from strawberry that exhibited identical 
+RAPD patterns and nearly identical ITS2 sequence data. The other larger genetic subgroup, CA-variable, included isolates from various hosts including strawberry that exhibited variable RAPD patterns and ITS2 sequence. These two main subgroups were well supported by bootstrap analysis of RAPD markers and sequence phylogeny. According to RAPD analysis, isolates 120V.2II, 
+Coll.14a, and G4a of C. acutatum could not be assigned to either of these two subgroups, CA-clonal and CA-variable. This sug gests an extreme variation already known to exist in the broad species of C. acutatum (9,18,29), and therefore additional subgroups such as that of isolate NL-12A from the ornamental anemone (11) may exist. However, all tested isolates of C. acutatum, including these three exceptions, were grouped within the C. acutatum species, which is confirmed by using ITS2 se quence analysis. 
+Past studies on C. acutatum were more focused on species iden tification, which is of paramount importance since C. acutatum is subjected to statutory quarantine requirements (16) than on genetic diversity. However, by using mtDNA, rDNA RFLPs, and isozymes the existence of one probable clonal population of C. acutatum on strawberry was suggested by Buddie et al. (3). Since these markers discriminate more efficiently between species than between subgroups within one species (17), we found it necessary to use RAPD markers to discriminate between subgroups within 
+C. acutatum. This study confirms the existence of one CA-clonal group clearly distinct from other C. acutatum genetic subgroups such as CA-variable. In addition, the CA-clonal group, which included 54 of 62 strawberry isolates is the most prevalent group from this host in France, Israel, and probably in other European countries (3,7). This subgroup also includes isolates from the 
+United States. The larger genetic group, CA-variable, included eight additional C. acutatum strawberry isolates and 15 C. acutatum isolates from other hosts producing orange to red or chromogenic pigment. 
+Freeman and Rodriguez (10) suggested two genetic distinct groups that were differentiated according to their ability to pro duce a red pigment (chromogenic). In this study, no clear correla tion was found between genetic grouping and pigmentation since 
+Fig. 3. Internal transcribed spacer 2-based phylogenetic tree of Colletot richum isolates and published sequences. The tree was produced using the neighbor-joining algorithm. The orders of branching were similar in all tree construction approaches used (described in text). Scale bar indicates estimated 10% sequence divergence.  226 PHYTOPATHOLOGY 226 20 of 23 C. acutatum isolates in subgroup CA-variable were chro mogenic, whereas none of the 53 isolates within group CA-clonal possessed this trait. These results further support the existence of a polymorphic C. acutatum species, which include the chromo genic isolates (9,12,27). 
+The low level of genetic polymorphism observed in subgroup 
+CA-clonal containing only isolates from strawberry compared to subgroup CA-variable is consistent with a possible specialization of these isolates on strawberry, as suggested previously for C. acutatum isolates from almond (8) or for C. gloeosporioides iso lates from mango (13,14). Since C. acutatum is reported to be a polymorphic, polyphageous fungus (29), the low level of genetic polymorphism observed among isolates in group CA-clonal may thus be a consequence of a recent epidemic of clonal line(s) patho genic on strawberry. The hypothesis of specialization of isolates on strawberry is strengthened by isolates in group CA-clonal being very aggressive, at least on some strawberry cultivars such as Elsanta, i.e., disease rating of 5 for the most aggressive isolates, compared with isolates in group CA-variable with a rating of 2.8 for the most aggressive isolates. However, CA-clonal isolates would have to be inoculated on other hosts to determine whether there are any differential levels of virulence compared to non CA clonal isolates to confirm or reject the hypothesis of host speciali zation of CA-clonal isolates on strawberry. 
+Sreenivasaprasad et al. (26) suggested that European isolates of 
+C. acutatum infecting strawberry were discrete from the United 
+States C. acutatum isolates from a variety of hosts. In this study, no correlation was found between genetic grouping and geo graphical origin of C. acutatum isolates from strawberry (Table 1). 
+This may be due to the large number of C. acutatum isolates from strawberry analyzed in our work. The lack of correlation between genetic grouping and geographical origin of C. acutatum isolates suggests that the pathogen may have been recently spread worldwide from a single or few sources of origin. Since large numbers of strawberry plants of the everbearing-types were im ported at the beginning of the 1980s from the southwestern United 
+States (5), introduction of C. acutatum into Europe may have occurred through contamination of traded plant material. This hypothesis is further supported by the occurrence of North 
+American and European isolates from strawberry exhibiting iden tical RAPD patterns and ITS sequence data within both subgroups, 
+CA-clonal and CA-variable. Furthermore, the C. acutatum species on strawberry is prevalent in Europe and various parts of the 
+United States including California. Freeman and Katan (7) who 
+TABLE 3. Disease ratinga of European Colletotrichum strains isolated from strawberry     Disease rating 
+Isolates Date of isolation Geographic origin Genetic group Belrubi Elsanta C. acutatum      
+F2b 1985 France CA-clonal 0.2 0.8 
+F7a 1984 France CA-clonal 0.3 0.5 
+Isolates of pathogenic group 1b    
+Goff 1988 United States CA-clonal 4.1 4.0 1079a 1989 France CA-clonal 1.3 1.8 528a 1990 France CA-clonal 0.8 2.4 162a 1990 France CA-clonal 1.8 2.2 66b 1992 France CA-clonal 1.8 1.8 
+Cuneo.a 1994 Italy CA-clonal 1.2 1.7 
+Cha-s 1994 France CA-clonal 4.8 5.0 2020a  1995 Poland CA-clonal 3.8 4.5 2077a 1995 France CA-clonal 3.1 2.8 1641a 1995 France CA-clonal 3.4 4.0 2033a 1995 France CA-clonal 4.1 4.7 2081a 1995 France CA-clonal 4.5 5.0 318a 1995 France CA-clonal 4.5 4.8 703a 1996 France CA-clonal 3.0 3.6 2102c 1996 France CA-clonal 5.0 5.0 
+F3c 1984 France CA-variable 2.7 2.6 
+F3e 1984 France CA-variable 1.2 1.8 1159.2a 1988 Spain CA-variable 2.2 2.8 494a 1990 France CA-variable 1.7 1.8 
+Isolates of pathogenic group 2b    
+F1a 1985 France CA-clonal 0.0 1.7 
+F2c 1985 France CA-clonal 0.0 2.0 
+F5a 1985 France CA-clonal 0.3 2.0 1267b 1988 France  CA-clonal 0.0 2.3 1159.5c 1988 Spain CA-clonal 0.0 4.4 1341a 1990 France CA-clonal 0.0 5.0 688b 1990 France CA-clonal 0.4 5.0 
+Delorgueil.a 1992 France CA-clonal 0.3 4.3 2184a 1992 France CA-clonal 0.5 4.5 2218a 1992 France CA-clonal 0.0 4.6 2050a 1992 France  CA-clonal 0.2 5.0 
+Suisse.a 1993 Switzerland CA-clonal 0.7 4.8 
+V1a 1995 France CA-clonal 0.0 4.8 
+All.F2a 1995 Germany CA-clonal 0.5 5.0 
+C. gloeosporioides    9.89r2 1989 France CGI 0.0 0.8 9.89n1 1989 France CGI 0.2 0.8 1159.5d 1988 Spain CGI 0.0 0.4 1159.5e 1988 Spain CGI 0.5 0.3 a Disease rating was based on a 0 to 5 disease severity scale where 0 = no symptom and 5 = dead plant. Each mean was calculated according to symptoms recorded from six plants of cvs. Belrubi and Elsanta from two experiments. Results were pooled. b Isolates of C. acutatum were assigned to pathogenicity group 1 or group 2 according to their pathogenicity on cvs. Belrubi and Elsanta.  
+Vol. 93, No. 2, 2003 227 observed identical RAPD patterns in isolates of the pathogen originating from both countries also suggested introduction of C. acutatum from the United States into Israel. 
+Using pathogenicity testing, 35 C. acutatum European isolates, collected from strawberry and representing the CA-clonal and 
+CA-variable genetic subgroups were assigned to pathogenicity groups 1 and 2, as previously described (5). Assignment of C. acutatum isolates from strawberry to genetic subgroups and to pathogenicity groups was not correlated (Table 3). Within each group, isolates varied in aggressiveness (Table 3). Isolates collected after 1988 or 1994 displayed significantly higher levels of aggressiveness. The introduction of C. acutatum into Europe most likely occurred at the beginning of the 1980s (5). Therefore, variation in pathogenicity cannot be explained by host speciali zation of this group. The analysis of genetic polymorphism and variation in pathogenicity among CA-clonal isolates suggests that isolates within this subgroup are closely related genetically but not identical, which may be further studied with additional mo lecular markers such as amplified fragment length polymorphisms (AFLPs). A possible explanation for the pathogenic differentiation within CA-clonal is the adaptation and disease incidence of these isolates on resistant strawberry cultivars with major resistance genes such as the Californian cultivar, e.g., Chandler, and resis- tant European cultivar, e.g., Belrubi (7). This hypothesis is supported by the occurrence of highly virulent isolates assigned to pathogenicity group 1 which overcame the major dominant resis tance gene of Chandler in 1994, in the Val de Loire (Central France) (4). 
+For the first time, four European isolates of C. gloeosporioides from strawberry that have been rarely observed were included in a study of genetic polymorphism and pathogenic variability. RAPD patterns of all 14 isolates of C. gloeosporioides showed high level of polymorphism as previously described (10). Because isolates of 
+C. gloeosporioides from strawberry collected in Europe and the 
+United States were closely related genetically, it is possible that C. gloeosporioides isolates pathogenic on strawberry were also introduced into Europe from North America through plant trade, as suggested for C. acutatum. Dissemination of C. gloeospori oides and C. acutatum through plant exchange between Europe and the United States, and genetic and pathogenic variation within both species, could be further investigated using Californian and 
+European C. acutatum and C. gloeosporioides isolates. 
+Whereas high levels of virulence were reported elsewhere for isolates of C. gloeosporioides from the southeastern United States (15), European isolates of C. gloeosporioides collected from straw berry exhibited low virulence (Table 3) and could even be con sidered as nonpathogenic. This may be due to a difference be tween European and southeastern United States isolates or to the temperate climatic conditions occurring in Europe. The latter hy pothesis is supported by the fact that optimal growth of C. gloe osporioides is obtained in vitro at higher temperatures than that for C. acutatum (24). Alternatively, low levels of virulence of C. gloeosporioides on strawberry observed in Europe could be related to limited epidemics of this species on strawberry in this region. 
+RAPD fragments specific to the different genetic groups of C. acutatum, CA-clonal and CA-variable, may be very useful for designing specific PCR-primers for rapid and reliable detection and for differentiation between the subgroups pathogenic on strawberry. This is of particular interest for detection of C. acutatum and identification of the genetic groups, CA-clonal or 
+CA-variable, for epidemiological studies. Moreover, using addi tional primers or other markers such as AFLPs would increase  the chance of detecting avirulence genes that are related to patho genic variability. This could be used to discriminate between the two pathogenicity groups in group CA-clonal, and to differentiate between the highly virulent United States isolates of C. gloeospo rioides compared to the predominantly mildly virulent isolates in Europe. ACKNOWLEDGMENTS 
+We thank Alain Baudry, L. Black, E. Bosshard, C. Chandler, D. 
+Cooley, M. Ellis, J. Gondran, M. Maltoni, M. Meyer, R. D. Milholland, J. 
+G. Nourrisseau, and K. Okayama for providing isolates of Colletotrichum spp. This research was supported in part by a grant from the “Région 
+Aquitaine” (PDZR) and European FEDER for strawberry research awarded to B. Denoyes-Rothan and by Research Grant Award IS 2825-97 from BARD, The United States–Israel Binational Agricultural Research and Development Fund awarded to S. Freeman. 
+LITERATURE CITED 1. Bonde, M. R., Peterson, G. L., and Maas, J. L. 1991. Isozyme com parisons for identification of Colletotrichum species pathogenic to strawberry. Phytopathology 81:1523-1528. 2. Brown, A. E., Sreenivasaprasad, S., and Timmer, L. W. 1996. Molecular characterization of slow-growing orange and key lime anthracnose strains of Colletotrichum from citrus as C. acutatum. Phytopathology 86:523-527. 3. Buddie, A. G., Martinez-Culebras, P., Bridge, P. D., Garcia, M. D., 
+Querol, A., Cannon, P. F., and Monte, E. 1999. Molecular charac terization of Colletotrichum strains derived from strawberry. Mycol. Res. 103:385-394. 4. Denoyes-Rothan, B. 1997. Etude des relations hôte-pathogène chez le couple Fraragaria × ananassa et Colletotrichum spp. Ph.D. thesis. 
+Université de Bordeaux II, France. 5. Denoyes, B., and Baudry, A. 1995. Species identification and pathogeni city study of French Colletotrichum strains isolated from strawberry using morphological and cultural characteristics. Phytopathology 85:53 57. 6. Felsenstein, J. 1985. Confidence limits on phylogenies: An approach using the bootstrap. Evolution 39:783-791. 7. Freeman, S., and Katan, T. 1997. Identification of Colletotrichum species responsible for anthracnose and root necrosis of strawberry in Israel. 
+Phytopathology 87:516-521. 8. Freeman, S., Katan, T., and Shabi, E. 1998. Characterization of 
+Colletotrichum species responsible for anthracnose diseases of various fruits. Plant Dis. 82:596-605. 9. Freeman, S., Minz, D., Maymon, M., and, Zveibil, A. 2001. Genetic diversity within Colletotrichum acutatum sensu Simmonds. Phytopath ology 91:586-592. 10. Freeman, S., and Rodriguez, R. J. 1995. Differentiation of Colletot richum species responsible for anthracnose of strawberry by arbitrarily primed PCR. Mycol. Res. 99:501-504. 11. Freeman, S., Shabi, E., and Katan, T. 2000. Characterization of Colletot richum acutatum causing anthracnose disease of anemone. Appl. 
+Environ. Microbiol. 66:5267-5272. 12. Gunnell, P. S., and Gubler, W. D. 1992. Taxonomy and morphology of 
+Colletotrichum species pathogenic to strawberry. Mycologia 84:157-165. 13. Hayden, H. L., Pegg, K. G., Aitken, E. A. B., and Irwin, J. A. G. 1994. 
+Genetic relationship as assessed by molecular markers and cross infection among strains of Colletotrichum gloeosporioides. Aust. J. Bot. 42:9-18. 14. Hodson, A., Mills, P. R., and Brown, A. E. 1993. Ribosomal and mitochondrial DNA polymorphisms in Colletotrichum gloeosporioides isolated from tropical fruits. Mycol. Res. 97:329-335. 15. Howard, C. M., Maas, J. L., Chandler, C. K., and Albregts, E. E. 1992. 
+Anthracnose of strawberry caused by the Colletotrichum complex in 
+Florida. Plant Dis. 76:976-981. 16. Journal Officiel de la République Française. 1993. Arrété du 2 septembre 1993 relatif aux exigences sanitaires des végétaux, produits végétaux et autres objets. 4 novembre 1993. Ed. Ministère de l’Agriculture et de la 
+Pêche. 17. Kohn, L. M. 1992. Developing new characters for fungal systematics: 
+An experimental approach for determining the rank of resolution. 
+Mycologia 84:139-153. 18. Lenné, J. M. 1977. A study of the biology and taxonomy of the genus 
+Colletotrichum. Ph.D. thesis. University of Melbourne, Australia. 19. Maas, J. L. 1987. Compendium of Strawberry Diseases. The American 
+Phytopathological Society, St. Paul, MN. 20. Martinez-Culebras, V., Barrio, E., Garcia, M. D., and Querol, A. 2000. 
+Identification of Colletotrichum species responsible for anthracnose of strawberry based on the internal transcribed spacers of the ribosomal region. FEMS Microbiol. Lett. 189:97-101. 21. Nei, M., and Li, W. 1979. Mathematical model for studying genetic variation in terms of restriction endonucleases. Proc. Natl. Acad. Sci. 76:5269-5273. 22. Perkins, D. D. 1962. Preservation of Neurospora stock cultures with  228 PHYTOPATHOLOGY 228 anhydrous silica gel. Can. J. Microbiol. 8:591-594. 23. Saghai-Maroof, M. A., Soliman, K. M., Jorgensen, R. A., and Allard, R. 
+W. 1984. Ribosomal DNA spacer-length polymorphism in barley: 
+Mendelian inheritance, chromosomal location, and population dynamics. 
+Proc. Natl. Acad. Sci. USA 81:8014:8018. 24. Smith, B. J., and Black, L. L. 1990. Morphological, cultural, and patho genic variation among Colletotrichum species isolated from strawberry. 
+Plant Dis. 74:69-76. 25. Sokal, R. R., and Michener, C. D. 1958. A statistical method for evalu ating systematic relationships. Univ. Kans. Sci. Bull. 38:1409-1438. 26. Sreenivasaprasad, S., Brown, A. E., and Mills, P. R. 1992. DNA se quence variation and interrelationships among Colletotrichum species causing strawberry anthracnose. Physiol. Mol. Plant Pathol. 41:265-281. 27. Sreenivasaprasad, S., Mills, P. R., Meehan, B. M., and Brown, A. E. 1996. Phylogeny and systematics of 18 Colletotrichum species based on ribosomal DNA spacer sequences. Genome 39:499-512. 28. Strunk, O., Ludwig, W., Gross, O., Reichel, B., Stuckmann, N., May, M., 
+Nonhoff, B., Lenke, M., Ginhart, T., Vilbig, A., and Westran, R. 1998. 
+ARB–A software environment for sequence data. Technische Universität 
+München, Munich, Germany. 29. Sutton, B. C. 1980. The Coelomycetes Fungi Imperfecti with Pycnidia, 
+Acervuli and Stromata. CMI, Kew, Surrey, UK. 30. Welsh, J., and McClelland, M. 1990. Fingerprinting genomes using PCR with arbitrary primers. Nucleic Acids Res. 18:7213-7218. 31. Williams, J. G. K., Kubelick, A. R., Livak, K. J., Rafalski, J. A., and 
+Tingey, S. V. 1990. DNA polymorphism amplified by arbitrary primers are useful as genetic markers. Nucleic Acids Res. 18:6531-6535. 32. White, T. J., Bruns, T., Lee, S., and Taylor, J. 1990. Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. 
+Pages 315-322 in: PCR Protocols, A Guide to Methods and Applications. 
+M. A. Innis, D. H. Gelfand, and J. J. Sninsky, eds. Academic Press, San Diego, CA.  

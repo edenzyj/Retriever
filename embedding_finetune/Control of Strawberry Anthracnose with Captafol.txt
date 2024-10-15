@@ -1,0 +1,108 @@
+I 
+Control of Strawberry Anthracnose with Captafol 
+BRYAN R. DELP, Graduate Research Assistant, and R. D. MILHOLLAND, Professor, Department of Plant
+Pathology, North Carolina State University, Raleigh 27650 ABSTRACT
+DELP, B. R., and R. D. MILHOLLAND. 1980. Control of strawberryanthracnose with captafol.Plant Disease 64:1013-1015.
+Strawberry anthracnose (Colletotrichum fragariae) causes severe losses in strawberry nurseries throughout the southeastern United States, despite the use of the recommended fungicide, benomyl. Fungitoxic concentrations of captafol, captan, maneb, and benomyl to C. fragariae in vitro were 1.0, 100, 100, and 5001Ag a.i./ ml, respectively. Captafol controlled the disease in the field if applied every 7 days but was ineffective applied every 14 days. Benomyl, maneb, and captan were ineffective. In 1978 and 1979 there were no significant differences in yield among the captafol treatments applied every 7 days at 1.2, 2.4, 3.6, and 4.8 g a.i./L. Disease was more severe at the two lower rates in 1979.
+Strawberry anthracnose, caused by
+Colletotrichum fragariae Brooks, has been a serious problem on strawberry (Fragaria X ananassa L.) for many years in Florida (1) and Louisiana (5), but it was not a problem in North Carolina until 1975 when it reached epidemic proportions (9). The fungus attacks all aboveground plant parts, causing elongated black lesions on petioles and runners (1,3), fruit rot (8), and crown rot, which kills the plant (6).
+Controls that have been investigated include sanitation practices, resistant varieties, and fungicide treatments (2,4,7). The fungicide benomyl has been recommended for control of strawberry anthracnose since 1971 (7). In the last few years benomyl has become less effective in controlling the disease in North
+Carolina, suggesting the development of a resistant strain. N. L. Horn (personal communication) recently confirmed the presence of a benomyl-resistant strain of
+C. fragariae in Louisiana. This paper presents the results of a laboratory and field search for a more effective control.MATERIALS AND METHODS
+Fungicide bioassay. In vitro action of several fungicides on C. fragariae was determined using Neely and Himelick's cellophane diffusion technique for simultaneous determinatin of fungistatic and fungicidal properties (10). The fungicides were serially diluted to 
+Portions of a thesis submitted by senior author in partial fulfillment of the requirements for the M.S. degree, North Carolina State University. 
+Paper 6360 of the Journal Series of the North
+Carolina Agricultural Research Service, Raleigh. 
+Use of trade names implies neither endorsement of the products by the North Carolina Research Service nor criticism of similar ones not mentioned. 0191-2917/80/11101303/$03.00/0 © 1980 American Phytopathological Society concentrations of 0.04, 0.2, 1.0, 5.0, 20, 100, and 500 a.i. Mg/ml. Concentrations of 0.04-20 Mg/ml were used in the fungistatic tests, and concentrations of 1.0-500 Mg/ml were used in the fungicidal tests. A deionized water control was included in each test. The fungicides evaluated were captafol (Difolatan 4F), Captan (Orthocide 50W), chlorothalonil (Bravo 6F), maneb (Dithane M-22 80W), benomyl (Benlate 50W), triforine (Funginex EC), and CGA 64251 (Ciba-Geiby Corp. experimental compound).
+C. fragariae isolates obtained from
+North Carolina (CF-4, -9, -16), Louisiana (CF-1), and Florida (CF-7) were used.
+Conidial suspensions of the isolates were prepared from 10-day-old cultures grown on oatmeal agar at 24 C and were adjusted with a hemacytometer to 5 X 105 conidia per milliliter. Three cellophane disks were seeded with each isolate at each concentration and maintained in a moist chamber at 24-28 C. Tests were repeated for a total of six disks for each treatment.
+Fungicidal properties were determined by transferring the disks to potato dextrose agar after 3 hr of exposure to a fungicide. A treatment was considered fungicidal if no growth occurred after 3 days. Fungistatic properties were determined by counting 100 conidia per disk after 24-hr exposure to fungicides. A concentration was considered fungistatic if less than 1% of the conidia germinated.
+The length of 10 germ tubes per disk was measured at this time.
+Fungicide field evaluations. Field tests were done in 1978 and 1979 with the susceptible cultivar Surecrop. Plants were obtained from a registered planting at the Sandhills Research Station,
+Jackson Springs, NC, where anthracnose had not been observed. Plants were set in soil treated with methyl bromide (97 kg/ha) in November for weed control.
+Rows were spaced 1.2 m apart with every other row used as a border. Plots consisted of three plants spaced 0.6 m apart. Plots within rows were 1.2 m apart.
+Each treatment was replicated four times.
+Fungicide treatments were applied from mid-May through September at 7 and 14-day intervals in 1978 and 7-day intervals in 1979. A CO 2 pressurized sprayer operated at 2.1 kg/cm 2 (30 psi) was used to wet all plant parts to runoff.
+The 1978 treatments consisted of captafol 4 F applied at 2.4, 3.6, and 4.8 g a.i./ L of water (2, 3, and 4 lb/ 100 gal); benomyl 50W at 0.6 g a.i./ L; maneb 80W at 1.9 g a.i./ L; and benomyl 50W plus maneb 80W mix at 0.6 and 1.9 g a.i./L, respectively. Unsprayed plots served as controls.
+The 1979 treatments included captafol 4F at the concentrations given plus a lower concentration of 1.2 g a.i./L.
+Captan 50W at 2.4 g a.i./ L alone and with benomyl 50W at 0.6 g a.i./ L, replaced the maneb 80W treatments.
+Benomyl 50W was applied alone at 0.6 g a.i./ L. 
+Table 1. Fungistatic and fungicidal concentrationsa to Colletotrichum fragariae 
+Fungistaticb/fungicidalc concentrations (Mg/ml) to isolates:
+Fungicide CF-1 CF-4 CF-7 CF-9 CF-16 
+Captafol 0.04/1.0 0.04/1.0 0.04/1.0 0.04/1.0 0.04/1.0
+Captan 0.2/20 0.2/20 0.2/100 1.0/100 0.2/100
+Chlorothalonil 5.0/ 1> 500 1.0/ > 500 1.0/ > 500 1 .0 d/ > 500d 1.0/ > 500
+Maneb 1.0/100 > 20/100 5.0/100 > 20/500 > 20/100
+Benomyl > 20/500 > 20/> 500 > 20/> 500 > 20/> 500 > 20/> 500
+Triforine > 20/ > 500 > 20/ > 500 > 20/ > 500 > 20/ > 500 > 20/ > 500
+CGA 64251 > 20/> 500 > 20/> 500 > 20/> 500 > 20/> 500 > 20/> 500 a Determined by Neely and Himelick's cellophane diffusion technique (10).
+bLess than 1% germination after 24-hr exposure to concentration.
+c No growth on potato-dextrose agar after 3-hr exposure to concentration.
+dTested against CF-12 instead of CF-9. 
+Plant Disease/November 1980 1013 
+Beginning 24 hr after the first fungicide application, border row plants were inoculated at weekly intervals for 3 wk by spraying the petioles and runners with a conidial suspension of C. fragariae. This allowed for natural spread to treatment row plants after border row plants became infected.
+Data on disease severity and plant growth were taken in July and August. Plots were rated on a disease index as follows: 1 = no plant loss, none to slight infection (0-25% of the runners with small lesions); 2 = 1-5% plant loss, slight to moderate infection (26-75% of the runners with small lesions); 3 = 6-25% plant loss, moderate to general infection (26-75% of the runners with elongated lesions); 4 = 26 -50% plant loss, general to severe infection (76-100% of the runners infected); 5 = 51-100% plant loss, severe to total infection. An average rating of more than 3.0 in August was considered unsatisfactory control. Yield was determined in October as the number of plants produced per plot.RESULTS AND DISCUSSION
+Fungicide bioassay. Concentrations of fungicides fungistatic or fungicidal to C. fragariae varied among isolates in all cases except where the fungicide was completely effective at the lowest concentration or completely ineffective at the highest concentration. In general, isolate CF-9 was more tolerant than other isolates (Table 1). In the maneb fungistatic test and the captan fungicidal test, isolate CF-16 was as tolerant as CF 9. Other variations between isolates followed no pattern.
+Captafol and captan were the most effective against all isolates. Captafol was fungistatic and fungicidal at the lowest concentrations, 0.04 and 1.0 Ag/ml, respectively. Although not as effective as captafol, captan was fungistatic at 0.2-1.0 Mg/ml and fungicidal at 20-100 g/ml. Germination was reduced by captan from 90% in the control to 33 and 10% at 0.04 and 0.2 
+Ag/ml, respectively (Table 2). Captan also reduced germ tube length from 41
+Aim in the control to 14 and 6 Am at 0.04 and 0.2 zg/ ml, respectively.
+Chlorothalonil was fungistatic at 1.0-5.0 jg/ ml but not fungicidal up to 500 ttg/ ml. The response to maneb varied. Fungistatic concentrations ranged from 1.0 Ag/ ml of maneb for CF 1 to 20 g/ml for CF-4, -9, and -16. A concentration of 100 Ag/ ml was fungicidal for all isolates except CF-9, which was killed at 500 jig/ml. Germination was only slightly inhibited at concentrations of 0.2 l#g/ ml of maneb and lower, but 5.0 #g/ ml reduced germination to 33% from > 90% in the control. Germ tube length was 42 Am for the control and 39 Mm for
+Maneb at 0.2/ug/ ml but was reduced to 8 m at 5.0 Ag/ ml. Appressorium formation was extensive on both the control and treatment disks of the maneb test. The cause was unknown.
+Neither CGA 64251 nor triforine were fungicidal or fungistatic. Benomyl was not fungistatic but was fungicidal at 500 
+Ag/ ml on CF-1. Benomyl did not reduce germination but caused extensive branching and irregular growth of germ tubes at concentrations of 0.2 Ag/ ml or greater. The mode of action of benomyl is on cell division (11); therefore, reduction in germination would not be expected. The germ tube distortion indicates that the isolates we tested are sensitive to benomyl. Triforine did not inhibit germination, but germ tube growth was reduced from 251 Am in the control to 77 
+Mm at 20 Mg/iml. Fungicide field evaluations. In 1978, anthracnose lesions developed on inoculated border row plants in late May and appeared on treated plants by early
+June. Disease developed rapidly, killing 90% of the border row plants by mid
+July. This placed treatment plots under extreme disease pressure.
+Differences in disease indices were slight among the plots that were treated at 7-day intervals and rated in July. In general, plots treated with captafol had slightly less disease than those with all other treatments. This difference became much more apparent by 1 August. On 29
+August only the captafol-treated plots had acceptable disease levels with indices ranging from 2.0 to 2.2 (Table 3). More than 50% of the plants were killed by anthracnose in all other plots. Yield difference between captafol-treated plots and all other plots was very large, and this was the only statistical difference. Yield ranged from 368 to 403 plants per plot for captafol treatments and one to six plants per plot for the benomyl, maneb, and control plots. None of the fungicides were phytotoxic.
+Table 2. Percent germination of Colletotrichumfragariae conidia after 24-hr exposure to fungicide 
+Fungicide concentration (g/ml) 
+Fungicide 0 0.04 0.2 1.0 5.0 20 Captafol > 90a 0 0 0 0 0 Captan 90 33 10 0 0 0 
+Chlorothalonil > 90 82 33 <10 0 0 Maneb > 90 > 90 82 58 33 0 
+Benomyl > 90 ... • > 90 > 90 > 90 > 90 
+Triforine > 90 > 90 > 90 > 90 > 90 82 
+CGA 54251 > 90 > 90 > 90 > 90 > 90 > 90 a Average of five isolates.
+Table 3. Control of strawberry anthracnose caused by Colletotrichumfragariae with 7- and 14-day fungicide spray schedules 1978 7-day schedule 14-day schedule 1979 7-day schedule 
+Disease Disease' Disease index' 
+Rate index Yield b  index Yieldb Yieldb 
+Treatment (g a.i./L) (29 Aug.) (10 Oct.) (29 Aug.) (10 Oct.) 11 July 1 Aug. 11 Sept. (29 Sept.) 
+Captafol 4F 4.8 2.2c 378 x 3.7 78 x Loc 2.0 2.0 146 v 3.6 2.0 403 x 4.0 62 x 1.0 2.0 2.7 129 vw 2.4 2.2 368 x 4.0 30 x 1.0 2.0 3.0 102 vwx 1.2 ... ... ... 1.0 2.0 3.0 86 vwxy 
+Benomyl 50W 0.6 5.0 6 y 5.0 0 y 1.0 2.5 4.7 26 yz 
+Maneb 80W 1.9 5.0 2 y 5.0 0 y ............Benomyl 50W + 0.6
+Maneb 80W 1.9 5.0 1 y 5.0 0 y ..........
+Captan 50W 2.4 ... ... ... ... 1.0 2.0 4.3 35 xyz Captan 50W + 2.4
+Benomyl 50W 0.6 ... ... ... ... 1.0 2.0 3.8 76 wxyz 
+Control ... 5.0 1 y 5.0 1 y 1.5 3.2 5.0 7 z 'Disease index: 1 = 0% plant loss, 2 = 1-5%, 3 = 6-25%, 4 = 26-50%, 5 = 51-100%.
+bAverage plants per plot. Figures in column followed by the same letter are not significantly different by Duncan's multiple range test (P = 0.05). c Average of four three-plant plots. 1014 Plant DiseaseNol. 64 No. 11 
+Disease developed more rapidly in the plots treated at 14-day intervals. In July, the average disease index was 0.4 higher than that of the 7-day treatment. By 1
+August captafol clearly differed from all other treatments. By 29 August, however, no treatment applied on a 14-day schedule gave acceptable control of strawberry anthracnose. (Table 3). Disease indices ranged from 3.7 for captafol at 4.8 g a.i./ L to 5.0 for the benomyl, maneb, and control treatments. Yields were markedly lower than those of the 7-day treatments ranging from 30-78 plants per plot for captafol treatments and none to one plant per plot for all other treatments. These differences were attributed to rapid plant growth and an extended spray interval.
+Disease development was slower in the spring and early summer of 1979 than in 1978 due to lower temperatures in June, which retarded plant growth and reduced yield. An extended wet period during
+Hurricane David favored disease development late in the growing season, however, so the disease indices were higher in 1979 for identical treatments.
+Differences in disease among plots were very slight on 11 July and 1 August (Table 3). Disease and yield on 11 and 29
+September, respectively, were progres sively worse with decreasing captafol concentration. Disease indices ranged from 2.0 to 3.0 and yield from 148 to 86 plants per plot for 4.8 and 1.2 g a.i./L, respectively. The captan plus benomyl mix was less effective than any captafol treatment, with a disease index 0.8 higher than the lowest rate of captafol, but the yield was more than twice that of captan or benomyl alone. Although this difference was not statistically significant, the higher degree of control was consistently evident from field observations.
+Captafol was the most active material against C. fragariae in laboratory and field tests. It performed well even under epidemic conditions if applied in appropriate concentrations. Adequate control of strawberry anthracnose is pro vided by 1.2-2.4 g a.i./ L applied every 7 days. The mixture of captan plus benomyl at 2.4 and 0.6 g a.i./L, respectively, also provides some control.
+Since Benlate has not been used extensively in commercial strawberry fields for 2-3 yr, it is possible that the population of the resistant strain has decreased. If this is so, the mixture would combine the high activity of captan with the continuous protection of a systemic.
+In this study, however, captafol was much more effective for control of strawbery anthracnose than any other fungicide.
+LITERATURE CITED 1. BROOKS, A. N. 1931. Anthracnose of strawberry caused byColletotrichum fragariae.Phytopathology 21:731-744. 2. BURNSIDE, K. R. 1971. Breeding for resistance and chemical control of Colletotrichum fragariae. Ph.D. dissertation, Louisiana StateUniv. 45 pp. 3. CARVER, R. G., and N. L. HORN. 1960.
+Summer killing of strawberry plants caused by
+Colletotrichumfragariae. (Abstr.) Phytopathology 50:575. 4. HORN, N. L., K. R. BURNSIDE, and R. B. CARVER. 1972. Control of the crown rot phase of strawberry anthracnose through sanitation, breeding for resistance, and benomyl. Plant Dis. Rep. 56:515-519. 5. HORN, N. L., and R. G. CARVER. 1962.
+Anthracnose and powdery mildew on strawberry plants in Louisiana. Plant Dis. Rep. 45:591-592. 6. HORN, N. L., and R. G. CARVER. 1963. A new crown rot of strawberry plants caused by
+Colletotrichum fragariae. Phytopathology 53:768-770. 7. HOWARD, C. M. 1971. Control of strawberry anthracnose with benomyl. Plant Dis. Rep. 55:139-141. 8. HOWARD, C. M. 1972. A strawberry fruit rot caused by Colletotrichum fragariae. Phyto pathology 62:600-602. 9. JONES, R. K., C. N. CLAYTON, and R. D. MILHOLLAND. 1977. Strawberry diseases and control. N.C.S.U. Plant Pathol. Info. Note 199. 10. NEELY, D., and E. B. HIMELICK. 1966.
+Simultaneous determination of fungistatic and fungicidal properties of chemicals. Phytopathology 56:203-209. 11. SPENCE, E. Y. 1977. History of fungicides.
+Pages 1-17 in: M. R. Siegel and H. D. Sisler, eds.
+Antifungal Compounds. Marcel Dekker, Inc.,New York. 600 pp.
+Diseases of Alfalfa in Alabama 
+F. A. GRAY, Plant Pathologist-Nematologist, Alabama Cooperative Extension Service; R. L. HAALAND and E. M.CLARK, Associate Professors, Department of Agronomy and Soils and Departments of Botany, Plant Pathology andMicrobiology, respectively; and D. M. BALL, Agronomist, Alabama Cooperative Extension Service, AuburnUniversity, Auburn, AL 36830 ABSTRACT
+GRAY, F. A., R. L. HAALAND, E. M. CLARK, and D. M. BALL. 1980. Diseases of alfalfa in
+Alabama. Plant Disease 64:1015-1017.
+A 3-yr survey of fields in Alabama showed several diseases associated with declining stands ofmature alfalfa (Medicago sativa). These include anthracnose (Colletotrichum trifolii), Sclerotiniacrown and stem rot (Sclerotinia trifoliorum), Rhizoctonia crown rot (Rhizoctonia solani), summerblack stem and leaf spot (Cercospora medicaginis), charcoal rot (Macrophominaphaseolina), andthe alfalfa stem nematode (Ditylenchus dipsaci). Rust (Uromyces striatus) severely damaged aseedling stand of alfalfa. Rhizoctonia crown rot, charcoal rot, and the alfalfa stem nematode arereported from the state for the first time. Eleven of 15 isolates of R. solani from diseased alfalfacrowns were pathogenic on seedling alfalfa. Six additional fungi and eight nematodes also were associated with the alfalfa plant. growth and reproduction (11). Several brief reports of alfalfa diseases in
+Alabama were published before 1950 (15), but an extensive survey of diseases of alfalfa has never been done. The need for such a survey appeared to be particularly important since alfalfa was not grown for 15-20 yr and essentially represents a new crop for the state.
+Economic control of alfalfa diseases is usually obtained through plant resistance (11). An alfalfa breeding program is under way at Auburn University. In addition, several private seed companies have expressed interest in the development of alfalfa cultivars specifically for the South. Identification and assessment of major diseases of alfalfa in the state would not only aid in making valid selections of available varieties but also provide vital information about the disease resistance that should be incorporated in cultivars developed for Alabama and adjacent areas.
+The purpose of this paper is to update 
+Plant Disease/November 1980 1015 
+Alfalfa production in Alabama reached a peak of 2,000 ha in the early 1950s. With the introduction of the alfalfa weevil 
+Present address of senior author: Associate
+Professor, Plant Science Division, University ofWyoming, Laramie, WY 82071. 0191-2917/80/11101503/$03.00/0 © 1980 American Phytopathological Society (Hypera postica Gyllenhal), however, acreage rapidly declined, and alfalfa production was essentially nonexistent by the late 1950s. The acreage planted in alfalfa has steadily increased since 1975 to a current estimated 1,200 ha, with more planned for production.
+Alfalfa is attacked by at least 70 different pathogens of which approxi mately 30 are considered to limit its 

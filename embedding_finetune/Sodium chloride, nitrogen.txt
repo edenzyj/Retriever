@@ -1,0 +1,60 @@
+
+"Sodium Chloride, Nitrogen Source, and Lime Influence Fusarium Crown Rot Severity in Tomato" 
+AS applications made during the early greenhouse forcing period using subirriga tion. Blueing florists’ hydrangeas required ≈ 12 g AS or 1.1 g Al/pot. Overhead irri gation systems would normally require higher doses, i.e., >20 g AS/1.6-liter pot due to leaching. These results provide field produc ers more flexibility in determining the num ber of plants that are to be treated with AS. Greenhouse forcers will have to apply the
+AS at the early stages of growth to allow uptake and redistribution of Al within the plant.Literature Cited 
+Allen, R.C. 1943. Influence of aluminum on the flower color of Hydrangea macrophylla DC. Contrib. Boyce Thompson Inst. 13:221-242.
+Bailey, D.A. 1989. Hydrangea production. Grow ers handbook series, vol. 3. Timber Press, Port land, Ore. p. 15-35.
+Blom, T.J. and B.D. Piott. 1990. Leaching sub irrigated plants. Greenhouse Canada 10(12):12, 16.
+Chenery, E.M. 1937. The problem of the blue hydrangea. J. Royal Hort. Soc. 62:304-320.
+Cochran, W.G. and G.M. Cox. 1957. Experi mental designs. 2nd ed. Wiley, New York. p.65-70.
+Robinson, G.M. and R. Robinson. 1932. A sur vey of anthocyanins II. Biochem. J. 26:1647 1664.
+Takeda, K., M. Kariuda, and H. Itoi. 1985. Blueing of sepal colour of Hydrangea macrophylla.Phytochemistry 24:2251-2254.
+Yeager, T.H., R.D. Wright, and S.J. Donohue. 1983. Comparison of pour-through and satu rated pine bark extract N, P, K and pH levels.
+J. Amer. Soc. Hort. Sci. 108:112-114.
+HORTSCIENCE 27(10):1087-1088. 1992.
+Sodium Chloride, Nitrogen Source, and Lime Influence Fusarium CrownRot Severity in Tomato
+S.S. Woltz1, J.P. Jones1, and J.W. Scott1 
+Institute of Food and Agricultural Sciences, University of Florida, Gulf
+Coast Research and Education Center, 5007 60th Street East, Bradenton,FL 34203 
+Additional index words. Lycopersicon esculentum, Fusarium oxysporum f. sp. radicis lycopersici, transplants 
+Abstract. Media and nutrient variables were investigated to develop methods of re ducing the incidence and severity of fusarium crown rot incited by Fusarium oxysporum
+Schlecht. f. sp. radicis-lycopersici Jarvis & Shoemaker (FORL), a disease problem of current importance with tomato Lycopersicon esculentum Mill. Root-dip inoculated seedlings were transplanted into trays of a 1 Canadian peat : 1 vermiculite medium that had been prepared with factorial combinations of CaCO3, (0.75 or 3.0 kg·m-3),
+Ca(NO 3)2 or (NH4)2SO4 (each at 225 mg N/liter), and NaCl at 0 or 2000 mg Na/liter as the experimental treatments. Crown rot was more severe with the lower CaCO 3 rate, with (NH4)2SO4, and supplemental NaCI. Data on fresh weight of seedlings expressed as percentage values relative to the noninoculated controls supported observations on disease severity.
+Fusarium crown rot of tomato incited by
+Fusarium oxysporum f. sp. radicis-lycoper sici (FORL) has been a serious problem in the field in Florida (Jones et al., 1990) and in the greenhouse and field elsewhere (Bra mall and McKeown, 1989; Jarvis and Thorpe, 1980; Vakalounakis, 1988). The develop ment of crown rot is quite different from that of fusarium wilt of tomato. Crown rot de composes cortical tissue, while fusarium wilt invades the vascular system, blocking or in hibiting upward movement of water. Fusar ium crown rot attacks the crown, roots, and
+Received for publication 13 Sept. 1991. Accepted for publication 19 May 1992. Florida Agr. Expt. Sta. J. Ser. R-01856. This work was supported in part by a grant from the Florida Tomato Commit tee, Orlando, FL 32814. We gratefully acknowl edge the technical assistance of Patricia Jones and
+Russell Owens. The cost of publishing this paper was defrayed in part by the payment of page charges. Under postal regulations, this paper therefore must be hereby marked advertisement solely to indicate this fact.1Professor.
+HORTSCIENCE, VOL. 27(10), OCTOBER 1992 hypocotyls of seedlings. Some crown rot isolates may attack the roots very strongly, while others are only weak pathogens of roots.
+Crown rot has also been referred to as foot and root rot (Jarvis and Thorpe, 1980).
+The seedling culture medium selected for this research was intentionally very acid (pH 4.0 to 5.7). Our results from previous work (Jones et al., 1990) show that an acid reac tion is essential to clear rapid expression of the disease. Also, field experience associ ated low soil pH with higher levels of se verity and incidence of the disease incited by
+FORL. Florida pine-palmetto flatwood soils have an initial pH that is very acid (≈3.8), and the usual liming procedure does not ad just the pH upward quickly and uniformly.
+Sampling indicates that acid and moderately pH-elevated regions are present in the soil.
+Spot samples tested in addition to the cus tomary samples show that both limed and unlimed conditions persist in the soil for some time after liming. Thus, an individual tomato plant will have some roots in strongly acid zones while others will be surrounded by re gions of moderately elevated pH. Although plant growth is satisfactory, nonuniform lim ing does not control fusarium diseases. Nor mal sampling procedures do not reveal the range of pH values that exist nor the relative proportion of the volume that is effectively limed. Optimally, conduct of research ne cessitates quick and uniform production of the disease at will, which is aided by the use of an acid medium. Lack of horticulturally acceptable cultivars with resistance to FORL accentuates the problem.
+Sodium chloride was selected as a variable because commercial tomato growers and workers in agricultural fields reported to us that high soil NaCl was frequently associated with the development of more severe and extensive outbreaks of crown rot. Also, Davet et al. (1966) reported that fusarium wilt of tomato is aggravated by high NaCl content of irrigation water. Undesirably elevated soil
+NaCl levels are occasionally encountered by growers of tomatoes in areas of the UnitedStates. 
+Since earlier research led to a system of control or reduction in the tomato fusarium wilt disease (Davet et al., 1966; Woltz and
+Jones, 1968, 1973, 1981), we have at tempted to apply and extend the findings with wilt to crown rot (Jones et al., 1990), inas much as the two Fusaria are of the same species.
+Two-week-old seedlings of ‘Walter’ to mato were root-dip-inoculated in FORL in oculum prepared by blending potato glucose agar cultures in sterile deionized water and diluting to a final concentration of 5 × 106 spores per milliliter. The root dip also in volved crowns and a portion of the hypo cotyl. The inoculated seedlings, 15 per container, were transplanted into 18.5 × 24.5 × 2.5-cm plastic trays containing ≈2 × 10 -3 m3 of a 1 Canadian peat : 1 vermiculite mix. The medium was amended with 1.5 kg of Perk micronutrient mix (Vigoro Indus tries, Fairview Heights, Ill.) and 3.0 kg of single superphosphate per cubic meter. Fac torial combinations of powdered CaCO3 (0.75 or 3.0 kg·m-3), solutions of Ca(NO3), or (NH4)2SO4 (each at 225 mg N/liter), and NaCl at 0 or 2000 mg Na/liter were employed as the experimental treatments. Calcium car bonate was included in the dry mix while 200 ml of solutions of the N sources and 1087 
+NaCl were applied to trays before planting the inoculated or noninoculated seedlings, with solution applications (200 ml per tray) being repeated weekly to the end of the ex periment.
+The experiment was performed in the greenhouse in Nov. and Dec. 1990, with a completely randomized-block design. Day time temperatures ranged from 18 to 26C with night temperatures of 17 to 21C. Lower temperatures, 22 to 24C, are essential to the rapid, uniform development of crown rot (Jones et al., 1990). Statistical analysis was carried out with the analysis of variance t test (LSD) comparing equal cell sizes with pairwise t tests (SAS Institute, 1985).
+Crown rot developed rapidly, being ex pressed at the earliest stage as a breaking over of the hypocotyl, followed by a wilting and necrosis of the leaves and death of the seedlings. Expression in young and small seedlings (10 to 14 days) was more of a col lapse of the hypocotyls. Older (14 to 28 days) seedlings displayed a girdling of the crown, rated according to the severity of the effect.
+Calcium carbonate at the higher rate inhib ited crown rot development (Table 1) as shown by disease ratings as well as by data for fresh weight of inoculated seedlings ex pressed as percentages of the appropriate noninoculated control plants.
+As the N source, Ca(NO3)2 reduced crown rot severity compared to (NH4)2SO4. Sup 1088 plemental NaCl increased disease severity in comparison with the lack of extra NaCl. Low
+CaCO3, (NH4)2SO4 as the N source, and added
+NaCl combined produced the most severe disease expression. A very low medium pH (≈4.0; Table 1) was associated with more disease. High Na and low Ca contents of a 1 part medium : 2 parts water extract were associated with higher severity of disease.
+Dipping roots in comminuted potato glu cose agar culture suspensions at high inoc ulum levels could be expected to overwhelm very young seedlings subject to root wound ing by pulling from trays, inoculation, and replanting. We were surprised, therefore, that certain combinations of CaCO3, N source, and NaCl could afford a high degree of pro tection against the crown rot disease. The data presented here for N source do not sep arate the effects of nitrate per se vs. am monium, but include effects of Ca and sulfate.
+The effectiveness of fertilizing practices in preventing diseases likely would be much greater under normal conditions of low in oculum potential with no intentional wound ing of roots, crowns, and hypocotyls, but confirmation requires application to com mercial practice.Literature Cited 
+Bramall, R.A. and A.W. McKeown. 1989. An occurrence in Ontario of fusarium crown and root rot disease in field-grown processing to
+H matoes originating from multicelled tray trans plants. Can. J. Plant Pathol. 11:75-77.
+Davet, P., C. Messiaen, and P. Rieuf. 1966.
+Interpretation des manifestations hivemales de la fusariose de la tomate en Afrique du nord, favorises par la presence de sels dans les eaux d’irrigaton. Actes de premier congres de l’union phytopathologique Mediterraneenne. p. 407-416.
+Jarvis, W.R. and H.J. Thorpe. 1980. Effects of nitrate and ammonium nitrogen on severity of fusarium foot and root rot and on yield of green house tomatoes. Plant Dis. 64:309-310.
+Jones, J.P., S.S. Woltz, and J.W. Scott. 1990.
+Factors affecting development of fusarium crown rot of tomato. Proc. Florida State Hort. Soc. 103:142-148.
+SAS Institute. 1985. SAS/Stat guide for personal computers. version 6 ed. SAS Inst.. Cary, N.C. 
+Vakalounakis, D.J. 1988. The genetic analysis of resistance to fusarium crown and root rot of tomato. Plant Pathol. 37:71-73.
+Woltz, S.S. and J.P. Jones. 1968. Micronutrient effects on the in vitro growth and pathogenicity of Fusarium oxysporum f. sp. lycopersici. Phy topathology 58:336-338.
+Woltz, S.S. and J.P. Jones. 1973. Interactions of nitrogen fertilizer and liming procedure in the control of fusarium wilt of tomato. HortScience 8:137-138.
+Woltz, S.S. and J.P. Jones. 1981. Nutritional re quirements of Fusarium oxysporum: Basis for a disease control system, p. 340-349. In: P.E. Nelson, T.A. Toussoun, and R.J. Cook (eds.).
+Fusarium: Diseases, biology, and taxonomy. The
+Pennsylvania State Univ. Press, University Park and London. ORTSCIENCE, VOL. 27(10), OCTOBER 1992 

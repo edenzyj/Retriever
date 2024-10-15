@@ -1,0 +1,131 @@
+ARTIC 
+LE v o l u m e  1  ·  n o .  2 � © 2010 International Mycological Association 
+You are free to share - to copy, distribute and transmit the work, under the following conditions:
+Attribution:  You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+Non-commercial:  You may not use this work for commercial purposes. 
+No derivative works: You may not alter, transform, or build upon this work. 
+For any reuse or distribution, you must make clear to others the license terms of this work, which can be found at http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode. Any of the above conditions can be waived if you get permission from the copyright holder. Nothing in this license impairs or restricts the author’s moral rights. 161 INTRODUCTION 
+A Special Interest Group meeting Colletotrichum: species, ecology and interactions, was held on 1 August 2010 at the 9th International Mycological Congress (IMC9) in Edinburgh, 
+UK. The meeting, organised by Paul Cannon (UK) and Ulrike 
+Damm (The Netherlands), brought together 23 scientists from 12 countries working in different fields of mycology, but with a common interest in the genus Colletotrichum. Seven presentations, covering a wide range of topics, ranged from systematics and population genetics to host-pathogen interactions and genome projects. This contribution provides a synopsis of the presentations made at that meeting.Systematics and identification
+The first four presentations dealt with systematics and identification of major Colletotrichum species complexes containing various important anthracnose pathogens worldwide. Four of these species are illustrated in Fig. 1. 
+While the identity of many important species still require revision (Hyde et al. 2009), molecular techniques improve the delimitation of species that are hard to distinguish based on morphology alone and reveal their phylogenetic relationships (Cai et al. 2009, Crouch et al. 2009, Damm et al. 2009). This will inevitably result in name changes but has implications for everyone working with this genus, especially plant pathologists, and will improve our understanding of the role these species play in nature. 
+Ulrike Damm gave an overview of her ongoing collaboration with Paul Cannon about the phylogeny of three species complexes. The aim of this project is to delimitate species within these complexes, characterise known and new species and designate epitypes to provide the basis for accurate identifications of Colletotrichum species. This goal has so far been achieved for species with curved conidia from herbaceous hosts (Damm et al. 2009), which in the past were mostly identified as C. dematium. Multi-gene analyses and morphological characterisation revealed several diverse and distantly related species, including four new species. Seven species were epitypified, including C. dematium and the type species of the genus, C. lineola. A second study confirmed most of the previously recognised groups (Sreenivasaprasad & Talhinhas 2005) within the C. acutatum species complex. 
+Most of these could be defined on the basis of type strains or strains suitable for epitypification. Literature reports (Lubbe et al. 2004, Johnston et al. 2005) and preliminary studies using 
+ITS sequence data indicated that C. boninense represents a species complex as well. A multilocus molecular phylogenetic 
+Colletotrichum: species, ecology and interactions 
+Ulrike Damm1, Riccardo Baroncelli2, Lei Cai3, Yasuyuki Kubo4, Richard O’Connell5, Bevan Weir6, Kae Yoshino7 and Paul F. 
+Cannon8 1CBS-KNAW Fungal Biodiversity Centre, Uppsalalaan 8, 3584 CT Utrecht, The Netherlands; corresponding author e-mail: u.damm@cbs.
+knaw.nl 2School of Life Sciences, University of Warwick, Wellesbourne, Warwick, CV35 9EF, UK 3Key Laboratory of Systematic Mycology & Lichenology, Institute of Microbiology, Chinese Academy of Sciences, No. 10, North 4th Ring Road 
+West, Beijing 100190, P.R. China 4Graduate School of Life and Environmental Sciences, Kyoto Prefectural University, 1-5 Hangi-cho, Shimogamo, Sakyo-ku, Kyoto, Japan 5Department of Plant Breeding and Genetics, Max Planck Institute for Plant Breeding Research, 50829 Köln, Germany 6Landcare Research, Private Bag 92170 Auckland, New Zealand 7Graduate School of Agriculture, Kyoto University, Sakyo-ku, Kyoto 606-8502, Japan 8CABI Europe-UK, Bakeham Lane, Egham, Surrey TW20 9TY, UK; and Royal Botanic Gardens, Kew, Surrey TW9 3AB, UK 
+Abstract: The presentations of the Special Interest Group meeting Colletotrichum: species, ecology and interactions, held on 1 August 2010 during IMC9 in Edinburgh, UK, are outlined. Seven research projects, ranged from systematics and population genetics to host-pathogen interactions and genome projects were presented. The meeting revealed that currently major species complexes in the genus Colletotrichum are being revised and the identities of many pathogens clarified on the basis of molecular phylogenies, and that the genomes of four species are sequenced and decoded providing an enormous amount of data that are used to increase our understanding of the biology of Colletotrichum species.
+Article info: Submitted: 27 October 2010; Accepted: 20 November 2010; Published: 23 November 2010.
+Key words: genome sequencing host-pathogen interaction identification pathogenicity population genetics systematics 
+IMA FUNgUS · vOlUMe 1 · NO 2: 161–165 Damm et al. � i m a  f u n G u S ARTIC
+LE 162 analysis of strains previously identified as C. boninense resulted in clades that could be recognised as separate species with differences in host range, distribution and morphology, including C. boninense sensu stricto, Glomerella phyllanthi, C. hippeastri and several presumably new species. 
+Most of the species in the C. boninense complex and some in the C. acutatum species complex form teleomorph states in culture. Publications on the C. acutatum and C. boninense species complexes will appear in a 2011 issue of Studies in Mycology.
+Colletotrichum gloeosporioides sensu lato is a species complex with broad genetic and biological diversity grouped together by similar conidial morphology and ITS sequences. 
+Bevan Weir and Peter Johnston (Landcare Research, 
+Auckland, New Zealand) presented their research on this species complex and possible approaches to species delimitation through the Genealogical Concordance 
+Phylogenetic Species Recognition (GCPSR). It was shown that that the taxa C. musae, C. kahawae, C. xanthorrhoeae, 
+C. nupharicola, C. fragariae, C. gloeosporioides sensu stricto, C. horii, C. theobromicola, C. ignotum, C. tropicale, C. asianum, C. siamense, C. fructicola and C. hymenocallidis, as well as many putative undescribed species are part of the C. gloeosporioides sensu lato complex. They recently characterised and neotypified one of these species, C. horii (Weir & Johnston 2010). The GCPSR concept was used to delimit taxa within C. gloeosporioides sensu lato. This concept considers that phylogenetic trees of different genes show discordance within a species due to gene flow between individuals. The common node where different gene trees show concordance is considered the speciation point. 
+They applied the GCPSR with eight genes using recently developed Bayesian analysis tool, BUCKy (Ané et al. 2007). 
+The GCPSR concept worked well for species delimitation along currently recognised lines, except for C. kahawae, which was insufficiently distinct from several genetically similar non-Coffee Berry Disease causing taxa. It was suggested that this may be due to the recent emergence (1920) of C. kahawae as a pathogen and that insufficient time had passed for ecological niche specialisation to show as mutations in the genes used. They suggested that C. kahawae be recognised at the subspecific rank. A publication on their work on the C. gloeosporioides sensu lato species complex will appear in the 2011 Studies in Mycology issue on Colletotrichum as well.
+Colletotrichum acutatum causes economically significant losses of temperate, subtropical and tropical crops. Globally, 
+C. acutatum populations display considerable genotypic and phenotypic diversity. Riccardo Baroncelli (University of Warwick, Wellesbourne, UK) presented his research on evolutionary relationships in C. acutatum populations in collaboration with Charles Lane (FERA, Sand Hutton, York, 
+UK) and Prasad Sreenivasaprasad (University of Warwick, 
+Wellesbourne, UK). The overall objective is to understand the evolutionary relationships within the species with particular reference to the pathogen populations associated with the strawberry production systems in the UK. More than 150 
+C. acutatum isolates related to different hosts worldwide have been assembled. Phylogenetic analysis of sequence data from the rDNA block, Mat1-2 and βtubulin-2 genes shows eight distinct genetic groups within C. acutatum. The subsets of isolates represented within these genetic groups corresponded to the previously identified groups A1 to A8. 
+Almost all of the homothallic isolates capable of sexual reproduction comprise a single genetic group, A7. Isolates representing populations capable of heterothallic sexual 
+Fig. 1. Conidiomata and conidia of four Colletotrichum species. A, e. C. acutatum (CBS 112996, ex-paratype strain). B, F. C. lineola (CBS 125337, ex-epitype strain). C, g. C. truncatum (CBS 151.35, ex-epitype strain). D, H. C. gloeosporioides (CBS 112999, ex-epitype strain). A, C, 
+F, H. Conidia on SNA. B, g. Conidiomata on SNA. D, e. Conidiomata on Anthriscus stem. Scale bars: A = 10 μm, B = 100 μm, E = 200 μm. A applies to A, C, F, H. B applies to B, D, G. 
+Colletotrichum: species, ecology and interactionsARTIC 
+LE 163v o l u m e  1  ·  n o .  2 � reproduction belong to two distinct genetic groups A3 and 
+A5. Molecular characterisation of C. acutatum populations representing the introduction and spread of the pathogen in the strawberry production systems in the UK showed the presence of three genetic groups (A2, A3 and A4). Their results suggest the existence of C. acutatum populations potentially undergoing speciation processes, related to their reproductive behaviour and host association patterns. Further molecular and phenotypic characterisation is in progress.
+Lei Cai (Key Laboratory of Systematic Mycology & 
+Lichenology, Institute of Microbiology, Beijing, China) and Kevin Hyde (School of Science, Mae Fah Luang 
+University, Chiang Rai, Thailand) presented their research on Colletotrichum species from Asian fruits and leaves. 
+Fruit rots (anthracnose) were previously often attributed to 
+C. gloeosporioides and C. acutatum. Identifications were, however, based on morphological characters or, if gene sequence data were used, comparisons were often made with wrongly applied names. Colletotrichum gloeosporioides was recently epitypified (Cannon et al. 2008) so that living cultures and sequence data are, for the first time available for comparison with fresh collections. Analysis of sequence data of 25 isolates (selected from 140 obtained strains based on diversity of host and morphology) from eight tropical fruits are compared with the C. gloeosporioides epitype. Contrary to previous assumptions, none of these isolates from tropical fruits was C. gloeosporioides sensu stricto (Phoulivong et al. 2010). The five gene regions used in this study resolved 
+C. asianum, C fructicola, C. horii, C. kahawae and C. gloeosporioides in the C. gloeosporioides species complex as distinct phylogenetic lineages with high statistical support. 
+Many tested strains could not be assigned to any known taxa in this analysis. They also reported Colletotrichum species from Amaryllidaceae, Orchidaceae, Cordyline fruticosa and 
+Jasminum sambac, with the latter including two new species (Wikee et al. 2010), and updated the typifications of C. coccodes, C. falcatum and C. musae. genomic studies
+Colletotrichum species provide excellent models for studying fungal-plant interactions (Perfect et al. 1999). Several large scale genome projects are in progress for Colletotrichum species aiming to produce high-quality assemblies of the genome sequences to provide resources for comparative genomics and the molecular analysis of fungal pathogenicity, which allows the identification of genes and proteins relevant to each stage of plant infection. 
+Colletotrichum graminicola is a destructive pathogen of maize, causing stalk rot and leaf blight, while C. higginsianum attacks many cultivated forms of Brassica as well as 
+Arabidopsis thaliana, providing a model pathosystem in which both partners can be genetically manipulated (O’Connell et al. 2004). Both pathogens employ a hemibiotrophic infection strategy, but while the biotrophic phase of C. graminicola extends into many host cells, that of C. higginsianum is confined to single epidermal cells. Richard O’Connell (Max 
+Planck Institute for Plant Breeding Research, Cologne, 
+Germany) gave an overview of the C. higginsianum and C. graminicola genome research, which he is conducting in collaboration with Lisa Vaillancourt (University of Kentucky, 
+USA), Li-Jun Ma (MIT-Broad Institute, USA) and Mike Thon (CIALE-University of Salamanca, Spain). Comparing the genomes of two species with contrasting pathogenic lifestyles and host specificities will allow them to study lineage-specific expansions and contractions of gene families and identify genes undergoing rapid evolution (diversifying selection), which may be involved in interactions with the host plant, e.g. those encoding secreted effector proteins. The 57.4 Mb genome of C. graminicola comprises 13 chromosomes and was sequenced at the Broad Institute (8X Sanger, 11X paired end 454) giving an assembly of 1,151 contigs in 653 scaffolds (<broadinstitute.org/annotation/genome/colletotrichum_ group/MultiHome.html>).  The 52.5 Mb genome of C. higginsianum comprises 11 chromosomes and was sequenced with a combination of 454 (24X), Illumina paired end (60X) and Sanger fosmid sequencing (0.2X). These data assembled into 8,301 contigs in 367 scaffolds (<mpiz-koeln.
+mpg.de/english/research/pmi-dpt/oconnell/index.html>). For genome annotation, 890,000 ESTs were generated from C. higginsianum by 454-sequencing cDNA libraries representing appressoria formed in vitro, appressoria penetrating leaf epidermis, biotrophic hyphae and necrotrophic mycelium. 
+In addition, ~22,000 Sanger ESTs were obtained from the in vitro mycelium of C. graminicola. Both genomes have now been annotated by the Broad Institute, with 12,006 protein coding genes predicted for C. graminicola and ~15,900 for C. higginsianum.
+Colletotrichum orbiculare is an anthracnose fungus which infects Cucurbitaceae. Yasuyuki Kubo (Kyoto Prefectural 
+University, Japan) gave an update of the C. orbiculare genome project conducted in collaboration with Yoshitaka 
+Takano (Kyoto University, Japan) and Ken Shirasu (RIKEN 
+Plant Science Center, Yokohama, Japan). Pathogenicity, morphology and the hemibiotrophic infection strategy of strain 104-T (=MAFF 240422) are well studied, some of the rationales to select this strain for the genome sequencing project. Moreover, strain 104-T has been very stable for pathogenesis and morphogenesis for many years and a variety of insertional mutants are available. Gene manipulation techniques such as Agrobacterium tumefaciens-mediated transformation or protoplast transformation are established (Tsuji et al. 2003) and for host parasite interaction studies, a model plant Nicotiana benthamiana is being used as a susceptible host. So far, several factors involved in infection related morphogenesis have been identified in C. orbiculare 104-T. Signal transduction pathways, such as cAMP dependent pathway and MAP kinase pathway are essential for germination, appressorium development, infection hyphae formation and invasive growth, while the melanin biosynthesis pathway is essential for appressorium function. 
+Several structural and regulatory genes involved in these pathways were identified (Takano et al. 1997, Tanaka et al. 2009). Peroxisome function is essential for pathogenesis as well; and two peroxisome biogenese gens, PEX6 and PEX13 Damm et al. � i m a  f u n G u S ARTIC
+LE 164 were functionally analysed (Kimura et al. 2001, Fujihara et al. 2010). Recently, it was reported that pexophagy factor 
+ATG26 is essential for appressorium function (Asakura et al. 2009). The genome analysis of C. orbiculare is now going to be completed, which allows comparisons of genomic data of three Colletotrichum species, C. higginsianum, C. graminicola and C.orbiculare that belong to different phylogenetic clades within the genus. These data will provide comprehensive basis for studying the biology of the different Colletotrichum species. 
+A study on host-pathogen interaction between C. orbiculare and N. benthamiana was presented by Kae 
+Yoshino (Graduate School of Agriculture, Kyoto University, 
+Kyoto, Japan). This project is conducted together with Fumie 
+Sugimoto (Graduate School of Agriculture, Kyoto University, 
+Kyoto, Japan), Hirofumi Yoshioka (Graduate School of 
+Bioagricultural Sciences, Nagoya University, Nagoya, Japan), 
+Tetsuro Okuno, and Yoshitaka Takano (both Graduate School of Agriculture, Kyoto University, Kyoto, Japan). By functional screening of C. orbiculare cDNAs using N. benthamiana-A. tumefaciens in planta expression system they identified a novel effector gene NIS1 whose product induces cell death in N. benthamiana. Deletion of the signal peptide of Nis1 abolished its cell death activity, indicating Nis1 recognition in apoplasts of N. benthamiana. The GFP-based localization study together with biochemical analysis revealed that Nis1 with the inducting activity is secreted from C. orbiculare cells at fungal invasion phase inside plant tissue.  Nis1-mediated cell death was cancelled by virus-induced gene silencing (VIGS) of SGT1 or HSP90 in N. benthamiana, whereas VIGS of 
+RAR1 had no effects. These indicate that SGT1 and HSP90, the components of R-gene mediated defences, are involved in the Nis1-inducing cell death.  Surprisingly, the deletion of 
+NIS1 has no significant effects on the infection behaviour of 
+C. orbiculare on N. benthamiana. Overexpression of Nis1 in 
+Arabidopsis thaliana caused growth reduction, implying that the NIS1-encoded effector has an activity to interfere plant development. These data indicate that C. orbiculare secretes the effector that can be recognized by N. benthamiana, but this potential effector-triggered immunity might be repressed in this susceptible interaction.
+Alan Buddie (CABI Europe-UK, Egham, UK) announced a further genome project for C. gloeosporioides. The project is a collaboration between CABI and The Genome Analysis 
+Centre (TGAC), Norwich, UK (<tgac.bbsrc.ac.uk>), to carry out a whole genome sequence of the ex-epitype strain of C. gloeosporioides (IMI 356878). The DNA sequencing phase is nearing completion and they are going to start soon with the assembly.
+The meeting provided good evidence of the rapidity with which our understanding is improving of Colletotrichum genomics, and nicely complemented the outputs of another 
+Colletotrichum workshop that was held earlier in 2010, in conjunction with the 10th European Conference on Fungal 
+Genetics in Leeuwenhorst, the Netherlands. It was particularly exciting to witness the increasing power of genomic research tools, and their potential impact on our understanding of fungal systematics and speciation. It provided good opportunities to coordinate research programmes, exchange data and share experiences. ACKNOwleDgeMeNTS 
+Alan Buddie (CABI Europe-UK, Egham, UK) is thanked for sharing the news about the new Colletotrichum genome project. ReFeReNCeS 
+Ané C, Larget B, Baum DA, Smith SD, Rokas A (2007) Bayesian estimation of concordance among gene trees. Molecular Biology and Evolution 24: 412–426.
+Asakura M, Ninomiya S, Sugimoto M, Oku M, Yamashita S, Okuno 
+T, Sakai Y, Takano Y (2009) Atg26-Mediated Pexophagy Is 
+Required for Host Invasion by the Plant Pathogenic Fungus 
+Colletotrichum orbiculare. Plant Cell 21: 1291–1304.
+Cai L, Hyde KD, Taylor PWJ, Weir BS, Waller J, Abang MM, Zhang 
+JZ, Yang YL, Phoulivong S, Liu ZY, Prihastuti H, Shivas RG, 
+McKenzie EHC, Johnston PR (2009) A polyphasic approach for studying Colletotrichum. Fungal Diversity 39: 183–204.
+Cannon PF, Buddie AG, Bridge PD (2008) The typification of 
+Colletotrichum gloeosporioides. Mycotaxon 104: 189–204.
+Crouch JA, Clarke BB, White JW, Hillman BI (2009a) Systematic analysis of the falcate-spored graminicolous Colletotrichum and a description of six new species of the fungus from warm-season grasses. Mycologia 101: 717–732.
+Damm U, Woudenberg JHC, Cannon PF, Crous, PW (2009) 
+Colletotrichum species with curved conidia from herbaceous hosts. Fungal Diversity 39: 45–87.
+Fujihara N, Sakaguchi A, Tanaka S, Fujii S, Tsuji G, Shiraishi T, 
+O’Connell R, Kubo Y (2010) Peroxisome biogenesis factor 
+PEX13 is required for appressorium-mediated plant infection by the anthracnose fungus Colletotrichum orbiculare. Molecular 
+Plant-Microbe Interactions 23: 436–445.
+Hyde KD, Cai L, Cannon PF, Crouch JA, Crous PW, Damm U, Goodwin 
+PH, Chen H, Johnston PR, Jones EBG, Liu ZY, McKenzie EHC, 
+Moriwaki J, Noireung P, Pennycook SR, Pfenning LH, Prihastuti 
+H, Sato T, Shivas RG, Tan YP, Taylor PWJ, Weir BS, Yang YL, 
+Zhang JZ (2009) Colletotrichum – names in current use. Fungal Diversity 39: 147–182.
+Johnston PR, Pennycook SR, Manning MA (2005) Taxonomy of fruit rotting fungal pathogens: what’s really out there? New Zealand Plant Protection 58: 42–46.
+Kimura A, Takano Y, Furusawa I, Okuno T (2001) Peroxisomal 
+Metabolic Function Is Required for Appressorium-Mediated 
+Plant Infection by Colletotrichum lagenarium. Plant Cell 13: 1945–1957. 
+Lubbe CM, Denman S, Cannon, PF, Groenewald JZ, Lamprecht SC, 
+Crous PW (2004) Characterization of Colletotrichum species associated with diseases of Proteaceae. Mycologia 96: 1268–1279.
+O’Connell R, Herbert C, Sreenivasaprasad S, Khatib M, Esquerré
+Tugayé M-T, Dumas B (2004) A novel Arabidopsis-Colletotrichum pathosystem for the molecular dissection of plant-fungal interactions. Molecular Plant-Microbe Interactions 17: 272–282. 
+Colletotrichum: species, ecology and interactionsARTIC 
+LE 165v o l u m e  1  ·  n o .  2 � 
+Perfect SE, Hughes HB, O’Connell RJ, Green JR (1999) Colletotrichum: a model genus for studies on pathology and fungal–plant interactions. Fungal Genetics and Biology 27:186–198.
+Phoulivong S, Cai L, Chen H, McKenzie EHC, Abdelsalam K, 
+Chukeatirote E, KD (2010) Colletotrichum gloeosporioides is not a common pathogen on tropical fruits. Fungal Diversity 44: 33–43.
+Sreenivasaprasad S, Talhinhas P (2005) Genotypic and phenotypic diversity in Colletotrichum acutatum, a cosmopolitan pathogen causing anthracnose on a wide range of hosts. Molecular Plant Pathology 6: 361–378.
+Takano Y, Kubo Y, Kuroda I, Furusawa I (1997) Temporal transcriptional pattern of three melanin biosynthesis genes, 
+PKS1, SCD1, and THR1, in appressorium-differentiating and nondifferentiating conidia of Colletotrichum lagenarium. Applied and Environmental Microbiology 63: 351–354.
+Tanaka S, Ishihama N, Yoshioka H, Huser A, O’Connell R, Tsuji G, 
+Tsuge S, Kubo Y (2009) Colletotrichum orbiculare ssd1 mutant enhances plant basal resistance through activation of a mitogen activated protein kinase pathway. Plant Cell 21: 2517–2526.
+Tsuji G, Fujii S, Fujihara N, Hirose C, Tsuge S, Shiraishi T, Kubo Y (2003) Agrobacterium tumefaciens-mediated transformation for random insertional mutagenesis in Colletotrichum lagenarium. 
+Journal of General Plant Pathology 69: 230–239.
+Weir BS, Johnston PR (2010) Characterisation and neotypification of Gloeosporium kaki Hori as Colletotrichum horii nom. nov. Mycotaxon 111: 209–219.
+Wikee S, Cai L, Pairin N, McKenzie EHC, Su Y-Y, Chukeatirote E, Thi 
+HN, Bahkali AH, Moslem, MA, Abdelsalam K, Hyde KD (2010) 
+Colletotrichum species from Jasmine (Jasminum sambac). 
+Fungal Diversity:  DOI 10.1007/s13225-010-0049-x. 

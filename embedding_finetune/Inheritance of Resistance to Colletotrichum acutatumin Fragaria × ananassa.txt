@@ -1,0 +1,264 @@
+
+Inheritance of Resistance to Colletotrichum acutatum in Fragaria × ananassa Vol. 95, No. 4, 2005 405 Genetics and Resistance 
+Inheritance of Resistance to Colletotrichum acutatum  in Fragaria × ananassa 
+Béatrice Denoyes-Rothan, Guy Guérin, Estelle Lerceteau-Köhler, and Georgette Risser 
+First and second authors: UREFV, INRA, BP 81, 33883, Villenave d’Ornon Cedex, France; third author: Centre Interrégional de Recherche et d’Expérimentation de la Fraise (CIREF), Lanxade, F-24130, Prigonrieux, France; and fourth author: UGAFL, INRA, Domaine St 
+Maurice, BP94, 84143, Montfavet Cedex, France. 
+Accepted for publication 29 November 2004.  ABSTRACT 
+Denoyes-Rothan, B., Guérin, G., Lerceteau-Köhler, E., and Risser, G. 2005. Inheritance of resistance to Colletotrichum acutatum in Fragaria × ananassa. Phytopathology 95:405-412. 
+Anthracnose, caused by Colletotrichum acutatum, is a major disease of the octoploid cultivated strawberry, Fragaria × ananassa. The inheritance of high and intermediate level plant resistances to C. acutatum, patho genicity group 2, was investigated in an 8 × 8 factorial design.  A single dominant gene (Rca2) controlled the high-level resistance, although minor genes may also contribute to resistance in cultivars such as Belrubi. 
+The intermediate level of resistance was quantitative and controlled by minor genes. Analysis of 26 genotypes and cultivars from Fragaria spp. showed that the dominant gene was not rare in the germ plasm of  
+F. × ananassa and that anthracnose resistance was also present in other species of Fragaria. These findings have important implications for anthracnose resistance breeding. 
+Additional keywords: host–pathogen interaction, major gene.  
+Anthracnose, caused by Colletotrichum acutatum Simmonds, is a major disease of the cultivated strawberry (Fragaria × ananassa 
+Duchesne) in Europe, where C. acutatum is subjected to statutory quarantine requirements (18). Symptoms occur on all parts of the plant, and preferentially on stolons, flowers, and fruits. No chemi cal disease control methods are available to control the disease effectively. Among cultural techniques, drip irrigation and cultur ing under plastic tunnels considerably limits inoculum dispersal and therefore reduces fruit losses (20). The use of pathogen-free plants produced according to a scheme of certification usually provides a level of disease control (24,25). Nevertheless, latent in fection may occur in apparently healthy plants leading to anthrac nose losses in production fields (22). Therefore, the development of strawberry cultivars resistant to C. acutatum is promising for controlling anthracnose as a method that is both economical and environmentally acceptable. Screening methods evaluating the re action of the whole plant have revealed accessions resistant to  
+C. acutatum in F. × ananassa (10,11,16,26,28). Studies focused on inheritance of anthracnose resistance have described different modes of resistance (12,13,32). In the study of host–pathogen interaction, Denoyes and Baudry (7) have suggested that the re sistance to C. acutatum could display different modes of inheri tance depending on the pathogenicity group of C. acutatum iso late and on the level of resistance. 
+The objective of this study was to examine the inheritance of high and intermediate level plant resistance to C. acutatum iso lates of the pathogenicity group 2 in order to improve our under standing of the anthracnose resistance. The inheritance was studied using an 8 × 8 factorial design. A thorough analysis of the intermediate resistance was conducted by analyzing the disease response of the S2 generation from selfing cv. Addie. In addition, a range of 26 geographically diverse accessions of Fragaria spp. was studied for its inheritance of anthracnose resistance. More over, a study was carried out for testing the hypothesis that identical major genes are controlling the resistance in cvs. Capi tola and Chandler. MATERIALS AND METHODS 
+Plant material. In a preliminary study, four crosses (Valeta × 
+Selva, Addie × Sequoia, and their reciprocal crosses Selva × 
+Valeta and Sequoia × Addie) were studied in order to test recipro cal effects. Since all these crosses segregated clearly in a 1:1 ratio (P > 0.05), a factorial scheme was chosen for studying the inheritance of anthracnose resistance. By using different parents as female and male, this scheme allows the analysis of a broader genetic base compared with that of diallel design. The 16 cultivars used in the factorial crossing scheme (8 × 8) were assigned ran domly as male or female parent (Table 1). Table 1 presents the authors credited with reporting resistance of these cultivars in literature. In addition, the level of resistance of these cultivars is presented according to preliminary or reported results (8). The inheritance of resistance of cv. Addie was studied by inoculating with C. acutatum S2 families derived from the selfing of random individuals taken from the S1 generation. 
+The presence of anthracnose resistance to pathogenicity group 2 was evaluated by inoculation of 26 accessions including 23  
+F. × ananassa genotypes of various geographic origins, one  
+F. moschata genotype (FM1), and two F. vesca genotypes (Reine des Vallées and Rodluvan) (Table 2). 
+Finally, the presence of identical or different genes controlling anthracnose resistance in cvs. Capitola and Chandler was analyzed by studying families derived from the complex cross [(Capitola × Chandler) × Pajaro]. 
+Crosses (F1, first filial generation) and selfings (S1, selfing parental generation and S2, selfing S1 generation) were protected from cross-pollination by covering buds with polyethylene bags. 
+Corresponding author: B. Denoyes-Rothan  
+E-mail address: denoyes@bordeaux.inra.fr DOI: 10.1094 / PHYTO-95-0405 
+This article is in the public domain and not copyrightable. It may be freely re printed with customary crediting of the source. The American Phytopathological
+Society, 2005. 406 PHYTOPATHOLOGY 
+Seeds were germinated in the greenhouse with a 16-h photoperiod using supplementary incandescent light and a day temperature of 24 ± 6°C and night temperature of 18 ± 4°C. Four to six weeks after sowing, seedlings were transplanted to 72-cell plug trays (one plant per 5 × 5 cm well) containing peat/vermiculite sub strate (1:1 by volume). 
+Inoculations. The monoconidial isolate 688b of the C. acu tatum pathogenicity group 2 was used for inoculum (7). The stock culture was maintained in cryoconservation (31). Each year, this strain was recovered from diseased plants of cv. Elsanta to revive its pathogenicity. 
+Seedlings were inoculated when the first two true leaves were fully developed, i.e., 3 to 4 weeks after planting in the tray. Seed lings were inoculated by spraying the leaf surfaces until runoff with a conidial suspension adjusted to 3 × 106 conidia per milli liter and prepared as described in Denoyes and Baudry (7). After inoculation, the seedlings were maintained in plastic boxes for  2 weeks in a controlled environment growth chamber with a 14-h photoperiod and at 28°C ± 1°C, and then for 2 weeks in a green house at 25°C ± 4°C. The level of humidity inside the plastic chamber was maintained at 90 to 95% at least during 1 week after inoculation. 
+TABLE 2. Segregation of 26 S1 populations from genotypes or cultivars for reaction to Colletotrichum acutatum, pathogenicity group 2    Classx  
+Genotype or cultivarv Pedigree Origin No. of plantsw R MS VS Ratio testedy Pz 
+CF1116 Pajaro × CF129 FR 40 2.5 27.5 70.0 0:1 0.89 
+Bogota Zaltbommel 53-116 × Tugo NL 51 2.0 31.4 66.7 0:1 0.73 
+CF129 Earlyglow × Chandler FR 52 0.0 38.5 61.5 0:1 0.14 
+Earliglow (Fairland × Midland) × (Redglow × Surecrop) USA 15 0.0 6.7 93.3 0:1 0.43 
+Elsanta Gorella × Holiday NL 59 3.4 59.3 37.3 0:1 0.90 
+Darselect Elsanta × Parker FR 157 10.8 44.6 44.6 0:1 0.01 
+Addie Pantagruella × Md US 3816 IT 34 38.2 61.8 0.0 0:1 <0.001 
+Ostara Redgaunlet × Mach. Dauerernte NL 44 29.5 40.9 29.5 0:1 <0.001 
+Capitola CA 75-121-101 × Parker USA 151 80.1 15.9 4.0 3:1 0.15 
+F. moschata FM1 – – 44 81.8 15.9 2.3 3:1 0.30 
+Gariguette (Pocahontas × Regina) × (Belrubi × Marieva) FR 161 68.9 30.4 0.6 3:1 0.08 
+Mamie Harwester × Gariguette FR 66 78.8 18.2 3.0 3:1 0.48 
+Mara des Bois (HummiGento × Ostara) × (Redgaunlet × Korona) FR 224 79.5 19.2 1.3 3:1 0.12 
+Mme Moutot Dr Morère × Royal Sovereign FR 24 54.2 37.5 8.3 3:1 0.02 
+Oso Grande Parker × (Tioga × Pajaro) USA 56 64.3 16.1 19.6 3:1 0.06 
+Revada Climax × Ada Herzberg NL 52 78.8 21.2 0.0 3:1 0.52 
+Senga Sengana Markee × Sieger GER 161 66.5 29.8 3.7 3:1 0.01 
+Seascape Selva × Douglas USA 200 67.5 18.5 14.0 3:1 0.01 
+Sequoia CAL 52.16-15 × CAL 51s1-1 USA 76 71.1 21.1 7.9 3:1 0.43 
+US438 (LA 883 × (Sunrise × (Midland × Albritton))) ×     (FL 76-802 × LA 2556)  
+USA  45  75.6  24.4  0.0  3:1  0.93 
+US70 FL 73-1965 × FL 73-780 USA 106 85.8 14.2 0.0 3:1 0.01 
+Dover Florida Belle × USFL 71-189 USA 60 91.7 6.7 1.7 1:0 0.20 
+F. vesca-Reine des Vallées – Europe 91 93.4 5.5 1.1 1:0 0.25 
+F. vesca-Rodluvan – SWE 31 93.5 3.2 3.2 1:0 0.52 
+US159 LA 7525-A × (Florida Belle × LA 2556) USA 221 96.4 3.6 0.0 1:0 0.72 
+US292 Arking × LA 883 USA 146 91.8 8.2 0.0 1:0 0.05 v US70, US159, US292, and US438 were reported as resistant in Galetta et al. (11). Underlined genotypes indicate controls. w Total number of inoculated plants. x The three susceptible classes are expressed as percentage of seedlings recorded from 0 to 0.5 for resistant class (R), from 1 to 2.5 for moderately susceptible class (MR), and from 3 to 5 for very susceptible class (VS). Notations are evaluated 28 days after inoculation. y All ratios are for resistant (R) to moderately susceptible and very susceptible (MS + VS) plants. z Probability of chi-square test calculated for expected ratio 3:1 and likelihood chi-square test calculated for expected ratios 1:0 and 0:1 for goodness of fit. 
+TABLE 1. Parental lines with their pedigrees, origins, resistance reactions, references on resistance to anthracnose, and status in the factorial crossing scheme  Genotype  Parents  Origin Resistance reactionx 
+Reference on resistance  to anthracnosey  Female or malez 
+Addie Pantagruella × MDUS 3816 Italy I 21 Male 
+Arking Cardinal × Ark 5431 (MDUS 3082 × Delite) USA (AR) R – Female 
+Belrubi Pocahontas × Redcoat France R – Male 
+Chandler Douglas × Cal 72 361 105 USA (CA-UC) R – Female 
+Darestival Brighton × DA 80 37 17 France S – Female 
+Dover Florida Belle × Fla 71 189 USA (FL) R 16 Male 
+Elsanta Gorella × Holiday Netherlands S – Female 
+Fern Tufts × C 69 62 103 USA (CA-UC) S – Male 
+Hokowase Yakumo × Tahoe Japan S 23 Female 
+HummiGento – Netherlands S – Female 
+Pajaro Sequoia × C 63 7 101 USA (CA-UC) S – Male 
+Selva C 70 3 117 × C 51 51 1 USA (CA-NC) R – Male 
+Sequoia C 52 16 15 × C 51 51 1 USA (CA-NC) R 32 Male 
+Rosanne NC 3140 ⊕ USA (NC) R – Female 
+Valeta Sivetta × Holiday Netherlands S – Female 
+Yolo Hecker × C 721 98 05 USA (CA-UC) S – Male x Cultivars were rated as S, susceptible; I, intermediate; R, resistant, according to preliminary inoculations and according to Denoyes-Rothan and Guérin (8). y References of reported resistance for the corresponding cultivar. z Female or male in the factorial crossing scheme. Vol. 95, No. 4, 2005 407 
+Disease responses were recorded 28 days postinoculation ac cording to a scale from 0 (no visual symptoms) to 5 (death of the plant) (7). For summarizing results of inoculations, seedlings were grouped into three categories based on their disease re sponses: the resistant group [R] (disease responses 0 and 0.5, which represented no developed visual symptom); the moderately susceptible group [MS] (disease responses from 1 to 2.5, which represented petiolar and/or foliar necrosis); and the very suscepti ble group [VS] (disease responses from 3 to 5, which represented a wilting reaction due to crown rot). 
+The Pajaro-S1 progeny was included as susceptible control in all inoculation tests of the factorial scheme. Moreover, Elsanta-S1, 
+Addie-S1, Sequoia-S1, and/or Dover-S1 progenies were used as a range of controls in the other studies. 
+Experimental design. In the study of the 8 × 8 factorial de sign, at least 80 seedlings were inoculated for each of the 64 crosses and for the S1 progeny of the 16 parents, except for 
+Darestival × Pajaro, Hokowase × Pajaro, Hokowase × Belrubi, 
+Hokowase × Dover, Elsanta-S1, and Rosanne-S1, where 49, 44, 59, 78, 58, and 48 seedlings were inoculated, respectively. A total of five inoculation experiments were performed and most selfings or crosses were assessed in at least two distinct inoculation ex periments. For studying the inheritance of the 26 diverse acces sions, at least 40 S1 seedlings were inoculated, except for cv. 
+Madame Moutot (24 seedlings). For studying the inheritance of the intermediate resistance of cv. Addie, one S1 and eight S2 progeny were inoculated. 
+Data analysis. For studying segregation in a Mendelian ap proach, seedlings were grouped into two classes: the resistant class (R) corresponding to [R] and the susceptible class (S) corre sponding to [MS] and [VS]. Segregation ratios of S1 and cross populations were tested for goodness-of-fit to theoretical ratios for the hypothesis that a single locus with one dominant allele controls resistance. Since seedlings may escape inoculation (mean of 3% on the eight susceptible S1 cvs. Yolo, Elsanta, Darestival, 
+Pajaro, Fern, Hokowase, Valeta, and HummiGento) or die for other reasons than anthracnose, the segregation ratios 0:1 (resis tant/susceptible) and 1:0 (resistant/susceptible) were tested as 3:97 (resistant/susceptible) and 97:3 (resistant/susceptible). Tests were performed on the segregating populations using numerical data. The chi-square (χ2) test was used for the segregation ratio 3:1 and 1:1. The likelihood ratio chi-square test (G2) (SAS Insti tute, Cary, NC), which can be performed using a small number of observations (3), was used for the segregation ratios 0:1 and 1:0 (3:97 and 97:3, respectively). 
+For comparing the disease incidence means of S1 and crosses derived from the susceptible or moderately susceptible parents, a least-squares means (LS means) test (P = 0.001) was performed. 
+This test was also performed for comparing the eight S2 popu lations derived from cv. Addie with the three S1 populations derived from cvs. Addie, Elsanta, and Dover. All analyses were performed using the Statistical Analysis System (SAS Institute). RESULTS 
+Factorial crossing scheme. In the five inoculation experi ments, the S1 of the susceptible control cv. Pajaro displayed a high percentage of susceptible seedlings from 96 to 100% (P of the homogeneity of χ2 test = 0.56), which showed optimum con ditions for disease development. Therefore, for each population, data obtained in the different experiments were pooled for analyses. 
+Frequency distributions of anthracnose disease response ap peared to be bimodal except for Addie-S1 for HummiGento-S1, and for four intercrosses between susceptible cultivars and Addie (Darestival × Addie, HummiGento × Addie, Hokowase × Addie, and Valeta × Addie). These six distributions showed large percen tages of moderately susceptible plants ([MS] of >20%) (Table 3). 
+Major dominant gene for resistance. The S1 progeny from the five resistant cultivars, Arking, Chandler, Rosanne, Selva, and 
+Sequoia, segregated clearly in a 3:1 (resistant/susceptible) ratio with P > 0.05 (Table 4), suggesting control by a single hetero zygous dominant locus. This control was confirmed in these five resistant cultivars by analysis of the segregation, firstly of the 22 crosses between these five resistant cultivars and the susceptible ones that segregated 1:1 (P > 0.05 and for three crosses P > 0.01, except for Arking × Pajaro and Rosanne × Fern [P < 0.001 and  
+P = 0.004, respectively]), and secondly, of the six intercrosses between resistant cultivars that segregated 3:1 (P > 0.05, except for Chandler × Selva [P = 0.002]) (Table 4). 
+The S1 progeny from cv. Dover segregated in a 1:0 (resis tant/susceptible) ratio (P > 0.05), which suggested that the dosage of the resistant dominant allele is at least two (double dose or duplex) (Table 4). Results of the eight F1 involving cv. Dover confirmed the presence of a multidose resistant allele in this culti var because they segregated in a 1:0 (resistant/susceptible) ratio (P > 0.05 except for two crosses where P > 0.01) under the hypothesis of disomic behavior and homozygous status of the gene (Table 4). 
+In the simplest hypothesis of multidose configuration in the cv. 
+Dover, i.e., double dose, segregations of the resistance gene in disomic (RR rr rr rr), tetrasomic (RRrr rrrr), or octosomic (RRrrrrrr) segregation in configuration of test cross (crosses with susceptible genotypes) and of selfing are presented in Table 5. 
+The results do not support the hypothesis of octosomic inheri tance of the resistance gene Rca2 since probabilities of the χ2 were lower than 0.05, except for HummiGento × Dover. The observed segregation patterns fit ratios observed in disomic and/or tetrasomic inheritances depending on the crosses. 
+The observed segregation pattern of Belrubi-S1, which dis played a percentage of resistant seedlings of 84.4%, fits neither a 3:1 nor a 1:0 ratio (P < 0.001). Considering the hypothesis of one heterozygous dominant gene, an excess of resistant genotypes was observed in Belrubi-S1 and the five crosses between this cultivar and susceptible cultivars (Table 4). However, the three crosses between this cultivar and resistant cultivars segregated clearly in a 3:1 (resistant/susceptible) ratio with P > 0.05. 
+Absence of resistance. The S1 progenies of susceptible paren tal cvs. Darestival, Elsanta, Fern, Hokowase, HummiGento, 
+Pajaro, Valeta, and Yolo showed very low percentages of resistant genotypes (from 0.0 to 8.8% with a mean of 3%) (Table 3). This result fitted well with the hypothesis of segregation ratio of 0:1 (resistant/susceptible) with P > 0.05. The populations derived from intercrosses between these cultivars followed the same ratio and confirmed the hypothesis of the absence of dominant gene. 
+Partial resistance. The observed segregation pattern of Addie
+S1 fitted neither a 0:1 nor a 3:1 ratio (P < 0.01) and nor a 1:3 ratio expected with a recessive simplex heterozygous gene (P < 0.01) (Table 3). Its frequency of disease response was continuous com pared with distributions of the susceptible and resistant controls (Fig. 1). This result suggested a partial resistance. 
+Using LS mean test, mean disease responses of populations of 
+Addie-S1, HummiGento × Addie, Hokowase × Addie, and Valeta × 
+Addie were significantly lower (from 3.3 to 3.0) than disease responses of populations of selfings of susceptible cultivars (Darestival, Elsanta, Fern, Hokowase, Pajaro, and Yolo) and lower than intercrosses between these cultivars (from 5.0 to 3.9) (Table 3). Moreover, disease responses of five of the eight Addie-S2 families (Addie4-S2, Addie29-S2, Addie17-S2, Addie13-S2, and 
+Addie9-S2) were significantly lower than disease responses of 
+Addie-S1 and similar to Dover (P = 0.001) (Table 6). These results suggested that the partial resistance of cv. Addie is under an oligogenic control. 
+Inheritance of anthracnose resistance to the pathogenicity group 2 in 26 accessions. Disease response segregations to iso late 688b are reported in Table 2 for the S1 progenies of the 26 408 PHYTOPATHOLOGY accessions. The segregation ratios of the S1 families from cvs. 
+Capitola, Gariguette, Mamie, Mara des Bois, Madame Moutot, 
+Osogrande, Revada, Senga Sengana, and Seascape, from geno types US438 and US70, and from F. moschata FM1 were statis tically similar to the segregation ratio of Sequoia-S1 and con sistent with the hypothesis of a heterozygous locus controlling the high level of resistance. The segregation ratios of the S1 families from genotypes US159 and US292 and from both genotypes of  
+F. vesca, Reine des Vallées and Rodluvan, were similar to the S1 from Dover, i.e., homozygous for the resistance locus. The segre gation ratios of the S1 families from cvs. Bogota, CF1116, CF129, 
+Darselect, and Earliglow were similar to the S1 from Elsanta and did not display the dominant allele. As with cv. Addie, cv. Ostara showed too high a level of resistant seedlings for the hypothesis of absence of resistance components. 
+In order to know if the dominant locus controlling the high level of resistance is the same in the resistant genotypes, a study was carried out using two cultivars, Capitola and Chandler, both heterozygous for the resistance locus. Firstly, cv. Capitola was crossed with cv. Chandler and then individuals from this progeny were crossed with the homozygous susceptible cv. Pajaro. In the hypothesis that the resistance gene is the same in cvs. Capitola and Chandler, families from the crosses [(Capitola × Chandler) × 
+Pajaro] will show segregation ratios of 1:0 (resistant/susceptible), 1:1 (resistant/susceptible), and 0:1 (resistant/susceptible) in 25, 50, and 25% of the families, respectively. In the hypothesis that the resistance gene is different in cvs. Capitola and Chandler, families from the crosses [(Capitola × Chandler) × Pajaro] will segregate with ratios of 3:1 (resistant/susceptible), 1:1 (resis tant/susceptible), and 0:1 (resistant/susceptible) for 25, 50, and 25% of the families, respectively. Among the 21 families analyzed from the crosses [(Capitola × Chandler) × Pajaro], nine families segregated 0:1, 11 families segregated 1:1, and one family segregated 1:0, which is consistent with the hypothesis of same major gene in cvs. Capitola and Chandler (P = 0.05). DISCUSSION 
+This paper has reported the inheritance of plant resistance to pathogenicity group 2 of C. acutatum, the causative agent of anthracnose disease in strawberry, according to the level of resistance. 
+A major dominant gene controls the high level of resistance. 
+The high level of resistance to this pathogenicity group is con trolled by one single dominant gene. The resistant dominant gene was widely present in the collection of European cultivars studied, such as Mamie, Gariguette, and Belrubi, and in U.S. cultivars, such as Sequoia, Dover, and US159. The narrow genetic basis of the cultivated strawberry (14,27) suggests that very few origins of the resistance is involved, which is consistent with the observation of the control of resistance by the same gene in cvs. 
+Capitola and Chandler. Other species of Fragaria displayed resistance to C. acutatum, as observed with two genotypes of  
+F. vesca and one of F. moschata. Anthracnose resistance has also been observed in F. chiloensis and F. virginiana (J. L. Maas, personal communication). Further studies of molecular markers 
+TABLE 3. Resistance to Colletotrichum acutatum, pathogenicity group 2, in segregating Fragaria × ananassa populations of S1 and F1 progenies from susceptible or moderately susceptible cultivars   Classv     Parental lines and crossess  No. of testt 
+No. of plantsu R MS VS Ratiow Px Meany LSz 
+Darestival × Pajaro F1 1 49 0.0 0.0 100.0 0:1 0.15 4.97 a 
+Elsanta × Pajaro F1 2 145 0.0 1.4 98.6 0:1 0.02 4.94 a 
+Elsanta × Yolo F1 2 114 0.0 3.5 96.5 0:1 0.03 4.86 a 
+Darestival × Yolo F1 2 117 0.0 3.4 96.6 0:1 0.03 4.81 ab 
+HummiGento × Yolo F1 2 168 0.6 7.7 91.7 0:1 0.08 4.64 ab 
+Yolo-S1 S1 3 192 2.6 6.3 91.1 0:1 0.81 4.63 ab 
+Darestival × Fern F1 3 143 3.5 4.9 91.6 0:1 0.81 4.62 ab 
+Elsanta-S1 S1 2 58 0.0 8.6 91.4 0:1 0.12 4.61 ab 
+HummiGento × Pajaro F1 2 203 0.5 7.4 92.1 0:1 0.04 4.60 ab 
+Valeta × Fern F1 2 86 2.3 7.0 90.7 0:1 0.78 4.58 ab 
+Hokowase × Pajaro F1 2 44 0.0 9.1 90.9 0:1 0.17 4.58 ab 
+Darestival-S1 S1 2 225 0.9 11.6 87.6 0:1 0.10 4.56 ab 
+Elsanta × Fern F1 2 117 1.7 8.5 89.7 0:1 0.51 4.52 ab 
+Pajaro-S1 S1 5 582 1.7 8.4 89.9 0:1 0.38 4.49 ab 
+Valeta × Yolo F1 2 112 3.6 8.0 88.4 0:1 0.81 4.46 ab 
+Fern-S1 S1 2 110 3.6 9.1 87.3 0:1 0.79 4.43 abc 
+Valeta × Pajaro F1 2 147 2.7 12.2 85.0 0:1 0.89 4.40 abc 
+Hokowase × Yolo F1 2 164 3.7 9.1 87.2 0:1 0.74 4.37 abc 
+Hokowase-S1 S1 2 125 2.4 12.8 84.8 0:1 0.77 4.35 abc 
+HummiGento × Fern F1 2 201 5.0 13.9 81.1 0:1 0.31 4.18 bcd 
+Elsanta × Addie F1 5 442 6.6 13.3 80.1 0:1 0.01 3.95 cde 
+Valeta-S1 S1 2 125 8.8 16.8 74.4 0:1 0.05 3.94 cde 
+Hokowase × Fern F1 2 137 11.7 18.2 70.1 0:1 0.01 3.76 def 
+HummiGento-S1 S1 2 143 4.9 25.9 69.2 0:1 0.41 3.69 def 
+Darestival × Addie F1 3 261 5.4 24.9 69.7 0:1 0.17 3.52 ef 
+HummiGento × Addie F1 3 258 10.5 27.9 61.6 0:1 0.001 3.30 fg 
+Hokowase × Addie F1 3 159 10.7 27.7 61.6 0:1 0.01 3.27 fg 
+Valeta × Addie F1 4 311 14.5 28.3 57.2 0:1 0.001 3.07 g 
+Addie-S1 S1 5 695 20.4 23.9 55.7 0:1 0.001 2.98 g s Parental lines and crosses are arranged according to their disease response means. Italics indicates selfing (S1); underline indicates crosses involving cv. Addie. t Number of inoculation experiment. u Total number of inoculated plants in all experiments. v The three susceptible classes are expressed as percentage of seedlings recorded from 0 to 0.5 for resistant class (R), from 1 to 2.5 for moderately susceptible class (MR), and from 3 to 5 for very susceptible class (VS). Notations are evaluated 28 days after inoculation. w All ratios are for resistant (R) to moderately and very susceptible (MS + VS) plants. x Probability of likelihood chi-square test for goodness of fit. y Mean of disease responses for S1 and F1 populations. z Disease response mean with same letters do not differ significantly according to least squares (LS) means test at P = 0.001. Vol. 95, No. 4, 2005 409   
+TABLE 4. Resistance to Colletotrichum acutatum, pathogenicity group 2, in segregating Fragaria × ananassa populations derived from selfing (S1) of resistant cultivars and their crosses (F1) between them and with susceptible cultivars     Classx   
+Parental lines and crossesu  No. of testv No. of plantsw R MS VS Ratioy Pz 
+Selfings of resistant cultivars         
+Arking-S1 S1 2 111 74.8 9.9 15.3 3:1 0.96 
+Chandler-S1 S1 2 208 69.7 1.4 28.8 3:1 0.08 
+Rosanne-S1 S1 1 48 62.5 6.3 31.3 3:1 0.05 
+Selva-S1 S1 2 82 70.7 8.5 20.7 3:1 0.37 
+Sequoia-S1 S1 2 143 74.8 11.2 14.0 3:1 0.96          
+Dover-S1 S1 3 290 97.9 1.7 0.3 3:1 <0.001        1:0 0.18 
+Belrubi-S1 S1 3 243 84.4 11.9 3.7 3:1 0.001        1:0 0.001          
+F1 between resistant and sus-     ceptible cultivars (22 crosses)         
+Arking × Addie F1 3 222 50.9 18.9 30.2 1:1 0.79 
+Arking × Fern F1 2 138 45.7 12.3 42.0 1:1 0.31 
+Arking × Pajaro F1 2 177 32.2 18.1 49.7 1:1 <0.001 
+Arking × Yolo F1 3 251 42.6 17.5 39.8 1:1 0.02 
+Chandler × Addie F1 4 315 47.0 8.6 44.4 1:1 0.28 
+Chandler × Fern F1 2 189 48.7 3.2 48.1 1:1 0.72 
+Chandler × Pajaro F1 2 111 45.9 5.4 48.6 1:1 0.39 
+Chandler × Yolo F1 2 113 43.4 9.7 46.9 1:1 0.16 
+Darestival × Selva F1 2 141 48.9 5.0 46.1 1:1 0.80 
+Darestival × Sequoia F1 3 136 50.0 9.6 40.4 1:1 1.00 
+Elsanta × Selva F1 3 196 42.9 8.2 49.0 1:1 0.05 
+Elsanta × Sequoia F1 3 240 44.2 8.8 47.1 1:1 0.07 
+HummiGento × Selva F1 2 143 48.3 7.7 44.1 1:1 0.68 
+HummiGento × Sequoia F1 2 106 56.6 5.7 37.7 1:1 0.17 
+Hokowase × Selva F1 3 156 46.2 5.8 48.1 1:1 0.34 
+Hokowase × Sequoia F1 3 261 51.3 16.1 32.6 1:1 0.66 
+Rosanne × Addie F1 3 152 50.0 19.1 30.9 1:1 1.00 
+Rosanne × Fern F1 2 136 37.5 16.9 45.6 1:1 0.004 
+Rosanne × Pajaro F1 2 159 40.3 10.1 49.7 1:1 0.01 
+Rosanne × Yolo F1 2 120 37.5 20.0 42.5 1:1 0.01 
+Valeta × Selva F1 3 229 49.8 8.3 41.9 1:1 0.95 
+Valeta × Sequoia F1 4 204 50.5 11.8 37.7 1:1 0.89          
+F1 between resistant cultivars     (6 crosses)         
+Arking × Selva F1 2 146 69.2 8.2 22.6 3:1 0.10 
+Arking × Sequoia F1 2 169 72.2 8.3 19.5 3:1 0.40 
+Chandler × Selva F1 4 379 68.1 3.2 28.8 3:1 0.002 
+Chandler × Sequoia F1 3 217 69.1 4.6 26.3 3:1 0.05 
+Rosanne × Selva F1 2 86 72.1 9.3 18.6 3:1 0.53 
+Rosanne × Sequoia F1 2 151 76.2 3.3 20.5 3:1 0.74          
+F1 involving the cv. Dover     (8 crosses)         
+Arking × Dover F1 1 108 96.3 0.9 2.8 1:0 0.77 
+Chandler × Dover F1 2 157 96.2 1.3 2.5 1:0 0.69 
+Darestival × Dover F1 2 164 92.7 6.1 1.2 1:0 0.07 
+Elsanta × Dover F1 2 166 96.4 1.2 2.4 1:0 0.75 
+HummiGento × Dover F1 2 88 85.2 12.5 2.3 1:0 0.004 
+Hokowase × Dover F1 2 78 97.4 0.0 2.6 1:0 0.87 
+Rosanne × Dover F1 2 115 99.1 0.9 0.0 1:0 0.23 
+Valeta × Dover F1 2 136 89.7 4.4 5.9 1:0 0.01          
+F1 involving the cv. Belrubi     (8 crosses)         
+Darestival × Belrubi F1 4 277 61.0 13.4 25.6 1:1 <0.001 
+Elsanta × Belrubi F1 5 443 58.9 14.7 26.4 1:1 <0.001 
+HummiGento × Belrubi F1 3 219 68.0 17.4 14.6 1:1 <0.001 
+Hokowase × Belrubi F1 1 59 66.1 11.9 22.0 1:1 <0.001 
+Valeta × Belrubi F1 4 374 56.4 19.0 24.6 1:1 <0.001 
+Arking × Belrubi F1 2 174 77.0 12.6 10.3 3:1 0.54 
+Chandler × Belrubi F1 3 302 76.8 9.9 13.2 3:1 0.46 
+Rosanne × Belrubi F1 2 155 80.0 7.7 12.3 3:1 0.15 u Parental lines and crosses are ranged according to the population, S1 or F1, and to the ratio. v Number of inoculation experiment. w Total number of inoculated plants in all experiments. x The three susceptible classes are expressed as percentage of seedlings recorded from 0 to 0.5 for resistant class (R), from 1 to 2.5 for moderately susceptible class (MR), and from 3 to 5 for very susceptible class (VS). Notations are evaluated 28 days after inoculation. y All ratios are for resistant (R) to moderately and very susceptible (MS + VS) plants. z Probability of chi-square test calculated for expected ratios 1:1 and 3:1 and likelihood chi-square test calculated for expected ratio 1:0 for goodness of fit. 410 PHYTOPATHOLOGY linked to resistance would give a better insight of the multiple or single origin of these resistances within the genus Fragaria. 
+The monogenic resistance agrees with previous work suggest ing qualitative inheritance for resistance to C. acutatum (32). How ever, this study did not mention that the genetic resistance was specifically effective against the pathogenicity group 2 of C. acu tatum. Other studies suggested quantitative inheritance rather than qualitative (12,13). This may be due either to the use of other species of Colletotrichum or other isolates of C. acutatum dis playing different pathogenicity from the group 2 or to the study of genotypes displaying different mode of inheritance. 
+Despite the genetic complexity generally assumed in the octo ploid strawberry, which displayed regular diploid bivalent pairing during meiosis (5,17), other characters with Mendelian inheri tance have been observed in this species such as phosphogluco isomerase allozymes (4), sex expression (1), photo-insensitivity (day-neutrality) (2), and more recently, resistance to Phytoph thora fragariae (30). The behavior of the major resistance gene as disomic, as reported with Rpf1 gene (15), or polysomic has not been determined in this study but could be further investigated by the two following approaches: first, by studying the segregation of a multidose resistance gene or molecular markers linked to this gene which will vary according to the mode of inheritance (6), and second, by mapping the major resistance gene on the linkage map of the strawberry genome (19) which will permit observation if this linkage group is in coupling (polysomic behavior) or in coupling/repulsion phase (disomic behavior) (33). 
+Nomenclature. We proposed to designate the dominant locus 
+Rca2, following suggested nomenclature for resistance gene loci (34) and applied for the first resistance gene described in straw berry by Van de Weg (30). The number 2 refers to the effective ness of the resistance factor to the isolates of the pathogenicity group 2 described in 1995 (7). 
+Minor genes control intermediate level of resistance. The intermediate level, reported in cv. Addie, is quantitative and con trolled by a complex of minor genes. In cv. Addie, these minor genes could partially display dominant effects since three crosses between cv. Addie and susceptible cultivars were similar for segregation to the Addie-S1 progeny. The observation of an excess of resistant seedlings in progenies of crosses between cv. Belrubi and susceptible cultivars compared with the 50% expected from the control of one single dominant gene further supports the as sumption of the presence of minor genes with partial dominance in cv. Belrubi. 
+In cv. Addie, since transgressive lines of S2 display a higher level of resistance than Addie-S1 progeny, the intermediate level of resistance can be useful in a breeding program for anthracnose resistance. In addition, this quantitative resistance is expected to act in a non-race-specific manner and then would provide durable resistance according to Van der Plank (29). This agrees with the efficiency of the resistance of cv. Addie against isolates from both pathogenicity groups (B. Denoyes-Rothan, unpublished data). 
+Correlation with fruit resistance. When we compared the re sistance genotype characterized using seedlings with the fruit resistance previously described by Denoyes-Rothan et al. (9), we observed that all genotypes possessing the dominant gene (homo zygous or heterozygous) and cv. Addie, which possesses minor genes, displayed intermediate or high level of fruit resistance, while all genotypes without the dominant allele of resistance, except cv. Selva, did not show fruit resistance (Table 7). There fore, the fruit resistance seems to be controlled partially by the dominant gene but not exclusively.  
+Fig. 1. Frequency distributions of disease response of selfed progeny (S1) of three cultivars: Pajaro, susceptible; Chandler, resistant; and Addie, intermediate. 
+Disease responses of 0 = resistant and 5 = highly susceptible. 
+TABLE 5. Segregation ratios of the dominant resistance gene in a duplex status in cv. Dover in disomic, tetrasomic, and octosomic inheritance  Classx Disomic behavior  Tetrasomic behavior  Octosomic behavior  Crossv 
+No. of plantsw R MS VS Ratioy Pz Ratioy Pz Ratioy Pz Test cross           
+Darestival × Dover 164 92.7 6.1 1.2 1:0 0.07 5:1 0.001 11:3 <0.001 
+Elsanta × Dover 166 96.4 1.2 2.4 1:0 0.75 5:1 <0.001 11:3 <0.001 
+HummiGento × Dover 88 85.2 12.5 2.3 1:0 0.004 5:1 0.63 11:3 0.13 
+Hokowase × Dover 78 97.4 0.0 2.6 1:0 0.87 5:1 0.001 11:3 <0.001 
+Valeta × Dover 136 89.7 4.4 5.9 1:0 0.01 5:1 0.05 11:3 0.002 Selfing           
+Dover-S1 290 97.9 1.7 0.3 1:0 0.47 35:1 0.46 178:9 0.04 v Test cross for crosses between cv. Dover, which possesses the dominant resistance gene in a duplex status, and susceptible cultivars (no resistance allele). w Total number of inoculated plants. x The three susceptible classes are expressed as number of plants recorded from 0 to 0.5 for resistant class (R), from 1 to 2.5 for moderately susceptible class (MR), and from 3 to 5 for very susceptible class (VS). Notations are evaluated 28 days after inoculation. y All ratios are for resistant (R) to moderately susceptible and very susceptible (MS + VS) plants. z Probability of chi-square test calculated for expected ratios 5:1, 11:3, 35:1, and 187:9 and likelihood chi-square test calculated for expected ratio 1:0 for goodness of fit. Vol. 95, No. 4, 2005 411 
+A solid understanding of host–pathogen interaction is critical to design an efficient breeding program for disease resistance, which is the lower cost option for the control of anthracnose in straw berry. Genetic components of resistances to both pathogenicity groups have to be incorporated to construct a resistance that is widely efficient since the dominant resistant gene can be over come by C. acutatum isolates from pathogenicity group 1 (7). A selection scheme was proposed to breeders in which the likely quantitative resistance to C. acutatum, pathogenicity group 1, is selected on seedlings at the beginning of selection and the plant resistance to pathogenicity group 2, conferred by the dominant gene, is selected later after vegetative multiplication on cold stored plants. Studies focused on molecular markers linked to these different components of resistances would provide a better understanding of the resistance and help in the choice of genitors for anthracnose resistance. ACKNOWLEDGMENTS 
+We thank V. Lefebvre and D. Simpson for critical reviews of the manuscript. This research was supported in part by a grant from the “Région Aquitaine” and EEC funds (FEDER). 
+LITERATURE CITED 1. Ahmadi, H., and Bringhurst, R. S. 1991. Genetics of sex expression in 
+Fragaria species. Am. J. Bot. 78:504-514. 2. Ahmadi, H., Bringhurst, R. S., and Voth, V. 1990. Modes of inheritance of photoperiodism in Fragaria. J. Am. Soc. Hortic. Sci. 115:146-152. 3. Arbonnier, P. 1966. L’analyse de l’information: Aperçu théorique et application à la loi multinomiale. Ann. Sci. For. 31:57-70. 4. Arulsekar, S., Bringhurst, R. S., and Woth, V. 1981. Inheritance of PGI and LAP isozymes in octoploid cultivated strawberries. J. Am. Soc. 
+Hortic. Sci. 106:679-683. 5. Byrne, D., and Jelenkovic, G. 1976. Cytological diploidization in the cultivated octoploid strawberries (F. ×ananassa). Can. J. Genet. Cytol. 18:653-659. 6. Da Silva, J. A. G., and Sobral, B. W. S. 1996. Genetics of polyploids. 
+Pages 1-37 in: The Impact of Plant Molecular Genetics. B. W. S. Sobral, ed. Birkhauser Boston Inc., Cambridge. 7. Denoyes, B., and Baudry, A. 1995. Species identification and pathogeni city study of French Colletotrichum strains isolated from strawberry using morphological, and cultural characteristics. Phytopathology 85:53-57. 8. Denoyes-Rothan, B., and Guérin, G. 1996. Comparison of six inoculation techniques with Colletotrichum acutatum on cold stored strawberry plants and screening for resistance to this fungus in French strawberry collections. Eur. J. Plant Pathol. 102:615-621. 9. Denoyes-Rothan, B., Lafargue, M., Guerin, G., and Clerjeau, M. 1999. 
+Fruit resistance to Colletotrichum acutatum in strawberries. Plant Dis. 83:549-553. 10. Faedi, W., Bagnara, G. L., Turci, P., Winterbottom, C. Q., and De Clauser, 
+R. 1991. Valutazione della suscettibilità ad antracnosi di diversi cloni di fragola. Pages 261-269 in: Nazionale Sulla Fragola. P. Rosati, S. 
+Fraccaroli, and A. Febi, eds. Società Orticola Italiana, Italy. 11. Galetta, G. J., Smith, B. J., and Gupton, C. L. 1993. Strawberry parent clones US70, US159, US292 and US438 resistant to anthracnose crown rot. HortScience 28:1055-1056. 12. Giménez, G., and Ballington, J. R. 2002. Inheritance of resistance to 
+Colletotrichum acutatum Simmonds on runners of garden strawberry and its backcrosses. HortScience 37:686-690. 13. Gupton, C. L., and Smith, B. J. 1991. Inheritance of resistance to 
+Colletotrichum species in strawberry. J. Am. Soc. Hortic. Sci. 116:724 727. 
+TABLE 6. Partial resistance of cv. Addie to Colletotrichum acutatum, pathogenicity group 2, in S2 populations from this cultivar compared with S1 populations from cvs. Addie, Elsanta, and Doverv    Classy    
+Pedigree Generationw No. of plantsx R MS VS Means SD LS means testz 
+Elsanta S1 27 0.0 33.3 66.7 3.78 1.34 a 
+Addie5 S2 87 31.0 58.6 10.3 1.47 1.28 b 
+Addie3 S2 76 44.7 34.2 21.1 1.43 1.58 b 
+Addie S1 144 52.8 34.0 13.2 1.23 1.51 b 
+Addie19 S2 58 53.4 36.2 10.3 1.08 1.40 bc 
+Addie4 S2 92 62.0 32.6 5.4 0.83 1.12 c 
+Addie29 S2 34 70.6 23.5 5.9 0.69 1.10 c 
+Addie17 S2 111 73.9 21.6 4.5 0.56 1.00 c 
+Addie13 S2 30 70.0 30.0 0.0 0.53 0.81 c 
+Addie9 S2 27 74.1 25.9 0.0 0.46 0.59 c 
+Dover S1 27 92.6 7.4 0.0 0.13 0.43 c v Parental lines and crosses are ranged according to the mean of disease response. w S1, generation obtained by selfing parental cultivar; S2, second selfing generation from parental cultivar. x Total number of inoculated plants. y The three susceptible classes are expressed as percentage of seedlings recorded from 0 to 0.5 for resistant class (R), from 1 to 2.5 for moderately susceptible class (MR), and from 3 to 5 for very susceptible class (VS). Notations are evaluated 28 days after inoculation. z Disease response mean with same letters do not differ significantly according to least squares (LS) means test at P = 0.001. 
+TABLE 7. Fruit resistance (disease incidence) and genotype for plant resis tance of 22 strawberry cultivars to Colletotrichum acutatum pathogenicity group 2 Cultivar DIx G2y Genotypez Susceptible     Pajaro 100 az r/r Elsanta 98 ab r/r Valeta 96 abc r/r Darestival 95 a–d r/r Fern 91 a–d r/r Selva 89 bcd R/r Darselect 86 bcd r/r     Intermediate susceptible     Seascape 71 def R/r Gariguette 63 efg R/r Pandora 58 efg – Chandler 57 efg R/r Arking 56 efg R/r US292 51 e–h R/R Mamie 44 fgh R/r Sequoia 43 f–i R/r Belrubi 37 ghi R/r 
+Addie 33 ghi Partial resistance Mara des Bois 27 hij R/r     Resistant     Capitola 17 ij R/r Dover 16 ij R/R US438 13 ij R/r 
+US159 10 j R/R x Disease incidence is the percentage of fruit showing an anthracnose lesion 8 days after inoculation. Inoculation was carried out by depositing a drop of inoculum containing 150 conidia on the fruit (8). y Likelihood ratio chi-square test, G2, was performed on the distribution of fruit in two classes according to the presence or absence of a lesion. Values with the same letters do not differ significantly (P < 0.001) (8). z Plant resistance genotype controlled by a dominant gene in a configuration of diploid deduced from inoculation of S1, except for cv. Addie which showed resistance controlled by minor genes. 412 PHYTOPATHOLOGY 14. Hancock, J., and Luby, J. 1995. Adaptive zones and ancestry of the most important North American strawberry cultivars. Fruit. Var. J. 49:85-90. 15. Haymes, K. M., Henken, B., Davis, T. M., and Van de Weg, W. E. 1997. 
+Identification of RAPD markers linked to a Phytophthora fragariae resistance gene (Rpf1) in the cultivated strawberry. Theor. Appl. Genet. 94:1097-1101. 16. Howard, C. M., and Albregts, E. E. 1980. ‘Dover’ strawberry. 
+HortScience 15:540. 17. Ibrahim, A. M. F., Sadanaga, K., and Denisen, E. L. 1981. Chromosomal behavior in octoploid strawberry progenies and their parental clones during meiosis. J. Am. Soc. Hortic. Sci. 106:522-526. 18. Journal Officiel de la République Française. 1993. Arrété du 2 septembre 1993 relatif aux exigences sanitaires des végétaux, produits végétaux et autres objets. Ministère de l’Agriculture et de la Pêche, Paris, France. 19. Lerceteau-Köhler, E., Guérin, G., Laigret, F., and Denoyes-Rothan, B. 2003. Characterization of mixed disomic and polysomic inheritance in the octoploid strawberry (Fragaria × ananassa) using AFLP mapping. Theor. 
+Appl. Genet. 107:619-628. 20. Madden, L. V., Xiusheng, Y., and Wilson, L. L. 1996. Effects of rain intensity on splash dispersal of Colletotrichum acutatum. Phytopathology 86:864-874. 21. Maltoni, M. L., Mazzara, M., and Mezzetti, B. 1995. Aspetti patologici, fisiologici e genetici della resistenza a Colletotrichum acutatum e 
+Phytophthora cactorum della fragola. Frutticoltura 7-8:59-66. 22. McInnes, T. B., Black, L. L., and Gatti, J. M. 1992. Disease-free plants for management of strawberry anthracnose crown rot. Plant Dis. 76:260-264. 23. Noguchi, Y., Mochizuki, T., and Yamakawa, O. 1994. Petiole dip inoculation is a convenient method for screening. Bull. Nat. Res. Inst. 
+Veg. Orn. Plants Tea 9:13-20. 24. Nourrisseau, J. G. 1986. Production of small fruit in France: Importance, main diseases and production of healthy plants. Acta Hortic. 186:97-99. 25. OEPP/EPPO. 1994. Certification scheme–pathogen-tested strawberry–
+Bulletin. OEPP/EPPO 24:875-889. 26. Simpson, D. W., Winterbottom, C. Q., Bell, J. A., and Maltoni, M. L. 1994. Resistance to a single UK isolate of Colletotrichum acutatum in strawberry germplasm from Northern Europe. Euphytica 77:161-164. 27. Sjulin, T. M., and Dale, A. 1987. Genetic diversity of North American strawberry cultivars. J. Am. Soc. Hortic. Sci. 112:375-385. 28. Smith, B., Gupton, C. L., Galetta, G. J., Maas, J. L., Enns, J. M., 
+Ballington, J. R., Jr., Constantin, R. J., DiVittorio, T. J., and Hilmerick, D. 1998. ‘Pelican’ strawberry. HortScience 33:1082-1084. 29. Van der Plank, J. E. 1968. Disease Resistance in Plants. Academic Press, 
+New York. 30. Van de Weg, W. E. 1997. Resistance to Phytophthora fragariae var. fragariae in strawberry: The Rpf2 gene. Theor. Appl. Genet. 94:1092 1096. 31. Vegh, I., Konidaris, J., Le Berre, A., Champion, R., Bonnet, P. H., and 
+Besson, P. H. 1988. Conservation des Champignons Phytopathogènes dans l’Azote Liquide après Congélation Progressive Obtenue avec le 
+Minicool. Acta Phytopathol. Entomol. Hungarica 23:81-93. 32. Winterbottom, C. Q. 1991. Resistance of strawberry to Colletotrichum acutatum. MS thesis. University of California, Davis. 33. Wu, K. K., Burnquist, W., Sorrells, M. E., Tew, T. L., Moore, P. H., and 
+Tanksley, S. D. 1992. The detection and estimation of linkage in polyploids using single-dose restriction fragments. Theor. Appl. Genet. 83:294-300. 34. Yoder, O. C., Valent, B., and Chumley, F. 1986. Genetic nomenclature and practice for plant pathogenic fungi. Phytopathology 76:383-385.  

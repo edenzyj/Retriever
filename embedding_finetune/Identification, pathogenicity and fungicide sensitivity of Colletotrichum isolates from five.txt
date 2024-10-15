@@ -1,0 +1,352 @@
+
+Identification, Virulence and Fungicide Sensitivity of Colletotrichum gloeosporioides s.s. Responsible for Walnut Anthracnose Disease in China 
+Qing-Hai Wang,1,2 Kun Fan,3 De-Wei Li,2,4 Chuan-Ming Han,1 Yong-Yun Qu,1 Yu-Kun Qi,1 and Xiao-Qin Wu2,† 1 Shandong Provincial Academy of Forestry, Jinan, Shandong 250014, China 2 Co-Innovation Center for Sustainable Forestry in Southern China, College of Forestry, Nanjing Forestry University, Nanjing,
+Jiangsu 210037, China 3 Shandong Institute of Pomology, Taian, Shandong 271000, China 4 The Connecticut Agricultural Experiment Station Valley Laboratory, Windsor, CT 06095, U.S.A. Abstract 
+Walnut (Juglans regia L.) is an economically important woody nut and edible oil tree all over the world. However, walnut production is limited by walnut anthracnose, which is a disastrous disease that causes signifi cant yield losses. Studying the etiology of anthracnose on walnut and the pathogens’ virulence and sensitivities to fungicides would be beneficial for effective control. This study was conducted to identify the pathogen of walnut anthracnose and reveal the population diversity of pathogens through virulence, sensitivities to fungicides, and genetic variation. A to tal of 13 single-spore Colletotrichum isolates were collected from walnut anthracnose-diseased fruits and leaves from 13 walnut commercial or chards in Henan, Hubei, Shandong, and Shaanxi provinces in China. The isolates were identified as Colletotrichum gloeosporioides sensu stricto (s.s.) according to multilocus phylogenetic analyses (internal tran scribed spacer, actin, glyceraldehyde-3-phosphate dehydrogenase, and chitin synthase), morphological as well as cultural characters, and path ogenicity. When the same walnut tissue was inoculated with different isolates, the disease lesion size was different. The results showed that the virulence of all isolates was considerably different, and the differ ences were not correlated with geographic origins. The virulence to wal nut leaves and fruits inoculated with the same isolate was significantly different. Based on the virulence to walnut leaves and fruits, the 13 iso lates were divided into three groups. Virulence of 69.2% of the isolates to walnut fruits was higher than that to leaves; 15.4% of isolates had no difference in pathogenicity, and the virulence to walnut leaves was higher for 15.4% of isolates. Tebuconazole, difenoconazole, flusilazole, and carbendazim inhibited the growth of fungal mycelia, and the concentra tion for 50% of maximal effect (EC50) values were 0.4 to 20.5, 0.6 to 2.6, 0.2 to 1.6, and 0.002 to 0.2 mg/ml, respectively, with average values of 6.5 ± 6.9, 1.5 ± 0.6, 0.9 ± 0.4, and 0.1 ± 0.05 mg/ml, respectively. All isolates were more sensitive to difenoconazole, flusilazole, and carbenda zim than tebuconazole (P < 0.01). Isolate sensitivities to the same fungi cide were different. Isolates SL-31 and TS-09 were the least sensitive to carbendazim and tebuconazole, respectively, and the resistance ratios were 87.3 and 51.6, respectively. Sensitivities to difenoconazole and flu silazole were largely consistent among all isolates, and the resistance ra tios were from 1 to 4.6 and from 1 to 7, respectively. Therefore, difenoconazole and flusilazole could be chosen for disease control.
+The differences of pathogenicity and fungicide sensitivity were not cor related with geographic regions. These results indicated that there was high intraspecific diversity of populations in C. gloeosporioides s.s. that caused walnut anthracnose. For effective management, the targeted con trol strategy should be implemented based on the different geographic regions.
+Keywords: coelomycete, diversity, juglans, multilocus phylogeny, pathogenicity, resistance ratio 
+Walnut (Juglans regia L.) is an important woody nut and edible oil tree throughout the world. Walnut trees are planted largely for their nuts, which are mainly used for food and oil expression (Blomhoff et al. 2006; Cortés et al. 2006). Walnut production is threatened by several insects and diseases (Khan and Kundoo 2018; Tian et al.
+1991; Wang and Tang 2018). Among these diseases, anthracnose disease caused by Colletotrichum spp. is a crucial constraint to wal nut production in many walnut-planting areas in the world, and it of ten results in huge yield losses and even total losses in some walnut orchards (Da Lio et al. 2018; Wang et al. 2016). In Shandong prov ince, China, walnut anthracnose occurred from late June to harvest.
+The spots were about 5 to 10 mm in diameter in mid- to late July. Some spots were merged into large necrotic areas in the middle of
+August, and the fruits and leaves failed to develop normally or drop ped prematurely. The fruits and leaves infected in August would shed in a large area before harvest (late August to early September) (Zhu et al. 2014).
+The genus Colletotrichum Corda is one of the most important and destructive plant pathogens worldwide. From the perspective of sci entific and economic significance, the genus Colletotrichum was considered as the eighth most important group of phytopathogenic fungi worldwide (Dean et al. 2012) and could attack >3,200 species of monocot and dicot plants (Manire et al. 2002; O’Connell et al.
+2012), including many crops of cereals, fruits, vegetables, and orna mentals (Cannon et al. 2012; Damm et al. 2010; Honger et al. 2016;
+Huang et al. 2016). Several species of the genus Colletotrichum have been isolated from J. regia, such as Colletotrichum gloeosporioides sensu lato in Korea, Japan, New Zealand, and South Africa (Chen 2003; Cho and Shin 2004; Crous et al. 2000; Gadgil et al. 2005;
+Gorter 1977; Kobayashi 2007; Pennycook 1989); Colletotrichum sp. in Mexico (Alvarez 1976); C. gloeosporioides from walnut fruits in Slovenia, which caused spots on green walnut fruits (Juhásová et al. 2005); Colletotrichum godetiae in Australia (Damm et al.
+2012); Colletotrichum acutatum in Australia (Simmonds 1966); and C. acutatum sensu lato (s.l.; geographic origin and pathogenicity were unknown) (Sreenivasaprasad and Talhinhas 2005). In France,
+Colletotrichum fioriniae, Colletotrichum nymphaeae, C. godetiae, and C. gloeosporioides s.l. were isolated from walnut leaves, nuts, and buds, and they were confirmed to be the pathogens of walnut †Corresponding author: X.-Q. Wu; xqwu@njfu.edu.cn 
+Funding: This work was supported by National Key Research and Develop ment Program of China grant 2017YFD0600104, Priority Academic Program
+Development of Jiangsu Higher Education Institutions grant PAPD, and Sci ence and Technology Development Project in Shandong Province grant 2012GGB22004. *The e-Xtra logo stands for “electronic extra” and indicates that two supple mentary figures and one supplementary table are published online.
+The author(s) declare no conflict of interest.
+Accepted for publication 20 December 2019. © 2020 The American Phytopathological Society 1358 Plant Disease /Vol. 104 No. 5 
+Plant Disease • 2020 • 104:1358-1368 • https://doi.org/10.1094/PDIS-12-19-2569-RE mailto:xqwu@njfu.edu.cn https://doi.org/10.1094/PDIS-12-19-2569-RE anthracnose, which were identified by multigene phylogenetic analysis (Da Lio et al. 2018). In Brazil, C. nymphaeae caused wal nut anthracnose (Savian et al. 2019). In China, C. gloeosporioides sensu lato (Chen 2003; Qu et al. 2011), C. acutatum (Liu et al.
+1995), C. fioriniae (Zhu et al. 2015), Colletotrichum siamense (Wang et al. 2017), Colletotrichum fructicola (Wang et al. 2018), and Colletotrichum viniferum (He et al. 2019) were isolated from walnut. The pathogen of walnut anthracnose was not only C. gloeo sporioides but also, C. fructicola and C. siamense (Wang et al.
+2017, 2018) in China. C. fioriniae could infect walnut leaves, and the symptoms were similar to anthracnose (Zhu et al. 2015).
+C. viniferum only infected walnut leaves, and the symptoms were not typical (He et al. 2019).
+There was a difference in pathogenicity of Colletotrichum iso lates. Zhang et al. (2014a) considered that the pathogenicity of the genus Colletotrichum from different sources to the same litchi cultivar was different. The virulence of C. siamense to walnut fruits was not consistent with that to leaves (Wang et al. 2017). Chemical control methods are the most commonly used strategies against anthracnose. These reports showed that the C. gloeosporioides causing grape ripe rot was resistant to thiophanate-methyl and diethofencarb (Chen et al. 2013). C. gloeosporioides isolates from mango, litchi, longan, etc. in Hainan province showed high resis tance to carbendazim (Zhang et al. 2014b). However, any differ ences in fungicide sensitivities of isolates causing walnut anthracnose remain unknown. There were abundant interspecies and intraspecific diversities of populations. The genetic diversity of grape anthracnose pathogens in Yunnan province was complex and inconsistent with geographic origins, host specificities, colony or spore morphologies, and pathogenicity to red globe grape (Deng et al. 2015). The diversity of populations of the isolates, which caused anthracnose in tea and other woody plants in Fujian prov ince, was consistent with host specificities, not with geographic origins (Liu et al. 2017). The genetic differences of walnut anthrac nose pathogens are largely unknown.
+The objectives of this study were (i) to identify the species of the genus Colletotrichum causing walnut anthracnose using multilocus phylogenetic analyses and morphological characteristics, (ii) to de termine the pathogenicity of the isolates obtained from walnut fruits and leaves in China, and (iii) to examine the sensitivity of isolates to four fungicides (tebuconazole, difenoconazole, flusilazole, and car bendazim) using in vitro methods.Materials and Methods
+Plant materials, pathogen isolation, and purification. From 2013 to 2014, walnut fruits and leaves with anthracnose symptoms were collected from 13 walnut orchards in Henan, Hubei, Shaanxi, and Shandong provinces in China (Table 1).
+Pure cultures were obtained from diseased walnut fruits and leaves as well as from single-spore isolation. The walnut fruits and leaves were surface sterilized with 70% ethanol, and margins of the healthy and diseased tissues were cut into 3- to 4-mm2 segments. The seg ments were sterilized with 1% NaOCl for 60 s and 70% ethanol for 60 s, and they were washed in sterile distilled water three times. Five segments were placed on potato dextrose agar (PDA; 1.5%, Difco
+BD Diagnostics) and incubated at 28°C. Seven days later, hyphae were transplanted to PDA plates for sporulation. Using serial dilu tion, monosporic isolates were obtained (Choi et al. 1999; Than et al. 2008) and stored at 4°C on PDA slants. Most of the isolates were stored and preserved in the China Forestry Culture CollectionCenter (Table 2).
+Morphological analysis. The isolates were cultured on PDA at 28°C for 5 days. The colony color, conidial masses, and zonation were observed and documented. A drop of sterile water was placed on a glass slide, and then, three acervuli were placed on the slide and gently crushed under a cover glass; a few drops of cedar oil were added under the cover glass to decrease water evap oration. Appressoria developed on the surface of the glass slide.
+Acervuli, conidia, appressoria, conidiophores, and conidiogenous cells were observed under a compound microscope (Nikon
+Eclipse 50i), and photomicrographs were taken with a high resolution QImaging camera system (QImaging); the sizes of con idia and appressoria were measured by cellSens standard software (Olympus).
+DNA extraction, amplification, sequencing, and phylogenetic analyses. Mycelia (growing for 5 days on PDA) were dried with sterile filter paper and collected in a sterile centrifuge tube. Mycelial powder was obtained by the trituration method in liquid nitrogen.
+Table 1. The walnut anthracnose sample geographic distribution, walnut varieties, and damage degree 
+No. Isolate Orchard location Longitude and latitude coordinate Varieties Damage degreez Disease sample 1 SMX-42H Nanlupo village, Cizhong town,
+Sanmenxia city, Henan province 
+N:34°44¢07.7² E:111°18¢07.4² Cultivar Liaohe ++ Leaf 2 TS-09 Haojiazhuang village, Qiujiadian town,Taian city, Shandong province 
+N:36°10¢01.1² E:117°14¢53.3² Cultivar Xiangling ++++ Fruit 3 SQ-141 Daoshanyu village, Shuangquan town,Jinan city, Shandong province 
+N:36°22¢42.4² E:116°40¢58.4² Cultivar Xiangling ++++ Fruit 4 SL-31 Yanping village, Sanchahe town,
+Shangluo city, Shaanxi province 
+N:33°58¢05.7² E:109°42¢11.1² Cultivar Liaohe ++ Fruit 5 ZZ-27 Shuitun village, Yicheng district,
+Zaozhuang city, Shandong province 
+N:34°46¢25.8² E:117°39¢19.9² Cultivar Xiangling +++ Fruit 6 SL-34 Kanghe village, Sanchahe town,
+Shangluo city, Shaanxi province 
+N:33°51¢10.5² E:109°41¢59.1² Cultivar Liaohe ++ Fruit 7 YT-172 Zaoyuan village, Miaohou town,Qixia city, Shandong province 
+N:37°20¢24.8² E:121°03¢57.4² Unknown +++ Fruit 8 SL-30 Shanghe village, Chenyuan town,
+Shangluo city, Shaanxi province 
+N:33°25¢32.5² E:109°08¢47.3² Cultivar Liaohe +++ Fruit 9 SL-37 Chuanxing village, Yangxie town,
+Shangluo city, Shaanxi province 
+N:33°51¢32² E:109°41¢10.6² Cultivar Liaohe ++ Fruit 10 LZ-02 Lizhuang village, Shuangquan town,Jinan city, Shandong province 
+N:36°24¢56.8² E:116°40¢58.4² Cultivar Xiangling +++ Fruit 11 ZQ-29 Duozhuang village, Zaoyuan town,Jinan city, Shandong province 
+N:36°45¢14.0² E:117°26¢36.4² Cultivar Xiangling +++ Fruit 12 ZZ-01 Xiaofeng village, Xincun town,
+Zhengzhou city, Henan province 
+N:34°22¢43.6² E:113°43¢10.9² Cultivar Zhonglin ++ Fruit 13 HB-49 Sanxigou village, Chengguan town,
+Xiangyang city, Hubei province 
+N:31°52¢02.1² E:111°15¢04.0² Cultivar Xiangling +++ Fruit z ++, Incidence 5 to 10%; +++, incidence 10 to 30%; ++++, severe with >30% incidence (even total losses).Plant Disease /May 2020 1359 
+The mycelial powder was dissolved in cetyltrimethylammonium bromide (CTAB) buffer (2% [wt/vol] CTAB, 1.42 M NaCl, 20 mM EDTA, 100 mM Tris HCl [pH 8.0], and 0.2% [wt/vol] b-mercaptoethanol) and then, incubated at 65°C for 30 min. Geno mic DNAs of all isolates were extracted in conformity to the method described by Freeman et al. (1996). The PCR amplifications were conducted with the ribosomal internal transcribed spacer (ITS), actin (ACT), glyceraldehyde-3-phosphate dehydrogenase (GAPDH), and chitin synthase (CHS-1). Four loci were amplified: ribosomal DNA region using universal primers ITS1 and ITS4 for ITS (Gardes and
+Bruns 1993; White et al. 1990), GAPDH gene using primers
+GDF-1 and GDR1 (Templeton et al. 1992), CHS-1 gene using pri mers CHS-79F and CHSI-354R (Carbone and Kohn 1999), and
+ACT gene using primers ACT-512F and ACT-783R (Carbone and
+Kohn 1999). Information about primer sequences, amplicon size, and PCR conditions is listed in Table 3.
+The PCR reaction system was (with the total reaction volume of 25 ml) mixed with Taq DNA polymerase mix (12.5 ml), primer-F (1.0 ml), primer-R (1.0 ml), genomic DNA (2.0 ml), and ddH2O (8.5 ml). The PCR amplification procedure consisted of 36 cycles, and information about initial denaturation, denaturation, annealing, extension, and final extension are listed in Table 3. After PCR, all of the PCR amplification products were sequenced by Shanghai Per sonal Biotechnology Co., Ltd. All sequences have been deposited inGenBank (Table 2).
+All ITS, GAPDH, ACT, and CHS-1 sequences were com pared with the sequences of the already described species in the
+Q-Bank (www.q-bank.eu) by blasting, and the sequences of 46Col letotrichum isolates were downloaded from GenBank (Table 2).
+Colletotrichum boninenseMAFF 305972 was used as an outgroup, which was an ex-holotype culture that was isolated from Crinum asiaticum var. sinicum. The sequences of each locus were aligned 
+Table 2. Strains and sequences of the genus Colletotrichum used in this study 
+Species Culture accession no. Host Country GenBank accession numbersx ITS GAPDH ACT CHS-1 
+Colletotrichum aenigmay ICMP 18608 Persea americana Israel JX010244 JX010044 JX009443 JX009774
+Colletotrichum alatae CBS 304.67 Dioscorea alata India JX010190 JX009990 JX009471 JX009837Colletotrichum aeschynomenes 
+ICMP 17673 Aeschynomene virginica U.S.A. JX010176 JX009930 JX009483 JX009799 
+Colletotrichum alienum ICMP 12071 Malus domestica New Zealand JX010251 JX010028 JX009572 JX009882
+Colletotrichum aotearoa ICMP 18537 Coprosma sp. New Zealand JX010205 JX010005 JX009564 JX009853
+Colletotrichum asianum ICMP 18580 Coffea arabica Thailand FJ972612 JX010053 JX009584 JX009867
+Colletotrichum boninense MAFF 305972 Crinum asiaticum var. sinicum
+Japan JX010292 JX009905 JX009583 JX009827 
+Colletotrichum camelliae CGMCC 3.14925 Camellia sinensis China KJ955081 KJ954782 KJ954363Colletotrichum chengpingense 
+MFLUCC 15-0022 Fragaria vesca China KP683152 KP852469 KP683093 KP852449 
+Colletotrichum clidemiae ICMP 18658 Clidemia hirta U.S.A.,Hawaii 
+JX010265 JX009989 JX009537 JX009877 
+Colletotrichum conoides CAUG17 Capsicum spp. China KP890168 KP890162 KP890144 KP890156
+Colletotrichum cordylinicola ICMP 18579 Cordyline fruticosa Thailand JX010226 JX009975 HM470235 JX009864
+Colletotrichum endophytica MFLUCC 130418 Pennisetum purpureum Thailand KC633854 KC832854 KF306258
+Colletotrichum fructicola CFCC 51553 Juglans regia China KX913950 KX913956 KX913947 KX913953
+Colletotrichum gloeosporioides 
+ICMP 17821 Citrus sinensis Italy JX010152 JX010056 JX009531 JX009818 
+Colletotrichum gloeosporioides 
+ICMP 18738 Carya illinoinensis Australia JX010151 JX009976 JX009542 JX009797 
+Colletotrichum gloeosporioides 
+ICMP 12939 Citrus sp. New Zealand JX010149 JX009931 JX009462 JX009747 
+Colletotrichum gloeosporioides 
+ICMP 12066 Ficus sp. New Zealand JX010158 JX009955 JX009550 JX009888 
+Colletotrichum gloeosporioides 
+ICMP 18730 Citrus sp. New Zealand JX010157 JX009981 JX009548 JX009861 
+Colletotrichum gloeosporioides 
+ICMP 12938 Citrus sinensis New Zealand JX010147 JX009935 JX009560 JX009746 
+Colletotrichum gloeosporioides 
+ICMP 18694 Mangifera indica South Africa JX010155 JX009980 JX009481 JX009796 
+Colletotrichum gloeosporioides 
+ICMP 18678 Pueraria lobata U.S.A. JX010150 JX010013 JX009502 JX009790 
+Colletotrichum gloeosporioides 
+ICMP 18695 Citrus sp. U.S.A. JX010153 JX009979 JX009494 JX009779 
+Colletotrichum gloeosporioides 
+ICMP 18697 Vitis vinifera U.S.A. JX010154 JX009987 JX009557 JX009780 
+Colletotrichum gloeosporioides 
+ICMP 19121 Citrus limon Italy JX010148 JX010054 JX009558 JX009903 
+Colletotrichum gloeosporioides SMX-42H=CFCC 52827z 
+Juglans regia China MF554884 MF554870 MF554844 MF554853 
+Colletotrichum gloeosporioides 
+TS-09 = CFCC 52838z Juglans regia China MF554878 MF554872 MF554846 MF554855 
+Colletotrichum gloeosporioides SQ-141 = CFCC 52833z 
+Juglans regia China MF554883 MF554871 MF554845 MF554854 (Continued on next page) x ACT, actin; CHS-1, chitin synthase; GAPDH, glyceraldehyde-3-phosphate dehydrogenase; ITS, internal transcribed spacer.
+y Ex-type strains or authentic cultures are in bold.
+z Strains collected in this study. 1360 Plant Disease /Vol. 104 No. 5 http://www.q-bank.eu/ using MEGA 7.0, the gaps were considered as missing data, and the alignments were adjusted manually for maximum alignment and maximum sequence similarity. Four genes per region were concat enated in an order of “ITS-GAPDH-ACT-CHS-1” using Fasta alignment joiner software (http://users-birc.au.dk/palle/php/fabox/ alignment_joiner.php). Phylogenetic analyses were performed with the concatenated sequence dataset using MEGA 7.0 software (Kumar et al. 2016), and two multilocus phylogenetic trees were generated with neighbor-joining method or maximum parsimony method.
+The phylogenetic trees were drawn to scale, and the optimal tree with the sum of branch length was measured according to the num ber of substitutions per site to evaluate the relative stability of the branches.
+Pathogenicity and virulence in leaves and fruits. Pathogenicity experiments were conducted at the experimental station of the Re search Center for the Prevention and Control of Invasive Forest Pests of Shandong Province. Healthy fruits (cultivar Xiangling, 1 month old) and leaves (fully expanded) were inoculated in vitro with plugs (⌀ = 5mm) of isolates cultured for 5 days. Thirteen isolates were used (Table 2). In total, 280 fruits and 168 leaves were rinsed with running tap water for 60 s, surface sterilized with 70% ethanol, and rinsed with sterile distilled water three times. All of the fruits and leaves were punctured with a red-hot needle (⌀ = 0.5 mm) on the surface.
+The leaf was inoculated with two hyphal plugs, and the fruit was in oculated with one hyphal plug; the needle-wounded leaves and fruits were inoculated with blank agar plug as a control. Each isolate was inoculated to 20 fruits and 12 leaves; an additional 20 fruits and 12 leaves were treated with blank agar plugs as controls. All treatments and controls were placed into sterile tissue culture bottles (⌀ = 92 mm, h = 274 mm, v = 690 ml) containing two layers of wet paper towels to keep them moist at 28°C under a 12-h light/dark cycle. An thracnose symptoms were evaluated at the seventh day after in oculation. The fungus was reisolated from symptomatic lesions using the aforementioned method. The morphological characters 
+Table 2. (Continued from previous page) 
+Species Culture accession no. Host Country GenBank accession numbersx ITS GAPDH ACT CHS-1 
+Colletotrichum gloeosporioides 
+SL-31 = CFCC 52830z Juglans regia China MF554879 MF554867 MF554840 MF554857 
+Colletotrichum gloeosporioides 
+ZZ-27 = CFCC 52837z Juglans regia China MF554887 MF554876 MF554850 MF554863 
+Colletotrichum gloeosporioides 
+SL-34 = CFCC 52831z Juglans regia China MF554890 MF554868 MF554842 MF554858 
+Colletotrichum gloeosporioides YT-172 = CFCC 52836z 
+Juglans regia China MF554889 MF554874 MF554848 MF554861 
+Colletotrichum gloeosporioides 
+SL-30 = CFCC 52829c Juglans regia China MF554880 MF554866 MF554841 MF554856 
+Colletotrichum gloeosporioides 
+SL-37 = CFCC 52832z Juglans regia China KY302642 KY302639 KY302631 KY302635 
+Colletotrichum gloeosporioides 
+LZ-02 = CFCC 52834z Juglans regia China MF554881 MF554865 MF554839 MF554852 
+Colletotrichum gloeosporioides 
+ZQ-29 = CFCC 52824z Juglans regia China KY302643 KY302638 KY302630 KY302634 
+Colletotrichum gloeosporioides 
+ZZ-01z Juglans regia China MF554886 MF554875 MF554849 MF554862 
+Colletotrichum gloeosporioides 
+HB-49 = CFCC 52826z Juglans regia China MF554882 MF554864 MF554838 MF554851 
+Colletotrichum grevilleae CBS 132879 Grevillea sp. Italy KC297078 KC297010 KC296941 KC296987
+Colletotrichum grossum CAUG7 Capsicum spp. China KP890165 KP890159 KP890141 KP890153
+Colletotrichum hebeiense MFLUCC 13-0726 Vitis vinifera China KF156863 KF377495 KF377532 KF289008
+Colletotrichum henanense CGMCC 3.17354 Camellia sinensis China KJ955109 KJ954810 KM023257
+Colletotrichum horii NBRC7478 Diospyros kaki Japan GQ329690 GQ329681 JX009438 JX009752
+Colletotrichum jiangxiense CGMCC 3.17363 Camellia sinensis China KJ955201 KJ954902 KJ954471
+Colletotrichum kahawae ICMP17816 Coffea arabica Kenya JX010231 JX010012 JX009452 JX009813
+Colletotrichum musae ICMP 116870 Musa sp. U.S.A. JX010146 JX010050 JX009433 JX009896
+Colletotrichum nupharicola CBS470.96 Nuphar lutea subsp. polysepala
+U.S.A. JX010187 JX009972 JX009437 JX009835 
+Colletotrichum proteae CBS 132882 Protea sp. South Africa KC297079 KC297009 KC296940 KC296986
+Colletotrichum psidii CBS 145.29 Psidium sp. Italy JX010219 JX009967 JX009515 JX009901Colletotrichum queenslandicum 
+ICMP 1778 Carica papaya Australia JX010276 JX009934 JX009447 JX009899 
+Colletotrichum salsolae ICMP 19051 Salsola tragus Hungary JX010242 JX009916 JX009562 JX009863
+Colletotrichum siamense CFCC 51940 Juglans regia China KY242352 KY242347 KY242336 KY242342
+Colletotrichum syzygicola MFLUCC 10-0624 Syzygium samarangense Thailand NR152278 KF242156 KF157801Colletotrichum theobromicola 
+CBS 124945 Theobroma cacao Panama JX010294 JX010006 JX009444 JX009869 
+Colletotrichum ti ICMP 4832 Cordyline sp. New Zealand JX010269 JX009952 JX009520 JX009898
+Colletotrichum tropicale ICMP 18653 Theobroma cacao Panama JX010264 JX010007 JX009489 JX009870
+Colletotrichum viniferum GZAAS 5.08601 Vitis vinfera ‘Shuijing’ China JN412804 JN412798 JN412795
+Colletotrichum wuxiense CGMCC 3.17894 Camellia sinensis China KU251591 KU252045 KU251672 KU251939Colletotrichum xanthorrhoeae 
+BRIP 45094 Xanthorrhoea preissii Australia JX010261 JX009927 JX009478 JX009823 
+Plant Disease /May 2020 1361 http://users-birc.au.dk/palle/php/fabox/alignment_joiner.php http://users-birc.au.dk/palle/php/fabox/alignment_joiner.php http://users-birc.au.dk/palle/php/fabox/alignment_joiner.php of the reisolates, such as colony, acervuli, conidia, appressoria, co nidiophores, and conidiogenous cells, were compared with those of the inoculated isolates to complete Koch’s postulates.
+The lesion sizes and areas on fruits or leaves were measured at the 10th day after inoculation to evaluate virulence. The virulence of the isolates was compared using one-way analysis of variance, and means were compared by Tukey’s honestly significant difference (HSD) test at the 1% significance level using IBM SPSS Statistics 20 software.
+In vitro sensitivity of isolates to four fungicides. The inhibitive activities of tebuconazole, difenoconazole, flusilazole, and carbenda zim to the isolates were estimated using a mycelium growth rate method in the laboratory.
+Tebuconazole (97% a.i.; provided by Jiangsu Changlong Agro chemical Co., Ltd.) and difenoconazole (95.8% a.i.; provided by
+Qingdao Hansen Biologic Science Co., Ltd.) were dissolved in ace tone; flusilazole (92% a.i.) and carbendazim (97.5% a.i.; provided by
+Qingdao Hansen Biologic Science Co., Ltd.) were dissolved in cy clohexanone and 1% (wt/wt) hydrochloric acid, respectively. The concentration of all solutions was 10,000 mg/ml, and they were stored at 4°C.
+Four fungicides were added to autoclaved PDA cooled to ca. 50°C.
+PDA media were amended to result in 0.25, 0.5, 1.0, 2.0, and 4.0 mg/ml a.i. of tebuconazole, flusilazole, or difenoconazole and 0.125, 0.25, 0.5, 1.0, and 2.0mg/ml a.i. of carbendazim. PDAmedium without fungicide was used as control. Approximately 15 ml of PDA medium was decanted to each plate (⌀ = 90 mm). The isolates were cultured on PDAwithout fungicides at 28°C for 5 days, and the hyphae were cut into plugs (⌀ = 5 mm) with a cork borer. The plugs were placed at the center of PDA plates.
+Additionally, one plug per plate was cultured at 28°C for 3 days.
+Each treatment and control had four replicates, and the experiments were performed twice. The colony diameters were measured in a cross pattern. The original plug diameter was subtracted and mean of the colony diameters was calculated. All data were analyzed using
+IBM SPSS Statistics 20 software, and concentration for 50% of max imal effect (EC50) values were estimated by the probit analysis. The frequency distribution of EC50 of the 13 isolates was plotted using
+PROC FREQ and tested for normality (Fan et al. 2016).Results
+Description of symptoms in the field. In major walnut production areas, walnut anthracnose disease mainly damaged leaves and fruits.
+When the leaves were infected, the spots were nearly round or irreg ular, water soaked, and brown to dark brown. The spots expanded along the veins and formed long strip lesions. In a later stage, the older lesions became necrotic and perforated, and this resulted in early defoliation (Fig. 1A). When the fruits were infected, some sub circular or irregular spots appeared in the initial stage. The spots were water soaked, sunken, and brown to black (Fig. 1B). Some spots en larged and merged into large necrotic areas. In the necrotic areas, some acervuli were in concentric rings and oozed gelatinous pink co nidial masses (Fig. 1C). When the disease was serious, multiple spots merged and expanded to the whole fruit (Fig. 1D), and the pathogen reached the immature endocarp (nut shell). The fruits failed to 
+Fig. 1. Disease symptoms of walnut anthracnose on fruits and leaves of walnuts in the field. a, Disease symptoms on walnut leaves. b to d, Disease symptoms on walnut fruits. e,
+Disease symptoms on walnut kernels. 1362 Plant Disease /Vol. 104 No. 5 develop normally; most fruits dropped prematurely, and the kernels (nutmeat) were inedible (Fig. 1E). The degree of the severity of wal nut pericarp was in substantial agreement with walnut kernels. With the walnut pericarp spot expansion, the risk of damage to walnut ker nels increased. At the initial infection period, the spots were only in walnut pericarp, not in kernels, at this time, and the walnut kernels quality was not influenced by walnut anthracnose. When the walnut pericarp spot area was up to one-fourth of the whole fruit, the kernels were infected, and some spots were in kernels. At this point, the qual ity and quantity of the kernels were reduced (Fig. 2).
+Isolate collection. The incidence was different in the 13 orchards, the highest incidence was in orchards 2 and 3, and the walnut variety was Xiangling (Table 1). A total of 59 isolates were obtained from diseased fruits and leaves. In orchard 7, the genera Colletotrichum and
+Fusarium were isolated. The genera Colletotrichum and Alternaria were isolated in orchards 4, 6, and 8, and the genera Colletotrichum and Xanthomonas were in orchards 10 and 11. One Colletotrichum isolate was selected to represent an orchard (Table 1), and 13 isolates were preserved.
+Morphological characteristics. On PDA, aerial mycelium was dense and cottony; the colonies were milky, pale gray to medium gray toward the center, in reverse, gray, and olivaceous gray to blue gray at the center, with sporadic dark gray flecks on the edge (Fig. 3A to C). Colonies were with the entire margin, and orange conidial masses were visible in acervuli. Sexual morph was absent. Asexual morph was present on PDA. Hypha was hyaline to medium brown, smooth, septate, and branched. Acervuli were observed (Fig. 3D).
+Setae were not observed. Conidiophores were hyaline, smooth walled, and sometimes branched. Conidiogenous cells were hyaline, smooth, and cylindrical, often with a septum (Fig. 3G and H). 
+Fig. 3. The morphological characteristics of Colletotrichum gloeosporioides sensu stricto isolated from walnut anthracnose fruits on potato dextrose agar. a to c, Cultural characters.
+a, Isolate SQ-141. b, Isolate SL-31. c, Isolate LZ-02. d, Acervulus. Scale bar = 20 mm. e, Conidia. Scale bar = 10 mm. f, Appressoria. Scale bar = 10 mm. g, Conidiophores and conidiogenous cells. Scale bar = 10 mm. h, Acervulus, conidiophores, and conidiogenous cells. Scale bar = 10 mm.
+Fig. 2. The various degrees of the severity of inner and outer symptoms of walnut anthracnose on fruit. A, The various severity degrees of walnut anthracnose on pericarp. B, The corresponding various severity degrees on walnut kernels.Plant Disease /May 2020 1363 
+Conidia were straight and mostly cylindrical with broadly rounded ends that were sometimes slightly and gradually acute to the end (Fig.
+3E). The size was (14.8 −) 16.7 − 17.3 (− 19.5) × (4.3 −) 5.0 − 5.3 (− 6.1) mm (�x = 16.9 ± 1.0 × 5.2 ± 0.4, n = 51), and L/W = 3.3. Ap pressoria were simple or in a small group, subglobose or ellipsoid, and rarely irregular (Fig. 3F). The size was (5.2 −) 6.7 − 7.6 (− 8.9) × (2.7 −) 5.0 − 5.9 (− 7.1) mm (�x = 7.2 ± 1.1 × 5.4 ± 1.0, n = 26), and 
+L/W = 1.3. Consequently, the isolates were identified as C. gloeosporioides.
+Phylogenetic analyses. Using the Blast option in the Q-Bank, all 
+ITS, GAPDH, ACT, and CHS-1 sequences were compared with the sequences of the known species.
+Compared with the sequences of C. gloeosporioides sensu stricto (s.s.) isolates ICMP 17821 and ICMP 12939, the similarity of ITS 
+Fig. 4. Phylogenetic tree of isolates of walnut anthracnose, Colletotrichum gloeosporioides sensu stricto, with allied taxa calculated with concatenated sequence data of internal transcribed spacer, glyceraldehyde-3-phosphate dehydrogenase, actin, and chitin synthase using maximum parsimony method (1,000 bootstrap replicates; bootstrap values indicated at nodes). Colletotrichum boninense MAFF 305972 is the outgroup. The scale bar indicates the number of expected changes per site.
+The isolates in bold are ex-types. 1364 Plant Disease /Vol. 104 No. 5 was from 99.3 to 100%; the CHS-1 sequences of all isolates showed 99.2 to 100% similarity. The similarity of GAPDH was from 89.9 to 98.6%, and the ACT sequences of isolates SL-30, LZ-02, SQ-141,
+ZZ-27, YT-172, SL-31, HB-49, SL-37, SL-34, SMX-42H, and
+ZQ-29 showed 100 and 99.6% similarity with C. gloeosporioides s.s. isolates ICMP 17821 and ICMP 12939, respectively (Supple mentary Table S1). To compare with the sequences of 46 isolates downloaded from 
+GenBank, ITS, GAPDH, ACT, and CHS-1 of all isolates were con catenated with the Fasta alignment joiner software. The aligned sequence was from 98.0 to 99.5% homologous to ex-type C. gloeo sporioides s.s. ICMP 17821. The multilocus phylogenetic trees were generated using neighbor-joining and maximum parsimony meth ods. There were a total of 1,061 sites in the final dataset, and con served sites, variable sites, parsimony informative sites, and singleton sites were 715, 312, 163, and 140, respectively. In the max imum parsimony phylogenetic tree, the tree length was 465, the con sistency index was 0.56, and the retention index was 0.84. The composite indices were 0.57 for all sites and 0.47 for parsimony informative sites. The isolates tested were in the same cluster with
+C. gloeosporioides s.s. with 98% bootstrap support (Fig. 4). In the neighbor-joining phylogenetic tree, the sum of the branch length was 0.57. All 13 isolates studied were clustered with C. gloeospor ioides s.s., including its ex-type with 100% bootstrap support (Sup plementary Fig. S1). The multilocus phylogenetic analyses of four genes as well as mor phological characters, including colony, conidia, appressoria, coni diophores, and conidiogenous cells, demonstrated that all of the isolates were C. gloeosporioides s.s.
+Pathogenicity and virulence to leaves and fruits. Walnut fruits and leaves were inoculated with 13 isolates. The infection occurred at the inoculation sites on leaves or fruits (Supplementary Fig. S2A to M), and symptoms resembled the anthracnose disease symptoms in the field (Fig. 1). The fruits and leaves in the controls had no symp toms 7 days after inoculation with blank agar plugs (Supplementary
+Fig. S2N). The typical symptom appeared as a roughly circular or ir regular spot, and the infections were water soaked, sunken, and brown to black. The black lesions expanded and turned into necrotic areas. The fungus was reisolated from lesions using the aforemen tioned methods. Koch’s postulates were completed, and the results indicated that all 13 isolates obtained were the walnut anthracnose pathogen.
+There were significant differences (P < 0.01) among the 13 isolates that caused anthracnose disease on walnut leaves or fruits. The lesion areas on leaves were from 0.44 ± 0.03 to 1.42 ± 0.21 cm2. Isolate ZQ 29 showed the highest virulence, whereas isolate YT-172 was the weakest in pathogenicity to walnut leaves. At the P < 0.01 level, all 13 isolates were divided into seven groups (Fig. 5). Based on the fruit lesion size, the isolate SQ-141 was the most virulent, and the lesion size was 2.53 ± 0.25 × 1.97 ± 0.25 cm. Isolates LZ-02,
+SL-34, and HB-49 showed the weakest virulence, and the lesion sizes were 0.73 ± 0.05 × 0.63 ± 0.05, 0.77 ± 0.11 × 0.67 ± 0.05, and 0.77 ± 0.05 × 0.67 ± 0.05 cm, respectively. There were no significant differ ences (P < 0.01). The 13 isolates were distributed into five groups (Fig. 5).
+The disease lesion on leaves and fruits inoculated with the same isolate showed considerable differences. The 13 isolates were di vided into three groups by comparing the virulence to walnut leaves and fruits. In group 1, the virulence to walnut fruits was higher than that to leaves, and nine isolates (69.2%) were in group 1. In group 2, there was no difference in pathogenicity, including isolates LZ-02 and ZQ-29. In group 3, the virulence of isolates to walnut leaves was higher, and isolates ZZ-01 and HB-49 were clus tered in group 3.
+Fig. 5. Results of inoculations with Colletotrichum gloeosporioides sensu stricto (s.s.): mean fruit lesion size (centimeters) and leaves lesion area (centimeters2) caused by C. gloeosporioides s.s. isolates associated with walnut anthracnose. Bars above columns are the standard errors. Bars with the same pattern and letter (symbols) do not show significant differences according to Tukey’s honestly significant difference (HSD) test (P < 0.01).Plant Disease /May 2020 1365 
+In vitro sensitivity of C. gloeosporioides s.s. isolates to four fungicides. Four fungicides inhibited the growth of fungal myce lium. Tebuconazole, difenoconazole, flusilazole, and carbenda zim EC50 values were 6.5 ± 6.9, 1.5 ± 0.6, 0.9 ± 0.4, and 0.1 ± 0.05 mg/ml, respectively (Table 4). C. gloeosporioides s.s. was more sensitive to difenoconazole, flusilazole, and carbendazim than to tebuconazole (P < 0.01). The toxicities of carbendazim, flusilazole, and difenoconazole to C. gloeosporioides s.s. were not different (P < 0.01).
+The result confirmed that the resistance ratios of all of the isolates to four fungicides were different (Fig. 6). The sensitivities to carben dazim and tebuconazole were significantly different among all iso lates. The resistance ratios to carbendazim were from 1 to 87.33; isolate HB-49 was the most sensitive one, whereas isolate SL-31 was the least sensitive to carbendazim. The resistance ratios to tebu conazole were from 1 to 51.59. Isolate SL-31 was the most sensitive one, and isolate TS-09 was the least sensitive one of all isolates. The sensitivities to difenoconazole and flusilazole were largely consistent among all isolates, and the resistance ratios were from 1 to 4.55 and 7, respectively.
+There was a significant difference in resistance ratio of carbenda zim among the isolates. Therefore, difenoconazole and flusilazole could be used for disease control.Discussion
+Tode was the first one to observe the genus Colletotrichum in 1790, and Corda (1831) legitimately described it in 1831. Since 2009, Cai et al. (2009) have proposed a Colletotrichum systematics approach based on a multigene phylogeny, comparing the isolates under study with type specimens. A clearly defined phylogenetic lineage should be combined with decipherable polyphasic characters, including morphology, physiology, pathogenicity, cultural charac teristics, and secondary metabolites. The taxonomy of the genus Col letotrichum has been significantly changed, and it has gone through numerous revisions, with the addition, typification, and synonymy of many species. Some new species were introduced; some species were segregated, and some species were abolished. As of 2019, there are 213 accepted species in the genus Colletotrichum (Dar et al. 2018; de Silva et al. 2019; Douanla-Meli and Unger 2017; Fu et al. 2019;
+Gan et al. 2019; Jayawardena et al. 2016, 2017; Lee and Jung 2018; Marin-Felix et al. 2017; Sharma et al. 2017; Sun et al. 2019;
+Xu et al. 2018). Most members of the genus Colletotrichum are im portant plant pathogens. Colletotrichum spp. may cause walnut anthracnose. Before 2015, the pathogen was identified as C. gloeosporioides based on morphologic characters or ITS data analy sis in China (Qu et al. 2011; Xiao et al. 2010; Zhu et al. 2014). C. gloeosporioides is a species complex and includes 38 closely related species (Jayawardena et al. 2016; Marin-Felix et al. 2017; Weir et al.
+2012). These reports failed to determine the species to which the pathogens belonged in C. gloeosporioides s.l. Subtle differences in colony morphology exist among the sibling species, whereas the col onies of different isolates of the same species are morphologically different. Different Colletotrichum species could infect the same host, and the same species could infect different hosts. Several my cologists who worked on Colletotrichum taxonomy opined that the taxonomy system of the genus Colletotrichum based on morpholog ical characteristics, host range, and ITS data was confusing and that identification results were problematic (Than et al. 2008; Weir et al.
+2012; Yang et al. 2009). Proper identification of the pathogen is the basis for developing effective management strategies. Therefore, it is very important to accurately distinguish the species from each other.
+In this paper, by using multigene phylogeny, morphologic charac ters, and cultural properties, we confirmed that C. gloeosporioides s.s. was one of the species of the genus Colletotrichum responsible for walnut anthracnose in China. Several Colletotrichum species have been associated with walnut anthracnose, such as C. siamense, C. fructicola, C. fioriniae, C. gloeosporioides s.s., C. nymphaeae, C. godetiae, and C. gloeospor ioides s.l. (Da Lio et al. 2018; Savian et al. 2019; Wang et al. 2017, 2018; Zhu et al. 2015). It is safe to state that walnut anthracnose is a complex disease. With more and more walnut anthracnose samples collected from more walnut orchards in wider geographic areas in
+China, it is possible that moreColletotrichum species or new species responsible for walnut anthracnose will be determined or de scribed. Da Lio et al. (2018) obtained C. fioriniae and C. godetiae from nuts and buds in the same orchard, and they all caused wal nut anthracnose. Multiple Colletotrichum species can occur in the same orchard and from different walnut isolation sites. Whether multiple species may occur in the same walnut tissues remains 
+Table 4. Toxicity of four fungicides to Colletotrichum gloeosporioides sensu stricto 
+Fungicides EC50 x (mg/ml) 95% CIy (mg/ml) 
+Tebuconazole 6.5 ± 6.9 Az 2.3–10.6
+Difenoconazole 1.5 ± 0.6 B 1.1–1.8
+Flusilazole 0.9 ± 0.4 B 0.6–1.1
+Carbendazim 0.1 ± 0.05 B 0.05–0.11 x EC50: concentration for 50% of maximal effect.
+y 95% CI. z Means having a common letter in the same column are not significantly differ ent according to Tukey’s honestly significant difference (HSD) test (P < 0.01).
+Fig. 6. The resistance ratio of Colletotrichum gloeosporioides sensu stricto isolates to four fungicides: carbendazim, flusilazole, difenoconazole, and tebuconazole.
+Table 3. Primers used in this study with sequence, amplicon size, sources, and PCR conditions 
+Gene Primer Sequence Size (bp) 
+Initial denaturation Denaturation Annealing Extension Final extension 
+Reference�C min �C min �C min �C min �C min 
+ITSz ITS1 5¢-TCCGTAGGTGAACCTGCGG-3¢ 500 95 5 94 0.5 58 0.5 72 1.5 72 7 Gardes and Bruns 1993;
+White et al. 1990ITS ITS4 5¢-TCCTCCGCTTATTGATATGC-3¢ 
+ACT ACT-512F 5¢-ATGTGCAAGGCCGGTTTCGC-3¢ 300 95 5 94 0.5 59 0.5 72 1.5 72 7 Carbone and Kohn 1999 
+ACT ACT-783R 5¢-TACGAGTCCTTCTGGCCCAT-3¢
+GAPDH GDF-1 5¢-GCCGTCAACGACCCCTTCATTGA-3¢ 300 95 5 94 0.5 56 0.5 72 1.5 72 7 Templeton et al. 1992 
+GAPDH GDR1 5¢-GGGTGGAGTCGTACTTGAGCATGT-3¢
+CHS-1 CHSI-79F 5¢-TGGGGCAAGGATGCTTGGAAGAAG-3¢ 300 95 5 94 0.5 56 0.5 72 1.5 72 7 Carbone and Kohn 1999 
+CH-1 CHSI-354R 5¢-TGGAAGAACCATCTGTGAGAGTTG-3¢ z ACT, actin; CHS-1, chitin synthase; GAPDH, glyceraldehyde-3-phosphate dehydrogenase; ITS, internal transcribed spacer. 1366 Plant Disease /Vol. 104 No. 5 unclear, and additional studies are necessary in the future. It is necessary to conduct further studies on infection time; infecting walnut independently or collaboratively; and disease occurrence patterns of C. siamense, C. fructicola, and C. gloeosporioides s.s.
+There was a high variability of virulence among the isolates of the same species (C. siamense, C. godetiae, and C. fioriniae), which caused walnut anthracnose (Da Lio et al. 2018; Wang et al. 2017).
+In this paper, virulence varied among isolates of C. gloeosporioides s.s. based on inoculation on walnut leaves or fruits. However, the vir ulence of the isolates to walnut fruits was different between C. gloeo sporioides s.s. andC. siamense. The virulence ofC. siamense isolates to walnut fruits was similar, whereas the virulence of C. gloeospor ioides s.s. isolates was significantly different. Even if the isolates were from the same geographic origin, the virulence of the isolates to walnut leaves or fruits showed a great discrepancy, and it appeared that the virulence differences were not correlated with geographic or igins. Compared with the virulence to walnut leaves and fruits, C. gloeosporioides s.s. and C. siamensewere more aggressive to walnut fruits than leaves. From the perspective of pathogen characters, the results probably explained why walnut anthracnose caused serious damage in some orchards, whereas much less damage occurred in other orchards. However, the results need be further confirmed by artificially inoculating living walnut trees in the fields. The virulence of isolates from different tissues in the same orchards remains un known and needs further study.
+For controlling walnut anthracnose, the main management strat egy was to rely mainly on timely application of fungicides. We de termined the sensitivities of C. gloeosporioides s.s. isolates to fungicides, including difenoconazole, tebuconazole, flusilazole, and carbendazim, in this paper. Although the number of isolates was relatively restricted, the results still showed that there were dif ferences in resistance ratio to carbendazim and tebuconazole among all isolates. The resistance ratios to carbendazim and tebuconazole were from 1 to 87.3 and from 1 to 51.6, respectively. Isolates SL 31, SL-34, SL-30, and SL-37 were from Shangluo county, Shaanxi province, and the resistance ratios to tebuconazole were 1, 6, 16.2, and 38.9, respectively. Carbendazim and tebuconazole were exten sively used to control walnut anthracnose disease, and the differences of sensitivities were perhaps consistent with frequency of the carben dazim or tebuconazole usage locally. The sensitivities of C. gloeo sporioides and C. acutatum to carbendazim were different (Cao et al. 2017). Meanwhile, our study indicated that isolates of C. gloeo sporioides s.s. displayed differential sensitivities to carbendazim.
+The results reflected the sensitivities of C. gloeosporioides s.s. caus ing walnut anthracnose to fungicides to some extent. To increase the control effect, it is important for practitioners to ascertain the isolate sensitivities to fungicides. Based on the EC50 values and resistance ratio, difenoconazole and flusilazole would be expected to provide better control than carbendazim and tebuconazole in a given planta tion. However, the efficacies need to be verified with more field trials in the future. For controlling walnut anthracnose effectively, it is im perative to identify the pathogen accurately. Meanwhile, it is also necessary to determine fungicide sensitivities of the different isolates of the same fungal taxon. Fungicides should be cautiously chosen for the disease management, and fungicides with different mechanisms should be used in rotation.
+In conclusion, the 13 isolates from the orchards were C. gloeo sporioides s.s. All of the isolates had been confirmed to be the path ogen of walnut anthracnose in China. The isolates from different geographic regions showed differences in virulence and fungicide sensitivities. The results preliminarily indicated that there was a high intraspecific diversity among the populations of C. gloeosporioides s.s. The study provided crucial information for managing this disease in China. For example, the targeted control strategy should be imple mented in accordance with the different geographic regions to reduce the losses caused by C. gloeosporioides s.s.Acknowledgments
+We are grateful to Li-ying Chen, Hua-bing Ma, Xing-hong Liu, Chun-hua 
+Duan, Yin Liu, Jing Wang, and Qun Zhu for their assistance in sample collections, and we express our appreciation to Dr. James LaMondia (the Connecticut Agricul tural Experiment Station, United States) for reviewing the revised manuscript.Literature Cited
+Alvarez, M. 1976. Primer catalogo de enfermedades de plantas Mexicanas. Fitofilo 71:1-169.
+Blomhoff, R., Carlsen, M. H., Andersen, L. F., and Jacobs, D. R. 2006. Health benefits of nuts: Potential role of antioxidants. Br. J. Nutr. 96(S2):S52-S60.
+Cai, L., Hyde, K. D., Taylor, P., Weir, B. S., Waller, J. M., Abang, M. M., Zhang, 
+J. Z., Yang, Y. L., Phoulivong, S., and Liu, Z. Y. 2009. A polyphasic approach for studying Colletotrichum. Fungal Divers. 39:183-204.
+Cannon, P. F., Damm, U., Johnston, P. R., and Weir, B. S. 2012.
+Colletotrichum—current status and future directions. Stud. Mycol. 73:181-213.
+Cao, X. R., Xu, X. M., Che, H. Y., West, J. S., and Luo, D. Q. 2017. Distribution and fungicide sensitivity of Colletotrichum species complexes from rubber tree in Hainan, China. Plant Dis. 101:1774-1780.
+Carbone, I., and Kohn, L. M. 1999. A method for designing primer sets for speciation studies in filamentous ascomycetes. Mycologia 91:553-556.
+Chen, D., Shi, H. J., Wu, H. M., Xu, Z. H., and Zhang, C. Q. 2013. Resistance of
+Colletotrichum gloeosporioides causing grape ripe rot to thiophanate-methyl and tebuconazole in Zhejiang. J. Fruit Sci. 30:665-668.
+Chen, M. M. 2003. Forest Fungi Phytogeography: Forest Fungi Phytogeography of China, North America, and Siberia and International Quarantine of Tree
+Pathogens. Pacific Mushroom Research & Education Center, Sacramento, CA. 
+Cho, W. D., and Shin, H. D. 2004. List of Plant Diseases in Korea. Korean Society of Plant Pathology, Seoul, Korea. 
+Choi, Y. W., Hyde, K. D., and Ho, W. H. 1999. Single spore isolation of fungi.Fungal Divers. 3:29-38.
+Corda, A. C. I. 1831. Die Pilze Deutschlands. Pages 33-64 in: Deutschlands Flora in Abbildungen nach der Natur mit Beschreibungen, Vol. 3. J. Sturm, ed. Sturm,Nürnberg, Germany. 
+Cortés, B., Núñez, I., Cofán, M., Gilabert, R., Pérez-Heras, A., Casals, E.,
+Deulofeu, R., and Ros, E. 2006. Acute effects of high-fat meals enriched with walnuts or olive oil on postprandial endothelial function. J. Am. Coll. Cardiol. 48:1666-1671.
+Crous, P. W., Phillips, A. J. L., and Baxter, A. P. 2000. Phytopathogenic Fungi from South Africa. University of Stellenbosch, Department of Plant
+Pathology Press, Stellenbosch, South Africa. 
+Da Lio, D., Cobo-Dı́az, J. F., Masson, C., Chalopin, M., Kebe, D., Giraud, M.,
+Verhaeghe, A., Nodet, P., Sarrocco, S., and Le Floch, G. 2018. Combined metabarcoding and multi-locus approach for genetic characterization of
+Colletotrichum species associated with common walnut (Juglans regia) anthracnose in France. Sci. Rep. 8:10765.
+Damm, U., Baroncelli, R., Cai, L., Kubo, Y., O’Connell, R., Weir, B., Yoshino, K., and Cannon, P. F. 2010. Colletotrichum: Species, ecology and interactions.IMA Fungus 1:161-165.
+Damm, U., Cannon, P. F., Woudenberg, J. H. C., and Crous, P. W. 2012. The
+Colletotrichum acutatum species complex. Stud. Mycol. 73:37-113.
+Dar, R. A., Rai, A. N., and Shiekh, I. A. 2018. Isolation and mycotaxonomic characterization of Colletotrichum lillacola: A novel species causing anthracnose of Bergenia ligulata. Proc. Indian Natl. Sci. Acad. Part B 88:1615-1620. de Silva, D. D., Groenewald, J. Z., Crous, P. W., Ades, P. K., Nasruddin, A.,
+Mongkolporn, O., and Taylor, P. W. J. 2019. Identification, prevalence and pathogenicity of Colletotrichum species causing anthracnose of Capsicum annuum in Asia. IMA Fungus 10:8.
+Dean, R., Van Kan, J. A., Pretorius, Z. A., Hammond‐Kosack, K. E., Di Pietro, A.,
+Spanu, P. D., Rudd, J. J., Dickman,M., Kahmann, R., and Ellis, J. 2012. The top 10 fungal pathogens in molecular plant pathology. Mol. Plant Pathol. 13: 414-430.
+Deng, W. P., Du, F., Yang, M., Yang, J. Z., He, X. H., Wang, H. N., Li, C. Y., and
+Zhu, S. S. 2015. The genetic diversity of Colletotrichum spp. population isolated from grapes in Yunnan province. Yunnan Nong Ye Da Xue XueBao 30:173-184.
+Douanla-Meli, C., and Unger, J. G. 2017. Phylogenetic study of theColletotrichum species on imported citrus fruits uncovers a low diversity and a new species in the Colletotrichum gigasporum complex. Fungal Biol. 121:858-868.
+Fan, K., Wang, J. B., Fu, L., Li, X. J., Zhang, Y., Zhang, X. D., Zhai, H., and Qu,
+J. L. 2016. Sensitivity of Botryosphaeria dothidea from apple to tebuconazole in China. Crop Prot. 87:1-5.
+Freeman, S., Katan, T., and Shabi, E. 1996. Characterization of Colletotrichum gloeosporioides isolates from avocado and almond fruits with molecular and pathogenicity tests. Appl. Environ. Microbiol. 62:1014-1020.
+Fu, M., Crous, P. W., Bai, Q., Zhang, P. F., Xiang, J., Guo, Y. S., Zhao, F. F.,
+Yang, M. M., Hong, N., Xu, W. X., and Wang, G. P. 2019. Colletotrichum species associated with anthracnose of Pyrus spp. in China. Persoonia 42:1-35.
+Gadgil, P. D., Dick, M. A., Hood, I. A., and Pennycook, S. R. 2005. Fungi on Trees and Shrubs in New Zealand. PressFungi of New Zealand. Fungal DiversityPress, Hong Kong. 
+Gan, P., Tsushima, A., Hiroyama, R., Narusaka, M., Takano, Y., Narusaka, Y.,
+Kawaradani, M., Damm, U., and Shirasu, K. 2019. Colletotrichum shisoi sp.
+nov., an anthracnose pathogen of Perilla frutescens in Japan: Molecular phylogenetic, morphological and genomic evidence. Sci. Rep. 9:13349.Plant Disease /May 2020 1367 
+Gardes, M., and Bruns, T. D. 1993. ITS primers with enhanced specificity for basidiomycetes‐application to the identification of mycorrhizae and rusts.Mol. Ecol. 2:113-118.
+Gorter, G. J. M. A. 1977. Index of plant pathogens and the diseases they cause in cultivated plants in South Africa. Technical Service, Science Bulletin 392.
+Department of Agriculture, Government Print, Pretoria, South Africa. 
+He, L. F., Li, X. X., Gao, Y. Y., Li, B. X., Mu, W., and Liu, F. 2019.
+Characterization and fungicide sensitivity of Colletotrichum spp. from different hosts in Shandong, China. Plant Dis. 103:34-43.
+Honger, J. O., Offei, S. K., Oduro, K. A., Odamtten, G. T., and Nyaku, S. T. 2016.
+Identification and molecular characterisation of Colletotrichum species from avocado, citrus and pawpaw in Ghana. S. Afr. J. Plant Soil 33:177-185.
+Huang, L., Li, Q.-C., Zhang, Y., Li, D.-W., and Ye, J.-R. 2016. Colletotrichum gloeosporioides sensu stricto is a pathogen of leaf anthracnose on evergreen spindle tree (Euonymus japonicus). Plant Dis. 100:672-678.
+Jayawardena, R. S., Camporesi, E., Elgorban, A. M., Bahkali, A. H., Yan, J. Y., and Hyde, K. D. 2017. A new species of Colletotrichum from Sonchus sp. inItaly. Phytotaxa 314:55-63.
+Jayawardena, R. S., Hyde, K. D., Damm, U., Cai, L., Liu, M., Li, X. H., Zhang,W.,
+Zhao, W. S., and Yan, J. Y. 2016. Notes on currently accepted species of
+Colletotrichum. Mycosphere 7:1192-1260.
+Juhásová, G., Ivanová, H., and Spišák, J. 2005. Occurrence and spread of the parasitic microscopic fungi on walnut (Juglans regia L.) on various localities of Slovakia. Environ. Health Perspect. 113:345-352.
+Khan, A. A., and Kundoo, A. A. 2018. Pests of Walnut. Springer, Singapore. Kobayashi, T. 2007. Index of Fungi Inhabiting Woody Plants in Japan—Host, 
+Distribution and Literature. The National Rural Education Association,
+Zenkoku-Noson-Kyoiku Kyokai Publishing Co. Ltd. Tokyo, Japan. 
+Kumar, S., Stecher, G., and Tamura, K. 2016. MEGA7: Molecular evolutionary genetics analysis version 7.0 for bigger datasets. Mol. Biol. Evol. 33:1870-1874.
+Lee, S.-Y., and Jung, H.-Y. 2018. Colletotrichum kakivorum sp nov., a new leaf spot pathogen of persimmon in Korea. Mycol. Prog. 17:1113-1121.
+Liu, W., Yin, P., Wang, Z. H., and Ye, N. X. 2017. Genetic differentiation of
+Colletotrichum of tea and other woody plants. Jiangsu Agric. Sci. 45:42-44.
+Liu, X. Y., Jing, Y., and Yang, J. X. 1995. A study onColletotrichum classification of wooden plant in Shaanxi province. J. Northwest For. Coll. 3:29-30.
+Manire, C. A., Rhinehart, H. L., Sutton, D. A., Thompson, E. H., Rinaldi, M. G.,
+Buck, J. D., and Jacobson, E. 2002. Disseminated mycotic infection caused by
+Colletotrichum acutatum in a Kemp’s ridley sea turtle (Lepidochelys kempi).
+J. Clin. Microbiol. 40:4273-4280.
+Marin-Felix, Y., Groenewald, J. Z., Cai, L., Chen, Q., Marincowitz, S., Barnes, I.,
+Bensch, K., Braun, U., Camporesi, E., Damm, U., de Beer, Z. W., Dissanayake,
+A., Edwards, J., Giraldo, A., Hernandez-Restrepo, M., Hyde, K. D.,
+Jayawardena, R. S., Lombard, L., Luangsa-ard, J., McTaggart, A. R., Rossman,
+A. Y., Sandoval-Denis, M., Shen, M., Shivas, R. G., Tan, Y. P., van der Linde,
+E. J., Wingfield, M. J., Wood, A. R., Zhang, J. Q., Zhang, Y., and Crous, P. W. 2017. Genera of phytopathogenic fungi: GOPHY 1. Stud. Mycol. 86:99-216.
+O’Connell, R. J., Thon, M. R., Hacquard, S., Amyotte, S. G., Kleemann, J., Torres,
+M. F., Damm, U., Buiate, E. A., Epstein, L., and Alkan, N. 2012. Lifestyle transitions in plant pathogenic Colletotrichum fungi deciphered by genome and transcriptome analyses. Nat. Genet. 44:1060-1065.
+Pennycook, S. R. 1989. Plant Diseases Recorded in New Zealand. Plant Diseases
+Division, DSIR, Auckland, New Zealand. 
+Qu, W. W., Yang, K. Q., Liu, H. X., and Hou, L. Q. 2011. Main diseases of walnut and integrated management in Shandong. Plant Prot. 44:136-140.
+Savian, L., Muniz, M. F. B., Poletto, T., Maculan, L., Rabuske, J., Blume, E., and
+Sarzi, J. 2019. First report of Colletotrichum nymphaeae causing anthracnose on Juglans regia fruits in southern Brazil. Plant Dis. 103:3287.
+Sharma, G., Maymon, M., and Freeman, S. 2017. Epidemiology, pathology and identification of Colletotrichum including a novel species associated with avocado (Persea americana) anthracnose in Israel. Sci. Rep. 7:15839.
+Simmonds, J. H. 1966. Host Index of Plant Diseases in Queensland. Queensland
+Department of Primary Industries, Brisbane, Queensland, Australia. 
+Sreenivasaprasad, S., and Talhinhas, P. 2005. Genotypic and phenotypic diversity in Colletotrichum acutatum, a cosmopolitan pathogen causing anthracnose on a wide range of hosts. Mol. Plant Pathol. 6:361-378.
+Sun, Y. C., Damm, U., and Huang, C. J. 2019. Colletotrichum plurivorum, the causal agent of anthracnose fruit rot of Papaya in Taiwan. Plant Dis. 103:1040.
+Templeton, M. D., Rikkerink, E. H. A., Solon, S. L., and Crowhurst, R. N. 1992.
+Cloning and molecular characterization of the glyceraldehyde-3-phosphate dehydrogease encoding gene and cDNA from the plant pathogenic fungus
+Glomerella cingulata. Gene 122:225-230.
+Than, P. P., Shivas, R. G., Jeewon, R., Pongsupasamit, S., Marney, T. S., Taylor,
+P. W. J., and Hyde, K. D. 2008. Epitypification and phylogeny of
+Colletotrichum acutatum J.H. Simmonds. Fungal Divers. 28:97-108.
+Tian, S. B., Jin, X. R., Zhao, S. E., Zhang,W. Z., Cao, W. H., and Huo, Y. H. 1991.
+Control of Atrijuglans hetaohei Yang by method of high-pressure injection.
+Acta Agric. Boreali-sinica 6:158-161.
+Wang, Q. H., Fan, K., Li, D. W., Niu, S. G., Hou, L. Q., and Wu, X. Q. 2017.
+Walnut anthracnose caused by Colletotrichum siamense in China. Australas. Plant Pathol. 46:585-595.
+Wang, Q. H., Li, D. W., Duan, C. H., Liu, X. H., Niu, S. G., Hou, L. Q., and Wu,
+X. Q. 2018. First report of walnut anthracnose caused by Colletotrichum fructicola in China. Plant Dis. 102:247.
+Wang, Q. H., Liu, X. H., Fan, K., Duan, C. H., Niu, S. G., and Wu, X. Q. 2016.
+Identification and biological characteristics of pathogen from Colletotrichum gloeosporioides. J. Shandong Agric. Univ. 47:9-14.
+Wang, Q. Q., and Tang, G. H. 2018. The mitochondrial genomes of two walnut pests, Gastrolina depressa depressa and G. depressa thoracica (Coleoptera:
+Chrysomelidae), and phylogenetic analyses. PeerJ 6:e4919.
+Weir, B. S., Johnston, P. R., and Damm, U. 2012. The Colletotrichum gloeosporioides species complex. Stud. Mycol. 73:115-180.
+White, T. J., Bruns, T., Lee, S., and Taylor, J. 1990. Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. Pages 315-322 in: PCR Protocols: A Guide to Methods and Applications. M. Gelfand, J. Sninsky, and T. J. White, eds. Academic Press, San Diego, CA. 
+Xiao, Y. G., Zhou, J. H., and Xiao, Y. B. 2010. Research on the biologic features of pathogenic bacteria of walnut anthracnose and its control techniques in the
+Qinba mountain. J. Sichuan Forestry Sc. Tech. 31:54-57.
+Xu, H., Zhou, R., Fu, J., Yuan, Y., Ge, X., and Damm, U. 2018. Colletotrichum atractylodicola sp nov.: The anthracnose pathogen of Atractylodes chinensis in China. Mycol. Prog. 17:393-402.
+Yang,Y. L., Liu, Z. Y., Cai, L., Hyde, K.D., Yu, Z.N., andMcKenzie, E.H. C. 2009.
+Colletotrichum anthracnose of Amaryllidaceae. Fungal Divers. 39:123-146.
+Zhang, X. C., Xiao, Q., Gao, Z. Y., and Wang, J. B. 2014a. The detection of pathogenicity for Colletotrichum from different litchi cultivars and regions. J. Fruit Sci. 31:296-301.
+Zhang, X. Y., Li, X., and Gao, Z. Y. 2014b. Carbendazim resistance of
+Colleotrichum gloeosporioides on tropical and subtropical fruits. Chin. J. Trop. Agric. 34:71-74.
+Zhu, Y. F., Yin, Y. F., Qu,W.W., and Yang, K. Q. 2014. Occurrence and spread of the pathogens on walnut (Juglans regia) in Shandong Province, China. ActaHortic. 1050:347-351.
+Zhu, Y. Z., Liao, W. J., Zou, D. X., Wu, Y. J., and Zhou, Y. 2015. First report of leaf spot disease on walnut caused by Colletotrichum fioriniae in China. PlantDis. 99:289. 1368 Plant Disease /Vol. 104 No. 5 

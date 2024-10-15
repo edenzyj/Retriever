@@ -1,0 +1,336 @@
+
+PERFIL DE LOS EXTENSIONSITAS DE LA DIRECCIÓN DE EXTENSIÓN AGRARIA 
+ISSN: 1684-9086     e-ISSN:2305-0683                           http://dx.doi.org/10.18004/investig.agrar.2018.junio.38-50 
+ARTÍCULO CIENTÍFICO 38                        Investig. Agrar. 2018; 20(1):38-50.  
+Efecto de fungicidas sobre la antracnosis (Colletotrichum fragariae Brooks) en plantines de frutilla [Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier]  
+Effect of fungicides on anthracnose (Colletotrichum fragariae 
+Brooks) on strawberry plants [Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier]   
+Marcial Adorno Chávez1* y Laura Concepción Soilán Duarte1  1 Universidad Nacional de Asunción, Facultad de Ciencias Agrarias, Área Protección Vegetal. San Lorenzo, Paraguay.  RESUMEN 
+La alta rentabilidad y adaptabilidad que presenta la frutilla en Paraguay se ven afectados negativamente por el aumento progresivo de la incidencia de la antracnosis en la planta. 
+Con el fin de seleccionar un fungicida que controle eficazmente la enfermedad, se evaluó el efecto de los productos y para ello, se llevaron a cabo dos experimentos, en laboratorio e invernadero de la Facultad de Ciencias Agrarias de la Universidad Nacional de Asunción. En el experimento in vitro, se determinó el porcentaje de inhibición micelial, se establecieron 22 tratamientos y ocho repeticiones que consistieron en diferentes fungicidas y el testigo; la unidad experimental estaba constituida por una placa de Petri. En el experimento in vivo se determinó la incidencia, severidad, intensidad de daño, contenido de clorofila y NDVI; los 13 tratamientos y cinco repeticiones estuvieron conformados por los diferentes fungicidas y un testigo; la unidad experimental consistió en tres plantas de frutilla. Para ambos experimentos se utilizó el diseño completamente al azar. Los datos obtenidos fueron sometidos al análisis de varianza y al Test de Tukey al 5%. Los resultados in vitro indicaron que los fungicidas triazoles, estrobilurinas, en mezclas; y el mancozeb inhibieron el 100% de Colletotrichum fragariae. En condiciones in vivo, el efecto de los productos 
+Tebuconazole+Trifloxystrobin, Trifloxystrobin+Cyproconazole, Mancozeb y 
+Azoxystrobin+Propiconazole+Difenoconazole sobre la incidencia fue moderada y redujeron en un 51-63% la severidad y en un 60-77% la intensidad de daño de la antracnosis. Las plantas que fueron tratadas con Tebuconazole+Trifloxystrobin presentaron mayor contenido de clorofila. 
+Palabras clave: Colletotrichum fragariae, Fragaria x ananassa, antracnosis, control químico, clorofila.  ABSTRACT 
+High profitability and adaptability that presents strawberry production in Paraguay are affected negatively by the continuous increase of incidence of anthracnose. In order to select a fungicide that effectively controls the disease, it was assessed the effect of the products; for that, two experiments were conducted, in laboratory and greenhouse in the College of 
+Agricultural Sciences of the National University of Asuncion. On in vitro experiment, it was determined the percentage of mycelium inhibition, there was established 22 treatments and eight replications, which consisted of different fungicides and a control; the experimental unit was composed by one Petri plate. On in vivo experiment, it was determined the incidence, severity, intensity of damage, chlorophyll content and NDVI; 13 treatments and five replications were composed by the different fungicides and the control; the experimental unit consisted of three strawberry’s plants. The completely randomized design was used for both experiments. The data obtained was submitted to variance analysis and Test of Tukey 5%. In vitro results indicated Colletotrichum fragariae was inhibited completely by the triazoles, strobilurins, in mixtures; and mancozeb. During in vivo trials, the products 
+Mancozeb, Tebuconazole+Trifloxystrobin, Trifloxystrobin+Cyproconazole and 
+Azoxystrobin+Propiconazole+Difenoconazole presented moderate incidence and reduced 51-63% of severity and 60-77% of intensity of damage of anthracnose. The strawberry plants treated with Tebuconazole+Trifloxystrobin resulted in a major chlorophyll content. 
+Key words: Colletotrichum fragariae, Fragaria x ananassa, anthracnose, chemical control, chlorophyll.      *Autor para correspondencia: iverydsjunior@gmail.com  Conflicto de interés: 
+Los autores declaran no tener conflicto de interés  Licencia:  Creative Commons CC-BY  Historial: Recibido: 14/07/17; 
+Aceptado: 14/03/18  mailto:iverydsjunior@gmail.com https://creativecommons.org/licenses/by/4.0/ 
+Efecto de fungicidas sobre la antracnosis (Colletotrichum fragariae Brooks) en plantines de frutilla  
+Investig. Agrar. 2018; 20(1):38-50.       39 INTRODUCCIÓN 
+La producción de frutilla (Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier) en 
+Paraguay representa un rubro de transcendental importancia económica para pequeños productores. 
+El alto valor que posee la frutilla en el mercado, la alta rentabilidad y el período de cuatro meses de cosecha, representan un potencial de ganancias significativas que pueden ser obtenidas en pequeñas escalas; así también, el sector industrial se ve favorecido con los variados productos de los que se pueden obtener un valor agregado (ERC 2016). Actualmente, el Paraguay cuenta con una superficie plantada de 350 ha, una producción de 3.329 toneladas y un rendimiento promedio de 9,5 t ha-1; estos valores han sufrido cambios crecientes entre 5-26% a lo largo del último decenio (MAG 2016). 
+Sin embargo, el manejo del cultivo es intensivo y existen factores edafoclimáticos, problemas fitosanitarios que interfieren en la producción (Urdaneta et al. 2013). Uno de los factores bióticos que afecta a la frutilla es la enfermedad denominada antracnosis causada por un complejo de tres especies de Colletotrichum. C. fragariae y C. gloeosporioides están asociado principalmente a la pudrición de la corona y frutos maduros en frutilla, mientras que C. acutatum tiende a infectar las flores y frutos inmaduros con mayor frecuencia (Silveira 
+Baggio 2016). Las tres especies pueden ocasionar daños en estolones, pecíolos e infectar las hojas (France 2013). Las plantas infectadas  presentan lesiones y marchitamiento progresivo, los síntomas en los estolones y pecíolos son marrones, alargados, deprimidos de 3-25 mm con una línea bien definida que separa el tejido enfermo del sano; en las hojas ocurre manchas necróticas oscuras y circulares de 0,5-2 mm de diámetro; en los frutos las lesiones son redondeadas y ligeramente deprimidas, color castaño a marrón oscuro y de consistencia firme, las lesiones pueden coalescer y tomar todo el fruto (Smith 2008). 
+La estrategia de control más práctica y eficaz utilizada en la etapa de producción de plantines es el control químico (Tassawar Abbas et al. 2016). 
+Además, existen reportes en donde incrementos del contenido de clorofila, densidad de follaje, número de foliolos y otros componentes agronómicos han sido atribuidos a la utilización de fungicidas como triazoles, bencimidazoles, carbamatos y estrobilurinas (Silva Pesqueira et al. 2016). No obstante, en la producción de frutilla, se observa que la antracnosis aumenta progresivamente, reduciendo el número de plantines e inclusive ocasionando la muerte de plantas madres. En el mercado nacional, existen varios fungicidas para el control de antracnosis, pero los mismos no son adecuados para el cultivo de frutilla debido que no existen evidencias científicas que demuestren la efectividad de los productos. 
+Teniendo en cuenta estas problemáticas, es fundamental la selección de fungicidas específicos que se adecuen a las condiciones de manejo del cultivo y logren controlar efectivamente a la enfermedad para evitar aplicaciones innecesarias en el cultivo, que repercutan en el costo de producción, selección de biotipos resistentes y en la inocuidad de los productos cosechados. 
+El objetivo del presente trabajo fue evaluar el efecto de fungicidas sobre la antracnosis en plantines de frutilla, para lo cual se determinaron el porcentaje de inhibición micelial in vitro; in vivo se determinaron la incidencia, severidad, intensidad de daño, contenido de clorofila e índice de vegetación por diferencia normalizada en plantines de frutilla. MATERIALES Y MÉTODOS 
+Los experimentos fueron realizados en el laboratorio e invernadero de la División de Fitopatología del 
+Área Protección Vegetal de la Facultad de Ciencias 
+Agrarias (FCA) de la Universidad Nacional de 
+Asunción (UNA), ubicada en la ciudad de San 
+Lorenzo, Departamento Central. Para el experimento in vivo se utilizaron plantines con 30 días de edad de la variedad Dover. La cepa de C. fragariae fue proveído por el laboratorio de fitopatología del Centro de Investigación Hernando 
+Bertoni (CIHB) dependiente del Instituto Paraguayo de Tecnología Agraria (IPTA). 
+Sensibilidad in vitro de C. fragariae a fungicidas 
+Se utilizó el diseño completamente al azar (DCA) con 21 tratamientos más un testigo, y ocho repeticiones (Tabla 1), totalizando 176 unidades experimentales, cada unidad experimental consistió en una placa de Petri.  
+El ensayo se realizó mediante la técnica de dilución adaptada por Quevedo (2012); en la cual se cargaron 110 mL de medio Papa+dextrosa+agar 
+Adorno Chávez y Soilán Duarte  40  Investig. Agrar. 2018; 20(1):38-50. (PDA) en erlenmeyers y se esterilizaron en autoclave. Posteriormente se añadió la dosis correspondiente de cada fungicida (Tabla 1) al medio y fue cargada en placas de Petri de 9 mm dentro de una campana de aislación; una vez solidificados, se colocó un disco de 5 mm de diámetro del patógeno en el centro de cada placa. 
+Para el testigo, el medio utilizado fue PDA sin la adición de fungicidas. Las placas fueron incubadas a 27ºC durante ocho días. El porcentaje de inhibición de los tratamientos se determinó mediante la fórmula propuesta por González et al. (2011): (Crecimiento testigo – Crecimiento tratamiento) /Crecimiento testigo x 100.  
+Las evaluaciones se realizaron periódicamente cada 24 h después de la instalación hasta que el hongo cubrió la placa del tratamiento testigo. El crecimiento radial se midió con un escalímetro digital desde el punto medio de los discos del hongo hasta la zona en donde se observaron extremos de hifas del hongo. El efecto de los fungicidas fue clasificado de acuerdo con la escala adaptada de 
+Kumar et al. (2007): control óptimo (95-100%); control bueno (>80%); control moderado (>50%) y control pobre (<50%)  
+Tabla 1. Descripción de los fungicidas y dosis utilizadas para el control de C. fragariae. 
+FCA-UNA. San Lorenzo, Paraguay. 2017. Tratamiento Dosis 
+T1 Testigo: Agua estéril ------ T2 Tebuconazole 600 mL ha-1 T3 Difenoconazole 800 mL ha-1 T4 Mancozeb 4.000 mL ha-1 
+T5 Picoxystrobin+Tebuconazole 500 mL ha-1 
+T6 Azoxystrobin+Cyproconazole 400 mL ha-1 
+T7 Tebuconazole+Trifloxystrobin 600 mL ha-1 
+T8 Trifloxystrobin+Cyproconazole 350 mL ha-1 
+T9 Azoxystrobin+Propiconazole+Difenoconazole 400 mL ha-1 
+T10 Picoxystrobin+Tebuconazole+Tiofanato metílico 1.100 mL ha-1 
+T11 Picoxystrobin+Cyproconazole+Tiofanato metílico 1.000 mL ha-1 
+T12 Azoxystrobin+Tebuconazole+Propiconazole+Tricyclazole 700 mL ha-1 
+T13 Propiconazole+Cyproconazol+Picoxystrobin+Clorotalonil 1.200 mL ha-1 
+T14 Azoxystrobin+Benzovindiflupyr 300 g ha-1 
+T15 Azoxystrobin+Cyproconazole+Carbendazin 300 mL ha-1 
+T16 Picoxystrobin+Prothioconazole 500 mL ha-1 
+T17 Azoxystrobin+Prothioconazole 320 mL ha-1 
+T18 Tiofanato metílico 700 g ha-1 T19 Azoxystrobin 400 mL ha-1 T20 Carbendazin 600 mL ha-1 T21 Clorotalonil 700 g ha-1 T22 Boscalid 150 g ha-1  
+Efecto de fungicidas sobre el control de la antracnosis en frutilla en condiciones in vivo 
+Se utilizó el diseño completamente al azar con 12 tratamientos más un testigo, con cinco repeticiones (Tabla 2), totalizando 65 unidades experimentales, cada unidad experimental consistió en tres plantines de frutilla. 
+Para la conformación de los tratamientos se seleccionaron doce productos que presentaron un control óptimo del patógeno en la prueba in vitro. 
+Los plantines fueron mantenidos en macetas de polietileno negro de 400 mL en un invernadero, temperatura promedio diaria 28,9ºC y la irrigación fue realizada una vez al día. 
+La inoculación fue realizada de acuerdo con la metodología adaptada por Tanaka et al. (2001); la cual consiste en la realización de heridas con una aguja hipodérmica en cuatro pecíolos de hojas con limbo expandido y color verde claro, en la región del tercio inferior del mismo. 
+Los plantines fueron asperjados con una concentración de 1x107 conidios mL-1 hasta el punto de goteo con un aspersor manual de pico cónico y fueron mantenidas en cámara húmeda durante 48 h. Tres días después de la inoculación (DDI) se realizó la aplicación de los fungicidas con las dosis correspondientes de cada tratamiento (Tabla 2). Se utilizaron aspersores de 2 L de capacidad con pico cónico. Se evaluó la incidencia de la antracnosis en 
+Efecto de fungicidas sobre la antracnosis (Colletotrichum fragariae Brooks) en plantines de frutilla  
+Investig. Agrar. 2018; 20(1):38-50.       41 cada tratamiento a los 14, 21 y 28 DDI y fue calculado mediante la fórmula:   
+La incidencia de la enfermedad en los tratamientos fue clasificada mediante la escala de niveles de riesgo para una infección de antracnosis propuesta por Wilson et al. (1990) en la cual la incidencia está clasificada en baja: 0-15%; moderada: 16-50% y alta: 51-100%. La severidad de la antracnosis se evaluó a los 14, 21 y 28 DDI con la ayuda de la escala de Delp y Milholland (1981), la cual establece grados 1= sin lesiones; 2= manchas <3 mm; 3= 3 10 mm; 4= 10-20 mm; 5= 20 mm y 6= órgano necrótico. Para esto fueron analizados todos los órganos de la planta que presentaron síntomas típicos de la enfermedad. 
+Los datos de incidencia y severidad obtenidos fueron utilizados para el cálculo de la intensidad de daño (ID) a los 14, 21 y 28 DDI mediante la fórmula propuesta por French y Hebert (1980), en donde:     
+También se determinó el contenido de clorofila de los tratamientos a los 14, 21 y 28 DDI con la ayuda de un medidor de clorofila de la marca atLEAF+, expresados en unidades SPAD (Soil Plant Analysis 
+Department). El índice de vegetación por diferencia normalizada (NDVI) se cuantificó a los 28 DDI con la ayuda de un medidor de NDVI de la marca 
+Trimble expresados en valores adimensionales de 0 0,99. Los datos obtenidos en los experimentos in vitro, contenido de clorofila y NDVI fueron sometidos a un análisis de varianza (ANAVA) y comparación de las medias con el test de Tukey 5%.   
+Tabla 2. Descripción de los fungicidas y dosis utilizadas para el control de la antracnosis. FCA-UNA. San Lorenzo, Paraguay. 2017. Tratamiento Dosis T1 Testigo ------ T2 Tebuconazole 600 mL ha-1 T3 Difenoconazole 800 mL ha-1 T4 Mancozeb 4.000 mL ha-1 
+T5 Picoxystrobin+Tebuconazole 500 mL ha-1 
+T6 Azoxystrobin+Cyproconazole 400 mL ha-1 
+T7 Tebuconazole+Trifloxystrobin 600 mL ha-1 
+T8 Trifloxystrobin+Cyproconazole 350 mL ha-1 
+T9 Azoxystrobin+Propiconazole+Difenoconazole 400 mL ha-1 
+T10 Picoxystrobin+Tebuconazole+Tiofanato metílico 1.100 mL ha-1 
+T11 Picoxystrobin+Cyproconazole+Tiofanato metílico 1.000 mL ha-1 
+T12 Azoxystrobin+Tebuconazole+Propiconazole+Tricyclazole 700 mL ha-1 
+T13 Propiconazole+Cyproconazol+Picoxystrobin+Clorotalonil 1.200 mL ha-1  RESULTADOS Y DISCUSIÓN 
+Sensibilidad in vitro de C. fragariae a fungicidas 
+En la Tabla 3 se observa diferencia estadística significativa (P<0,05) en la inhibición del crecimiento micelial del patógeno por efecto de los fungicidas (Figura 1). 
+Los fungicidas Tebuconazole, Mancozeb, 
+Difenoconazole, Azo+Tebu+Propi+Tricy, 
+Pico+Tebu, Pico+Tebu+Tio, Pico+Cypro+Tio, 
+Azo+Cypro, Azo+Propi+Difeno, Triflo+Cypro, 
+Tebu+Triflo y Propi+Cypro+Pico+Cloro obtuvieron un control óptimo al inhibir 100% el crecimiento micelial; mientras que Azo+Benzo, 
+Azo+Cypro+Carbendazin, Pico+Prothioconazole, 
+Azo+Prothioconazole presentaron un control bueno; y el Tiofanato metílico, Azoxystrobin, Carbendazin, 
+Clorotalonil y Boscalid obtuvieron un control moderado a pobre. 
+El control pobre a moderado alcanzado por los fungicidas está fundamentado por la posible presencia de un aislado resistente al mecanismo de acción de cada fungicida, sea por presión de selección o mutación.   % I= Número de plantas con síntomas x 100 
+Número de plantas evaluadas % ID= 1n1 + 2n2 + 3n3 + 4n4 + 5n5 + 6n6 x 100 6 x n  
+Adorno Chávez y Soilán Duarte  42  Investig. Agrar. 2018; 20(1):38-50. 
+Tabla 3. Efecto de fungicidas sobre porcentaje de inhibición del crecimiento micelial (ICM) de C. fragariae. 
+FCA-UNA. San Lorenzo, Paraguay. 2017. 
+Tratamiento Descripción ICM (%) 
+T1 Testigo: Agua estéril -------  T2 Pico+Tebu+Tio   100* a T3 Pico+Cypro+Tio 100 a T4 Mancozeb 100 a T5 Difenoconazole 100 a T6 Pico+Tebu 100 a T7 Triflo+Cypro 100 a T8 Tebu+Triflo 100 a T9 Tebuconazole 100 a 
+T10 Propi+Cypro+Pico+Clor 100 a T11 Azo+Cypro 100 a 
+T12 Azo+Tebu+Propi+Tricy 100 a T13 Azo+Propi+Difeno 100 a T14 Azo+Benzo 93,06 a b 
+T15 Azo+Cypro+Carbendazin 88,21     b c 
+T16 Pico+Prothioconazole 84,58     b c 
+T17 Azo+Prothioconazole 82,12     b c d 
+T18 Tiofanato metílico 74,57     b c d e 
+T19 Azoxystrobin 69     b c d e 
+T20 Carbendazin 59,91     b c d e f 
+T21 Clorotalonil 55,36     b c d e f 
+T22 Boscalid 26,62                    g * significativo al 0,05 nivel de probabilidad. Medias seguidas por la misma letra no difieren estadísticamente entre sí por el Test de 
+Tukey al 5%; Difeno=difenoconazole; Cypro=cyproconazole; Triflo=trifloxystrobin; Benzo=benzovindiflupyr; Propi=propiconazole; 
+Clor=clorotalonil; Tricy=tricyclazole; Azo=azoxystrobin; Pico=picoxystrobin; Tio=tiofanato metílico; Tebu=tebuconazole.  
+Figura 1. Crecimiento in vitro de C. fragariae. FCA-UNA. San Lorenzo, Paraguay. 2017. a) Testigo; b) 
+Tebuconazole; c) Mancozeb; d) Boscalid; e) Azoxystrobin; f) Difenoconazole; g) Tiofanato metílico; h) Clorotalonil; i) Carbendazin; j) Azo+Tebu+Propi+Tricy; k) Pico+Tebu+Tio; l) 
+Pico+Cypro+Tio; m) Azo+Benzo; n) Azo+Cypro; ñ) Azo+Cypro+Carben; o) Pico+Tebu; p) 
+Azo+Prothio; q) Pico+Prothio; r) Azo+Propi+Difeno; s) Triflo+Cypro; t) Tebu+Triflo; u) 
+Propi+Cypro+Pico+Cloro.   a b c d e f g h k l i j m n o ñ p r q s t u 
+Efecto de fungicidas sobre la antracnosis (Colletotrichum fragariae Brooks) en plantines de frutilla  
+Investig. Agrar. 2018; 20(1):38-50.       43 
+Estas observaciones ya fueron reportadas por FRAC (2013) quien evidenció que los aislados de C. graminícola, C. acutatum, C. lindemuthianum, C. dematium, C. gloeosporioides y C. capsici en pruebas in vitro son insensibles a los mismos fungicidas utilizados en el experimento.  
+Por otra parte, Difenoconazole, Tebuconazole y 
+Mancozeb obtuvieron un control óptimo al suprimir totalmente el crecimiento micelial del hongo, esto podría deberse a una alta sensibilidad del patógeno a la inhibición de la dimetilasa en la biosíntesis de esteroles; y a la inactivación de los grupos sulfhídricos y la formación de complejos con las enzimas celulares (Agrios 2011).  
+A pesar de la insensibilidad registrada para algunos fungicidas; se pudo constatar que una mayor inhibición fue alcanzada cuando éstos fueron mezclados con los triazoles. 
+Este resultado concuerda con lo expuesto por 
+Mondino (2012), quien afirma que existe un fenómeno denominado resistencia cruzada negativa, la cual establece que la selección por resistencia a un ingrediente activo implica automáticamente susceptibilidad a otro de distinto sitio de acción. 
+La alta efectividad por parte de varios ingredientes activos del grupo químico de los triazoles ya fue demostrada por Shukla et al. (2010). 
+Efecto de fungicidas sobre el control de la antracnosis en frutilla en condiciones in vivo 
+En la Figura 2 se observa la incidencia de antracnosis a los 14, 21 y 28 DDI en plantines de frutilla. A los 14 DDI, los tratamientos correspondientes a los fungicidas 
+Azo+Propi+Difeno, Triflo+Cypro, Tebu+Triflo, 
+Mancozeb, Difenoconazole, Azo+Cypro y 
+Pico+Tebu+Tio reportaron valores bajos entre un 6,6-13,3% de incidencia. Sin embargo, para 
+Azo+Tebu+Propi+Tricy, Tebuconazole, Pico+Tebu+Tio, Pico+Tebu y 
+Propi+Cypro+Pico+Cloro éstos valores fueron superiores entre 19,9-33,3%, presentando una incidencia moderada.  
+A los 21 DDI, no se observaron incrementos en la incidencia para los fungicidas 
+Azo+Tebu+Propi+Tricy y Propi+Cypro+Pico+Cloro. 
+Por otra parte, en los tratamientos restantes se registraron valores superiores entre 20-40% de incidencia del patógeno; correspondiendo a una incidencia moderada.  
+A los 28 DDI, todos los tratamientos obtuvieron una incidencia moderada entre un 26,6-46,6% de antracnosis; la mayor incidencia fue obtenida en el tratamiento Azo+Cypro con 53,3%. Resultados similares fueron obtenidos por Mackenzie et al. (2009) y Mouden et al. (2016) utilizando fungicidas de los mismos grupos químicos para el control de la antracnosis en frutilla.  
+Sin embargo, no concuerda con trabajos realizados por Díaz et al. (2016), Mouden et al. (2016) y Silva 
+Pesqueira et al. (2016) quienes obtuvieron una alta incidencia de antracnosis en frutilla  
+En la Figura 3 se observa la severidad a los 14, 21 y 28 DDI de C. fragariae en plantas de frutilla tratadas con diferentes fungicidas. En todo el período de evaluación los tratamientos presentaron severidades menores con respecto al testigo. A los 14 DDI, los productos Mancozeb, Difenoconazole, 
+Azo+Propi+Difeno, Triflo+Cypro, Pico+Cypro+Tio y 
+Pico+Tebu+Tio redujeron la severidad entre 62,9 68,5%, en comparación con el testigo. Por otra parte, los fungicidas Tebuconazole, Azo+Cypro, 
+Propi+Cypro+Pico+Cloro, Tebu+Triflo y Pico+Tebu registraron valores entre 50-59,3%; siendo la más baja reducción obtenida por Azo+Tebu+Propi+Tricy con un 44,4%.  
+A los 21 DDI, los tratamientos correspondientes a 
+Propi+Cypro+Pico+Cloro y Azo+Tebu+Propi+Tricy registraron un aumento de la severidad de 1-6%. 
+En el caso de los fungicidas restantes, el avance del grado de enfermedad fluctuó entre 18,8-37,5%, siendo el fungicida Azo+Cypro el de menor capacidad para retrasar el desarrollo del patógeno.  
+A los 28 DDI, los fungicidas Tebuconazole, 
+Tebu+Triflo y Azo+Propi+Difeno redujeron la severidad entre 59,2-62,9% en comparación con el testigo. No obstante, los demás tratamientos arrojaron valores entre 44,4-55,5%, siendo el producto Propi+Cypro+Pico+Cloro el que registró la menor reducción de 41,9%.  
+Resultados de reducción de severidad semejantes fueron encontrados por Pérez-León et al. (2015) y 
+Silva Pesqueira et al. (2016); sin embargo, bajas reducciones de severidad de antracnosis en los cultivos de frutilla, mamón, mango y otros fueron 
+Adorno Chávez y Soilán Duarte  44  Investig. Agrar. 2018; 20(1):38-50. registrados por Mackenzie et al. (2009), Nam et al. (2011) y Pérez-León et al. (2015) utilizando grupos químicos tales como benzimidazol, estrobilurina y triazol en un período de evaluación de 15-20 días. 
+En la Figura 4 se observa la intensidad de daño a los 14, 21, 28 DDI de C. fragariae en plantas de frutilla. 
+En todo el período del experimento el testigo presentó mayores índices de daño entre 45,5 73,3%.  
+A los 14 DDI se constató que el Mancozeb, 
+Difenoconazole, Azo+Propi+Difeno, Tebu+Triflo, 
+Triflo+Cypro, Pico+Cypro+Tio y Pico+Tebu+Tio registraron los menores valores entre 2,2-7,7% de daño por el hongo. En contraposición, los tratamientos restantes obtuvieron intensidades de daños entre 10-16,6%.  
+A los 21 DDI, en los fungicidas 
+Azo+Tebu+Propi+Tricy y Propi+Cypro+Pico+Cloro el daño por el patógeno se incrementó entre un 1 11,2%. No obstante, en los demás productos los valores aumentaron entre un 42,8-81,8%, siendo el tratamiento correspondiente a Azo+Propi+Difeno el de mayor aumento.   
+Figura 2. Porcentaje de incidencia de C. fragariae a diferentes fungicidas. FCA-UNA. San Lorenzo, Paraguay. 2017.    
+Figura 3. Severidad de C. fragariae a diferentes fungicidas. FCA-UNA. San Lorenzo, Paraguay. 2017  0 10 20 30 40 50 60 70 80 90 100 In c id e n c ia  ( % ) 
+Tratamiento 14 DDI 21 DDI 28 DDI 0 1 2 3 4 5 6 S e v e ri d a d 
+Tratamiento 14 DDI 21 DDI 28 DDI 
+Efecto de fungicidas sobre la antracnosis (Colletotrichum fragariae Brooks) en plantines de frutilla  
+Investig. Agrar. 2018; 20(1):38-50.       45 
+A los 28 DDI, se observó una reducción entre 72,7 77,2% de la intensidad de daño en los fungicidas 
+Tebuconazole, Tebu+Triflo y Azo+Propi+Difeno, en comparación con el testigo.  Sin embargo, valores entre 54,5-68,1% de reducción fueron registrados para los tratamientos restantes. De esta manera, un 51,5% fue encontrado en plantas tratadas con 
+Propi+Cypro+Pico+Cloro correspondiendo al mayor daño por parte de la enfermedad.   
+Los resultados de este experimento concuerdan con datos presentados por Basulto et al. (2011); 
+Moustafa et al. (2015); Forcelini y Seijo (2016); 
+Scribano y Garcete (2016) quienes registraron reducciones de severidad similares. 
+A través de los resultados obtenidos se puede constatar que la efectividad entre los fungicidas varió en un 25% a los 14 DDI, un 35% a los 21 DDI y un 33% a los 28 DDI. Esta variación entre los ingredientes activos fue discutida por Mackenzie et al. (2009) quienes demostraron que existe una variación en la movilidad de los fungicidas dentro del sistema vascular de las plantas entre dos productos del mismo grupo químico. Shukla et al. (2010) relatan que la variabilidad es debido a la tasa de no absorción/descomposición de los fungicidas por parte de las plantas; y éste a su vez varía entre variedades.  
+De acuerdo con Díaz et al. (2016) la efectividad de los fungicidas depende de la aplicación oportuna, así también del ciclo biológico y de la interacción del patógeno con el hospedero; ya que, Klingelfuss y 
+Yorinori (2001) mencionan que Colletotrichum sp. está presente en los órganos aéreos mucho antes de la aparición de los síntomas; así también indican que existen reportes de una alta variabilidad entre razas de una misma especie de Colletotrichum. 
+En la Tabla 4 se observa diferencia estadística significativa (P<0,05) en el contenido de la clorofila de las plantas por efecto de los distintos fungicidas utilizados en las 3 evaluaciones.   
+Figura 4. Intensidad de daño de C. fragariae en plantas de frutilla a diferentes fungicidas. FCA-UNA. San Lorenzo, Paraguay. 2017.  
+Las plantas tratadas con el producto 
+Tebuconazole+Trifloxystrobin presentaron el mayor contenido de clorofila de 2-3 unidades superiores con respecto al testigo y los demás tratamientos a los 14 y 21 DDI. En cambio, a los 28 DDI, el producto Tebuconazole se destacó con el mayor contenido de clorofila. El mayor contenido de clorofila registrado para plantas tratadas con fungicidas ya fue evidenciado por varios autores (Jaleel et al. 2008; Daugovish et al. 2009); quienes a su vez afirmaron que otros componentes se ven afectados positivamente como altura de planta, número de foliolos, altura de inserción de vaina, densidad de follaje.   0 10 20 30 40 50 60 70 80 
+In te n s id a d  d e  d a ñ o  ( % ) 
+Tratamiento 14 DDI 21 DDI 28 DDI 
+Adorno Chávez y Soilán Duarte  46  Investig. Agrar. 2018; 20(1):38-50. 
+De acuerdo con Jaleel et al. (2008), los componentes químicos de los triazoles poseen la capacidad de activar varios metabolitos de la planta y algunos pigmentos. De esta manera, un mayor contenido de clorofila está atribuido a un incremento de los niveles de citoquinina en la planta que desencadenan en mayores estímulos de la biosíntesis de clorofila.  
+Así también Perlot et al. (2007) evidenciaron que el uso de azoxystrobin aumentó 4 veces el contenido de fósforo en las hojas de frutilla. Por consiguiente, de acuerdo con ensayos presentados por Zhu et al. (2012) y Novichonok et al. (2015) se concluyó que existe una alta correlación positiva (R2=0,85-0,97) de los valores SPAD con la concentración de clorofila en las hojas de las plantas evaluadas.  
+Además, España et al. (2006) y Daugovish et al. (2009) cotejaron que la concentración de clorofila está directamente relacionada con la cantidad de nitrógeno que afecta muchas características de la planta como el tamaño y forma de las células, acumulación de materia seca, número y tamaño de las hojas, altura y arquitectura de la planta que corresponden a componentes de la generación del rendimiento de las plantas. A su vez, Uebel (2015) establecieron que la aplicación de fungicidas tiene la capacidad de mejorar el crecimiento de la planta, mantener por mayor tiempo el área foliar verde y retrasar la senescencia de la clorofila.   
+Tabla 4. Efecto de los fungicidas sobre el contenido de clorofila de plantas de frutilla. FCA-UNA. San Lorenzo, Paraguay. 2017. Tratamiento 
+Contenido de clorofila (SPAD) 14 DDI* 21 DDI* 28 DDI* 
+Tebuconazole+Trifloxystrobin 43,60 a 43,55 a 43,01 a b 
+Mancozeb 42,53 a b 42,39 a b c 41,99 a b c 
+Tebuconazole 42,15 a b c 42,97 a b  43,25 a 
+Propi+Cypro+Pico+Cloro 41,76 a b c 41,5 a b c 41,31 a b c 
+Trifloxystrobin+Cyproconazole 41,45 a b c 41,76 a b c 41,54 a b c 
+Pico+Cypro+Tio 41,44 a b c 41,67 a b c 40,53 a b c 
+Pico+Tebu+Tio 41,26 a b c 40,58 a b c 39,12 a b c 
+Azo+Propi+Difeno 40,85 a b c 40,04 a b c 41,52 a b c 
+Difenoconazole 40,73 a b c 39,69 a b c 39,68 a b c 
+Azoxystrobin+Cyproconazole 40,73 a b c 41,13 a b c 40,54 a b c 
+Picoxystrobin+Tebuconazole 39,96 a b c 39,66 a b c 41 a b c 
+Testigo 39,81 a b c 41,18 a b c 41,61 a b c 
+Azo+Tebu+Propi+Tricy 39,72 a b c 39,8 a b c 39,79 a b c * significativo al 0,05 nivel de probabilidad. Medias seguidas por la misma letra no difieren estadísticamente entre sí por el Test de Tukey al 5%.  
+En la Tabla 5 se visualiza diferencia estadística significativa (P<0,05) en el índice de vegetación por diferencia normalizada por efecto de los fungicidas utilizados. De esta manera los productos 
+Pico+Tebu+Tio, Azo+Cypro, Triflo+Cypro, 
+Tebuconazole y el testigo obtuvieron valores significativos entre 0,8-0,82 de NDVI. Por otra parte, el valor de NDVI fluctúo entre 0,72-0,79 en los restantes tratamientos. De acuerdo con Li et al. (2010) y Noling et al. (2010), quienes ejecutaron evaluaciones descriptivas con plantas de frutilla, documentaron que los valores estándares para el índice de vegetación por diferencia normalizada en esta especie fluctúan entre 0,69-0,84. Éstos a su vez están correlacionados positivamente con características agronómicas como concentración de clorofila y nitrógeno en las hojas, rendimientos y densidad de follaje.  
+Según Uebel (2015) el NDVI proporciona informaciones sobre el desarrollo y estado sanitario de las plantas; cuanto más verde y sana la planta, mayor es el índice de NDVI. Por ende, la ausencia de diferencia significativa de este índice entre los tratamientos y el testigo está argumentado por la teoría expuesta por Leandro et al. (2002), Leandro 
+Efecto de fungicidas sobre la antracnosis (Colletotrichum fragariae Brooks) en plantines de frutilla  
+Investig. Agrar. 2018; 20(1):38-50.       47 et al. (2003), Wharton y Diéguez-Uribeondo (2004)  quienes registraron la sobrevivencia y esporulación secundaria de C. acutatum en hojas de frutilla sin síntomas aparentes y sin llegar a realizar la colonización de las células del hospedero.  
+De esta manera, la reflexión captada por el sensor 
+NDVI corresponden a las transmisiones de las ondas rojas e infrarrojas de la hoja de una planta sana (Trimble 2016) debido a que no existe una infección por parte del patógeno al no llevarse a cabo los procesos infectivos como formación de apresorio, penetración y colonización de las células (Leandro et al. 2002).  
+No obstante, la multiplicación de esta fase del patógeno puede generar una cantidad de esporas 2 a 3 veces superior a la inicial representando una importante fuente de inóculo para infecciones posteriores de flores, frutos y pecíolos; además de la posibilidad de establecerse infecciones tempranas en el ciclo del cultivo (Leandro et al. 2003).  
+Tabla 5. Efecto de fungicidas sobre el índice de vegetación por diferencia normalizada en plantas de frutilla. FCA-UNA. San Lorenzo, Paraguay. 2017. Tratamiento NDVI 
+Picoxystrobin+Tebuconazole+Tiofanato metílico 0,82* a Testigo 0,81 a 
+Azoxystrobin+Cyproconazole 0,81 a Tebuconazole 0,8 a 
+Trifloxystrobin+Cyproconazole 0,8 a 
+Propiconazole+Cyproconazole+Picoxystrobin+Clorotalonil 0,79 a b 
+Picoxystrobin+Cyproconazole+Tiofanato metílico 0,79 a b Difenoconazole 0,79 a b 
+Picoxystrobin+Tebuconazole 0,78 a b 
+Azoxystrobin+Tebuconazole+Propiconazole+Tricyclazole 0,78 a b 
+Azoxystrobin+Propiconazole+Difenoconazole 0,78 a b 
+Tebuconazole+Trifloxystrobin 0,77 a b 
+Mancozeb 0,72 a b * significativo al 0,05 nivel de probabilidad. Medias seguidas por la misma letra no difieren estadísticamente entre sí por el Test de Tukey al 5%.  CONCLUSIÓN 
+En condiciones in vitro los ingredientes activos individuales tebuconazole, difenoconazole y mancozeb; y en mezclas picoxystrobin, azoxystrobin, trifloxystrobin, cyproconazole, propiconazole, tricyclazole, prothioconazole, carbendazin, benzovindiflupyr presentan el mayor porcentaje entre 82-100% de inhibición micelial de C. fragariae.  
+Los productos Azoxystrobin+Propiconazole+ 
+Difenoconazole, Tebuconazole+Trifloxystrobin, 
+Mancozeb y Trifloxystrobin+Cyproconazole presentan incidencias moderadas entre 16-50% de antracnosis en condiciones de invernadero. 
+Los fungicidas Azoxystrobin+Propiconazole+ 
+Difenoconazole, Tebuconazole+Trifloxystrobin,    
+Mancozeb y Trifloxystrobin+Cyproconazole reducen en un 51-63% la severidad y en un 60-77% la intensidad de daño de la antracnosis en condiciones de invernadero. 
+Plantas de frutilla tratadas con el producto 
+Tebuconazole+Trifloxystrobin registran mayor contenido de clorofila en las hojas. 
+Las plantas tratadas con los fungicidas 
+Picoxystrobin+Tebuconazole+Tiofanato metílico, 
+Azoxystrobin+Cyproconazole, Trifloxystrobin+ 
+Cyproconazole y Tebuconazole presentan los mayores valores entre 0,8-0,82 de índice de vegetación por diferencia normalizada.  
+Adorno Chávez y Soilán Duarte  48  Investig. Agrar. 2018; 20(1):38-50. REFERENCIAS BIBLIOGRÁFICAS 
+Agrios, GN. 2011. Fitopatología. 2 ed. Balderas, ME. Mexico, Limusa. 821 p. 
+Basulto, FS; Díaz Plaza, R; Gutiérrez Alonso, O; 
+Fernández, JS; Larqué Saavedra, A. 2011. 
+Control of two species of Colletotrichum causing anthracnose in Maradol papaya fruits. Revista 
+Mexicana de Ciencias Agrícolas 2(5):631-643.  
+Daugovish, O; Su, H; Gubler, WD. 2009. Preplant fungicide dips of strawberry transplants to control anthracnose caused by Colletotrichum acutatum in California. HortTechnology 19(2):317-323. 
+Delp, BR; Milholland, RD. 1981. Susceptibility of strawberry cultivars and related species to 
+Colletotrichum fragariae. Plant Disease 65:421 423. 
+Díaz, MD; Pinheiro, VF; Corrêa Café-Filcho, A. 2016. 
+Impact of anthracnose on the yield of soybean subjected to chemical control in the north region of Brazil. Summa Phytopathologica 42(1):18-23. 
+ERC (Economic Research Council, UK). 2016. ECR 
+Research Papers (en línea). Inglaterra. 
+Consultado 19 nov. 2016. Disponible en http://www.ercouncil.org/research-papers/ 
+España-Boquera, ML; Cárdenas-Navarro, R; López 
+Pérez, L; Castellanos-Morales, V; Lobit, P. 2006. 
+Estimating the nitrogen concentration of strawberry plants from its spectral response. 
+Communications in Soil Science and Plant Analysis 37:2447-2459. 
+Forcelini, BB; Seijo, TE. 2016. Resistance in strawberry isolates of Colletotrichum acutatum from Florida to quinone-outside inhibitor fungicides. Plant Disease 100(10):2050-2056. 
+FRAC (Fungicide Resistance Action Committee, 
+Estados Unidos). 2013. List of plant pathogenic organisms resistant to disease control agents (en línea, sitio web). Consultado 28 ene. 2017. Disponible en: www.frac.info 
+France, A. 2013. Manejo de Enfermedades en 
+Frutilla. In INIA (Instituto de Investigaciones 
+Agropecuarias, Chile). 2013. Boletín INIA Nº 262. Manual de Frutilla. Undurraga Díaz, P; 
+Vargas Schuldes, S (eds.). Chillán, Chile, Centro 
+Regional de Investigación Quilamapu.  
+French, ER; Hebert, TT. 1980. Métodos de investigación fitopatológica. San José, Costa Rica. IICA. 277 p.  
+González, LC; Muiño García, BL; Lorenzo Nicao, ME; 
+Rodríguez Fernández, A; Gómez Albernal, M. 2011. Efecto in vitro de siete fungicidas químicos sobre Beauveria bassiana (Bals.) Vuil. Fitosanidad 15(1):31-38.  
+Jaleel, CA; Ragupathi, G; Panneerselvan, R. 2008. 
+Biochemical alterations in white yam (Dioscorea rotundata Poir.) under triazole fungicides: 
+Impacts on tuber quality. Czech Journal of Food Sciences 26(4):298-307. 
+Kumar, AS; Reddy, NPE; Reddy, KH; Devi, MC. 2007. Evaluation of fungicidal resistance among 
+Colletotrichum gloeosporioides isolates causing mango anthracnose in Agri Export zone of 
+Andhra Pradesh, India. Plant Pathology Bulletin 16(3):157-160.  
+Leandro, LFS; Gleason, ML; Wegulo, SN; Nutter, 
+FW. 2002. Survival and sporulation of 
+Colletotrichum acutatum on symptomless strawberry leaves. Acta Horticulturae 567:627 629  
+Leandro, LFS; Gleason, ML; Nutter, FW; Wegulo, 
+SN; Dixon, PM. 2003 Influence of temperature and wetness duration on conidia and appressoria of Colletotrichum acutatum on symptomless strawberry leaves. The American 
+Phytopathological Society 93(4):513-520. 
+Li, H; Li, T; Gordon, R; Asiedu, S; Hu, K. 2010. 
+Strawberry plant fruiting efficiency and its correlation with solar irradiance, temperature and reflectance water index variation. 
+Environmental and Experimental Botany 68(2) : 165-174. 
+Efecto de fungicidas sobre la antracnosis (Colletotrichum fragariae Brooks) en plantines de frutilla  
+Investig. Agrar. 2018; 20(1):38-50.       49 
+MacKenzie, SJ; Mertely, JC; Peres, NA. 2009. 
+Curative and protectant activity of fungicides for control of crown rot of strawberry caused by 
+Colletotrichum gloeosporioides. Plant Disease 93 (8) :815-820. 
+MAG (Ministerio de Agricultura y Ganadería, 
+Paraguay). 2016. Síntesis estadísticas: 
+Producción agropecuaria. San Lorenzo, Paraguay, MAG. 51 p.  
+Mondino, P. 2012. Resistencia a fungicidas: 
+Conceptos y manejo (diapositiva). Uruguay. 1 
+Diapositiva 21 transparencias. Consultado 13 mar. 2017. Disponible en https://studylib.es/doc/5743328/resist encia-a fungicidas. 
+Mouden, N; Chliyeh, M; Benkirane, R; Ouazzani, A; 
+Douira, T; Douira, A. 2016. Chemical control of some strawberries fungal pathogens by foliar fungicides under in vitro and in vivo conditions. 
+International Journal of Recent Scientific Research 7(2):9037-9051. 
+Moustafa, MSH; Hala, AM; El-Dakar, M; Asmaa, M. 2015. Pestalotia leaf spot a new disease affect guava trees in Egypt. International Journal of 
+Scientific & Engineering Research 6(10):1306 1312.  
+Nam, MH; Kim, HS; Nam, YG; Peres, NA; Kim, HG. 2011. Fungicide spray program to reduce application in anthracnose of strawberry. 
+Research Plant Disease 17(3):295-301. 
+Noling, JW; Schumann, AW; Cody, M. 2010.  
+Assessing field distribution, crop impact and sting nematode management in Florida strawberry. Annual International Research 
+Conference on Methyl Bromide Alternatives and 
+Emissions Reductions Florida : 46-51. 
+Novichonok, EV; Novichonok, AO; Kurbatova, JA; 
+Markovskaya, EF. 2015. Use of the atLEAF+ chlorophyll meter for a nondestructive estimate of chlorophyll content. Photosynthetica 53(1):1 8. 
+Pérez-León, G; Castillo-Matamoros, R; Chavarría 
+Pérez, L; Brenes-Angulo, A; Gómez-Alpízar, L. 2015. Combate químico de la antracnosis de 
+Sansevieria trifasciata var. Hahnii en un sistema de hojas separadas. Agronomía Mesoamericana 26(2):305-313.  
+Perlot, H; Amsalem, L; Elad, Y. 2007. Effect of chemical pesticides and biocontrol agents on growth and mineral composition of healthy strawberries. Biological control of fungal and bacterial plant pathogens 30(6):269-272. 
+Quevedo Damian, I. 2012. Evaluación de fungicidas sistémicos y de contacto en el control de la moniliasis (Moniliophthora roreri) del cacao (Theobroma cacao). Tesis M. Sc. Tabasco, 
+México, Colegio de Postgraduados. 86 p.  
+Scribano, FR; Garcete, V. 2016. Eficiencia de fungicidas de síntesis y orgánicos sobre la pudrición de corona del fruto de banano Musa acuminata Colla en la provincia de Formosa, 
+Argentina. RIA 42(2):201-206.  
+Shukla, RS; Abdul, K; Alam, M. 2010. Chemical control of blossom blight disease of sarpagandha caused by Colletotrichum capsici. African Journal of Biotechnology 38:6397-6400.  
+Silva Pesqueira, A Da; Arruda Bacchi, LM; 
+Gavassoni, WL. 2016. Associação de fungicidas no controle da antracnose da soja no Mato 
+Grosso do Sul. Revista Ciencia Agronomica 47(1):203-212.  
+Silveira Baggio, J. 2016. Fungicide sensitivity and spatial and temporal dynamics of Botrytis cinerea and Colletotrichum spp. in conventional and organic strawberry fields. Tesis Ph.D. Tesis. 
+Piracicaba, BR, Luiz de Queiroz College of Agriculture. 152 p.  
+Smith, BJ. 2008. Epidemiology and pathology of strawberry anthracnose: A north american perspective. HortScience 43(1):69-73. 
+Tanaka, MA de Souza; Passos, FA; Betti, JA; Matos 
+Pires, RC de. 2001. Métodos de inoculação de 
+Adorno Chávez y Soilán Duarte  50  Investig. Agrar. 2018; 20(1):38-50. 
+Colletotrichum fragariae em morangueiro. 
+Scientia Agricola 58(4):725-729. 
+Tassawar Abbas , H; Talib, S; Habib, A; Ahmed, S. 2016. Laboratory evaluation of fungicides and plant extracts against different strains of 
+Colletotrichum falcatum the cause of red rot of sugarcane. Journal of Agricultural Sciences 53(1):181-186.  
+Trimble. 2016. Farm Work Software (en línea). 
+Consultado en 27 feb. 2017. Disponible en http://www.farmworks.com/products/greensee kerhandheld 
+Uebel, JD. 2015. Avaliação de fungicidas no controle de doenças foliares, grãos ardidos e efeito no ndvi (índice de vegetação por diferença normalizada) em híbridos de milho. Tesis M. Sc. 
+Tesis. Brasilia, Brasil, Universidade de Brasília.119 p. 
+Urdaneta, L; Sanabria, M; Rodríguez, D; Pérez de 
+Camacaro, M. 2013. Antracnosis causada por 
+Colletotrichum acutatum Simmonds en frutos de fresa en los estados de Lara y Trujillo, Venezuela. 
+Revista de la Facultad de Agronomia 30 (4):504 528. 
+Wharton, PS; Diéguez-Uribeondo, J. 2004. The biology of Colletotrichum acutatum. Anales del 
+Jardín Botánico de Madrid. 61(1):3-22 
+Wilson, LL; Madden, LV; Ellis, MA. 1990. Influence of temperature and wetness duration on infection on immature and mature strawberry fruit by Colletotrichum acutatum (en línea). 
+Phytopathology 80(1):111-116. Consultado 17 abr. 2017. Disponible en https://www.apsnet.org/publica tions/phytopathology/backissues/Documents/19 90Articles/Phyto80n01_111.PDF 
+Zhu, J; Tremblay, N; Liang, Y. 2012. Comparing 
+SPAD and atLEAF values for chlorophyll assessment in crop species. Canadian Journal of Soil Science 92:645-648   

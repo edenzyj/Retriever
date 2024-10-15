@@ -1,0 +1,176 @@
+317-322 2012-0188(Note).fm 
+Plant Pathol. J.  29(3) : 317-322 (2013) http://dx.doi.org/10.5423/PPJ.NT.12.2012.0188 pISSN 1598-2254 eISSN 2093-9280 
+The Plant Pathology Journal ©The Korean Society of Plant Pathology 
+Taxonomic Re-evaluation of Colletotrichum gloeosporioides Isolated from Strawberry in Korea 
+Myeong Hyeon Nam1 *, Myung Soo Park2, He Duck Lee1 and Seung Hun Yu3 1Nonsan Strawberry Experiment Station, Chungnam ARES, Nonsan 320-862, Korea 2School of Biological Sciences, Seoul National University, Seoul 151-747, Korea 3Department of Applied Biology, Chungnam National University, Daejeon 305-764, Korea (Received on December 24, 2012; Revised on March 30, 2013; Accepted on April 11, 2013) 
+For the past two decades, the causal agent of anthrac nose occurring on strawberry in Korea was considered
+Colletotrichum gloeosporioides. However, the recent mole cular analysis has shown that the genus Colletotrichum has undergone many taxonomic changes with introduc tion of several new species. As a result, it revealed that
+C. gloeosporioides indeed consisted of more than 20 distinct species. Therefore, the Korean pathogen iso lated from strawberry should be reclassified. The shape and size of the conidia of the pathogen were not distinct ly different from those of C. gloeosporioides and C. fructicola, but it differed in shape of the appressoria. A combined sequence analysis of partial actin, glycer aldehydes-3-phosphate dehydrogenase genes, and the internal transcribed spacer regions showed that the strawberry isolates formed a monophyletic group with authentic strains of C. fructicola. On the basis of these results, the anthracnose fungi of the domestic strawberry in Korea were identified as C. fructicola and distin guished from C. gloeosporioides.
+Keywords : anthracnose, Colletotrichum fructicola, straw berry 
+Anthracnose crown rot, to which all currently grown straw berry (Fragaria × ananassa Duch.) cultivars are susceptible, is a major disease in over 30% of nurseries and after trans planting stage in Korea (Nam et al., 2009). The causal pathogen Colletotrichum gloeosporioides was first reported by Kim et al. (1992).
+C. gloeosporioides that occurs in many crops is a species aggregate containing a number of polymorphic subgroups which show varying degrees of pathogenicity, host-specifi city and genetic homogeneity (Hyde et al., 2009a). How ever, the recent epitypification of C. gloeosporioides has enabled accurate classification by comparative analysis with pathogens isolated from the various plants (Cannon et al., 2008). The sequence analysis of the type strains was an important element in the research of identification and phylogenetic relationship of Colletotrichum (Cai et al., 2009; Phoulivong et al., 2010). Anthracnose pathogens, previously reported to be Colletotrichum sp., that occur on coffee in Thailand were shown as three new species of C. asianum, C. fructicola, and C. siamense based on the multi gene sequence analysis and morphological characteristics (Prihastuti et al., 2009). In the past few years, anthracnose pathogens from tropical fruits, which were identified as C. gloeosporioides based on their morphological characteristics, are subdivided into C. asianum, C. fructicola, C. horii, C. kahawae, and C. gloeosporioides by comparing of the nucleotide sequences with that of the C. gloeosporioides epitype (Phoulivong et al., 2010). As a result, many species of Colletotrichum, including C. gloeosporioides, have been defined, mainly based on the results of molecular phylo genetic analysis (Damm et al., 2010). Although the internal transcribed spacer (ITS) sequence do not separate C. gloeo sporioides complex, some single genes or combinations of genes, such as glyceraldehyde-3-phosphate dehydrogenase (GAPDH) and glutamine synthetase, can be used to reliably distinguish most taxa (Weir et al., 2012).
+Therefore, C. gloeosporioides, previously reported patho gen on strawberries in Korea, is necessary to re-evaluate, taking into account the changed species boundary and the recent phylogenetic results of the genus Colletotrichum. 
+Isolation and culture of strains. Eleven strains isolated from strawberry plants from 2005 to 2011 (Table 1).
+Diseased petiole, roots, and crown tissues were surface sterilized by dipping in 2% NaOCl for 2 min, rinsed thrice with sterile water, and dried on sterile tissue paper. Samples were then placed on water agar and incubated at 27 oC. The growing edges of any fungal hyphae developing from the tissue were then transferred aseptically to potato dextrose agar (PDA; Difco, Detroit, MI, USA). Single spore iso lations were also carried out using the procedure described *Corresponding author.
+Phone) +82-41-635-6348, FAX) +82-41-635-7931 E-mail) namtel7@korea.kr 
+Note Open Access 318 Nam et al. by Prihastuti et al. (2009). Pure cultures were stored at 4 oC on PDA slants.
+Pathogenicity test. Each isolated pathogen was prepared at 1 × 105 conidia/mL and spayed 1 mL per plant on the 
+Seolhyang cultivar of strawberry plants. Six plants per an isolate were used for test. The inoculated plants were incubated in a dew plastic house at 27 oC and 100% relative humidity (RH) for 2 days and then moved to a plastic house held between 24 oC and 30 oC. After 60 days, disease index on each plant was rated on a scale of 0–4: 0, healthy; 1, < 50% of petioles affected; 2, > 50% of petioles affected; 3, wilted; 4, necrosis formed on the entire plant (Nam et al., 2006). Disease index data from isolates were subjected to analysis of means and standard error. All data analysis was performed using the Costat program (CoHort software, 
+Berkeley, CA). All isolates caused anthracnose symptoms on the Seolhyang strawberry cultivar (Table 1). Disease index of the isolates was the highest (DI > 3) for 
+CGF071204, CGF100713, and CGF110101. Smith and 
+Black (1990) showed that pathogenicity of C. gloeospori oides, C. acutatum, and C. fragariae can be differentiated by factors such as strawberry tissue and cultivars. C. gloeo sporioides and C. acutatum were reported to have a wide host range, while C. fragariae were restricted to strawberry plants (Freeman et al., 1998; Hyde et al., 2009b). Colleto trichum isolated from strawberry in Korea and Japan was pathogenic to strawberry and apple fruit (Nam et al., 1998), and avocado, broad bean, common sowthistle, cyclamen, pea, and strawberry under non-wound inoculation condition (Okayama and Tsujimoto, 1994), respectively.
+Morphological and cultural characteristics. Isolates were measured for colony characteristics, and shape and size of 
+Table 1. Sources and pathogenicity test of Colletotrichum isolates used in this study 
+Isolates Isolated year Cultivar Plant part OriginPathogenicity test (DI)a Sequence analysisb ACT GAPDH 
+CGF050604 2005 Johong Crown Busan 1.3 ± 0.7 K1 K1 
+CGF060617 2006 Redpearl Crown Gangneung, Gangwon 1.0 ± 0.7 K1 K1 
+CGF071204 2007 Seolhyang Root Nonsan, Chungnam 3.0 ± 0.6 K2 K2 
+CGF080805 2008 Kumhyang Petiole Nonsan, Chungnam 1.8 ± 0.7 K2 K2 
+CGF080806 2008 Seolhyang Petiole Nonsan, Chungnam 1.7 ± 0.8 K2 K2 
+CGF080901 2008 Seolhyang Crown Buyeo, Chungnam 2.5 ± 0.7 K2 K2 
+CGF081103 2008 Seolhyang Crown Nonsan, Chungnam 1.5 ± 0.5 K2 K2 
+CGF090501 2009 Seolhyang Crown Gyeryong, Chungnam 0.5 ± 0.2 K2 K2 
+CGF090701 2009 Seolhyang Crown Nonsan, Chungnam 2.3 ± 0.6 K2 K2 
+CGF100713 2010 Sinseolmae Crown Eumseong, Chungbuk 3.2 ± 0.4 K2 K2 
+CGF110101 2011 Seolhyang Crown Iksan, Jeonbuk 3.0 ± 0.4 K2 K2 aDI (Disease index): 0, healthy; 1, < 50% petioles affected; 2, > 50% petioles affected; 3, wilted; 4, necrosis formed on the entire plants.
+bHaplotypes of the Korean isolates.
+Table 2. Morphological characteristics of Colletotrichum species from strawberry Species Colony characters 
+Conidia Appressoria Growth rate (mm/day)Length (µm) Width (µm) ShapeLength (µm) Width (µm) Shape Colletotrichum sp.
+(CGF050604, 060617 071204, 080806, 090701) 
+White, becoming grey to dark grey at the cen ter 14.6±0.47, n = 10 3.99±0.11, n = 10 
+Cylindrical 9.93±0.32, n = 10 4.90±0.10, n = 10 
+Ovoid, sometimes clavate 9.98±1.8, n = 8 
+C. gloeosporioides (Prihastuti et al., 2009) 
+Grey, becoming dark grey to black 8-11 3-4.5 Cylindrical 4.5-10 4-7.5Circular to slightly irregularN/A 
+C. fructicola (Prihastuti et al., 2009) 
+Cottony, dense pale grey aerial mycelium, grey to dark grey col ony, fast growing 11.37±0.96 (9.7-14) 3.54±0.35 (3-4.3) 
+Cylindrical 7.54±1.55 (4.3-11.7) 4.35±0.85 (3-7.3) 
+Ovoid, sometimes clavate 10.72±0.53 (9.67-11.5) 
+C. fragariae (Gunnell and Gubler, 1992) 
+Pale mouse grey to dark mouse grey 14-22.5 3.5-5  Cylindrical N/A N/A N/A 13-14 
+Colletotrichum Isolated from Strawberry 319 the conidia after 7 days of incubation on PDA media. The colony diameters were measured daily for 7 days, and the growth rate for these 7 days was calculated as the average of mean daily growth (mm per day). The colors of the conidial masses and zonation were recorded at 7 days.
+Appressoria were produced using a slide culture technique, in which a conidial suspension was placed in a hole on the glass slide and covered with a cover slip. The slide was placed in an empty Petri dish with wet filter paper and incubated at 28 oC for 2–4 days. Colonies of the isolates on 
+PDA first appeared as white, then becoming grey to dark grey at the center over time, and growth rate was shown 9.98 ± 1.8 mm per day (Table 2). The shape and size of the conidia were cylindrical and 14.6 ± 0.47 × 3.99 ± 0.11 μm, respectively. The shape and size of the appressoria were ovoid, sometimes clavate and 9.93 ± 0.32 × 4.90 ± 0.10 μm, respectively (Table 2). Prihastuti et al. (2009) reported that the colony characteristics and conidial shape and size of C. fructicola were similar to those of C. gloeosporioides, but that ovoid, sometimes clavate appressoria in C. fructicola 
+Table 3. Reference sources of Colletotrichum gloeosporioides complex isolates used in this study Species SourceGenBank accession number ITS GAPDH ACT 
+C. aenigma ICMP 18608 Ta JX010244 JX010044 JX009443 
+C. aeschynomenes ICMP 17673 T JX010176 JX009930 JX009483 
+C. alatae ICMP 17919 T JX010190 JX009990 JX009471 
+C. alienum ICMP 12071 T JX010251 JX010028 JX009572 
+C. aotearoa ICMP 18537 T JX010205 JX010005 JX009564 
+C. asianum ICMP 18580 T FJ972612 JX010053 JX009584 
+C. boninense ICMP 17904 T JX010292 JX009905 JX009583 
+C. clidemiae ICMP 18658 T JX010265 JX009989 JX009537 
+C. cordylinicola ICMP 18579 T JX010226 JX009975 HM470235 
+C. fructicola ICMP 18581 T JX010165 JX010033 FJ907426 
+C. fructicola (syn. C.ignotum) ICMP 18646(T) JX010173 JX010032 JX009581 
+C. fructicola (syn.Glomerella cingulata var. minor) ICMP 17921(T) JX010181 JX009923 JX009495 
+C. gloeosporioides ICMP 17821 T JX010152 JX010056 JX009531 
+C. gloeosporioides (syn. Gloeosporium pedemontanum) ICMP 19121 (T) JX010148 JX010054 JX009558 
+C. horii ICMP 10492 T GQ329690 GQ329681 JX009438 
+C. kahawae subsp. ciggaro ICMP 18539 T JX010230 JX009966 JX009523 
+C. kahawae subsp. ciggaro (syn. Glomerella cingulata var. migrans) 
+ICMP 17922(T) JX010238 JX010042 JX009450 
+C. kahawae subsp. ciggaro (syn. Glomerella rufomacu lans var. vaccinii) 
+ICMP 19122(T) JX010228 JX009950 JX009536 
+C. kahawae subsp. kahawae ICMP 17816 T JX010231 JX010012 JX009452 
+C. musae ICMP 19119 T JX010146 JX010050 JX009433 C. nupharicola ICMP 18187 T  JX010187 JX009972 JX009437 
+C. psidii ICMP 19120 T JX010219 JX009967 JX009515 
+C. queenslandicum ICMP 1778 T JX010276 JX009934 JX009447 
+C. salsolae ICMP 19051 T JX010242 JX009916 JX009562 
+C. siamense ICMP 18578 T JX010171 JX009924 FJ907423 
+C. siamense (syn. C. hymenocallidis) ICMP 18642(T) JX010278 JX010019 GQ856775 
+C. siamense (syn. C. jasmini-sambac) ICMP 19118(T) HM131511 HM131497 HM131507 
+C. theobromicola ICMP 18649 T JX010294 JX010006 JX009444 
+C. theobromicola (syn. C. fragariae) ICMP 17927(T) JX010286 JX010024 JX009516 
+C. theobromicola (syn. C. gloeosporioides f. stylosanthis) ICMP 17957(T) JX010289 JX009962 JX009575 
+C. ti ICMP 4832 T JX010269 JX009952 JX009520 
+C. tropicale ICMP 18653 T JX010264 JX010007 JX009489 
+C. xanthorrhoeae ICMP 17903 T JX010261 JX009927 JX009478 
+Glomerella cingulata f. sp. camelliae ICMP 10643 JX010224 JX009908 JX009540 aT = ex-type or authentic, (T) = ex-type or authentic of synonymised taxon. 320 Nam et al. were different from circular to slightly irregular one in the latter species. Size of conidia and appressoria of the strawberry isolate differed from C. fragariae by Gunnell and Gubler (1992). Therefore, Colletotrichum isolates from strawberries in Korea were similar to C. gloeosporioides and C. fructicola in shape and size of conidia, but the shape of the appressoria was close to C. fructicola rather than C. gloeosporioides.
+Phylogenetic analysis. The sequences of eleven strains from strawberry and the ex-type or authentic strains of anthracnose available from GenBank (Table 3) were used in this study. Genomic DNA was extracted by using the method of Park et al. (2005). For the amplification of the 
+ITS, partial actin (ACT), and GAPDH genes, 3 different primer sets were used: ITS5 and ITS4 (White et al., 1990); 
+ACT512F and ACT783R (Prihastuti et al., 2009); and 
+GDF1 and GDR1 (Peres et al., 2008); respectively. The am plification was performed with Maxime polymerase chain reaction (PCR) PreMix (I-Taq, iNtRoN BioTechnology, 
+Korea) in a final volume of 20 μl containing 10 pmol of each primer set and PCR conditions were performed as described by Prihastuti et al. (2009). PCR products were electrophoresed through a 1% agarose gel stained with ethidium bromide and purified using a PCR quick-spin 
+PCR product purification kit (iNtRON BioTechnology, 
+Korea) according to the manufacturer’s instructions. The nucleotide sequences were determined by Bioneer Corpo ration (Chungwon, Korea). The sequences were proofread, edited, and merged onto comparable sequences using the 
+PHYDIT program version 3.2 (Chun, 1995). To determine the phylogenetic positions of the Colletotrichum isolates, the alignments of the 3 gene sequence of 11 Korean isolates and 34 reference sequences retrieved from GenBank were performed with Clustal × 1.81 (Thompson et al., 1997).
+Nucleotide sequences were aligned manually where necessary.
+A maximum likelihood tree was inferred in MEGA v. 5.05, using TN93+I that was selected as the most suitable nucleotide mode by Modeltest (Tamura et al., 2011). Boot strap analysis was performed with 1,000 replications for branch stability. Sequences of ITS, ACT, and GAPDH regions of three isolates CGF080901, CGF090501, and 
+CGF100713 were deposited in GenBank (JX125050, 
+JX125051, and JX125052; KC283023, KC283024, and 
+KC283025; KC283017, KC283018, and KC283019, respec tively).
+PCR amplification of the ITS region generated 466 bp fragments for all isolates from strawberry plants. Sequence analysis of ITS region showed no sequence difference among all isolates and authentic of C. fructicola (ICMP 18581, ICMP 18646, and ICMP 17921) (data not shown).
+PCR amplification of the ACT gene generated 217-226 bp fragments for all isolates from strawberry plants. Korean isolates present two haplotypes (K1 and K2) (Table 1). The 
+ACT sequence of K1 (CGF050604 and CGF060617) differ ed from those of other nine Korean isolates (K2) by 3nt polymorphic characters at 14, 96, and 129 position and 7nt deletion at 23−29 position (Table 4). ACT sequence of K1 is identical to that of C. fructicola strain ICMP 17921 (syn.
+Glomerella cingulate var. minor), whereas K2 showed a sequence similarity of 99.4% with C. fructicola ICMP 18646 (syn. C. ignotum).
+PCR amplification of the GAPDH genes generated 232 bp fragments for all isolates. K1 differed from those of other 
+Korean isolates (K2) by 3nt polymorphic characters at 47, 57 and 117 position (Table 4). GAPDH sequence of K1 showed a sequence similarity of 99.5% with that of C. fructicola strain ICMP 17921, whereas K2 showed a sequence similarity of 99.1% with C. fructicola ICMP 18581 and C. fructicola ICMP 18646.
+The combined analysis showed that the 11 strains isolated from Korea formed a monophyletic group with authentic of 
+C. fructicola (ICMP 18581, ICMP 18646, and ICMP 17921) and clearly distinct from other C. gloeosporioides complex (Fig. 1). All isolates were divided into two subgroups: one subgroup (K1) contained two Korean isolates and C. fructi cola strain ICMP 17921 with a bootstrap value of 77%. The other subgroup (K2) contained 9 Korean isolates and C. fructicola ICMP 18581 and C. fructicola ICMP 18646 with a bootstrap value of 63%.
+Since C. fructicola was first isolated from the berries of 
+Coffea arabica in the Chiang Mai region of Thailand (Prihastuti et al., 2009), it has been found in tropical fruits such as chili, papaya, and longan (Phoulivong et al., 2010).
+Recently, G. cingulata var. minor and C. ignotum placed in synonymy with C. fructicola (Weir et al., 2012). K1 was 
+Table 4. Polymorphisms in ACT and GAPDH for two haplotypes (K1 and K2) of Korean isolates Haplotype Nucleotide position 
+ACT GAPDH 14 23 24 25 26 27 28 29 96 129 47 57 117 K1 T - - - - - - - T T G A C K2 C C C G C A G A C G C G T 
+Colletotrichum Isolated from Strawberry 321 more closely related to C. fructicola strain ICMP 17921 (syn. G. cingulata var. minor) from Ficus than K2, whereas 
+K2 grouped to C. fructicola ICMP 18581 and C. fructicola ICMP 18646 (syn. C. ignotum).
+The Colletotrichum species isolated from strawberries worldwide are as follows: C. gloeosporioides (Gunnell and 
+Gubler, 1992), C. fragariae (Smith et al., 1990), C. acutatum (Smith et al., 1986), C. dematium (Beraha and Wright, 1973), and Gloeosporium spp. (Wright et al., 1960), but as C. gloeosporioides (perfect stage: G. cingulata) in Korea (Kim et al., 1992; Nam et al., 1998). Three anthracnose stains (KACC 40695, KACC 40696, and KACC 40812) from strawberry plants stored in Korean Agricultural Culture 
+Collection (KACC) were identified as C. gloeosporioides based on sequence analysis of ITS and partial β-tubulin gene and cultural characteristics (Kim et al., 2006). In ITS analysis, KACC 40695 and KACC 40812 formed the mono phyletic group with K2 and showed 100% sequence similarity among K2, while KACC 40696 was closely related to C. aenigma strain ICMP 18608, C. alienum strain ICMP 12071, and C. siamense ICMP 18578 (syn. C. hymenocallidis) and differed from ex-types of C. fructicola (data not shown). As we performed comparative analysis with three KACC strains using ITS sequence in the present study, phylogenetic analysis with combined genes will be needed to establish for accurate identification of the three stains. The C. frag ariae, originally reported as a disease of strawberry in 
+Florida, USA (Brooks, 1931), placed in synonymy with C. theobromicola (Weir et al., 2012). All isolates from Korea were clearly distinguished from C. theobromicola (syn. C. fragariae) based on morphological and molecular phylo genetic analysis.
+In the present study, anthracnose fungi that occur in the domestic strawberry were identified as C. fructicola and 
+Fig. 1. The maximum-likelihood tree inferred from a combined dataset of ACT, GAPDH and ITS sequences showing phylogenetic relationships among Colletotrichum from strawberry plants in Korea and representative species of C. gloeosporioides complex. Numbers above each branch represent bootstrap values obtained after a bootstrap test with 1,000 replications. Bar indicates the number of nucleotide substitutions. 322 Nam et al. distinguished from C. gloeosporioides based on their morpho logical and molecular phylogenetic features.Acknowledgments 
+This work was carried out with the support of “Cooperative 
+Research Program for Agriculture Science & Technology 
+Development (Project No. PJ90703904)” Rural Development 
+Administration, Republic of Korea. References 
+Beraha, L. and Wright, W. R. 1973. A new anthracnose of straw berry caused by Colletotrichum dematium. Plant Dis. Rep. 57: 445−448.
+Brooks, A. N. 1931. Anthracnose of strawberry caused by Colle totrichum fragariae f. sp. Phytopathology 21:739−744.
+Cai, L., Hyde, K. D., Taylor, P. W. J., Weir, B. S., Waller, J., 
+Abang, M. M., Zhang, J. Z., Yang, Y. L., Phoulivong, S., Liu, 
+Z. Y., Prihastuti, H., Shivas, R. G., McKenzie, E. H. C. and 
+Johnston, P. R. 2009. A polyphasic approach for studying Col letotrichum. Fungal Divers. 39:183−204.
+Cannon, P. F., Buddie, A. and Bridge, P. D. 2008. The typification of Colletotrichum gloeosporioides. Mycotaxon 104:189−204.
+Chun, J. 1995. Computer-assisted classification and identification of actinomycetes. Ph. D. thesis. University of Newcastle, Newcastle upon Tyne, UK. 
+Damm, U., Baroncelli, R., Cai, L., Kubo, Y., O'Connell, R., Weir, 
+B., Yoshino, K. and Cannon, P. F. 2010. Colletotrichum: spe cies, ecology and interactions. IMA Fungus 1:161−165.
+Freeman, S., Katan, T. and Shabi, E. 1998. Characterization of 
+Colletotrichum species responsible for anthracnose diseases of various fruits. Plant Dis. 82:596−605.
+Gunnell, P. S. and Gubler, W. D. 1992. Taxonomy and morphol ogy of Colletotrichum species pathogenic to strawberry. Myco logia 84:157−165.
+Hyde, K. D., Cai, L., Cannon, P. F., Crouch, J. A., Crous, P. W., 
+Damm, U., Goodwin, P. H., Chen, H., Johnston, P. R., Jones, 
+E. B. G., Liu, Z. Y., McKenzie, E. H. C., Moriwaki, J., Noire ung, P., Pennycook, S. R., Pfenning, L. H., Prihastuti, H., Sato, 
+T., Shivas, R. G., Tan, Y. P., Taylor, P. W. J., Weir, B. S., Yang, 
+Y. L. and Zhang, J. Z. 2009a. Colletotrichum-names in current use. Fungal Divers. 39:147−182.
+Hyde, K. D., Cai, L., McKenzie, E. H. C., Yang, Y. L., Zhang, J. 
+Z. and Prihastuti, H. 2009b. Colletotrichum: a catalogue of confusion. Fungal Divers. 39:1−17.
+Kim, D. H., Jeon, Y. A., Go, S. J., Lee, J. K. and Hong, S. B. 2006.
+Reidentification of Colletotrichum gloeosporioides and C. acutatum isolates stored in Korean agricultural culture collec tion (KACC). Res. Plant Dis. 12:168−177. (in Korean) 
+Kim, W. G., Cho, W. D. and Lee, Y. H. 1992. Anthracnose of strawberry caused by Colletotrichum gloeosporioides Penz. 
+Plant Pathol. J. 8:213−215. (in Korean) 
+Nam, M. H., Jung, S. K., Yoo, S. J., Seo, K. S. and Kim, H. G. 1998. Cultural and pathogenic characteristics between Colle totrichum gloeosporioides and Glomerella cingulata isolated from strawberry in Korea. Kor. J. Plant Pathol. 14:654−660. (in Korean). 
+Nam, M. H., Jung, S. K., Lee, Y. S., Choi, J. M. and Kim, H. G. 2006. Effects of nitrogen, phosphorus, potassium and calcium nutrition on strawberry anthracnose. Plant Pathol. 55:246− 249.
+Nam, M. H., Nam, Y. G., Kim, T. I., Kim, H. S., Jang, W. S., Lee, 
+W. K., Lee, I. H., Kang, H. K., Park, Y. J., Choi, J. M. and 
+Whang, K. S. 2009. Compendium of Strawberry Diseases and 
+Pests. Chungnam Strawberry Association. 204pp. (in Korean). 
+Okayama, K. and Tsujimoto, A. 1994. Occurrence of strawberry anthracnose caused by Glomerella cingulata (Stoneman) 
+Spaulding et Schrenk and pathogenicity of the fungus. Ann. 
+Phytopath. Soc. Japan 60:617−623. (in Japanese) 
+Park, M. S., Seo, G. S., Bae, K. S. and Yu, S. H. 2005. Character ization of Trichoderma spp. associated with green mold of oyster mushroom by PCR-RFLP and sequence analysis of ITS regions of rDNA. Plant Pathol. J. 21:229−236.
+Peres, N. A., MacKenzie, S. J., Peever, T. L. and Timmer, L. W. 2008. Postbloom fruit drop of citrus and key lime anthracnose are caused by distinct phylogenetic lineages of Colletotrichum acutatum. Phytopathology 98:345−352.
+Phoulivong, S., Cai, L., Chen, H., McKenzie, E. H. C., Abdel salam, K., Chukeatirote, E. and Hyde, K. D. 2010. Colletotri chum gloeosporioides is not a common pathogen on tropical fruits. Fungal Divers. 44:33−43.
+Prihastuti, H., Cai, L., Chen, H., McKenzie, E. H. C. and Hyde, K. 
+D. 2009. Characterization of Colletotrichum species associ ated with coffee berries in northern Thailand. Fungal Divers. 39:89−109.
+Smith, B. J. and Black, L. L. 1986. First report of Colletotrichum acutatum on strawberry in the United States. Plant Dis. 70: 1074.
+Smith, B. J. and Black, L. L. 1990. Morphological cultural and pathogenic variation among Colletotrichum species isolated from strawberry. Plant Dis. 74:69−76.
+Tamura, K., Peterson, D., Peterson, N., Stecher, G. and Nei, M. 2011. MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods. Mol. Biol. Evol. 28:2731–2739.
+Thompson, J. D., Gibson, T. J., Plewniak, F., Jeanmougin, F. and 
+Higgins, D. G. 1997. The Clustal X windows interface: flexi ble strategies for multiple sequence alignment aided by quality analysis tools. Nucleic Acids Res. 24:4876−4882.
+Weir, B. S., Johnson, P. R. and Damm, U. 2012. The Colletotri chum gloeosporioides species complex. Stud. Mycol. 73:115− 180.
+White, T. J., Bruns, T., Lee, S. and Taylor, J. W. 1990. Amplifica tion and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In: PCR protocols: A Guide to Methods and 
+Application (eds. M. A. Innis, D. H. Gelfand, J. J. Sninsky, J. 
+J. and Y. J. White). Academic Press. San Diego. CA, USA. 
+Wright, W. R., Smith, M. A., Ramsey, G. B. and Beraha, L. 1960.
+Gloeosporium rot of strawberry fruit. Plant Dis. Rep. 44:212− 213. 

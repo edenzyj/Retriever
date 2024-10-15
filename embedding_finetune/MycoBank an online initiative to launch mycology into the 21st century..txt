@@ -1,0 +1,77 @@
+
+Microsoft Word - 50-01a MycoBank-FINALP&W.doc 
+STUDIES IN MYCOLOGY 50: 19–22. 2004. 19   
+MycoBank: an online initiative to launch mycology into the 21st century     
+Pedro W. Crous * , Walter Gams, Joost A. Stalpers, Vincent Robert and Gerrit Stegehuis   
+Centraalbureau voor Schimmelcultures, P.O. Box 85167, 3508 AD Utrecht, The Netherlands  *Correspondence: Pedro W. Crous, crous@cbs.knaw.nl  
+Abstract: An on-line database, MycoBank (http://www.MycoBank.org), is launched with a remit to document mycological nomenclatural novelties and their associated descriptions and illustrations. The nomenclatural novelties will each be allocated a unique accession number that can be cited in the publication where the nomenclatural novelty is introduced. These accession numbers will also be incorporated into Life Science Identifiers (LSIDs) (http://www 124.ibm.com/developerworks/oss/lsid) allocated by the nomenclatural database Index Fungorum (http://www.IndexFungorum.org), with which MycoBank is associated. Nomenclatural experts will be available to check the validity, legitimacy and linguistic correctness of the proposed names; nomenclatural errors will thus be detected before publication but no censorship (either nomenclatural or taxonomic) will be exerted by MycoBank.  MycoBank will (when applicable) provide onward links to other databases containing, for example, living cultures, DNA data, reference specimens and pleomorphic names linked to the same holomorph.  Names will remain strictly confidential until after publication, when they will be accessible both in MycoBank, Index Fungorum, GBIF and other international biodiversity initiatives, where they will further be linked to other databases to realise a species bank that eventually links all databases of life. Authors intending to publish nomenclatural novelties are encouraged to contribute to this new initiative.  
+Key words: fungal systematics, Index Fungorum, Index of Fungi, International Code of Botanical Nomenclature, Myco
+Bank, mycology, online database.   
+Names of organisms are the key to information, and access to correct and complete information has a major economic impact on, for example, agriculture (phytopathology, epidemiology) or pharmaceutics (ethnobiology), and in fact on the total scientific community.  The naming of fungi is regulated by the 
+International Code of Botanical Nomenclature (ICBN; Greuter et al. 2000a), which rules on the effective and valid publication of a name.  The ICBN does not recognize any restrictions in respect of journals, books or other printed publications in which new names can be published, in strong contrast with new names of bacteria, which must be either published in or listed in the International Journal of 
+Systematic Bacteriology (IJSB) or in the International 
+Journal of Systematic and Evolutionary Microbiology (IJSEM).  Hence, new names of fungi can be published in a wide range of botanical, microbiological, phytopathological or other scientific journals, books or proceedings.  This makes it extremely difficult to be aware of new taxa as they are named or as existing species names are recombined into other genera.  A possible solution to this problem is the formal registration of names.    The first idea of a registration system, which entailed sending copies of publications to a documen tation centre, was discussed in a nomenclature meet ing in 1954 (Hawksworth 1992). Subsequent propos als were formulated in the years 1991–1998 (Brum mitt et al. 1986, Greuter & von Raab-Straube 1998, 
+Wilson 1997, 1998), with the aim of making the registration of names of new taxa and other nomencla tural novelties compulsory before they are accepted as validly published (Faegri 1991, Borgen et al. 1997, 
+Greuter & Hawksworth 1999). The main aim of this proposed system was to obtain a mechanism that would help solve problems encountered in determin ing which names are effectively published (Art. 29.1) and when (Art. 32.1). Proposals made by a committee for registration and formulated by Faegri (1991) were not approved at the meeting of the nomenclatural section preceding the Tokyo Botanical Congress (Greuter et al. 1994b, pp. 138–156, 168–169), but a sentence forecasting such a procedure was included in the Tokyo Code (Greuter et al. 1994a: Art. 32.1, last sentence). Following publication of fervent objections (Turland & Davidse 1998, Eggli 1998) and failure of the proposals concerned with registration in the mail vote, they were withdrawn during the meeting of the 
+Nomenclatural Section preceeding the St. Louis 
+Congress (Barrie & Greuter 1999). During that meet ing a motion from the floor (Greuter et al. 2000b, pp. 160–165) resulted in the clauses concerned with registration being removed from the Code (Greuter et al. 2000a).   Presently the biological community benefits greatly from central institutions that generate indexes such as, for example, the Index of Fungi, a 6-monthly 
+CROUS ET AL.  20 publication of new fungal 1  names, compiled by CABI 
+Bioscience, UK and published by CABI Publishing.  
+This index intends to cover all nomenclatural novel ties published for fungi (both extant and extinct), and is an indispensable source of information, the content having been assessed for validity, legitimacy and orthography. Another related initiative is the on-line database Index Fungorum, maintained by the Index 
+Fungorum Partnership (CABI Bioscience, UK; the 
+Centraalbureau voor Schimmelcultures, the Nether lands; and Landcare Research, New Zealand). This index is accessible on the Internet at http:// www.indexfungorum.org.  In recent years other databases, such as those for 
+DNA sequences (GenBank, EMBL, etc.) have grown almost automatically, with the spontaneous on-line input from individual contributors who, after a mini mal screening of their submission, receive an acces sion number for each deposited sequence that is almost invariably cited in the ensuing publication, a requirement imposed by many scientific journals. 
+These sequence banks have become an indispensable source of information and have gained worldwide appreciation.  A similar procedure to record fungal nomenclatural novelties (MycoBank), was recently proposed by 
+Crous et al. (2004).  A two-step procedure was pro posed. (1) At the time a paper is editorially accepted by a journal (or book editor/publisher), the author submits the relevant protologue (Latin diagnosis, a description in another language, illustrations (optional but recommended) and typification, or proposed recombinations with basionyms and indication of types), electronically to MycoBank. The proposed name(s) are to be screened with respect to validity, legitimacy and orthography and placed in the on-line database; however, access to unpublished names is initially to be restricted to maintain confidentiality. 
+Each nomenclatural novelty will receive a unique accession number, analogous to a GenBank accession number issued for each sequence submitted, that would be communicated to the author and would be cited in the final version of the paper. In cases where the proposed names do not fulfil the requirements of the Code, the author would be informed and invited to make a correction. (2) Immediately after effective publication, the author(s) communicate(s) the exact date and bibliographic details to MycoBank, in order to lift the restrictions in the database put in place at accession, making all information (name, text and illustrations) freely accessible. Direct communication of nomenclatural novelties to MycoBank by the pub lishing journals at the very moment of publication would of course speed up the procedure.                                                    1Here interpreted in a traditional way as organisms studied by mycologists (Kirk et al. 2001).  The responsibility for submitting details of pro posed nomenclatural novelties rests with the author(s), but this was envisaged as a process which would be imposed on authors by high quality journals as a good editorial practice, in the same way that incorporation of GenBank accession numbers is now an accepted practice.  This could become a mandatory require ment, if the ICBN were to be modified. The date for priority purposes will remain, as it is at present, the date of effective publication, assuming the name complies with all requirements for valid publication.  Although this procedure requires some extra activi ties from the author(s) of nomenclatural novelties, it will not be more cumbersome than the submission of 
+DNA sequences to GenBank (an accepted practice), and it has substantial advantages. For example, the 
+MycoBank can advise the author(s), prior to publica tion, of deficiencies in the submission so as to ensure effective and valid publication. However, whatever the author(s) decide(s), no censorship will be exerted by MycoBank. The indexing centre will then be able to focus its efforts elsewhere in maintaining the con currency, completeness and integrity of the database. 
+The biological community gets immediate, post publi cation, access to all nomenclatural novelties on-line.  
+The nomenclatural database will remain as Index 
+Fungorum, while the additional data linked to these names will be available via MycoBank.  Nomenclatu ral novelties can thus easily be linked to other data bases (GenBank, culture collection databases, refer ence collections (“herbaria”), e-journals, pleomorphic life form database, etc.).  MycoBank will be a freely available database, but its success will wholly rely on the collaboration of scientists, and of the editors of journals insisting on the use of MycoBank accession numbers as part of their publication policies and quality control, with editors and scientists sharing a vision of an eventual species bank that links all related ecological, molecular, metabolite, publication and other data with the species, its distribution, biological associations (e.g. as parasites, mycorrhizal partners) or substratum.  MycoBank will thus form an essential and fundamental digital link to and for information on fungi.    As names and associated data are accessed into 
+MycoBank, LSIDs will subsequently be available from Index Fungorum and these will be associated with the basic nomenclatural data.  Names entering 
+Index Fungorum via the quarterly updates from the 
+Index of Fungi will also receive associated LSIDs, though they will only appear in Index Fungorum;  it will be the responsibility of authors to submit names with accompanying data to MycoBank.  The Index 
+Fungorum Partnership has a Memorandum of Coop eration with GBIF to supply nomenclatural data to the 
+ECAT (http://www.gbif.org/prog/ecat), and as such all names, and associated LSIDs, will also be available 
+MYCOBANK   21 through the GBIF portal (http://www.gbif.net), where they will be further linked with other databases.    
+Fig. 1. Aspergillus westerdijkiae. MycoBank accession number MB500000 (Frisvad et al. 2004).   Participants of the Eleventh International Congress on Yeasts (15–20 August 2004, Rio de Janeiro, Bra zil), have welcomed this initiative and decided to support it. Yeasts researchers will be able to include their new species descriptions online. This will in clude all morphological, physiological and molecular data. Pictures, textual descriptions, bibliographical references and relevant internet hyperlinks (GenBank, 
+PubMed) will also be made available. The research community will thus have free access to an online polyphasic and constantly updated database.  In this special centennial issue of Studies in 
+Mycology, which appears in celebration of the centenary of the Centraalbureau voor Schimmel cultures, more than 100 new species are being described to celebrate the 100 years existence of the 
+Fungal Biodiversity Centre CBS.  In view of this special occasion, we use the opportunity to launch 
+MycoBank.  The first nomenclatural novelty in this volume, Aspergillus westerdijkiae (Fig. 1), will be allocated the MycoBank accession number 
+MB500000.  The name and associated nomenclatu ral data will then be permanently linked to this number, which will subsequently be associated with the LSID  urn:lsid:indexfungorum.org: names:500000. Henceforward we encourage authors and journal editors to follow this lead and deposit their novelties at http://www.MycoBank.org.   ACKNOWLEDGEMENT  
+The authors are grateful to Drs Paul F. Cannon, Paul M. 
+Kirk, John C. David (CABI Bioscience, U.K.) and Dagmar 
+Triebel (Botanische Staatssammlung München, Germany), for their constructive comments on this script.   REFERENCES   
+Barrie FR, Greuter W (1999). XVI International Botanical 
+Congress: preliminary mail vote and report of Congress action on nomenclature proposals. Taxon 48: 771–784. 
+Borgen L, Greuter W, Hawksworth DL, Nicolson DH, 
+Zimmer B (1997). Announcing a test and trial phase for the registration of new plant names (1998–1999). Taxon 46: 811–814. 
+Brummitt RK, Hawksworth DL, McNeill J (1986). (226– 228B) Proposals for a method of defining effective pub lication by means of approved publications. Taxon 35: 823–826. 
+Crous PW, Gams W, Stalpers JA, Cannon PF, Kirk PM, 
+David JC, Triebel D (2004). An online database of names and descriptions as an alternative to registration.  
+Mycological Research 108: 1236–1238. 
+Eggli U (1998). Why we don’t need registration. Taxon 47: 963–965. 
+Faegri K (1991). (50–53) Proposals on registration of new names and combinations, and report of Special Commit tee 4.  Taxon 40: 681–683. 
+Frisvad JC, Frank JM, Houbraken JAMP, Kuijpers AFA, 
+Samson RA (2004). New ochratoxin producing species of Aspergillus section Circumdati. Studies in Mycology 50: 23–43. 
+Greuter W, Barrie FR, Burdet HM, Chaloner WG, De moulin V, Hawksworth DL, Jørgensen PM,  Nicolson 
+DH, Silva PC, Trehane P, McNeill J. (1994a). Interna tional Code of Botanical Nomenclature (Tokyo Code).  
+Regnum Vegetabile 131, Koeltz, Königstein. CROUS ET AL.  22 
+Greuter W, Hawksworth DL (1999). Synopsis of Proposals on Botanical Nomenclature - St Louis 1999. Taxon 48: 69–128. 
+Greuter W, McNeill J, Barrie FR, (1994b) Report on botanical nomenclature – Yokohama 1993. Englera 14: 1–265. 
+Greuter W, McNeill J, Barrie FR, Burdet HM, Demoulin V, 
+Filgueras TS, Nicolson DH, Silva PC, Skog JE, Trehane 
+P, Turland NJ, Hawksworth DL (2000a). International 
+Code of Botanical Nomenclature (Saint Louis Code).  
+Regnum Vegetabile 138, Koeltz, Königstein. 
+Greuter W, McNeill J, Hawksworth DL,  Barrie FR (2000b). Report on botanical nomenclature – Saint 
+Louis 1999. Englera 20: 1–253. 
+Greuter W, Raab-Straube E von (1998). Registration progress report, 1. Taxon 47: 497–502.  
+Hawksworth DL (1992). The need for a more effective biological nomenclature for the 21st century. Botanical 
+Journal of the Linnaean Society 109: 543–567. 
+Kirk PM, Cannon PF, David JC, Stalpers JA (2001). Dic tionary of the fungi. 9th ed., CABI Publishing, Walling ford. 
+Turland NJ, Davidse G (1998). Registration of plant names: undesirable, unnecessary, and unworkable. Taxon 47: 957–962. 
+Wilson KL (1997). Registration as a positive step. Taxon 46: 811. 
+Wilson KL (1998). Why we need registration. Taxon 47: 967–968.   

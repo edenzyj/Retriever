@@ -1,0 +1,478 @@
+Microsoft Word - FD39-1-E.doc 
+Online advance   Fungal Diversity   1 
+Colletotrichum: a catalogue of confusion    
+Hyde, K.D.1,2*, Cai, L.3, McKenzie, E.H.C.4, Yang, Y.L.5,6, Zhang, J.Z.7 and Prihastuti, H.2,8  1International Fungal Research & Development Centre, The Research Institute of Resource Insects, Chinese Academy of Forestry, Bailongsi, Kunming 650224, PR China 2School of Science, Mae Fah Luang University, Thasud, Chiang Rai 57100, Thailand 3Novozymes China, No. 14, Xinxi Road, Shangdi, HaiDian, Beijing, 100085, PR China 4Landcare Research, Private Bag 92170, Auckland, New Zealand 5Guizhou Academy of Agricultural Sciences, Guiyang, Guizhou 550006 PR China 6Department of Biology and Geography, Liupanshui Normal College. Shuicheng, Guizhou 553006, P.R. China 7Institute of Biotechnology, College of Agriculture & Biotechnology, Zhejiang University, Kaixuan Rd 258, Hangzhou 310029, PR China 8Department of Biotechnology, Faculty of Agriculture, Brawijaya University, Malang 65145, Indonesia  
+Hyde, K.D., Cai, L., McKenzie, E.H.C., Yang, Y.L., Zhang, J.Z. and Prihastuti, H. (2009). Colletotrichum: a catalogue of confusion. Fungal Diversity 39: 1-17.  
+Identification of Colletotrichum species has long been difficult due to limited morphological characters. Single gene phylogenetic analyses have also not proved to be very successful in delineating species. This may be partly due to the high level of erroneous names in GenBank. In this paper we review the problems associated with taxonomy of 
+Colletotrichum and difficulties in identifying taxa to species. We advocate epitypification and use of multi-locus phylogeny to delimit species and gain a better understanding of the genus. We review the lifestyles of Colletotrichum species, which may occur as epiphytes, endophytes, saprobes and pathogens. It is not clear in most cases whether taxa isolated from these different life modes are the same species, or different morphologically similar species; in most cases identification has been based on morphology and may not be accurate. We use three selected species, C. dematium, C. destructivum and C. fragariae to highlight the problems associated with species identification and the problems that may occur when wrong names are applied to species. We also review clinical aspects of the genus and the use of 
+Colletotrichum species in biotransformations. In most examples, the need for correct identification, which can be achieved by contrasting with types and comparison of molecular data, is stressed. We propose the need for agreement on protocols to deal with description and naming of Colletotrichum species and make predictions for the next five years. 
+The reviews serve to illustrate the importance of correctly identifying strains before commencement of scholarly research.  
+Key words: biocontrol, biotransformation, mycoses, novel compound discovery  Article Information Received 27 October 2009 Accepted 2 December 2009 
+Published online 9 December 2009 *Corresponding author: Kevin D. Hyde; e-mail: kdhyde2@gmail.com   Introduction  
+What we now know as Colletotrichum was first reported by Tode (1790) in the genus 
+Vermicularia. Colletotrichum itself was intro duced by Corda (1831) and is now known to comprise “coelomycetes” with a Glomerella teleomorph stage (Sutton, 1992; Shenoy et al., 2007a; Hyde et al., 2009). Colletotrichum encompasses species with endophytic, epiphy tic, saprobic and phytopathogenic lifestyles (Kumar and Hyde, 2004; Photita et al., 2001a,b, 2003, 2004; Liu et al., 2007; Prihastuti et al., 2009), as well as human pathogens (Cano et al., 2004). The genus has worldwide importance, causing diseases on a wide range of economic crops and ornamental plants (Sutton, 1992; 
+Than et al., 2008a-c; Hyde et al., 2009). 
+Colletotrichum has continued to rank highly as one of the most studied genera of phytopatho genic fungi. Latunde-Dada (2001) concluded that Colletotrichum, as judged by the number of hits recorded in the Web of Science over the period 1981 to March 2001 rated with Botrytis, 2 
+Puccinia and Verticillium. Colletotrichum is only surpassed by Fusarium, Phytophthora and 
+Rhizoctonia in phytopathogenic publications. 
+The objective of this paper on Colletotri chum is to 1) review the problems in taxonomy and difficulties of identifying taxa to species, 2) review the relationships and lifestyles, 3) review clinical aspects and 4) review industrial use (e.g. biotransformations). In all cases we discuss the potential problems with misidentifi cation of taxa. Extensive research by numerous researchers has been carried out on Colletotri chum dematium, C. destructivum and C. fraga riae and these data are reviewed. The reviews serve to illustrate the importance of correctly identifying strains before commencement of scholarly research.  
+Taxonomic systematics of Colletotrichum species 
+Identification within the genus Colletotri chum is complicated as species have few distinguishing morphological characters, and because teleomorphic stages are rarely formed (Hyde et al., 2009). Some taxa have uncertain or extensive host relationships and pathological variations, and are often morphologically variable in culture (Simmonds, 1965; Bailey and Jeger, 1992; TeBeest et al., 1997; Freeman et al., 2000; Latunde-Dada, 2001; Du et al., 2005; Thaung, 2008). TeBeest et al. (1997) concluded that taxonomic uncertainty has made accurate identification difficult and complic ated efforts to understand host relationships, diagnose diseases accurately, develop effective control strategies and establish cost effective quarantine programs. 
+Traditionally, Colletotrichum species have been identified and delimited on morpho logical characters; several features have been utilized by taxonomists including size and shape of conidia and appressoria; presence or absence of setae, sclerotia, acervuli and teleomorph state and cultural characters such as colony colour, growth rate and texture (Simmonds, 1965; Smith and Black, 1990; 
+Sutton, 1992; TeBeest et al., 1997; Photita et al., 2005; Than et al., 2008a-c; Thaung, 2008). 
+These criteria alone are not always adequate for reliable differentiation among Colletotrichum species due to variation in morphology and phenotype among species under environmental influences. To overcome the inadequacies of these traditional schemes, molecular techniques have been used to characterize and identify taxa within Colletotrichum (Sreenivasaprasad et al., 1996; Abang et al., 2002; Moriwaki et al., 2002; Peres et al., 2002; Guerber et al., 2003; Photita et al., 2005; Du et al., 2005; 
+Shenoy et al., 2007b; Whitelaw-Weckert et al., 2007; Peres et al., 2008; Than et al., 2008a-c). 
+Cannon et al. (2000) stated that nucleic acid analyses should provide the most reliable framework to classify Colletotrichum, as DNA characters were not directly influenced by environmental factors. 
+The combined use of molecular diagnos tic tools along with traditional morphological techniques is at present an appropriate and good approach for studying Colletotrichum species complexes (Cannon et al., 2000; Cai et al., 2009). Photita et al. (2005) separated 34 isolates of Colletotrichum isolated from seven hosts in Thailand into five morpho-groups viz: 
+C. musae, C. gloeosporioides group 1, C. glo eosporioides group 2, C. gloeosporioides group 3 and C. truncatum. Whitelaw-Weckert et al. (2007) proposed a new C. acutatum group, which is now included in C. simmondsii (Shivas and Tan, 2009), based on cultural, morphological, RAPD-PCR and sequencing of parts of the rDNA-ITS regions and the β-tubulin gene. Than et al. (2008b) differentiated the isolates of chilli anthracnose from Thailand into three species viz: C. acutatum, C. capsici and C. gloeosporioides (but see page 3) based on morphological characterization, sequencing based on rDNA-ITS and β-tubulin gene and pathogenicity testing. Thus, accurate identific ation of Colletotrichum species can be achieved by combining multigene analysis and morphological characters. Once a species is accurately named, it unlocks data that can be used for developing and implementing effective disease control strategies (Freeman et al., 1993) and other research.  
+One of the problems with accurate identification of Colletotrichum species using multigene analysis or barcoding is that many existing sequences in GenBank are basically wrongly named. Crouch et al. (2009a) have revealed a high frequency of misidentification (86%) based on rDNA-ITS sequence similarity comparison in GenBank within the C. grami 
+Fungal Diversity   3 nicola species complex. Cai et al. (2009) analyzed the 343 rDNA-ITS sequences of C. gloeosporioides in GenBank (accessed 06
+Sept-2009) and found that an astounding 86% of these sequences show considerable evolu tionary divergence from the epitype of C. gloeosporioides and most likely represent other species. These are remarkably high error rates and show that accurate identification of 
+Colletotrichum species using rDNA-ITS se quence data presently lodged in GenBank is impossible. How can this situation be rectified? 
+Isolates that represent the types of species are needed. Published new species must have ex type living strains deposited in easily accessible culture collections for future work. 
+In some cases (e.g. C. boninense, C. kahawae) the living type is available, however in most cases it is not. Epitypification is necessary in certain cases, such as where the type specimen of the taxon no longer exists, or is in poor condition, or of ambiguous status, or has deteriorated so that many important features are not available for further studies (Shenoy et al., 2007b; Cannon et al., 2008; Hyde and 
+Zhang, 2008; Than et al., 2008a). Epitypifi cation can solve many taxonomic problems and stabilize the understanding of species, genera, families or orders (Phillips et al., 2007; Shenoy et al., 2007b; Than et al., 2008a; Cannon et al., 2008; Hyde and Zhang, 2008). Epitypification of Colletotrichum species commenced in 2007 and now 42 currently used species have been epitypified or have living cultures (Hyde et al., 2009).  Colletotrichum lifestyles 
+Colletotrichum species have been re ported to occur as endophytes, epiphytes, saprobes, plant pathogens and even human pathogens (Sutton, 1992; TeBeest et al., 1997; 
+Cano et al., 2004; Kumar and Hyde, 2004; 
+Photita et al., 2004, 2005; Promputtha et al., 2007). Colletotrichum species that cause serious plant disease are also commonly isolated as endophytes from healthy plants and have been identified as saprobes on dead plant material (Photita et al., 2001a, 2003; Kumar and Hyde, 2004; Liu et al., 2007; Promputtha et al., 2007; Damm et al., 2009; Prihastuti et al., 2009). 
+In many cases the same species have been recorded with several lifestyles although with the ambiguity of species identification it is not always clear whether they are definitely the same species. How and if taxa change their lifestyle from non-pathogenic to pathogenic still needs to be addressed and is an important unanswered question in the study of Colleto trichum. Full descriptions of the life styles for each Colletotrichum species linked with molecular data for accurate taxon identification are needed to explore, understand and develop effective control strategies in the genus. In one such study, Prihastuti et al. (2009) described C. fructicola and C. siamense from coffee berries, isolated as epiphytes, endophytes and patho gens and these species have since been shown to be widespread on several hosts (Yang et al., 2009). Colletotrichum dematium also occurs as an endophyte, pathogen and saprobe (Damm et al., 2009). The significance of these findings may have great importance as evidence grows that these species of Colletotrichum are ubiquitous and widespread.  
+Colletotrichum as plant pathogens and agents of post harvest disease 
+Colletotrichum is one of the most econo mically important genera of fungi, causing anthracnose disease, affecting a wide host range, especially on tropical and subtropical crops as well as fruit trees (Sutton, 1992). 
+Above ground plant parts can be affected by 
+Colletotrichum diseases at all stages on stems, leaves, flowers and fruits. An example of 
+Colletotrichum anthracnose familiar to many is the blackening of tropical fruits (Tang et al., 2005), especially bananas and mangoes in fruit bowls.  
+Crouch and Beirn (2009) review the graminicolous species of Colletotrichum in this issue, while Hyde et al. (2009) discuss diseases caused by Colletotrichum species, whose names are in current use. The disease often takes two forms, resulting in spots on leaves or the blackening of fruits, usually post-harvest. 
+In the case of persimmon, Colletotrichum horii can infect fruits, twigs, cause dieback, and even tree death (Zhang, 2008). Colletotrichum acutatum, C. capsici and C. gloeosporioides have been reported causing anthracnose disease 4 on chilli fruits in Thailand (Than et al., 2008b). 
+However, the application of these three species names needs care as C. acutatum sensu lato includes three recently named species (Shivas and Tan, 2009); C. capsici is now known as C dematium; and C. gloeosporioides from chilli is either C. asianum or C. fructicola (Damm et al., 2009; Cai pers. comm.). Because of their importance in phytopathology, plant breeding and biosecurity, species need to be correctly identified and this has not previously been easy due to the lack of taxonomically informative characters. Much has been written on 
+Colletotrichum as plant pathogens, albeit in term of species sensu lato (e.g. Sutton, 1980, 1992) and interested readers should refer to these texts for further data. Three examples are also discussed later in the paper.   Colletotrichum as endophytes 
+Colletotrichum species have been found as symptomless inhabitants (endophytes) in plant tissues (Liu et al., 2007; Damm et al., 2009; Prihastuti et al., 2009). For example, putative C. gloeosporioides and C. acutatum strains were isolated from healthy leaves and pseudostems of banana (Musa acuminata), ginger (Alpinia malaccensis), Euphatorium thymifolia and wild ginger (Amomum siamense) in Thailand, and in low frequencies from rhizomes of wild ginger (Bussaban et al., 2001; 
+Photita et al., 2005). Lu et al. (2004) isolated  
+C. gloeosporioides and C. boninense as endophytes from leaves of 12 different tree species in the Iwokrama Forest Reserve, 
+Guyana. Hyde and Soytong (2008) discussed the role of endophytes that can become primary saprobic decomposers or as latent infections of pathogens that cause disease under specific conditions. Simmonds (1941) showed in field experiments that Gloeosporium musarum (= C. musae) can remain latent within the skin of green banana fruits for almost five months, and develop anthracnose fruit rot as the fruit ripens. 
+The development of the fungus in the latent phase is restricted due to a poor capacity for secreting macerating enzymes and pectines terase (Simmonds, 1963). Quiescent infections of strawberry transplants by C. gloeosporioides are common and play an important role as inoculum sources of anthracnose crown rot (Raman and Louws, 2008). 
+Wright (1998) studied Colletotrichum infection of Citrus and isolated Colletotrichum as endophytes from growing stems over an entire season. She consistently isolated C. gloeosporioides, which appeared to grow into new stem tissues and eventually into the flower and infected flowers at fruit set (Wright et al., 1996, 1997; Wright, 1998). Pathogenicity testing also showed that the endophytic strains of C. gloeosporioides caused disease of oranges and Wright (1998) speculated that the endophytes grow into the albedo of oranges and remain dormant until a period of post harvest storage somehow triggers the fungus to become active and cause stem end fruit rot (Wright et al., 1996, 1997). The strain was not compared with the epitype, which was not available at the time, but this is likely to be C. gloeosporioides sensu stricto as the epitype is from oranges.  Colletotrichum as saprobes 
+Colletotrichum species are rarely re corded in studies concerning saprobes on various hosts (e.g. pine needles, Zamora et al., 2008; Castanopsis diversifolia leaves, Duong et al., 2008; Magnoliaceae wood, Kodsueb et al., 2008), although Photita et al. (2001a, 2003) have recorded C. gloeosporioides as a saprobe on banana (Musa sp.) and Osono et al. (2009) recorded C. gloeosporioides on decaying leaves of Shorea obtusa. Colletotrichum gloeosporioides and a Colletotrichum species have been also recorded on dead leaves of 
+Draceana lourieri (Thongkantha et al., 2008). 
+It appears that Colletotrichum species survive and compete poorly as saprotrophs. In the 
+Compendium of Soil Fungi, Domsch et al. (2007) listed only two species; C. dematium as a common saprotroph on dead plant material, and C. gloeosporioides that has rarely been reported from soil. Conidia of C. acutatum and 
+C. gloeosporioides isolates from strawberry survive for up to 1 year in autoclaved soil, whereas the viability declined rapidly within a few days in untreated soils at 22% soil moisture (field capacity) (Freeman et al., 2002). 
+The number of conidia of C. gloeosporioides, causal agent of water yam (Dioscorea alata) anthracnose in Guadeloupe, was higher in artificially inoculated residues on the soil surface than in residues buried at 0.1 m soil 
+Fungal Diversity   5 depth, which decomposed faster (Ripoche et al., 2008). In Finland, C. acutatum can survive one winter in strawberry residues on the soil surface or covered with soil and in infected weed debris and infect young strawberry plants in greenhouse tests (Parikka et al., 2006). 
+In most of the above studies the species were identified based on morphology and not compared with types or at the molecular level and thus the names of species are most likely wrong. Future studies must be compared against the types using molecular data.  
+Problems associated with selected species 
+Much has been written about many individual species of Colletotrichum and yet in most cases the name used represented a species complex and it is unclear which actual species is involved. In the following section we review three species of Colletotrichum in order to highlight the problems associated with inade quate knowledge of the species and possible incorrect or inaccurate naming.  
+Colletotrichum dematium (Pers.) Grove 
+Colletotrichum dematium until recently was a relatively poorly known species in urgent need of epitypification. It was originally collected from a stem of Eryngium in France as well as solanaceous hosts (see Damm et al., 2009 for detailed discussion) and has been more recently recorded from numerous hosts such as a pathogen of chilli (Than et al., 2008c). 
+It has been also recorded as a pathogen of 
+Polygonatum falcatum (Tomioka et al., 2008) and an endophyte of Pteromiscum sp. (Ren et al., 2008). Disease symptoms are reported to range from fruit rot to shoot, leaf, and flower blight, e.g., Sutton (1980) reported that in herb. 
+IMI it was represented by 216 collections from 37 countries on 118 different host genera. 
+Many putative hosts are commercial plants, such as tomato (Bello, 2000), mulberry (Yoshida et al. 2002), soybean (Fakir, 1979; 
+Shovan et al., 2008) and beech (Sahashi et al., 1995). The symptoms on mulberry leaf are brown necrotic spots or streaks (Yoshida and 
+Shirata, 1998). Tomato anthracnose results in greyish, sunken, water-soaked lesions on tomato fruits and later the centre of the spots become tan and flecked with small black specks, and black acervuli form in concentric rings (Bello, 2000). On beech, C. dematium was reported to cause post-emergence damping-off of current-year beech seedlings (Sahashi et al., 1995). 
+The pathogenicity of C. dematium on mulberry, beech seedlings and Polygonatum falcatum has also been tested (Sahashi et al., 1995; Yoshida and Shirata, 1998; Yoshida et al., 2002; Tomioka et al., 2008). These studies proved that putative strains of C. dematium are pathogenic to various hosts. Yang et al. (2009) also isolated this taxon from amaryllids with anthracnose symptoms.  
+Colletotrichum dematium is difficult to recognize based on morphological charac teristics, mainly because different researchers have described conidia width differently (ht tp://www.mycobank.org/BioloMICSServer.asp x?Link=T&Rec=120313). Colonies of putative 
+C. dematium strains have been reported by 
+Sutton (1992) to be very variable with white to pale mouse-grey or grey-vinaceous patches with abundant setae and black, conical sclerotia. 
+Conidia are formed in olive-grey to light vinaceous-salmon masses, and are 18–26 × 2–3 µm, falcate, fusiform, and gradually tapered to each end (Sutton, 1992). Appressoria are medium brown, clavate, ovate to irregular, margin entire or slightly irregularly lobed (Sutton, 1992). Bobev et al. (2009) reported C. dematium (spores mean sizes: 22 × 4.5 µm, ranging from 18.3–25 × 4.2–5.8 µm, and 99% similar to an isolate of C. dematium (GenBank 
+Accession No. AJ301954; strain BBA 62147) infecting Goniolimon tataricum. In Yang et al. (2009) study on amaryllids, putative C. dema tium spores were 13.5–19 × 2.5–4 µm ( x  = 15.8 × 3.2 μm, n = 50). When combined with other morphological and molecular charac teristics we defined our species as C. dematium (Fig. 1), but since the species was presently not epitypified we could not be definite about this name. This taxon therefore urgently needed epitypifying so that researchers could obtain accurate reference criteria, as is now available for C. gloeosporioides (Cannon et al., 2008).  
+Damm et al. (2009) epitypify C. dema tium in this issue, with conidial sizes of (18– )20–23(–24) × 3–4(–5.5) µm. The species in 
+Yang et al. (2009) was shown to be different 6  
+Figs 1a-d. Putative strain of Colletotrichum dematium (later shown to be C. spaethianum): a. Colony on PDA at 25ºC, 7 days. b. Conidia on PDA. c. Appressoria. d. 
+Hyphopodia. Bars = 10 µm.  and is named C. spaethianum. This is an excellent example of the importance of epitypification and how it helps stabilize names and allows comparison in various studies on 
+Colletotrichum species. Only a small number of strains were included in the species concept and many strains previously reported as C. dematium sensu lato were shown to represent other species, i.e. C. circinans, C. dematium, C. lilii, C. lineola, C. liriopes, C. spaethianum, C. spinaciae, C. tofieldiae, C. trichellum, C. truncatum and two unidentified species. The outcome has enormous phytopathological significance. Even though a small number of strains were included as C. dematium sensu stricto, these strains indicate that it has a wide host range and occurs as an endophyte, pathogen and saprobe (Damm et al., 2009).  
+Colletotrichum destructivum O’Gara 
+Colletotrichum destructivum was des cribed from red clover (Fabaceae) by O'Gara (1915) and has been confused with several species including C. gloeosporioides, C. linde muthianum and C. truncatum. In reviewing the genus, von Arx (1957) maintained C. destruc tivum as a distinct species. Colletotrichum destructivum was also accepted in von Arx (1970). Sutton (1980) did not consider  
+C. destructivum an acceptable species; he probably thought of it as a synonym of 
+Glomerella cingulata. Manandahar et al. (1986) provided a detailed description of the morphology and pathogenicity of G. glycines and first established the connection between C. destructivum and G. glycines. Appressoria size and conidia length in C. destructivum is considered to be similar to that in C. lindemu thianum. However, C. destructivum and C. lindemuthianum have been differentiated by cultural characteristics, conidia width, and their respective teleomorphs (Manandahar et al., 1986). More recently, due to the similarity of morphology of conidia and appressoria, the infection process and the rDNA-ITS sequence data, C. higginsianum was considered to be a synonym of C. destructivum (O’Connell et al., 2004). Sun and Zhang (2009) isolated putative 
+C. destructivum strains from cowpea and found that their morphological characters (e.g. colony, conidia and appressoria) (Figs 2a-c) were similar to C. destructivum (sensu Sutton, 1992) and their infection process and intracellular infection structures (Fig. 2d) on cowpea also were consistent with that of C. destructivum on other hosts (Bailey et al., 1990; Latunde-Dada et al., 1997; Shen et al., 2001). However, cowpea isolates with rDNA-ITS sequences identical to that of C. higginsianum from cruciferous hosts could infect and complete the asexual cycle on Arabidopsis thaliana. The infection process showed that in the initial biotrophic phase, intracellular primary hyphae were confined to one epidermal cell, whereas in the subsequent necrotrophic phase, secondary hyphae invaded the neighboring cells, in the same way as C. higginsianum originating from cruciferous plants (O’Connell et al. 2004). This implied that the host range or the cruciferous hosts are not reliable criteria to delimit the two species. Thus O’Connell et al. (2004) proposed C. higginsianum to be a synonym of C. destructivum.  
+Latunde-Dada and Lucas (2007) showed that the nucleotide sequences of the D2 and 
+ITS-2 regions of rDNA amongst C. truncatum, 
+C. destructivum and C. linicola had very high similarities (97-99%), and proposed, by a combination of phylogenetic relationships, as well as morphology, infection processes and intracellular infection structures that C. destructivum was a species aggregate, which also includes C. linicola and C. truncatum. The Fungal Diversity   7   
+Figs 2a-d. Morphological characteristics of colony, conidia, appressoria and infection structures of a putative strain of 
+Colletotrichum destructivum from cowpea (Vigna unguiculata). a. Colony on PDA. b. Conidia from PDA. c. 
+Appressoria produced from the germinated conidia on hydrophobic polystyrene. d. Infection vesicle (arrow) and primary hyphae (PH) in tissue of V. unguiculata cv. qiudou 512 72 hours after inoculation. Note that an appressorium (A) produces an infection peg which invades a host epidermal cell to form a globose infection vesicle (arrowed), and developing branched primary hyphae (PH). Bars = 10 μm   above discussion illustrates the confusion surrounding the status of C. destructivum and closely related species which is still unresolved.  
+Many Colletotrichum species have been described on legumes, mostly from crops in temperate regions. Colletotrichum destructivum is capable of causing anthracnose disease in lucerne (Boland and Brochu, 1989). It has been reported to cause considerable yield losses in 
+Europe (Pauly, 1974; Robotic and Klokocar
+Smit, 1983), North America (Boland and 
+Brochu, 1989), northern Africa (Troeung and 
+Gosset, 1987) and South Africa (Thompson and van der Westhuizen, 1985; Koch et al., 1989). However, in a complex infection with C. coccodes (Wallr.) Hughes, C. dematium (Pers.) 
+Grove, C. truncatum (Schwein.) Andrus & 
+Moore and C. trifolii Bain, it is considered as a secondary pathogen (Graham et al., 1976; 
+Koch et al., 1989). The host range of C. destructivum is wide and includes legumes such as Glycine max, Leucaena leucocephala, 
+Lotus spp., Melilotus albus, Phaseolus lathyroides, Trifolium spp., Vigna unguiculata, 
+Coronilla varia, as well as tobacco (Nicotiana tabacum), dodder (Cuscuta spp.) and 
+Arabidopsis thaliana (Forer et al., 1973; 
+Massenot and Raynal, 1973; Baxter et al., 1983; 
+Manandahar et al., 1986; Wolcan and Bello, 1988; Koch et al., 1989; Latunde-Dada et al., 8 1996; O’Connell et al., 2004), although these records need confirmation with sequence data. 
+Host-specificity has also been observed among 
+C. destructivum isolates (Wolcan and Bello, 1988).  
+The infection processes and intracellular infection structures of strains named C. destructivum is well understood (Fig. 2d), with similar structures in cowpea (Bailey et al., 1990; Latunde-Dada et al., 1996), alfalfa (Latunde-Dada et al., 1997) and tobacco (Shen et al. 2001). C. truncatum and C. linicola (Latunde-Dada and Lucas, 2007), and C. hig ginsianum have similar infection processes and intracellular infection structures (O’Connell et al., 2004).  
+Much of the above confusion is based on the fact that C. destructivum has not been epitypified and that types are not available for sequence data comparison. Thus epitypification is urgently required and then species named as “destructivum” can be verified against the epitype. Similarly, it will be possible to establish whether the strains from cowpea in the infection process studies are correctly named.  
+Colletotrichum fragariae Brooks 
+Strawberry (Fragaria ananassa) anthrac nose is caused by three putative Colletotrichum species: C. acutatum, C. fragariae and C. gloeosporioides (Howard and Albregts, 1983; 
+Smith and Black 1986). Colletotrichum acuta tum and C. gloeosporioides are reported to have a wide host range, while C. fragariae is restricted to strawberry plants (Gunnell and 
+Gubler, 1992). These species have often been confused because each produces similar symptoms on strawberry including crown rot (Fig 3b), fruit rot and lesions. Colletotrichum fragariae was described from Florida by 
+Brooks (1931) and causes a very destructive crown rot (Howard and Albregts, 1983). 
+However, it is poorly defined and preliminary studies of isolates from strawberry showed that the criteria used in species identification are not reliable (Smith and Black, 1990). Some isolates identified as C. fragariae because they lacked a teleomorph conformed to C. gloeo sporioides. Other isolates, classified as C. fragariae or C. gloeosporioides that produced a red pigment in culture corresponded to C. acutatum (Gunnell and Gubler, 1992). Since host origin was deemed less important, von 
+Arx (1957) placed C. fragariae in synonymy with C. gloeosporioides, but researchers have generally retained the use of the name C. fragariae when dealing with the pathogen on strawberries (Howard and Albregts, 1984; 
+Mass and Howard, 1985; Sutton, 1992).  
+Gunnell and Gubler (1992) reported that 
+C. fragariae could be clearly distinguished from C. acutatum and C. gloeosporioides by the morphology on strawberry leaf agar. 
+Delimitation of these species remains problematic because literature references to C. acutatum and C. gloeosporioides may actually refer to other species (Shivas and Tan, 2009; 
+Sreenivasaprasad et al., 1994).  
+Several molecular studies have attempted to resolve relationships of C. fragariae and other species from strawberry, but studies to date are inconclusive. The techniques include analysis of zymograms (Bonde et al., 1991), mitochondrial DNA restriction fragment length polymorphisms (mtDNA RFLPs) (Sreenivasa prasad et al., 1992; Freeman et al., 1993), arbitrarily primed polymerase chain reactions (AP-PCR) (Freeman and Rodriguez, 1995; 
+Freeman and Katan, 1997), random amplified polymorphic DNA (RAPD) (Martínez-Culebra et al., 2002) and ribosomal DNA (rDNA) restriction analyses (Sreenivasaprasad et al., 1992, 1994). Although molecular studies have led to the establishment of different molecular groups within Colletotrichum isolates from strawberry, the assignment of taxonomic ranks is difficult, because these techniques were developed for characterization. rDNA sequence analysis is a useful tool for species delimitation in Colletotrichum (Sherriff et al., 1994, 1995; 
+Sreenivasaprasad et al., 1993, 1994), but multigene loci analysis has proved more definitive. The divergences of rDNA-ITS sequences between isolates of C. fragariae and 
+C. gloeosporioides is too low to confidently separate the species (Sherrif et al. 1994; 
+Sreenivasaprasad et al., 1996; Martínez
+Culebras et al., 2003) and it was suggested that 
+C. fragariae falls within the C. gloeosporioides sensu lato (Sreenivasaprasad et al., 1996). 
+Martínez-Culebras et al. (2000) found that there was only a MvnI specific site among ITS1 region of the isolates of C. gloeosporioides Fungal Diversity   9   
+Figs 3a, b. Conidia of a putative strain of Colletotrichum fragariae and its crown rot symptom on strawberry. A. 
+Cylindrical conidia with one end rounded and the other pointed (grown on strawberry leaf agar). B. Internal brown necrotic lesions of crown rot caused by C. fragariae. Bar = 10 μm.  instead of C. fragariae. This trait was con firmed subsequently by different original sequence data and could be used for differen tiating C. gloeosporioides from C. fragariae (Martínez-Culebras et al., 2003), but it was considered that more isolates of C. fragariae and C. gloeosporioides from straw-berry and also C. gloeosporioides from different hosts should be studied. Recent phylogenetic re search using a wider range of genes has been used to study the C gloeosporioides aggregate from strawberry (Johnston, in litt.) and supports the work of MacKenzie et al. (2007) indicating that C. fragariae is distinguishable from the rest of the C. gloeosporioides aggre gate, but that it is not restricted to strawberry. 
+The drawback in most of the above studies is that the strains used were not compared with the type species. Recently C. gloeosporioides has been epitypified and multigene loci have been sequenced for this epitype. It is now possible to establish if the strains from strawberry are really C. acutatum, 
+C. gloeosporioides or one of the recently described species, e.g. C. simmondsii. Whether 
+C. fragariae (which requires epitypification) is a distinct species still needs resolving.  
+Colletotrichum in human disease 
+Although Colletotrichum species are mainly responsible for plant disease, several species have been reported to cause human disease as opportunistic pathogens (Table 1). 
+Cano et al. (2004) listed five species of clinical importance while Damm et al. (2009) con firmed, using molecular data, that Colleto trichum truncatum was isolated from a corneal ulcer of a human eye. Colletotrichum dema tium was also reported to cause eye keratitis (Giaconi et al., 2006) and fungal endophthal mitis, a potential devastating ocular disease that causes poor visual outcome (Chakrabarti et al., 2008). Cano et al. (2004) considered that it was important to find a quick unambiguous molecular test to distinguish Colletotrichum isolates, as prompt diagnosis was necessary as some drugs were not active against certain 
+Colletotrichum species. For instance, itracona zole was not active in vitro against C. coccodes and C. dematium, but was active against some isolates of C. gloeosporioides. Cano et al. (2004) provided a table of morphological characters and also conducted a sequence analysis based on ribosomal DNA (rDNA) dataset to differentiate their clinical strains. 
+Their phylogenetic analysis employed to separate the species was rather simple being based on a very short fragments of rDNA-ITS sequence (ranging from 124-174 bp) and not compared to the ex-type strains. Although we have tried to integrate these short sequences into the rDNA-ITS dataset of Cai et al. (2009), their phylogenetic positions could not be conclusively determined (L. Cai, pers. comm.).   10 
+Table 1. Clinical Colletotrichum species.  
+Taxon Disease Verified using molecular data Isolate location Reference 
+C. coccodes  No  Cano et al., 2004 
+C. crassipes  No CBS 109355 Cano et al., 2004 
+C. dematium Keratitis No  Cano et al., 2004; Giaconi et al., 2006; Chakrabarti et al., 2008 
+C. gloeosporioides  No CBS 102275 Cano et al., 2004 
+C. graminicola  No  Cano et al., 2004 
+C. truncatum Isolated from corneal ulcer of human eye 
+Yes IMI 266002 Damm et al., 2009  
+Cano et al. (2004) used two strains repre senting two species with clinical origin and compared these against 18 non-clinical strains. 
+Some of the strains have since been shown to be wrongly named (e.g. C. dematium (C. truncatum) CBS 351.73 has been shown to be 
+C. circinans, while C. dematium CBS 167.49 is 
+C. spaethianum). It is not clear if the other non clinical stains had been correctly named and thus it is not clear if the correct names were applied to the clinical strains. With the recent epitypification of C. dematium, C. gloeospo rioides and C. graminicola it is now possible to establish if these clinically important strains were correctly named. There is an urgent need for mycologists to revisit the clinical Colleto trichum species following recent epitypifi cation to establish which species are involved in human disease.  
+Colletotrichum in biotransformation 
+The use of Colletotrichum species in biotransformation was reviewed by García- 
+Pajón et al. (2003) and there have been some publications since (e.g. Bastos et al., 2007; 
+Bajpai et al., 2009). Several species have been studied for use in biotransformation, with putative strains of C. gloeosporioides having received most attention (García-Pajón et al., 2003). The importance and potential use of the genus in industrial applications has received more attention in the last 15 years. 
+Biotranformations using Colletotrichum species have included detoxification of phyto lectins, biotransformations of saturated and unsaturated acyclic terpenoids, monoterpenoids and related cyclic compounds including ketone, cyclic monoterpenes, sesquiterpenes and ste roids (Table 2). In these studies the Colleto trichum strains used have been given specific names, but it is unclear whether these names are correct. For example in Table 2, the strain of C. acutatum could be one of three species presently known from the species complex (Shivas and Tan, 2009); the strains of C. atramentarium and C. lini used do not represent currently applied names (see Hyde et al., 2009); the strains of C. capsici and C. dematium f. truncatum may be the one species, as they are now considered to be synonyms of 
+C. truncatum (Damm et al., 2009); and the strains of C. gloeosporioides (and G. cingulata) may represent several different species within this species complex (Hyde et al., 2009). It is essential to apply correct names to strains used in biotechnology, since results of these studies may need to be verified, repeated or compared, and patents may be forthcoming. In all cases it would be problematical if taxa were wrongly named.  Future studies 
+A review of Colletotrichum indicates that species may have been wrongly named in many studies on biotransformation, clinical, pathogen, endophyte, molecular, saprobe and other aspects. It is essential that correct names are used in future so that comparisons between studies can be confidently made. It is presently impossible to compare species used in many studies as a name given by one group of researchers may be different to that given by other researchers, even though they are working with the same species. Similarly, the same name may be given to different species. 
+Furthermore, the name of species with gene sequences deposited in GenBank must be verified before deposition, so that GenBank no Fungal Diversity   11 
+Table 2. Selected examples of species of Colletotrichum used in biotransformations.  
+Taxon Biotransformation reaction Reference 
+C. acutatum Transformation of 2-phenylethanol and acetophenone Aristizábal et al., 2008 
+C. atramentarium Reduction of cyclic ketone García-Pajón et al., 2003
+C. capsici Conversion of docosahexaenoic acid (DHA) Bajpai et al., 2009 
+C. dematium Reduction of cyclic ketone García-Pajón et al., 2003
+C. dematium f. truncatum Detoxification of phytolectins García-Pajón et al., 2003
+C. destructivum Detoxification of phytolectins García-Pajón et al., 2003
+C. fragariae Reduction of cyclic ketone García-Pajón et al., 2003
+C. graminicola Reduction of cyclic ketone García-Pajón et al., 2003
+C. gloeosporioides Detoxification of phytolectins García-Pajón et al., 2003 (as Glomerella cingulata) Transformation of saturated and unsaturated acyclic terpenoids  
+Transformation of sesquiterpenes Transformation of widdrol García-Pajón et al., 2003  Kumari et al., 2003  
+Nunez et al., 2006 (as Glomerella cingulata) Reduction of cyclic ketone García-Pajón et al., 2003
+C. lagenarium Reduction of cyclic ketone García-Pajón et al., 2003
+C. lindemuthianum Reduction of cyclic ketone García-Pajón et al., 2003
+C. lini Steroid hydroxylations Romano et al., 2006 
+C. trifolii Detoxification of phytolectins García-Pajón et al., 2003  Reduction of cyclic ketone García-Pajón et al., 2003  longer becomes a dustbin for gene sequences with the wrong names. At present sequence data for the rDNA-ITS region and a few other genes are available for most of the species with existing type specimens (Hyde et al., 2009; Cai et al., 2009) so they can provide a name and thus researchers must check their sequences against these type strains to verify the name. In the future it will hopefully be possible to find a better, or even an ideal gene for barcoding species in the genus.  Concluding remarks 
+Several important papers dealing with the type specimens and cultures of species complexes have been published (Shenoy et al., 2007a,b; Cannon et al., 2008; Than et al., 2008; 
+Crouch et al., 2009a-c; Damm et al., 2009; 
+Shivas and Tan, 2009). These complexes can now be further studied and unraveled so that we can really begin to understand the genus beyond the species complexes. Whether the complexes can be split into numerous species, a few species with many subspecies, varieties or forms, or just into subspecies, varieties or forms will remain a matter for debate, much of which depend on personal preference rather than scientific evidence. It is hoped that new species introductions will at least adopt the “genealogical concordance method” (Taylor et al., 2000) and more (see Cai et al., 2009). 
+There is an urgent need for agreement on protocols to handle the naming and describing of types, epitypes, new species, subspecies, varieties and forms, which is the subject of a separate paper in this issue (Cai et al., 2009). 
+These proposed recommendations may or may not be followed in the short term, but in the long term Colletotrichum specialists should unite and derive a set of technical protocols that must be followed. Until then we predict that over the next 1-2 years there will be many new taxa of Colletotrichum named, resulting in perhaps 100-200 accepted species names; there will be numerous name changes to important plant pathogens (e.g. C. capsici – see Damm et al., 2009), which will no doubt confuse and frustrate plant pathologists; there will be no consensus on which genes to use and different sets of genes will be used, albeit with some overlapping; there will be no standardized descriptions of species, and illustrations will range from a few spores only, to compre hensive full colour plates; pathogenicity testing will be included in a few cases only. We pre dict that in 2-5 years Colletotrichum taxonomy will become more settled; fewer new taxa will be introduced and there will be fewer name changes; plant pathologists will confidently accept the new names; sets of genes for use in species description will be agreed upon and a single magic barcoding gene may be identified; 12 species descriptions will become standardized (or if morphological characters prove to be totally inadequate they may be done away with altogether); and pathogenicity testing will become essential to establish the biological role of these fungi.  
+Colletotrichum has particular biosecurity importance and until the genus becomes settled we suggest that plant quarantine authorities delay taking imprudent action. Many Colleto trichum species are proving to be widespread on a broad range of hosts and some are proving to be endophytes as well as pathogens. Many of the recently described species (e.g. in 
+Prihastuti et al., 2009; Yang et al., 2009) are proving to be widespread on a range of unrelated hosts, some as endophytes, epiphytes and pathogens, or as weak or opportunistic pathogens. Thus, besides existing species, such as C. kahawae, which is a species of quarantine significance and an important pathogen of coffee in Africa causing a devastating coffee berry disease, we suggest that some Colleto trichum species may prove to be cosmopolitan in distribution and we do not need to be overly concerned about them. If countries wish to clarify which species they have within their boundaries, they need to fund the research that will provide the answers. This research will be based on the collection of fresh specimens and DNA sequence data.  
+Although the many name changes within the genus Colletotrichum over the next few years may be confusing, it is necessary to establish a long-term stable taxonomic framework. The examples above illustrate numerous cases where we have no idea whether or not correct names were used. The situation is exacerbated by having approximately 86% of names on GenBank under C. gloeosporioides apparently wrongly identified. It is impossible to repeat or extend scientific work and compare findings with existing published work if the names applied to species in publications are erroneous. We have no option but to restudy, revise and clarify the genus, so that the naming of Colletotrichum species will, in the future, be reproducible and precise.  Acknowledgements  
+This research was made possible by grant number 51101010029 and 52101010002 from Mae Fah Luang University.  References  
+Abang, M.M., Winter, S., Green, K.R., Hoffmann, P., 
+Mignouna, H.D. and Wolf, G.A. (2002). 
+Molecular identification of Colletotrichum gloeosporioides causing yam anthracnose in 
+Nigeria. Plant Pathology 51: 63-71. 
+Aristizábal, D.A., Lezcano, C.S., García, C.M. and 
+Durango, D.L. (2008). Biotransformation of 2 phenylethanol and acetophenone by the plant pathogenic fungus Colletotrichum acutatum. 
+Revista Colombiana de Quimica 37: 7-19. 
+Arx, J.A. von (1957). Die Arten der Gattung 
+Colletotrichum Cda. Phytopathologische Zeits chrift 29: 413-468. 
+Arx, J.A. von (1970). A Revision of the Fungi classified as Gloesporium. 2nd edn. J. Cramer, Vaduz, leichtenstein: 203. 
+Bailey, J.A. and Jeger, M.J. (1992). Colletotrichum: 
+Biology, Pathology and Control CAB 
+International, Wallingford: 1- 388. 
+Bailey, J.A., Nash, C., O’Connell, R.J. and Skipp, R.A. (1990). Infection process and host specificity of a 
+Colletotrichum species causing anthracnose disease in cowpea, Vigna unguiculata. Mycolo gical Research 94: 810-814. 
+Bajpai, V.K., Kim, H.R., Hou, C.T. and Kang, S.C. (2009). Microbial conversion and in vitro and in vivo antifungal assessment of bioconverted docosahexaenoic acid (bDHA) used against agricultural plant pathogenic fungi. Journal of 
+Industrial Microbiology and Biotechnology 36: 695-704. 
+Bastos, D.Z.L., Pimentel, I.C., de Jesus, D.A. and de 
+Oliveira, B.H. (2007). Biotransformation of betulinic and betulonic acids by fungi. Phyto chemistry 68: 834-839. 
+Baxter, A.P., Westhuizen, von der G.C.V. and Eicher, A. (1983). Morphology and taxonomy of South 
+African isolations of Colletotrichum. South Afri can Journal of Botany 2: 259-289. 
+Bello, dal G.M., (2000). First Report of Colletotrichum dematium on tomato in Argentina. Plant Disease 84: 198. 
+Bobev, S.G., Jelev, Z.J., Zveibil, A., Maymon, M. and 
+Freeman, S. (2009). First report of anthracnose caused by Colletotrichum dematium on statice (Goniolimon tataricum, Synonym Limonium tataricum) in Bulgaria. Plant Disease 93: 552. 
+Boland, G.J. and Brochu, L.D. (1989). Colletotrichum destructivum on alfalfa in Ontario and cultivar response to anthracnose. Canadian Journal of Plant Pathology 11: 303-307. Fungal Diversity   13 
+Bonde, M.R., Petersen, G.L. and Maas, J.L. (1991): 
+Isozyme comparisons for identification of 
+Colletotrichum species pathogenic to strawberry. Phytopathology 81: 1523-1528. 
+Brooks, A.N. (1931). Anthracnose of strawberry caused by Colletotrichum fragariae n. sp. Phytopatho logy 21: 739-744.  
+Bussaban, B., Lumyong, S., Lumyong, P., McKenzie, 
+E.H.C. and Hyde, K.D. (2001). Endophytic fungi from Amomum siamense. Canadian Journal of Microbiology 47: 943-948. 
+Cai, L., Hyde, K.D., Taylor, P.W.J., Weir, B., Waller, J., 
+Abang, M.M., Zhang, J.Z., Yang, Y.L., 
+Phoulivong, S., Liu, Z.Y., Prihastuti, H., Shivas, 
+R.G., McKenzie, E.H.C. and Johnston, P.R. (2009). A polyphasic approach for studying 
+Colletotrichum. Fungal Diversity 39: 183-204. 
+Cannon, P.F., Bridge, P.D. and Monte, E. (2000). 
+Linking the past, present and future of 
+Colletotrichum systematics. In: Colletotrichum 
+Host Specificity, Pathology and Host-pathogen 
+Interaction (eds. D. Prusky, S. Freeman and M.B. 
+Dickman). APS Press, St Paul, Minnesota: 1-20. 
+Cannon, P.F., Buddie, A.G. and Bridge, P.D. (2008). 
+The typification of Colletotrichum gloeospo rioides. Mycotaxon, 104: 189-204. 
+Cano, J., Guarro, J. and Gene, J. (2004). Molecular and morphological identification of Colletotrichum species of clinical interest. Journal of Clinical Microbiology 42: 2450-2454.  
+Chakrabarti, A., Shivappakash, M.R., Singh, R., Tarai, 
+B., George, V., Fomda, B.A. and Gupta, A. (2008). Retina-The Journal Of Retinal And 
+Vitreous Diseases 28: 1400-1407. 
+Corda, A.C.I. (1831). Die Pilze Deutschlands (ed. J. 
+Sturm). Deutschlands Flora, 3. Abtheilung 3: 1 144. 
+Crouch, J.A. and Beirn, L.A. (2009) Anthracnose of cereals and grasses. Fungal Diversity 39: 19-44. 
+Crouch, J.A., Clarke, B. and Hillman, B. (2009a). What is the value of ITS sequence data in Colleto trichum systematics and species diagnosis? A case study using the falcate-spored graminicolous 
+Colletotrichum group. Mycologia 101: 648-656. 
+Crouch, J.A., Clarke, B.B., White, J.F. and Hillman, B.I. (2009b). Systematic analysis of falcate-spored graminicolous Colletotrichum and a description of six new species from warm-season grasses. Mycologia: 101: 717-732. 
+Crouch, J.A., Tredway, L.P., Clarke, B.B. and Hillman, 
+B.I. (2009c). Phylogenetic and population genetic divergence correspond with habitat for the pathogen Colletotrichum cereale and allied taxa across diverse grass communities. Molecular Ecology: 18: 123-135. 
+Damm, U., Woudenberg, J.H.C., Cannon, P.F. and Crous, 
+P.W. (2009). Colletotrichum species with curved conidia from herbaceous hosts. Fungal Diversity 39: 45-87.  
+Domsch, K.H., Gams, W. and Anderson, T.H. (2007). 
+Compendium of Soil Fungi, 2nd taxonomically revised edn. Ed. W. Gams, IHW-Verlag, Eching.  
+Du, M., Schardl, C.L. and Vaillancourt, L.J. (2005). 
+Using mating-type gene sequences for improved phylogenetic resolution of Colletotrichum species complexes. Mycologia 97: 641-658. 
+Duong, L.M., McKenzie, E.H.C., Lumyong, S. and Hyde, 
+K.D. (2008). Fungal succession on senescent leaves of Castanopsis diversifolia in Doi Suthep
+Pui National Park, Thailand. Fungal Diversity 30: 23-36. 
+Fakir, G.A. (1979). Soybean Diseases in Bangladesh. 
+Diseases Section, Bangladesh Co-ordinated 
+Soybean Research Project (BARC), Department of Plant Pathology, Bangladesh Agricultural University. 
+Forer, L.B, Lukezic, F.L. and Wagner, V.R. (1973). 
+Anthracnose of crownvetch caused by Colleto trichum destructivum. Plant Disease Reporter 57: 104-106. 
+Freeman, S. and Katan, T. (1997). Identification of 
+Colletotrichum species responsible for anthrac nose and root necrosis of strawberry in Israel. Phytopathology 87: 516-521. 
+Freeman, S. and Rodriguez, R.J. (1995). Differentiation of Colletotrichum species responsible for anthracnose of strawberry by arbitrarily primed 
+PCR. Mycological Research 99: 501-504. 
+Freeman, S., Pham, M. and Rodríguez, R.J. (1993). 
+Molecular genotyping of Colletotrichum species based on arbitrarily primed PCR, A+ T-rich DNA, and nuclear DNA analyses. Experimental Mycology 17: 309-322. 
+Freeman, S., Minz, D., Jurkevitch, E., Maymon, M. and 
+Shabi, E. (2000). Molecular analyses of 
+Colletotrichum species from almond and other fruits. Phytopathology 90: 608-614.  
+Freeman, S., Shalev, Z. and Katan, J. (2002). Survival in soil of Colletotrichum acutatum and C. gloeospo rioides pathogenic on strawberry. Plant Disease 86: 965-970.  
+García-Pajón, C.M., Hernández-Gallán, R. and Collado, 
+I.G. (2003). Biotransformations by Colletotri chum species. Tetrahedron: Asymmetry 14: 1229 1239. 
+Giaconi, J.A., Marangon, F.B., Miller, D. and Failures, 
+E.C. (2006). Voriconazole and fungal Keratitis: a report of two treatment failures. Journal of Ocular 
+Pharmacology and Therapeutics 22: 437-439. 
+Graham, J.H., Devine, T.E. and Hanson, C.H. (1976). 
+Occurrence and interaction of three species of 
+Colletotrichum on alfalfa in the mid-Atlantic 
+United States. Phytopathology 66: 538-541. 
+Guerber, J.C., Liu, B., Correll, J.C. and Johnston, P.R. (2003). Characterization of diversity in Colleto trichum acutatum sensu lato by sequence analysis of two gene introns, mtDNA and intron RFLPs, and mating compatibility. Mycologia 95: 872-895. 
+Gunnell, P.S and Gubler, W.D. (1992). Taxonomy and morphology of Colletotrichum species pathogenic to strawberry. Mycologia 84: 157-165. 
+Howard, C.M. and Albregts, E.E. (1983). Black leaf spot phase of strawberry anthracnose caused by 14 
+Colletotrichum gloeosporioides (= C. fragariae). Plant Disease 67: 1144-1146. 
+Howard, C.M. and Albregts, E.E. (1984). Anthracnose of strawberry fruit caused by Glomerella cingulata in Florida. Plant Disease 68: 824-825. 
+Hyde, K.D. and Soytong, K. (2008). The fungal endophyte dilemma. Fungal Diversity 33: 163 173. 
+Hyde, K.D. and Zhang, Y. (2008). Epitypification: should we epitypify? Journal of Zhejiang 
+University, Science B 9: 842-846. 
+Hyde, K.D., Cai, L., Cannon, P.F., Crouch, J.A., Crous, 
+P.W., Damm, U., Goodwin, P.H., Chen, H., 
+Johnston, P.R., Jones, E.B.G.,, Liu, Z.Y., 
+McKenzie, E.H.C., Moriwaki, J., Noireung, P., 
+Pennycook, S.R., Pfenning, L.H., Prihastuti, H., 
+Sato, T., Shivas, R.G., Tan, Y.P., Taylor, P.W.J., 
+Weir, B.S., Yang, Y.L. and Zhang, J.Z. (2009). 
+Colletotrichum – names in current use. Fungal Diversity 39: 147-183. 
+Koch, S.H., Baxter, A.P. and Knox-Davies, P. (1989). 
+Identity and pathogenicity of Colletotrichum species from Medicago sativa in South Africa. Phytophylactica 21: 69-78. 
+Kodsueb, R., McKenzie, E.H.C., Lumyong, S. and Hyde, 
+K.D. (2008). Diversity of saprobic fungi on 
+Magnoliaceae. Fungal Diversity 30: 37-53. 
+Kumar, D.S.S. and Hyde. K.D. (2004). Biodiversity and tissue-recurrence of endophytic fungi from 
+Tripterygium wilfordii. Fungal Diversity 17: 69 90. 
+Kumari, G.N.K., Masilamani, S., Ganesh, M.R., Aravind, 
+S. (2003). Microbial transformation of zaluzanin
+D. Phytochemistry 62: 1101-1104. 
+Latunde-Dada, A.O. (2001). Colletotrichum: Tales of forcible entry, stealth, transient confinement and breakout. Molecular. Plant Pathology 2: 187-198. 
+Latunde-Dada, A.O. and Lucas, J.A. (2007). Localized hemibiotrophy in Colletotrichum: cytological and molecular taxonomic similarities among C. destructivum, C. linicola and C. truncatum. Plant Pathology 56: 437-447. 
+Latunde-Dada, A.O., O’Connell, R.J., Nash, C., Pring, 
+R.J., Lucas, J.A. and Bailey, J.A. (1996). 
+Infection process and identity of the hemibio trophic anthracnose fungus (Colletotrichum destructivum O’Gara) from cowpea (Vigna unguiculata (L.) Walp.). Mycological Research 100: 1133-1141. 
+Latunde-Dada, A.O., Bailey, J.A. and Lucas, J.A. (1997). 
+Infection process of Colletotrichum destructivum 
+O’Gara from lucerne (Medicago sativa L.). 
+European Journal of Plant Pathology 103: 35-41. 
+Liu, X.Y., Duan, J.X. and Xie, X.M. (2007). 
+Colletotrichum yunnanense sp. nov., a new endophytic species from Buxus sp. Mycotaxon 100: 137-144. 
+Lu, G.Z., Cannon, P.F., Reid A. and Simmons, C.M. (2004). Diversity and molecular relationships of endophytic Colletotrichum isolates from the 
+Iwokrama Forest Reserve, Guyana. Mycological Research 108: 53-63. 
+MacKenzie, S.J., Seijo, T.E., Legard, D.E., Timmer, 
+P.W. and Peres, N.A. (2007). Selection for pathogenicity to strawberry in populations of 
+Colletotrichum gloeosporioides from native plants. Phytopathology 97: 1130-1140.  
+Manandahar, J.B., Hartman, G.L., and Sinclair, J.B. (1986). Colletotrichum destructivum, the anamorph of Glomerella glycines. Phytopatho logy 76: 282-285. 
+Martínez-Culebras, P.V., Barrio, E., García, M.D. and 
+Querol, A. (2000). Identification of Colletotri chum species responsible for anthracnose of strawberry based on the internal transcribed spacers of the ribosomal region. FEMS 
+Microbiology Letters 189: 97-101. 
+Martínez-Culebras, P.V., Barrio, E., Suärez Fernändez, 
+M.B., Garcìa, M.D. and Querol, A. (2002). 
+RAPDs analysis of Colletotrichum species derived from strawberry and specific primers for identification of C. fragariae species. Journal of Phytopathology 150: 680-686. 
+Martínez-Culebras, P.V., Querol, A., Suarez Fernandez, 
+M.B., Garcia Lopez, M.D. and Barrio, E. (2003). 
+Phylogenetic relationships among Colletotrichum pathogens of strawberry and design of PCR primers for their identification. Phytopathology 151: 135-143. 
+Mass, J.L. and Howard, C.M. (1985). Variation of several anthracnose fugni in virulence to strawberry and apple. Plant Disease 69: 164-166. 
+Massenot, M. and Raynal, G. (1973). Diseases of leguminous fodders. I. Anthracnose due to 
+Melanconiales. Annals de Phytopathologie 5: 83 100. 
+Moriwaki, J., Tsukiboshi, T. and Sato, T. (2002). 
+Grouping of Colletotrichum species in Japan based on rDNA sequences. Journal of General Plant Pathology 68: 307-320. 
+Nunez, Y.O., Salabarria, I.S., Collado, I.G. and 
+Hernández-Galán, R. (2006). The antifungal activity of widdrol and its biotransformation by 
+Colletotrichum gloeosporioides (Penz.) Penz. & 
+Sacc. and Botrytis cinerea Pers.: Fr. Journal of 
+Agricultural and Food Chemistry 54: 7517-7521. 
+O’Connell, R.J., Herbert, C., Sreenivasaprasad, S., 
+Khatib, M., Esquerre-Tugaye, M.T. and Dumas, 
+B. (2004). A novel Arabidopsis-Colletotrichum pathosystem for the molecular dissection of plant fungal interactions. Molecular Plant-Microbe Interactions 17: 272-282. 
+O'Gara, P.J. (1915). New species of Colletotrichum and Phoma. Mycologia 7: 38-41. 
+Osono, T., Ishii, Y., Takeda, H., Seramethakun, T., 
+Khamyong, S., To-Anun, C., Hirose, D., 
+Tokumasu, S. and Kakishima, M. (2009). Fungal succession and lignin decomposition on Shorea obtusa leaves in a tropical seasonal forest in northern Thailand. Fungal Diversity 36: 101-119. 
+Parikka, P., Lemmetty, A. and Paaskynkivi, E. (2006). 
+Survival of Colletotrichum acutatum in dead plant material and soil in Finland. In: Proceedings of the Vth International Strawberry Symposium 
+Book Series. Acta Horticulturae 708: 131-134. Fungal Diversity   15 
+Pauly, G. (1974). Characterization and pathogenicity of three species of Colletotrichum isolated from lucerne in the north of France. Annales de Phytopathologie 6: 99-100. 
+Peres, N.A.R., Kuramae, E.E., Dias, M.S.C. and De 
+Souza, N.L. (2002). Identification and charac terization of Colletotrichum spp. affecting fruit after harvest in Brazil. Phytopathology 150: 128 134. 
+Peres, N.A., MacKenzie, S.J., Peever, T.L. and Timmer, 
+L.W. (2008). Postbloom fruit drop of citrus and 
+Key lime anthracnose are caused by distinct populations of Colletotrichum acutatum. Phyto pathology 98: 345-352. 
+Phillips, A.J.L., Crous, P.W. and Alves, A. (2007). 
+Diplodia seriata, the anamorph of "Botryo sphaeria" obtusa. Fungal Diversity 25: 141-155. 
+Photita, W., Lumyong, S., Lumyong, P., Ho, W.H., 
+McKenzie, E.H.C. and Hyde, K.D. (2001a). 
+Fungi on Musa acuminata in Hong Kong. Fungal Diversity 6: 99-106. 
+Photita, W., Lumyong, S., Lumyong, P. and Hyde, K.D. (2001b). Endophytic fungi of wild banana (Musa acuminata) at Doi Suthep Pui National Park, 
+Thailand. Mycological Research 105: 1508-1514. 
+Photita, W., Lumyong, S., Lumyong, P., McKenzie, 
+E.H.C. and Hyde, K.D. (2003). Saprobic fungi on dead wild banana. Mycotaxon 85: 345-356. 
+Photita, W., Lumyong, S., Lumyong, P., McKenzie, 
+E.H.C. and Hyde, K.D. (2004). Are some endophytes of Musa acuminata latent pathogens? Fungal Diversity 16: 131-140. 
+Photita, W., Taylor, P.W.J., Ford, R., Lumyong, P., 
+McKenzie, H.C. and Hyde, K.D. (2005). 
+Morphological and molecular characterization of 
+Colletotrichum species from herbaceous plants in 
+Thailand. Fungal Diversity 18: 117-133. 
+Prihastuti, H., Cai, L., Chen, H., McKenzie, E.H.C. and 
+Hyde, K.D. (2009). Characterization of 
+Colletotrichum species associated with coffee berries in Chiang Mai, Thailand. Fungal Diversity 39: 89-109. 
+Promputtha, I., Lumyong, S., Dhanasekaren, V., 
+McKenzie, E.H.C., Hyde, K.D. and Jeewon, R. (2007). A phylogenetic evaluation of whether endophytes become saprotrophs at host senescence. Microbial Ecology: 53: 579-590. 
+Raman, M. and Louws, F. (2008). Epidemiological significance of C. gloeosporioides infestation of nursery plants on crown rot of strawberry. Phytopathology 98: S129-S129. 
+Ren, Y.H., Strobel, G.A., Graff, J.C., Jutila, M., Park, 
+S.G., Gosh, S., Teplow, D., Condron, M., Pang, 
+E., Hess, W.M. and Moore, E. (2008). Colutellin 
+A, an immunosuppressive peptide from 
+Colletotrichum dematium. Microbiology 154: 1973-1979. 
+Ripoche, A., Jacqua, G., Bussiere, F., Guyader, S. and 
+Sierra, J. (2008). Survival of Colletotrichum gloeosporioides (causal agent of yam anthracnose) on yam residues decomposing in soil. Applied Soil Ecology 38: 270-278. 
+Robotic, V. and Klokocar-Smit, Z. (1983). Colletotri chum trifolii Bain & Essary, the pathogen of anthracnose of lucerne. Zastita-Bilja 34: 225-239. 
+Romano, A., Romano, D., Ragg, E., Costantino, F., 
+Lenna, R., Gandolfi, R. and Molinari, F. (2006). 
+Steroid hydroxylations with Botryodiplodia malorum and Colletotrichum lini. Steroids 71: 429-434. 
+Sahashi, N., Kubono, T. and Shoji, T. (1995). 
+Pathogenicity of Colletotrichum dematium isolated from current-year beech seedlings exhibiting damping-off. European Journal of Forest Pathology 25: 145-151. 
+Shen, S., Goodwin, P. and Hsiang, T. (2001). 
+Hemibiotrophic infection and identity of the fungus, Colletotrichum destructivum, causing anthracnose of tobacco. Mycological Research 105: 1340-1347. 
+Shenoy, B.D., Jeewon, R. and Hyde, K.D. (2007a). 
+Impact of DNA sequence-data on the taxonomy of anamorphic fungi. Fungal Diversity 26: 1-54. 
+Shenoy, B.D., Jeewon, R., Lam, W.H., Bhat, D.J., Than, 
+P.P., Taylor, P.W.J. and Hyde, K.D. (2007b). 
+Morpho-molecular characterization and epitypifi catin of Colletotrichum capsici (Glomerellaceae, 
+Sordariomycetes), the causative agent of anthracnose in chilli. Fungal Diversity 27: 197 211. 
+Sherriff, C., Whelan, M.J., Arnold, G.M., Lafay, J.F., 
+Brygoo, Y. and Bailey, J.A. (1994). Ribosomal 
+DNA sequence analysis reveals new species groupings in the genus Colletotrichum. 
+Experimental Mycology 18: 121-138. 
+Sherriff, C., Whelan, M.J., Arnold, G.M. and Bailey, J.A. (1995). rDNA sequence analysis confirms the distinction between Colletotrichum graminicola and C. sublineolum. Mycological Research 99: 475-478. 
+Shivas, R.G. and Tan, Y.P. (2009). A taxonomic re assessment of Colletotrichum acutatum, introducing C. fioriniae comb. et stat. nov. and C. simmondsii sp. nov. Fungal Diversity 39: 111-122. 
+Shovan, L.R., Bhuiyan, M.K.A., Begum, J.A. and Pervez, 
+Z. (2008). In vitro control of Colletotrichum dematium causing anthracnose of soybean by fungicides, plant extracts and Trichoderma harzianum. International Journal of Sustainable Crop Production 3: 10-17. 
+Simmonds, J.H. (1941). Latent infections in tropical fruits discussed in relation to the part played by species of Gloeosporium and Colletotrichum. 
+Proceedings of the Royal Society, Queensland 52: 92-120. 
+Simmonds, J.H. (1963). Studies in the latent phase of 
+Colletotrichum species causing ripe rots of tropical fruits. Queensland Journal of Agriculture and Animal Science 20: 373-424. 
+Simmonds, J.H. (1965). A study of species of 
+Colletotrichum causing ripe fruit rots in 
+Queensland. Queensland Journal of Agriculture and Animal Science 22: 437-459. 16 
+Smith, B.J. and Black, L.L. (1986). First report of 
+Colletotrichum on strawberry in the United States. Plant Disease 70: 1074. 
+Smith, B.J. and Black, L.L. (1990). Morphological, cultural, and pathogenic variation among 
+Colletotrichum species isolated from strawberry. Plant Disease 74: 69-76. 
+Sreenivasaprasad, S., Brown, A.E. and Mills, P.R. (1992). DNA sequence variation and interrelationships among Colletotrichum species causing strawberry anthracnose. Physiological and Molecular Plant Pathology 41: 265-281. 
+Sreenivasaprasad, S., Brown, A.E. and Mills, P.R. (1993). Coffee berry disease pathogen in Africa: genetic structure and relationship to the group species Colletotrichum gloeosporioides. 
+Mycological Research 97: 995-1000. 
+Sreenivasaprasad, S., Mills, P.R. and Brown, A.E. (1994). Nucleotide sequence of the rDNA spacer 1 enables identification of isolates of 
+Colletotrichum as C. acutatum. Mycological Research 98: 186-188. 
+Sreenivasaprasad, S., Mills, P.R., Meehan, B.M. and 
+Brown, A.E. (1996). Phylogeny and systematic of 18 Colletotrichum species based on ribosomal 
+DNA spacer sequences. Genome 39: 499-512. 
+Sun, H. and Zhang,  J.Z. (2009). Colletotrichum destructivum from cowpea infecting Arabidopsis thaliana and its identity to C. higginsianum. 
+European Journal of Plant Pathology 125: 459 469. 
+Sutton, B.C. (1980). The Coelomycetes: fungi imperfecti with pycnidia, acervuli and stromata. 
+Commonwealth Mycological Institute, Kew, UK: 523-527. 
+Sutton, B.C. (1992). The genus Glomerella and its anamorph Colletotrichum. In: Colletotrichum: biology, pathology and control (eds. J.A. Bailey and M.J. Jeger). CAB International, Wallingford: 1-26. 
+Tang, A.M.C., Jeewon, R. and Hyde, K.D. (2005). 
+Successional patterns of microfungi in fallen leaves of Castanopsis fissa (Fagaceae) in Hong 
+Kong forest. Canadian Journal of Microbiology 51: 967-974. 
+Taylor, J.W., Jacobson, D.J., Kroken, S., Kasuga, T., 
+Geiser, D.M., Hibbett, D.S. and Fisher, M.C. (2000). Phylogenetic species recognition and species concepts in fungi. Fungal Genetics and Biology 31: 21-32. 
+TeBeest, D.O., Correll, J.C. and Weidemann, G.J. (1997). 
+Specification and population biology in 
+Colletotrichum. In: The Mycota V, part B (eds. K, 
+Esser and P.A. Lemke). Springer-Verlag Berlin Heidelberg: 157-168. 
+Than, P.P., Shivas, R.G., Jeewon, R., Pongsupasamit, S., 
+Marney, T.S., Taylor, P.W.J. and Hyde, K.D. (2008a). Epitypification and phylogeny of 
+Colletotrichum acutatum J.H. Simmonds. Fungal Diversity 28: 97-108. 
+Than, P.P., Jeewon, R., Hyde, K.D., Pongsupasamit, S., 
+Mongkolporn, O. and Taylor, P.W.J. (2008b). 
+Characterization and pathogenicity of 
+Colletotrichum species associated with anthracnose on chilli (Capsicum spp) in Thailand. Plant Pathology 57: 562-572. 
+Than P.P., Prihastuti H., Phoulivong S., Taylor P.W.J. and Hyde K.D. (2008c). Chilli anthracnose disease caused by Colletotrichum species. Journal of Zhejiang University: Science B 9: 764-778. 
+Thaung, M.M. (2008). Coelomycete systematics with special reference to Colletotrichum. Mycoscience 49: 345-350. 
+Thompson, A.H. and van der Westhuizen, G.C.A. (1985). 
+A survey of the disease of the pasture crop lucerne, 1978–1984. Agricultural Research, South Africa 1985: 28-29. 
+Thongkantha, S., Lumyong, S., McKenzie, E.H.C. and 
+Hyde, K.D. (2008). Fungal saprobes and pathogens occurrence on tissues of Dracaena loureiri and Pandanus spp. Fungal Diversity 30: 149-179. 
+Tode, H.J. (1790). Fungi Mecklenbergensis Selecti 1: 1 64. 
+Tomioka, K., Moriwaki, J. and Sato, T. (2008). 
+Anthracnose of Polygonatum falcatum caused by 
+Colletotrichum dematium. Journal of General Plant Pathology 74: 402-404. 
+Troeung, D.M. and Gosset, H. (1987). First observation of lucerne anthracnose in Eastern Morocco. Agronomie 7: 361-363. 
+Whitelaw-Weckert, M.A., Curtin, S.J., Huang, R., Steel, 
+C.C., Blanchard, C.L. and Roffey, P.E. (2007). 
+Phylogenetic relationships and pathogenicity of 
+Colletotrichum acutatum isolates from grape in subtropical Australia. Plant Pathology 56: 448 463. 
+Wolcan, S.M. and Bello dal, G.M. (1988). 
+Colletotrichum destructivum O’Gara, causal agent of a new disease on Lotus tenuis Waldst. et Kit. Agronomie 8: 741-744. 
+Wright, J. (1998). The role of endophytes in Citrus stem end rots. PhD thesis, The University of Hong Kong, Hong Kong. 
+Wright, J.G., Hyde, K.D. and Johnson, G.I. (1996). 
+Observations on the biology of stem end rot pathogens. In: Proceedings International Society of Citriculture 1996: 418-422. 
+Wright, J.G., Johnson, G.I. and Hyde, K.D. (1997). Studies on the endophytic mycota of Citrus spp. In Fruit 
+Resistance to Disease (eds. G.I. Johnson, D.C. 
+Joyce, and E. Highley), ACIAR Proceedings 80: 167-173. 
+Yang, Y.L., Liu, Z.Y., Cai, L., Hyde, K.D., Yu, Z.N. and 
+Mckenzie, E.H.C. (2009). Colletotrichum anthracnose of Amaryllidaceae. Fungal Diversity 39: 123-146. 
+Yoshida, S. and Shirata, A. (1998). Annual development of mulberry anthracnose caused by 
+Colletotrichum dematium in relation to position of leaves in tree. Journal of Sericultural Science of Japan 67: 327-332. Fungal Diversity   17 
+Yoshida, S, Shirata, A. and Hiradate, S. (2002). 
+Ecological characteristics and biological control of mulberry anthracnose. JARQ 36: 89-95. 
+Zamora, P., Martínez-Ruiz, C. and Diez J.J. (2008). 
+Fungi in needles and twigs of pine plantations from northern Spain. Fungal Diversity 30: 171 184. 
+Zhang, J.Z. (2008). Anthracnose of persimmon caused by Colletotrichum gloeosporioides in China. 
+Asian and Australasian Journal of Plant Science and Biotechnology 2: 50-54.    
