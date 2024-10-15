@@ -17,7 +17,8 @@ C. acutatum control is highly dependent on frequent and nu merous applications o
 QoI fungicides target the cytochrome b (cytb) gene, inhibiting fungal mitochondrial respiration (Bartlett et al. 2002; Sauter et al.
 1999; Ypema and Gold 1999). Azoxystrobin is a QoI fungicide that has been registered for anthracnose control on strawberry for several decades (Mertely et al. 2017a, b). However, the intensive use of such fungicides has led to the selection of C. acutatum populations resistant to QoI fungicides (Forcelini et al. 2016). QoI resistance was first found during the 2013 to 2014 strawberry †Corresponding author: Natalia A. Peres; E-mail: nperes@ufl.edu 
 Funding: This research was partially funded by the National Institute of Food and
-Agriculture, U.S. Department of Agriculture under award number 2014-51181 22377. © 2018 The American Phytopathological Society 
+Agriculture, U.S. Department of Agriculture under award number 2014-51181 22377.
+ © 2018 The American Phytopathological Society 
 PLANT HEALTH PROGRESS ¿ 2018, Vol. 19, No. 4 ¿ Page 338 https://doi.org/10.1094/PHP-08-18-0050-RS mailto:nperes@ufl.edu production season in Florida. Resistant C. acutatum isolates har bored either the F129L or the G143A mutations in the cytb gene, which were associated with moderate and complete resistance to the
 QoIs, respectively. During the 2015 to 2016 strawberry season, anthracnose outbreaks were reported in strawberry nurseries and production fields throughout the United States. Thus, the objectives of this study were to (i) determine sensitivity to azoxystrobin of C. acutatum isolates collected in strawberry nurseries and production fields from a wide range of geographical locations and (ii) survey the current disease management programs implemented in strawberry nurseries.
 Monitoring C. acutatum Sensitivity to Azoxystrobin in Nursery and Production Fields

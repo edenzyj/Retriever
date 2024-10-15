@@ -58,7 +58,8 @@ Survival of C. acutatum in leaf debris buried outdoors in soil was similar to th
 Fig 4. Number of Colletotrichum acutatum CFU recovered from air-dried (■) or dampened (●) diseased leaf debris maintained in the laboratory over a 56-day period. The temperature was main tained at 25°C.
 Fig 5. Number of Colletotrichum acutatum CFU recovered from diseased leaf debris buried in field plots over a 126-day period.
 Fig. 6. Number of Colletotrichum acutatum scler otia recovered from soil maintained in the lab oratory at 25°C at 1 (■), 3 (●), 6 (▼), 12 (▲), and 24% (◆) soil moisture over a 56-day per iod.
-Fig. 7. Number of viable Colletotrichum acu tatum conidia recovered after spray applications of 106 conidia per ml to denim fabric maintained at 25°C over a 42-day period. The solid lines indicate three separate experiments, and the dotted line represents the mean of these ex periments. 1180  Plant Disease / Vol. 81 No. 10 per g of soil) was reached within 80 days after incorporation.
+Fig. 7. Number of viable Colletotrichum acu tatum conidia recovered after spray applications of 106 conidia per ml to denim fabric maintained at 25°C over a 42-day period. The solid lines indicate three separate experiments, and the dotted line represents the mean of these ex periments.
+ 1180  Plant Disease / Vol. 81 No. 10 per g of soil) was reached within 80 days after incorporation.
 Sclerotia of C. acutatum added to soil held under laboratory conditions maintained high viability (≥100 sclerotia per g of soil) under dry conditions for 26 weeks; how ever, under moist conditions (≥12%), pop ulations declined to very low levels by day 56 (Fig. 6). Viable sclerotia at lower num bers were recovered consistently from soil for up to 47 weeks after incorporation.
 Survival of C. acutatum on clothing.
 Numbers of viable conidia recovered from denim fabric held at 25°C and low humid ity decreased at a steady rate (Fig. 7). Num bers of conidia sufficient to cause infection (100 CFU/ml) were recovered up to 4 weeks after placement on fabric, although some viable conidia were recovered for up to 42 days after treatment.DISCUSSION
@@ -72,13 +73,31 @@ Transport of conidia on clothing, tools, and equipment are thought to be major m
 This research was supported in part by the Fred 
 C. Gloeckner Foundation Inc. and the Florida De partment of Agriculture and Consumer Services. 
 LITERATURE CITED  1. Bernstein, B., Zehr, E. I., Dean, R. A., and Shabi, 
-E. 1995. Characteristics of Colletotrichum from peach, apple, pecan, and other hosts. Plant Dis. 79:478-482.  2. Britton, K. O., and Redlin, S. C. 1995. Collet otrichum acutatum causes anthracnose of black gum (Nyssa sylvatica). Plant Dis. 79:1187.  3. Britton, K. O., and Redlin, S. C. 1995. Damp ing-off of flowering dogwood seedlings caused by Colletotrichum acutatum and Fusarium oxy sporum. Plant Dis. 79:1188.  4. Chase, A. R. 1993. Diseases of leatherleaf fern and their control. Univ. Fla. Inst. Food Agric. Sci. Central Fla. Res. Edu. Center-Apopka Res. Rep. RH-93-18.  5. Coates, L. M., Erwin, J. A. G., and Muirhead,
-I. F. 1993. The use of a benomyl-resistant mu tant to demonstrate latency of Colletotrichum gloeosporioides in avocado fruit. Aust. J. Agric. Res. 44:763-772.  6. Dillard, H. R., and Cobb, A. C. 1993. Survival of Colletotrichum lindemuthianum in bean debris in New York State. Plant Dis. 77:1233-1238.  7. Eastburn, D. M., and Gubler, W. D. 1990. Straw berry anthracnose: Detection and survival of
-Colletotrichum acutatum in soil. Plant Dis. 74:161-163.  8. Eastburn, D. M., and Gubler, W. D. 1992.
-Effect of soil moisture and temperature on the survival of Colletotrichum acutatum. Plant Dis. 76:841-842.  9. Farley, J. D. 1972. A selective medium for as say of Colletotrichum coccodes in soil. Phyto pathology 62:1288-1293.  10. Hastie, A. C., and Georgopoulos, S. G. 1971.
-Mutational resistance to fungitoxic benzi midazole derivations in Aspergillus nidulans.J. Gen. Microbiol. 67:371-373.  11. Henz, G. P., Boiteux, L. S., and Lopes, C. A. 1992. Outbreak of strawberry anthracnose caused by Colletotrichum acutatum in central Brazil. Plant Dis. 76:212.  12. Khan, M., and Sinclair, J. B. 1991. Effect of soil temperature on infection of soybean roots by sclerotia-forming isolates of Colletotrichum truncatum. Plant Dis. 75:282-285.  13. Nair, J., Newhook, F. J., and Corbin, J. B. 1983. Survival of Colletotrichum acutatum f.
-sp. pinea in soil and pine debris. Trans. Br. Mycol. Soc. 81:53-63.  14. Stamps, R. H. 1992. Commercial leatherleaf fern culture in the United States of America. Pages 243-249 in: Fern Horticulture: Past, Pres ent and Future Perspectives. Proc. Int. Symp. Cultivation Propagation Pteridophytes. Intercept
-Ltd., Andover, England.  15. Strandberg, J. O. 1994. Efficacy of selected fungicides for control of anthracnose in leath erleaf fern—A preliminary report. Univ. Fla. Inst. Food Agric. Sci. Central Fla. Res. Edu. Center. Cut Foliage Grower 9(11/12):1-4.  16. Strandberg, J. O., Stamps, R. H., and Norman,
-D. J. 1996. Fern anthracnose: A guide for ef fective disease management. Univ. Fla., Agric. Exp. Stn. Tech. Bull. 900.  17. Tu, J. C. 1983 Epidemiology of anthracnose caused by Colletotrichum lindemuthianum on white bean (Phaseolus vulgaris) in southern
-Ontario: Survival of the pathogen. Plant Dis. 67:402-404.  18. U.S. Department of Agriculture. 1993. Floricul ture crops, summary. U.S. Department of Ag riculture, Statistics Service, Agricultural Sta tistics Board, Washington, DC.  19. Vizvary, M. A., and Warren, H. L. 1982. Sur vival of Colletotrichum graminicola in soil.Phytopathology 72:522-525.  20. Wilson, L. L., Madden, L. V., and Ellis, M. A. 1990. Influence of temperature and wetness duration on infection of immature and mature strawberry fruit by Colletotrichum acutatum.Phytopathology 80:111-116.  21. Wilson, L. L., Madden, L. V., and Ellis, M. A. 1992. Overwinter survival of Colletotrichum acutatum in infected strawberry fruit in Ohio. Plant Dis. 76:948-950.  22. Zulfiqar, M., Brlansky, R. H., and Timmer, L. W. 1996. Infection of flower and vegetative tis sues of citrus by Colletotrichum acutatum and
+E. 1995. Characteristics of Colletotrichum from peach, apple, pecan, and other hosts. Plant Dis. 79:478-482.
+  2. Britton, K. O., and Redlin, S. C. 1995. Collet otrichum acutatum causes anthracnose of black gum (Nyssa sylvatica). Plant Dis. 79:1187.
+  3. Britton, K. O., and Redlin, S. C. 1995. Damp ing-off of flowering dogwood seedlings caused by Colletotrichum acutatum and Fusarium oxy sporum. Plant Dis. 79:1188.
+  4. Chase, A. R. 1993. Diseases of leatherleaf fern and their control. Univ. Fla. Inst. Food Agric. Sci. Central Fla. Res. Edu. Center-Apopka Res. Rep. RH-93-18.  5. Coates, L. M., Erwin, J. A. G., and Muirhead,
+I. F. 1993. The use of a benomyl-resistant mu tant to demonstrate latency of Colletotrichum gloeosporioides in avocado fruit. Aust. J. Agric. Res. 44:763-772.
+  6. Dillard, H. R., and Cobb, A. C. 1993. Survival of Colletotrichum lindemuthianum in bean debris in New York State. Plant Dis. 77:1233-1238.
+  7. Eastburn, D. M., and Gubler, W. D. 1990. Straw berry anthracnose: Detection and survival of
+Colletotrichum acutatum in soil. Plant Dis. 74:161-163.
+  8. Eastburn, D. M., and Gubler, W. D. 1992.
+Effect of soil moisture and temperature on the survival of Colletotrichum acutatum. Plant Dis. 76:841-842.
+  9. Farley, J. D. 1972. A selective medium for as say of Colletotrichum coccodes in soil. Phyto pathology 62:1288-1293.
+  10. Hastie, A. C., and Georgopoulos, S. G. 1971.
+Mutational resistance to fungitoxic benzi midazole derivations in Aspergillus nidulans.J. Gen. Microbiol. 67:371-373.
+  11. Henz, G. P., Boiteux, L. S., and Lopes, C. A. 1992. Outbreak of strawberry anthracnose caused by Colletotrichum acutatum in central Brazil. Plant Dis. 76:212.
+  12. Khan, M., and Sinclair, J. B. 1991. Effect of soil temperature on infection of soybean roots by sclerotia-forming isolates of Colletotrichum truncatum. Plant Dis. 75:282-285.
+  13. Nair, J., Newhook, F. J., and Corbin, J. B. 1983. Survival of Colletotrichum acutatum f.
+sp. pinea in soil and pine debris. Trans. Br. Mycol. Soc. 81:53-63.
+  14. Stamps, R. H. 1992. Commercial leatherleaf fern culture in the United States of America. Pages 243-249 in: Fern Horticulture: Past, Pres ent and Future Perspectives. Proc. Int. Symp. Cultivation Propagation Pteridophytes. Intercept
+Ltd., Andover, England.  15. Strandberg, J. O. 1994. Efficacy of selected fungicides for control of anthracnose in leath erleaf fern—A preliminary report. Univ. Fla. Inst. Food Agric. Sci. Central Fla. Res. Edu. Center. Cut Foliage Grower 9(11/12):1-4.
+  16. Strandberg, J. O., Stamps, R. H., and Norman,
+D. J. 1996. Fern anthracnose: A guide for ef fective disease management. Univ. Fla., Agric. Exp. Stn. Tech. Bull. 900.
+  17. Tu, J. C. 1983 Epidemiology of anthracnose caused by Colletotrichum lindemuthianum on white bean (Phaseolus vulgaris) in southern
+Ontario: Survival of the pathogen. Plant Dis. 67:402-404.
+  18. U.S. Department of Agriculture. 1993. Floricul ture crops, summary. U.S. Department of Ag riculture, Statistics Service, Agricultural Sta tistics Board, Washington, DC.  19. Vizvary, M. A., and Warren, H. L. 1982. Sur vival of Colletotrichum graminicola in soil.Phytopathology 72:522-525.
+  20. Wilson, L. L., Madden, L. V., and Ellis, M. A. 1990. Influence of temperature and wetness duration on infection of immature and mature strawberry fruit by Colletotrichum acutatum.Phytopathology 80:111-116.
+  21. Wilson, L. L., Madden, L. V., and Ellis, M. A. 1992. Overwinter survival of Colletotrichum acutatum in infected strawberry fruit in Ohio. Plant Dis. 76:948-950.
+  22. Zulfiqar, M., Brlansky, R. H., and Timmer, L. W. 1996. Infection of flower and vegetative tis sues of citrus by Colletotrichum acutatum and
 Colletotrichum gloeosporioides. Mycologia 88: 121-128.   

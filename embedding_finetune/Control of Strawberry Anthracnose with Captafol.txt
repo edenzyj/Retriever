@@ -13,7 +13,8 @@ Fungicide bioassay. In vitro action of several fungicides on C. fragariae was de
 Portions of a thesis submitted by senior author in partial fulfillment of the requirements for the M.S. degree, North Carolina State University. 
 Paper 6360 of the Journal Series of the North
 Carolina Agricultural Research Service, Raleigh. 
-Use of trade names implies neither endorsement of the products by the North Carolina Research Service nor criticism of similar ones not mentioned. 0191-2917/80/11101303/$03.00/0 © 1980 American Phytopathological Society concentrations of 0.04, 0.2, 1.0, 5.0, 20, 100, and 500 a.i. Mg/ml. Concentrations of 0.04-20 Mg/ml were used in the fungistatic tests, and concentrations of 1.0-500 Mg/ml were used in the fungicidal tests. A deionized water control was included in each test. The fungicides evaluated were captafol (Difolatan 4F), Captan (Orthocide 50W), chlorothalonil (Bravo 6F), maneb (Dithane M-22 80W), benomyl (Benlate 50W), triforine (Funginex EC), and CGA 64251 (Ciba-Geiby Corp. experimental compound).
+Use of trade names implies neither endorsement of the products by the North Carolina Research Service nor criticism of similar ones not mentioned.
+ 0191-2917/80/11101303/$03.00/0 © 1980 American Phytopathological Society concentrations of 0.04, 0.2, 1.0, 5.0, 20, 100, and 500 a.i. Mg/ml. Concentrations of 0.04-20 Mg/ml were used in the fungistatic tests, and concentrations of 1.0-500 Mg/ml were used in the fungicidal tests. A deionized water control was included in each test. The fungicides evaluated were captafol (Difolatan 4F), Captan (Orthocide 50W), chlorothalonil (Bravo 6F), maneb (Dithane M-22 80W), benomyl (Benlate 50W), triforine (Funginex EC), and CGA 64251 (Ciba-Geiby Corp. experimental compound).
 C. fragariae isolates obtained from
 North Carolina (CF-4, -9, -16), Louisiana (CF-1), and Florida (CF-7) were used.
 Conidial suspensions of the isolates were prepared from 10-day-old cultures grown on oatmeal agar at 24 C and were adjusted with a hemacytometer to 5 X 105 conidia per milliliter. Three cellophane disks were seeded with each isolate at each concentration and maintained in a moist chamber at 24-28 C. Tests were repeated for a total of six disks for each treatment.
@@ -75,7 +76,9 @@ Maneb 80W 1.9 5.0 1 y 5.0 0 y ..........
 Captan 50W 2.4 ... ... ... ... 1.0 2.0 4.3 35 xyz Captan 50W + 2.4
 Benomyl 50W 0.6 ... ... ... ... 1.0 2.0 3.8 76 wxyz 
 Control ... 5.0 1 y 5.0 1 y 1.5 3.2 5.0 7 z 'Disease index: 1 = 0% plant loss, 2 = 1-5%, 3 = 6-25%, 4 = 26-50%, 5 = 51-100%.
-bAverage plants per plot. Figures in column followed by the same letter are not significantly different by Duncan's multiple range test (P = 0.05). c Average of four three-plant plots. 1014 Plant DiseaseNol. 64 No. 11 
+bAverage plants per plot. Figures in column followed by the same letter are not significantly different by Duncan's multiple range test (P = 0.05).
+ c Average of four three-plant plots.
+ 1014 Plant DiseaseNol. 64 No. 11 
 Disease developed more rapidly in the plots treated at 14-day intervals. In July, the average disease index was 0.4 higher than that of the 7-day treatment. By 1
 August captafol clearly differed from all other treatments. By 29 August, however, no treatment applied on a 14-day schedule gave acceptable control of strawberry anthracnose. (Table 3). Disease indices ranged from 3.7 for captafol at 4.8 g a.i./ L to 5.0 for the benomyl, maneb, and control treatments. Yields were markedly lower than those of the 7-day treatments ranging from 30-78 plants per plot for captafol treatments and none to one plant per plot for all other treatments. These differences were attributed to rapid plant growth and an extended spray interval.
 Disease development was slower in the spring and early summer of 1979 than in 1978 due to lower temperatures in June, which retarded plant growth and reduced yield. An extended wet period during
@@ -85,24 +88,36 @@ September, respectively, were progres sively worse with decreasing captafol conc
 Captafol was the most active material against C. fragariae in laboratory and field tests. It performed well even under epidemic conditions if applied in appropriate concentrations. Adequate control of strawberry anthracnose is pro vided by 1.2-2.4 g a.i./ L applied every 7 days. The mixture of captan plus benomyl at 2.4 and 0.6 g a.i./L, respectively, also provides some control.
 Since Benlate has not been used extensively in commercial strawberry fields for 2-3 yr, it is possible that the population of the resistant strain has decreased. If this is so, the mixture would combine the high activity of captan with the continuous protection of a systemic.
 In this study, however, captafol was much more effective for control of strawbery anthracnose than any other fungicide.
-LITERATURE CITED 1. BROOKS, A. N. 1931. Anthracnose of strawberry caused byColletotrichum fragariae.Phytopathology 21:731-744. 2. BURNSIDE, K. R. 1971. Breeding for resistance and chemical control of Colletotrichum fragariae. Ph.D. dissertation, Louisiana StateUniv. 45 pp. 3. CARVER, R. G., and N. L. HORN. 1960.
+LITERATURE CITED 1. BROOKS, A. N. 1931. Anthracnose of strawberry caused byColletotrichum fragariae.Phytopathology 21:731-744.
+ 2. BURNSIDE, K. R. 1971. Breeding for resistance and chemical control of Colletotrichum fragariae. Ph.D. dissertation, Louisiana StateUniv. 45 pp.
+ 3. CARVER, R. G., and N. L. HORN. 1960.
 Summer killing of strawberry plants caused by
-Colletotrichumfragariae. (Abstr.) Phytopathology 50:575. 4. HORN, N. L., K. R. BURNSIDE, and R. B. CARVER. 1972. Control of the crown rot phase of strawberry anthracnose through sanitation, breeding for resistance, and benomyl. Plant Dis. Rep. 56:515-519. 5. HORN, N. L., and R. G. CARVER. 1962.
-Anthracnose and powdery mildew on strawberry plants in Louisiana. Plant Dis. Rep. 45:591-592. 6. HORN, N. L., and R. G. CARVER. 1963. A new crown rot of strawberry plants caused by
-Colletotrichum fragariae. Phytopathology 53:768-770. 7. HOWARD, C. M. 1971. Control of strawberry anthracnose with benomyl. Plant Dis. Rep. 55:139-141. 8. HOWARD, C. M. 1972. A strawberry fruit rot caused by Colletotrichum fragariae. Phyto pathology 62:600-602. 9. JONES, R. K., C. N. CLAYTON, and R. D. MILHOLLAND. 1977. Strawberry diseases and control. N.C.S.U. Plant Pathol. Info. Note 199. 10. NEELY, D., and E. B. HIMELICK. 1966.
-Simultaneous determination of fungistatic and fungicidal properties of chemicals. Phytopathology 56:203-209. 11. SPENCE, E. Y. 1977. History of fungicides.
+Colletotrichumfragariae. (Abstr.) Phytopathology 50:575.
+ 4. HORN, N. L., K. R. BURNSIDE, and R. B. CARVER. 1972. Control of the crown rot phase of strawberry anthracnose through sanitation, breeding for resistance, and benomyl. Plant Dis. Rep. 56:515-519.
+ 5. HORN, N. L., and R. G. CARVER. 1962.
+Anthracnose and powdery mildew on strawberry plants in Louisiana. Plant Dis. Rep. 45:591-592.
+ 6. HORN, N. L., and R. G. CARVER. 1963. A new crown rot of strawberry plants caused by
+Colletotrichum fragariae. Phytopathology 53:768-770.
+ 7. HOWARD, C. M. 1971. Control of strawberry anthracnose with benomyl. Plant Dis. Rep. 55:139-141.
+ 8. HOWARD, C. M. 1972. A strawberry fruit rot caused by Colletotrichum fragariae. Phyto pathology 62:600-602.
+ 9. JONES, R. K., C. N. CLAYTON, and R. D. MILHOLLAND. 1977. Strawberry diseases and control. N.C.S.U. Plant Pathol. Info. Note 199.
+ 10. NEELY, D., and E. B. HIMELICK. 1966.
+Simultaneous determination of fungistatic and fungicidal properties of chemicals. Phytopathology 56:203-209.
+ 11. SPENCE, E. Y. 1977. History of fungicides.
 Pages 1-17 in: M. R. Siegel and H. D. Sisler, eds.
 Antifungal Compounds. Marcel Dekker, Inc.,New York. 600 pp.
 Diseases of Alfalfa in Alabama 
 F. A. GRAY, Plant Pathologist-Nematologist, Alabama Cooperative Extension Service; R. L. HAALAND and E. M.CLARK, Associate Professors, Department of Agronomy and Soils and Departments of Botany, Plant Pathology andMicrobiology, respectively; and D. M. BALL, Agronomist, Alabama Cooperative Extension Service, AuburnUniversity, Auburn, AL 36830 ABSTRACT
 GRAY, F. A., R. L. HAALAND, E. M. CLARK, and D. M. BALL. 1980. Diseases of alfalfa in
 Alabama. Plant Disease 64:1015-1017.
-A 3-yr survey of fields in Alabama showed several diseases associated with declining stands ofmature alfalfa (Medicago sativa). These include anthracnose (Colletotrichum trifolii), Sclerotiniacrown and stem rot (Sclerotinia trifoliorum), Rhizoctonia crown rot (Rhizoctonia solani), summerblack stem and leaf spot (Cercospora medicaginis), charcoal rot (Macrophominaphaseolina), andthe alfalfa stem nematode (Ditylenchus dipsaci). Rust (Uromyces striatus) severely damaged aseedling stand of alfalfa. Rhizoctonia crown rot, charcoal rot, and the alfalfa stem nematode arereported from the state for the first time. Eleven of 15 isolates of R. solani from diseased alfalfacrowns were pathogenic on seedling alfalfa. Six additional fungi and eight nematodes also were associated with the alfalfa plant. growth and reproduction (11). Several brief reports of alfalfa diseases in
+A 3-yr survey of fields in Alabama showed several diseases associated with declining stands ofmature alfalfa (Medicago sativa). These include anthracnose (Colletotrichum trifolii), Sclerotiniacrown and stem rot (Sclerotinia trifoliorum), Rhizoctonia crown rot (Rhizoctonia solani), summerblack stem and leaf spot (Cercospora medicaginis), charcoal rot (Macrophominaphaseolina), andthe alfalfa stem nematode (Ditylenchus dipsaci). Rust (Uromyces striatus) severely damaged aseedling stand of alfalfa. Rhizoctonia crown rot, charcoal rot, and the alfalfa stem nematode arereported from the state for the first time. Eleven of 15 isolates of R. solani from diseased alfalfacrowns were pathogenic on seedling alfalfa. Six additional fungi and eight nematodes also were associated with the alfalfa plant.
+ growth and reproduction (11). Several brief reports of alfalfa diseases in
 Alabama were published before 1950 (15), but an extensive survey of diseases of alfalfa has never been done. The need for such a survey appeared to be particularly important since alfalfa was not grown for 15-20 yr and essentially represents a new crop for the state.
 Economic control of alfalfa diseases is usually obtained through plant resistance (11). An alfalfa breeding program is under way at Auburn University. In addition, several private seed companies have expressed interest in the development of alfalfa cultivars specifically for the South. Identification and assessment of major diseases of alfalfa in the state would not only aid in making valid selections of available varieties but also provide vital information about the disease resistance that should be incorporated in cultivars developed for Alabama and adjacent areas.
 The purpose of this paper is to update 
 Plant Disease/November 1980 1015 
 Alfalfa production in Alabama reached a peak of 2,000 ha in the early 1950s. With the introduction of the alfalfa weevil 
 Present address of senior author: Associate
-Professor, Plant Science Division, University ofWyoming, Laramie, WY 82071. 0191-2917/80/11101503/$03.00/0 © 1980 American Phytopathological Society (Hypera postica Gyllenhal), however, acreage rapidly declined, and alfalfa production was essentially nonexistent by the late 1950s. The acreage planted in alfalfa has steadily increased since 1975 to a current estimated 1,200 ha, with more planned for production.
+Professor, Plant Science Division, University ofWyoming, Laramie, WY 82071.
+ 0191-2917/80/11101503/$03.00/0 © 1980 American Phytopathological Society (Hypera postica Gyllenhal), however, acreage rapidly declined, and alfalfa production was essentially nonexistent by the late 1950s. The acreage planted in alfalfa has steadily increased since 1975 to a current estimated 1,200 ha, with more planned for production.
 Alfalfa is attacked by at least 70 different pathogens of which approxi mately 30 are considered to limit its 

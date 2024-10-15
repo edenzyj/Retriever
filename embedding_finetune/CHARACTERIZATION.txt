@@ -68,7 +68,8 @@ Benomyl sensitivity. Screening of fun gicide sensitivity has been used primarily
 2) (45–47). Likewise, C. acutatum isolates from strawberry grown in Israel and Cali fornia, and from almond grown in Califor nia, were insensitive to the above-men tioned concentrations of benomyl (Fig. 2).
 Additional studies have shown that C. acutatum from almond, peach, and straw berry crops from California is insensitive to benomyl (1). This simple method can therefore be utilized for additional charac terization of local populations of Colleto trichum associated with particular anthrac nose diseases (1,9,35).Host Specificity
 Cross-infection potential has been re ported among different species of Colleto trichum and genotypes of C. gloeosporioi des on a variety of tropical, subtropical, and temperate fruits under artificial inocu lation conditions. For example, isolates of 
-Fig. 3. Artificial inoculation of (A) apple (cv. Golden Delicious), (B) almond (cv. Ne plusultra), and (C) avocado (cv. Fuerte) fruits with Colletotrichum isolates from vari ous hosts (as indicated by attached labels). 600  Plant Disease / Vol. 82 No. 6 
+Fig. 3. Artificial inoculation of (A) apple (cv. Golden Delicious), (B) almond (cv. Ne plusultra), and (C) avocado (cv. Fuerte) fruits with Colletotrichum isolates from vari ous hosts (as indicated by attached labels).
+ 600  Plant Disease / Vol. 82 No. 6 
 C. acutatum and C. gloeosporioides from a variety of temperate fruits caused disease symptoms that were visually indistinguish able when inoculated on detached peach fruits (5). C. gloeosporioides isolates from seven tropical fruit crops were also shown to cross-infect alternate detached leaves and fruits, and the success of infection appeared to be dependent on inoculum density (2). In studies conducted in Israel, it was of interest to determine whether avocado anthracnose was caused by the same subspecies of C. gloeosporioides as that responsible for almond anthracnose, since almond groves are situated alongside avocado plantations in some cultivation areas. Similarly, other crops, such as anemone, apple, mango, and strawberry, are known to be susceptible to Colleto trichum in Israel. To determine the poten tial of cross-infection, isolates from differ ent crops were cross-inoculated on various hosts.
 Our study showed that C. gloeosporioi des isolates from almond, apple, avocado, and mango, as well as C. acutatum isolates from anemone, apple, and peach, infected detached fruits of the other hosts, including apple (two varieties), avocado, almond, mango, and nectarine (Fig. 3) (21). These results demonstrated cross-infection po tential between two species, C. gloeospor ioides (including representatives of distinct subpopulations from almond, apple, avo cado, and mango) and C. acutatum (from apple and peach), on a variety of fruit spe cies. However, these experiments were conducted under the extreme conditions commonly applied in artificial inocula tions; whereas isolations from naturally infected fruit provided no evidence that cross-infection had occurred under field conditions.
 VCG. Studies of vegetative compatibil ity offer another approach to determining genetic relatedness in anamorphic popula tions of Colletotrichum species (8,11,60).
@@ -92,7 +93,8 @@ DNA, associated with the mitochondrial (mt) genome, can be detected by the re st
 HaeIII; whereas most of the nuclear DNA is digested to fragments of less than 2 kb in 
 Fig. 6. Interspecies restriction fragment length polymorphism (RFLP) band patterns of DNA of 10 different Colletotrichum species, (A) digested with PstI and hybridized with GcpR1 for nuclear DNA analyses, and (B) digested with HaeIII for A+T-rich DNA analyses.
 Lane 1, C. gloeosporioides (isolate 231-1); 2, C. musae (isolate 927); 3, C. fragariae (isolate MS9-1); 4, C. acutatum (isolate 215-1); 5,
-C. orbiculare (isolate 15093); 6, C. coccodes (isolate 401); 7, C. magna (isolate GM-16); 8, C. graminicola (maize, isolate 102); 9, C. graminicola (sorghum, isolate TX-2536); 10, C. lindemuthianum (isolate NY-54). DNA markers with the sizes in kilobases are indi cated to the left. Arrows in B indicate the bands chosen for pair-wise comparisons between species. (Figure courtesy AcademicPress [19]). 602  Plant Disease / Vol. 82 No. 6 size (19). HaeIII RFLPs of A+T-rich DNA were used successfully to characterize
+C. orbiculare (isolate 15093); 6, C. coccodes (isolate 401); 7, C. magna (isolate GM-16); 8, C. graminicola (maize, isolate 102); 9, C. graminicola (sorghum, isolate TX-2536); 10, C. lindemuthianum (isolate NY-54). DNA markers with the sizes in kilobases are indi cated to the left. Arrows in B indicate the bands chosen for pair-wise comparisons between species. (Figure courtesy AcademicPress [19]).
+ 602  Plant Disease / Vol. 82 No. 6 size (19). HaeIII RFLPs of A+T-rich DNA were used successfully to characterize
 Colletotrichum isolates from 10 species whereby each representative revealed unique restriction patterns (Fig. 6B). The results of this approach were similar to those obtained using the GcpR1 repetitive element, whereby C. gloeosporioides iso lates from almond had unique band pat terns, in contrast with polymorphic frag ments observed for avocado isolates (17).
 This approach also allowed grouping of C. acutatum isolates from apple and peach and differentiation among C. gloeosporioi des isolates from almond, apple, avocado, and mango (21).
 D. ap-PCR. ap-PCR or random ampli fied polymorphic DNA (RAPD) has been used extensively for identification and characterization of isolates in Colleto trichum (2,12,53,54). We employed ap
@@ -130,7 +132,8 @@ Although subpopulations have been rec ognized within C. acutatum and C. gloeospo
 Molecular approaches have been widely used, and their power for characterization 
 Fig. 8. Interspecies band patterns of arbitrarily primed polymerase chain reaction (ap
 PCR) amplified genomic DNA from isolates of Colletotrichum from various hosts us ing primer (GACA)4 represented as follows: CG-272 and CG-315 (C. gloeosporioides from strawberry, Florida and Nova Scotia); CF-63-1 (C. fragariae from strawberry, Mis sissippi); CA-330 (C. acutatum from strawberry, Tennessee); TUT-5954 (C. acutatum from strawberry, Israel); ALM-US-1A (C. acutatum from almond, California); ALM-US 9A (unidentified species from almond, California); APL-2 (C. acutatum from apple, S. Carolina); PCN-5 (C. acutatum from pecan, Alabama); PCH-8 (C. acutatum from peach,
-S. Carolina); ANE-IMI (C. acutatum IMI-223120 from anemone); and ANE-3A (C. acuta tum from anemone, Israel). Lanes M contain DNA size markers in kilobases. 604  Plant Disease / Vol. 82 No. 6 of isolates is well recognized. However, the applicability of the various techniques for overall delineation of subspecific sub populations has yet to be determined. In particular, the capacity to accurately iden tify phenotypically similar strains from diverse sources and to separate them from other phenotypes by molecular markers must be demonstrated.
+S. Carolina); ANE-IMI (C. acutatum IMI-223120 from anemone); and ANE-3A (C. acuta tum from anemone, Israel). Lanes M contain DNA size markers in kilobases.
+ 604  Plant Disease / Vol. 82 No. 6 of isolates is well recognized. However, the applicability of the various techniques for overall delineation of subspecific sub populations has yet to be determined. In particular, the capacity to accurately iden tify phenotypically similar strains from diverse sources and to separate them from other phenotypes by molecular markers must be demonstrated.
 VCG analysis, commonly used to study formae speciales of Fusarium oxysporum, has only been applied in a few cases to determine population structure in Colleto trichum spp. Identification of species by this method is confined to populations that are vegetatively compatible with well-de fined reference strains. Within species, subdivision by VCG has proven very de pendable, as evidenced by correlation with genotypes and phenotypic traits. VCG determination is based on multi-locus con trolled self/nonself discrimination between fungal strains, and its results are clear-cut in most cases. It is only applicable to anamorphic, clonally related populations.
 In sexually reproducing populations with a
 Glomerella stage, relationships can be determined by sexual compatibility, which is the ultimate criterion for delineating mating populations within a species. Un like the DNA-based methods, tests based on VCG and sexual crosses employ living fungi. Consequently, strains to be com pared may have to be moved from one geographic location to another, thus creating a risk of undesired pathogen dissemination.
@@ -142,14 +145,21 @@ Israel, 2287-E, 1997 Series. This work was sup ported in part by grant 132-0967-
 Chief Scientist, Israeli Ministry of Agriculture, and grant 6350-1-94 from the Israeli Ministry of
 Science, awarded to S. Freeman. 
 Literature Cited  1. Adaskaveg, J. E., and Hartin, R. J. 1997.
-Characterization of Colletotrichum acutatum isolates causing anthracnose of almond and peach in California. Phytopathology 87:979 987.  2. Alahakoon, P. W., Brown, A. E., and Sreeni vasaprasad, S. 1994. Cross-infection potential of genetic groups of Colletotrichum gloeosporioides on tropical fruits. Physiol. Mol. Plant Pathol. 44:93-103.  3. Bailey, J. A., and Jeger, M. J. 1992. Colle totrichum: Biology, Pathology and Control. J. A. Bailey and M. J. Jeger, eds. CAB Int.,
+Characterization of Colletotrichum acutatum isolates causing anthracnose of almond and peach in California. Phytopathology 87:979 987.
+  2. Alahakoon, P. W., Brown, A. E., and Sreeni vasaprasad, S. 1994. Cross-infection potential of genetic groups of Colletotrichum gloeosporioides on tropical fruits. Physiol. Mol. Plant Pathol. 44:93-103.
+  3. Bailey, J. A., and Jeger, M. J. 1992. Colle totrichum: Biology, Pathology and Control. J. A. Bailey and M. J. Jeger, eds. CAB Int.,
 Wallingford, UK.  4. Bailey, J. A., O’Connell, R. J., Pring, R. J., and Nash, C. 1992. Infection strategies of
 Colletotrichum species. Pages 88-120 in:
 Colletotrichum: Biology, Pathology and Con trol. J. A. Bailey and M. J. Jeger, eds. CAB
 Int., Wallingford, UK.  5. Bernstein, B., Zehr, E. I., Dean, R. A., and
-Shabi, E. 1995. Characteristics of Colleto trichum from peach, apple, pecan, and other hosts. Plant Dis. 79:478-482.  6. Binyamini, N., and Schiffmann-Nadel, M. 1972. Latent infection in avocado fruit due to
-Colletotrichum gloeosporioides. Phytopa thology 62:592-594.  7. Brizi, U. 1896. Eine neue krankheit (anthracnosis) des mandelbaums. Z. Pflan zenkrankh. Pflanzenschutz. 6:65-72.  8. Brooker, N. L., Leslie, J. F., and Dickman, M. B. 1991. Nitrate non-utilizing mutants of
-Colletotrichum and their use in studies of vegetative compatibility and genetic related ness. Phytopathology 81:672-677.  9. Brown, A. E., Sreenivasaprasad, S., and Tim mer, L. W. 1996. Molecular characterization of slow-growing orange and key lime an thracnose strains of Colletotrichum from cit rus as C. acutatum. Phytopathology 86:523 527.             Stanley Freeman            Talma Katan              Ezra Shabi 
+Shabi, E. 1995. Characteristics of Colleto trichum from peach, apple, pecan, and other hosts. Plant Dis. 79:478-482.
+  6. Binyamini, N., and Schiffmann-Nadel, M. 1972. Latent infection in avocado fruit due to
+Colletotrichum gloeosporioides. Phytopa thology 62:592-594.
+  7. Brizi, U. 1896. Eine neue krankheit (anthracnosis) des mandelbaums. Z. Pflan zenkrankh. Pflanzenschutz. 6:65-72.
+  8. Brooker, N. L., Leslie, J. F., and Dickman, M. B. 1991. Nitrate non-utilizing mutants of
+Colletotrichum and their use in studies of vegetative compatibility and genetic related ness. Phytopathology 81:672-677.
+  9. Brown, A. E., Sreenivasaprasad, S., and Tim mer, L. W. 1996. Molecular characterization of slow-growing orange and key lime an thracnose strains of Colletotrichum from cit rus as C. acutatum. Phytopathology 86:523 527.
+             Stanley Freeman            Talma Katan              Ezra Shabi 
 Dr. Freeman is a senior researcher in the Department of Plant Pathology at the Agricultural Research Organization (ARO), Volcani Center. He received his B.S. in horticulture in 1982, and his M.S. in 1985 and Ph.D. in 1991 in plant pathology from the Hebrew University of Jerusalem, Faculty of Agri culture, Rehovot, Israel. He was a visiting postdoctorate fellow supported by
 BARD during 1991 to 1993 at the University of California, Riverside, where he specialized in molecular fungal biology of the species Colletotrichum. He joined the Volcani Center in 1993. His research interests focus primarily on etiology, control, and fungus–host interactions of Colletotrichum and
 Fusarium species on vegetable and fruit crops.
@@ -166,43 +176,85 @@ University of Missouri, Columbia (1974 to 1975); the University of California,
 Davis, and Cornell University NYSAES, Geneva, NY (1980); INRA,
 Bordeaux, France, Lincoln University, New Zealand, and Clemson University,
 SC (1991 to 1992); and HRI, Wellesbourne, UK (1996 to 1997). His work has focused on disease control, epidemiology, and resistance of fungi to fungicides. 
-Plant Disease / June 1998  605  10. Cisar, C. R., Spiegel, F. W., TeBeest, D. O., and Trout, C. 1994. Evidence for mating be tween isolates of Colletotrichum gloeo sporioides with different host specificities.Curr. Genet. 25:330-335.  11. Correll, J. C., Morelock, T. E., and Guerber, J. C. 1993. Vegetative compatibility and viru lence of the spinach anthracnose pathogen,
-Colletotrichum dematium. Plant Dis. 77:688 691.  12. Correll, J. C., Rhoads, D. D., and Guerber, J. C. 1993. Examination of mitochondrial DNA restriction fragment length polymorphisms,
-DNA fingerprints, and randomly amplified polymorphic DNA of Colletotrichum orbicu lare. Phytopathology 83:1199-1204.  13. Czarnecki, H. 1916. A Gloeosporium disease of the almond probably new to America. Phytopathology 6:310.  14. Dillard, H. R. 1992. Colletotrichum coccodes:
+Plant Disease / June 1998  605  10. Cisar, C. R., Spiegel, F. W., TeBeest, D. O., and Trout, C. 1994. Evidence for mating be tween isolates of Colletotrichum gloeo sporioides with different host specificities.Curr. Genet. 25:330-335.
+  11. Correll, J. C., Morelock, T. E., and Guerber, J. C. 1993. Vegetative compatibility and viru lence of the spinach anthracnose pathogen,
+Colletotrichum dematium. Plant Dis. 77:688 691.
+  12. Correll, J. C., Rhoads, D. D., and Guerber, J. C. 1993. Examination of mitochondrial DNA restriction fragment length polymorphisms,
+DNA fingerprints, and randomly amplified polymorphic DNA of Colletotrichum orbicu lare. Phytopathology 83:1199-1204.
+  13. Czarnecki, H. 1916. A Gloeosporium disease of the almond probably new to America. Phytopathology 6:310.
+  14. Dillard, H. R. 1992. Colletotrichum coccodes:
 The pathogen and its hosts. Pages 225-236 in:
 Colletotrichum: Biology, Pathology and Con trol. J. A. Bailey and M. J. Jeger, eds. CAB
-Int., Wallingford, UK.  15. Fitzell, R. D. 1987. Epidemiology of anthrac nose disease of avocados. S. Afr. AvocadoGrow. Assoc. Yrbk. 10:113-116.  16. Freeman, S., and Katan, T. 1997. Identifica tion of Colletotrichum species responsible for anthracnose and root necrosis of strawberry in
-Israel. Phytopathology 87:516-521.  17. Freeman, S., Katan, T., and Shabi, E. 1996.
-Characterization of Colletotrichum gloeosporioides isolates from avocado and almond fruits with molecular and pathogenic ity tests. Appl. Environ. Microbiol. 62:1014 1020.  18. Freeman, S., Nizani, Y., Dotan, S., Even, S., and Sando, T. 1997. Control of Colleto trichum acutatum in strawberry under labo ratory, greenhouse, and field conditions. PlantDis. 81:749-752.  19. Freeman, S., Pham, M., and Rodriguez, R. J. 1993. Molecular genotyping of Colleto trichum species based on arbitrarily primed
-PCR, A+T-rich DNA, and nuclear DNA analyses. Exp. Mycol. 17:309-322.  20. Freeman, S., and Rodriguez, R. J. 1995. Dif ferentiation of Colletotrichum species respon sible for anthracnose of strawberry by arbi trarily primed PCR. Mycol. Res. 99:501-504.  21. Freeman, S., and Shabi, E. 1996. Cross-infec tion of subtropical and temperate fruits by
+Int., Wallingford, UK.  15. Fitzell, R. D. 1987. Epidemiology of anthrac nose disease of avocados. S. Afr. AvocadoGrow. Assoc. Yrbk. 10:113-116.
+  16. Freeman, S., and Katan, T. 1997. Identifica tion of Colletotrichum species responsible for anthracnose and root necrosis of strawberry in
+Israel. Phytopathology 87:516-521.
+  17. Freeman, S., Katan, T., and Shabi, E. 1996.
+Characterization of Colletotrichum gloeosporioides isolates from avocado and almond fruits with molecular and pathogenic ity tests. Appl. Environ. Microbiol. 62:1014 1020.
+  18. Freeman, S., Nizani, Y., Dotan, S., Even, S., and Sando, T. 1997. Control of Colleto trichum acutatum in strawberry under labo ratory, greenhouse, and field conditions. PlantDis. 81:749-752.
+  19. Freeman, S., Pham, M., and Rodriguez, R. J. 1993. Molecular genotyping of Colleto trichum species based on arbitrarily primed
+PCR, A+T-rich DNA, and nuclear DNA analyses. Exp. Mycol. 17:309-322.
+  20. Freeman, S., and Rodriguez, R. J. 1995. Dif ferentiation of Colletotrichum species respon sible for anthracnose of strawberry by arbi trarily primed PCR. Mycol. Res. 99:501-504.
+  21. Freeman, S., and Shabi, E. 1996. Cross-infec tion of subtropical and temperate fruits by
 Colletotrichum species from various hosts.
-Physiol. Mol. Plant Pathol. 49:395-404.  22. Galletta, G. J., Smith, B. J., and Gupton, C. L. 1993. US70, US159, US292 and US438 an thracnose crown rot resistant strawberry par ent clones. HortScience 28:1055-1056.  23. Guerber, J. C., and Correll, J. C. 1997. The first report of the teleomorph of Colleto trichum acutatum in the United States. PlantDis. 81:1334.  24. Gunnell, P. S., and Gubler, W. D. 1992. Tax onomy and morphology of Colletotrichum species pathogenic to strawberry. Mycologia 84:157-165.  25. Hartill, W. F. T. 1992. Post-harvest rots of avocado in New Zealand and their control.
+Physiol. Mol. Plant Pathol. 49:395-404.
+  22. Galletta, G. J., Smith, B. J., and Gupton, C. L. 1993. US70, US159, US292 and US438 an thracnose crown rot resistant strawberry par ent clones. HortScience 28:1055-1056.
+  23. Guerber, J. C., and Correll, J. C. 1997. The first report of the teleomorph of Colleto trichum acutatum in the United States. PlantDis. 81:1334.
+  24. Gunnell, P. S., and Gubler, W. D. 1992. Tax onomy and morphology of Colletotrichum species pathogenic to strawberry. Mycologia 84:157-165.
+  25. Hartill, W. F. T. 1992. Post-harvest rots of avocado in New Zealand and their control.
 Pages 1157-1162 in: Brighton Crop Prot. Conf., Brighton, UK.  26. He, C. Z., Masel, A. M., Irwin, J. A. G.,
-Kelemu, S., and Manners, J. M. 1995. Distri bution and relationship of chromosome-spe cific dispensable DNA sequences in diverse isolates of Colletotrichum gloeosporioides.Mycol. Res. 99:1325-1333.  27. Henz, G. P., Boiteux, L. S., and Lopes, C. A. 1992. Outbreak of strawberry anthracnose caused by Colletotrichum acutatum in centralBrazil. Plant Dis. 76:212.  28. Hodson, A., Mills, P. R., and Brown, A. E. 1993. Ribosomal and mitochondrial DNA polymorphisms in Colletotrichum gloeosporioides isolated from tropical fruits.Mycol. Res. 97:329-335.  29. Howard, C. M., and Albregts, E. E. 1979.
+Kelemu, S., and Manners, J. M. 1995. Distri bution and relationship of chromosome-spe cific dispensable DNA sequences in diverse isolates of Colletotrichum gloeosporioides.Mycol. Res. 99:1325-1333.
+  27. Henz, G. P., Boiteux, L. S., and Lopes, C. A. 1992. Outbreak of strawberry anthracnose caused by Colletotrichum acutatum in centralBrazil. Plant Dis. 76:212.
+  28. Hodson, A., Mills, P. R., and Brown, A. E. 1993. Ribosomal and mitochondrial DNA polymorphisms in Colletotrichum gloeosporioides isolated from tropical fruits.Mycol. Res. 97:329-335.
+  29. Howard, C. M., and Albregts, E. E. 1979.
 ‘Dover’ a firm-fruited strawberry with resis tance to anthracnose. UF/IFAS Circ. S-267,
 Florida.  30. Howard, C. M., Albregts, E. E., and Chandler,
 C. K. 1991. Evaluation of fungicides for con trol of gray mold and fruit anthracnose, 1990.
-Fungic. Nematicide Tests 46:105.  31. Howard, C. M., Maas, J. L., Chandler, C. K., and Albregts, E. E. 1992. Anthracnose of strawberry caused by the Colletotrichum complex in Florida. Plant Dis. 76:976-981.  32. Johnston, P. R., and Jones, D. 1997. Relation ships among Colletotrichum isolates from fruit-rots assessed using rDNA sequences.Mycologia 89:420-430.  33. Katan, T., and Shabi, E. 1996. Vegetative compatibility among isolates of Colleto trichum gloeosporioides from almond in Is rael. Eur. J. Plant Pathol. 102:597-600.  34. Leslie, J. F. 1993. Fungal vegetative compati bility. Annu. Rev. Phytopathol. 31:127-150.  35. Liyanage, H. D., McMillan, R. T., Jr., and
-Kistler, H. C. 1992. Two genetically distinct populations of Colletotrichum gloeosporioi des from citrus. Phytopathology 82:1371 1376.  36. Maas, J. L. 1984. Anthracnose fruit rots (black spot). Pages 57-60 in: Compendium of
-Strawberry Diseases. J. L. Maas, ed. Ameri can Phytopathological Society, St. Paul, MN.  37. Manners, J. M., Masel, A., Braithwaite, K. S., and Irwin, J. A. G. 1992. Molecular analysis of Colletotrichum gloeosporioides pathogenic on the tropical legume Stylosanthes. Pages 250-269 in: Colletotrichum: Biology, Pathol ogy and Control. J. A. Bailey and M. J. Jeger, eds. CAB Int., Wallingford, UK.  38. Masel, A. M., He, C., Poplawski, A. M., Ir win, J. A. G., and Manners, J. M. 1996. Mo lecular evidence for chromosome transfer between biotypes of Colletotrichum gloeosporioides. Mol. Plant Microbe Interact. 9:339-348.  39. Mills, P. R., Hodson, A., and Brown, A. E. 1992. Molecular differentiation of Colleto trichum gloeosporioides isolates infecting tropical crops. Pages 269-288 in: Colleto trichum: Biology, Pathology and Control. J. A. Bailey and M. J. Jeger, eds. CAB Int.,
+Fungic. Nematicide Tests 46:105.
+  31. Howard, C. M., Maas, J. L., Chandler, C. K., and Albregts, E. E. 1992. Anthracnose of strawberry caused by the Colletotrichum complex in Florida. Plant Dis. 76:976-981.
+  32. Johnston, P. R., and Jones, D. 1997. Relation ships among Colletotrichum isolates from fruit-rots assessed using rDNA sequences.Mycologia 89:420-430.
+  33. Katan, T., and Shabi, E. 1996. Vegetative compatibility among isolates of Colleto trichum gloeosporioides from almond in Is rael. Eur. J. Plant Pathol. 102:597-600.
+  34. Leslie, J. F. 1993. Fungal vegetative compati bility. Annu. Rev. Phytopathol. 31:127-150.
+  35. Liyanage, H. D., McMillan, R. T., Jr., and
+Kistler, H. C. 1992. Two genetically distinct populations of Colletotrichum gloeosporioi des from citrus. Phytopathology 82:1371 1376.
+  36. Maas, J. L. 1984. Anthracnose fruit rots (black spot). Pages 57-60 in: Compendium of
+Strawberry Diseases. J. L. Maas, ed. Ameri can Phytopathological Society, St. Paul, MN.  37. Manners, J. M., Masel, A., Braithwaite, K. S., and Irwin, J. A. G. 1992. Molecular analysis of Colletotrichum gloeosporioides pathogenic on the tropical legume Stylosanthes. Pages 250-269 in: Colletotrichum: Biology, Pathol ogy and Control. J. A. Bailey and M. J. Jeger, eds. CAB Int., Wallingford, UK.  38. Masel, A. M., He, C., Poplawski, A. M., Ir win, J. A. G., and Manners, J. M. 1996. Mo lecular evidence for chromosome transfer between biotypes of Colletotrichum gloeosporioides. Mol. Plant Microbe Interact. 9:339-348.
+  39. Mills, P. R., Hodson, A., and Brown, A. E. 1992. Molecular differentiation of Colleto trichum gloeosporioides isolates infecting tropical crops. Pages 269-288 in: Colleto trichum: Biology, Pathology and Control. J. A. Bailey and M. J. Jeger, eds. CAB Int.,
 Wallingford, UK.  40. Prior, C., Elango, F., and Whitewell, A. 1992.
 Chemical control of Colletotrichum infection in mangoes. Pages 326-336 in: Colleto trichum: Biology, Pathology and Control. J. A. Bailey and M. J. Jeger, eds. CAB Int.,
-Wallingford, UK.  41. Prusky, D. 1996. Pathogen quiescence in postharvest diseases. Annu. Rev. Phytopathol. 34: 413-434.  42. Prusky, D., and Keen, N. T. 1993. Involve ment of preformed antifungal compounds in the resistance of subtropical fruits to fungal decay. Plant Dis. 77:114-119.  43. Puhalla, J. E. 1985. Classification of strains of
-Fusarium oxysporum on the basis of vegeta tive compatibility. Can. J. Bot. 63:179-183.  44. Rodriguez, R. J., and Yoder, O. C. 1991. A family of conserved repetitive DNA elements from the fungal plant pathogen Glomerella cingulata (Colletotrichum lindemuthianum).Exp. Mycol. 15:232-242.  45. Shabi, E., Freeman, S., Katan, T., and Teviot dale, B. 1996. Almond anthracnose in Israel and California. (Abstr.) Phytoparasitica 24:138-139.  46. Shabi, E., and Katan, T. 1983. Occurrence and control of anthracnose of almond in Israel. Plant Dis. 67:1364-1366.  47. Shabi, E., Katan, T., Gera, H., and Elisha, S. 1994. Taxonomic determination of pathogenic
-Colletotrichum gloeosporioides of almond, anemone and avocado according to fungicide sensitivity. (Abstr.) Phytoparasitica 21:130 131.  48. Shear, C. L., and Wood, A. K. 1913. Studies of fungus parasites belonging to the genus
-Glomerella. USDA Bur. Plant Ind. Bull. 252:1-110.  49. Sherriff, C., Whelan, M. J., Arnold, G. M.,
+Wallingford, UK.  41. Prusky, D. 1996. Pathogen quiescence in postharvest diseases. Annu. Rev. Phytopathol. 34: 413-434.
+  42. Prusky, D., and Keen, N. T. 1993. Involve ment of preformed antifungal compounds in the resistance of subtropical fruits to fungal decay. Plant Dis. 77:114-119.
+  43. Puhalla, J. E. 1985. Classification of strains of
+Fusarium oxysporum on the basis of vegeta tive compatibility. Can. J. Bot. 63:179-183.
+  44. Rodriguez, R. J., and Yoder, O. C. 1991. A family of conserved repetitive DNA elements from the fungal plant pathogen Glomerella cingulata (Colletotrichum lindemuthianum).Exp. Mycol. 15:232-242.
+  45. Shabi, E., Freeman, S., Katan, T., and Teviot dale, B. 1996. Almond anthracnose in Israel and California. (Abstr.) Phytoparasitica 24:138-139.
+  46. Shabi, E., and Katan, T. 1983. Occurrence and control of anthracnose of almond in Israel. Plant Dis. 67:1364-1366.
+  47. Shabi, E., Katan, T., Gera, H., and Elisha, S. 1994. Taxonomic determination of pathogenic
+Colletotrichum gloeosporioides of almond, anemone and avocado according to fungicide sensitivity. (Abstr.) Phytoparasitica 21:130 131.
+  48. Shear, C. L., and Wood, A. K. 1913. Studies of fungus parasites belonging to the genus
+Glomerella. USDA Bur. Plant Ind. Bull. 252:1-110.
+  49. Sherriff, C., Whelan, M. J., Arnold, G. M.,
 Lafay, J.-F., Brygoo, Y., and Bailey, J. A. 1994. Ribosomal DNA sequence analysis re veals new species groupings in the genus
-Colletotrichum. Exp. Mycol. 18:121-138.  50. Shi, Y., Correll, J. C., Guerber, J. C., and
-Rom, C. R. 1996. Frequency of Colleto trichum species causing bitter rot of apple in the southeastern United States. Plant Dis. 80:692-696.  51. Sicard, D., Michalakis, Y., Dron, M., and
-Neema, C. 1997. Genetic diversity and patho genic variation of Colletotrichum lindemuthi anum in the three centers of diversity of its host, Phaseolus vulgaris. Phytopathology 87:807-813.  52. Smith, B. J., and Black, L. L. 1990. Morpho logical, cultural, and pathogenic variation among Colletotrichum species isolated from strawberry. Plant Dis. 74:69-76.  53. Sreenivasaprasad, S., Brown, A. E., and Mills,
-P. R. 1992. DNA sequence variation and inter relationships among Colletotrichum species causing strawberry anthracnose. Physiol. Mol. Plant Pathol. 41:265-281.  54. Sreenivasaprasad, S., Brown, A. E., and Mills,
+Colletotrichum. Exp. Mycol. 18:121-138.
+  50. Shi, Y., Correll, J. C., Guerber, J. C., and
+Rom, C. R. 1996. Frequency of Colleto trichum species causing bitter rot of apple in the southeastern United States. Plant Dis. 80:692-696.
+  51. Sicard, D., Michalakis, Y., Dron, M., and
+Neema, C. 1997. Genetic diversity and patho genic variation of Colletotrichum lindemuthi anum in the three centers of diversity of its host, Phaseolus vulgaris. Phytopathology 87:807-813.
+  52. Smith, B. J., and Black, L. L. 1990. Morpho logical, cultural, and pathogenic variation among Colletotrichum species isolated from strawberry. Plant Dis. 74:69-76.
+  53. Sreenivasaprasad, S., Brown, A. E., and Mills,
+P. R. 1992. DNA sequence variation and inter relationships among Colletotrichum species causing strawberry anthracnose. Physiol. Mol. Plant Pathol. 41:265-281.
+  54. Sreenivasaprasad, S., Brown, A. E., and Mills,
 P. R. 1993. Coffee berry disease pathogen in
-Africa: Genetic structure and relationship to the group species Colletotrichum gloeo sporioides. Mycol. Res. 97:995-1000.  55. Striem, M. J., Spiegel-Roy, P., and Shabi, E. 1989. Evaluating susceptibility of almonds to anthracnose disease caused by Colletotrichum gloeosporioides. Phytoparasitica 17:107-122.  56. Sutton, B. C. 1992. The genus Glomerella and its anamorph Colletotrichum. Pages 1-26 in:
+Africa: Genetic structure and relationship to the group species Colletotrichum gloeo sporioides. Mycol. Res. 97:995-1000.
+  55. Striem, M. J., Spiegel-Roy, P., and Shabi, E. 1989. Evaluating susceptibility of almonds to anthracnose disease caused by Colletotrichum gloeosporioides. Phytoparasitica 17:107-122.
+  56. Sutton, B. C. 1992. The genus Glomerella and its anamorph Colletotrichum. Pages 1-26 in:
 Colletotrichum: Biology, Pathology and Con trol. J. A. Bailey and M. J. Jeger, eds. CAB
 Int., Wallingford, UK.  57. Templeton, G. E. 1992. Use of Colletotrichum strains as mycoherbicides. Pages 358-380 in:
 Colletotrichum: Biology, Pathology and Con trol. J. A. Bailey and M. J. Jeger, eds. CAB
 Int., Wallingford, UK.  58. Vaillancourt, L. J., and Hanau, R. M. 1994.
 Nitrate-nonutilizing mutants used to study heterokaryosis and vegetative compatibility in
-Glomerella graminicola (Colletotrichum graminicola). Exp. Mycol. 18:311-319.  59. von Arx, J. A. 1957. Die Arten der Gattung
-Colletotrichum Cda. Phytopathol. Z. 29:413 468.  60. Wasilwa, L. A., Correll, J. C., Morelock, T. E., and McNew, R. E. 1993. Reexamination of races of the cucurbit anthracnose pathogen
-Colletotrichum orbiculare. Phytopathology 83:1190-1198.  61. Zulfiqar, M., Brlansky, R. H., and Timmer, L. W. 1996. Infection of flower and vegetative tissues of citrus by Colletotrichum acutatum and C. gloeosporioides. Mycologia 88:121 128. 
+Glomerella graminicola (Colletotrichum graminicola). Exp. Mycol. 18:311-319.
+  59. von Arx, J. A. 1957. Die Arten der Gattung
+Colletotrichum Cda. Phytopathol. Z. 29:413 468.
+  60. Wasilwa, L. A., Correll, J. C., Morelock, T. E., and McNew, R. E. 1993. Reexamination of races of the cucurbit anthracnose pathogen
+Colletotrichum orbiculare. Phytopathology 83:1190-1198.
+  61. Zulfiqar, M., Brlansky, R. H., and Timmer, L. W. 1996. Infection of flower and vegetative tissues of citrus by Colletotrichum acutatum and C. gloeosporioides. Mycologia 88:121 128. 

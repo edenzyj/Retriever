@@ -85,7 +85,8 @@ Strawberry 47.5 ab 78 a 86 a 64 ab 105.0 c
 Garry oats 50.0 ab 44 b 55 b 44 b 131.1 c
 Saia oats 47.2 ab 75 a 75 ab 75 a 100.8 c
 Sorgho-sudangrass 57.5 a 65 ab 75 ab 70 a 92.5 c 
-Mean 50.6 66 73 63 107.4 y Values represent means of 12 replicates plants; values followed by an asterisk (N-form) or differing letters (cover crops) are significantly different from respective controls according to Student-Newman-Kuel’s test (P = 0.05). z Values represent the means of 12 replicates plants (two root pieces per plant); values followed by an asterisk (N-form) or differing letters (cover crop) are significantly different from respective controls according to Student-Newman-Kuel’s test (P = 0.05).
+Mean 50.6 66 73 63 107.4 y Values represent means of 12 replicates plants; values followed by an asterisk (N-form) or differing letters (cover crops) are significantly different from respective controls according to Student-Newman-Kuel’s test (P = 0.05).
+ z Values represent the means of 12 replicates plants (two root pieces per plant); values followed by an asterisk (N-form) or differing letters (cover crop) are significantly different from respective controls according to Student-Newman-Kuel’s test (P = 0.05).
 Table 1. Growth and yield components of strawberry plants grown in microplots infested with the black root rot pathogens that had been pre-cropped with cover crops and fertilized with (NH4)2SO4 or Ca(NO3)2 1997 
 Previous cover crop 1996 leaf area (cm2) 1996 runnersEarly berry yield (g/plant)yTotal berry yield (g/plant)Fresh root weight (g) Dry foliar weight (g) 
 Fresh root/ shoot ratio (NH4)2SO4.
@@ -100,7 +101,8 @@ Saia oats 641 11.5 b 81.6 d 148.5 27.7 a 16.0 b 0.64
 SS grass 390 7.0 ab 56.8 a 49.6 27.2 a 12.1 ab 0.79 
 Mean 433 7.1 62.9 86.2 29.0 11.4 0.82 y Early yield refers to the first four harvests.
 z Values followed by an asterisk (N-form) or differing letters (cover crops) are significantly different from their respective controls according to Student 
-Newman-Kuel’s tests (P = 0.05). 122  Plant Disease / Vol. 83 No. 2 with oats and fertilizing with NH4-N as being suppressive to take-all of wheat. Our findings support the hypothesis that com bining rotation with oats with NH4-N fer tilization can reduce root diseases in plants.
+Newman-Kuel’s tests (P = 0.05).
+ 122  Plant Disease / Vol. 83 No. 2 with oats and fertilizing with NH4-N as being suppressive to take-all of wheat. Our findings support the hypothesis that com bining rotation with oats with NH4-N fer tilization can reduce root diseases in plants.
 Both oat cultivars suppressed black root rot under the (NH4)2SO4 regime but dif fered in their effect on the two main patho gens. Saia oats reduced the number of root lesion nematodes but did not affect root colonization by Rhizoctonia spp. Garry oats reduced root colonization by Rhizoc tonia spp. but did not affect the numbers of lesion nematodes. Furthermore, the Saia oat pre-crop increased early berry yield but
 Garry oats had no effect. The early yield increase following rotation with Saia oats may have been due to its unsuitability as a host for the lesion nematode which, in these soils, may have been a more yield reducing pathogen. In other experiments, we have found that Saia oats were similar in effect to Garry oats in reducing R. fra gariae recovery from soil (14; J. A. LaMondia, unpublished research). There fore, the failure of Garry oats to affect yield may have been its high susceptibility to the lesion nematode. The resistance of
 Saia oats to the lesion nematode was first recognized by Colbran (3), who found that it was useful in suppressing the re-plant problem in apple orchards. Townsend (24) later showed that Saia oats were resistant to Pratylenchus neglectus Rensch and P. penetrans. However, the resistance to le sion nematode does not completely explain the effect of Saia oats on disease and yield because sorgho-sudangrass also reduced the number of lesion nematodes but had no significant effect on disease severity or yield. It is possible the reduction in nema tode densities by sorgho-sudangrass was insufficient to have an effect on yield. It is also possible that oat straw residues may have specific effects on the disease. Pa pavizas (18) reported that oat (presumably
@@ -137,20 +139,42 @@ We thank E. O’Dowd, J. Morrison, and D.
 Gaskill, for technical assistance; E. Naughton, R. Horvath, J. Rich, and M. Amore for assistance in field preparation and maintenance; and Nourse
 Farms, Inc., South Deerfield, Massachusetts for their donation of strawberry crowns.
 LITERATURE CITED  1. Barker, K. R. 1985. Nematode extraction and bioassays. Pages 19-35 in: An Advanced
-Treatise on Meloidogyne, Vol. 2, Methodol ogy. K. R. Barker, C. C. Carter, and J. N. Sasser, eds., N. C. State Univ. Graphics, Ral eigh.  2. Chen, T. A., and Rich, A. E. 1962. The role of
-Pratylenchus penetrans in the development of strawberry black root rot. Plant Dis. Rep. 46:839-843.  3. Colbran, R. C. 1979. Problems in tree re placement. III. The effects of cultural prac tices and soil fumigation on root lesion nematodes and on the growth of apple re plants. Aust. J. Agric. Res. 30:113-123.  4. Cooley, D. R., and Schloemann, S. G. 1994.
+Treatise on Meloidogyne, Vol. 2, Methodol ogy. K. R. Barker, C. C. Carter, and J. N. Sasser, eds., N. C. State Univ. Graphics, Ral eigh.
+  2. Chen, T. A., and Rich, A. E. 1962. The role of
+Pratylenchus penetrans in the development of strawberry black root rot. Plant Dis. Rep. 46:839-843.
+  3. Colbran, R. C. 1979. Problems in tree re placement. III. The effects of cultural prac tices and soil fumigation on root lesion nematodes and on the growth of apple re plants. Aust. J. Agric. Res. 30:113-123.
+  4. Cooley, D. R., and Schloemann, S. G. 1994.
 Integrated pest management for strawberries in the northeastern United States. Univ. Mass. Coop. Ext. Syst. Amherst.  5. Elmer, W. H., and Ferrandino, F. J. 1994.
-Comparison of ammonium sulfate and cal cium nitrate fertilization effects on Verticil lium wilt of eggplant. Plant Dis. 78:811-816.  6. Elmer, W. H., and LaMondia, J. A. 1995.
-Influence of mineral nutrition on strawberry black root rot. Adv. Strawberry Res. 14:42 48.  7. Goheen, A. C., and Bailey, J. S. 1955.
+Comparison of ammonium sulfate and cal cium nitrate fertilization effects on Verticil lium wilt of eggplant. Plant Dis. 78:811-816.
+  6. Elmer, W. H., and LaMondia, J. A. 1995.
+Influence of mineral nutrition on strawberry black root rot. Adv. Strawberry Res. 14:42 48.
+  7. Goheen, A. C., and Bailey, J. S. 1955.
 Meadow nematodes in strawberry plantings in
-Massachusetts. Plant Dis. Rep. 39:879-880.  8. Goheen, A. C., and Smith, J. B. 1956. Effects of inoculation of strawberry roots with meadow nematodes, Pratylenchus penetrans.Plant Dis. Rep. 40:146-149.  9. Hildebrand, A. A., and West, P. M. 1941.
-Strawberry root rot in relation to microbi ological changes induced in root rot soil by the incorporation of certain cover crops. CanJ. Res. Sect. C 19:183-198. 10. Huber, D. M. 1989. The role of nutrition in the take-all disease of wheat and other small grains. Pages 46-74 in: Soilborne Plant
+Massachusetts. Plant Dis. Rep. 39:879-880.
+  8. Goheen, A. C., and Smith, J. B. 1956. Effects of inoculation of strawberry roots with meadow nematodes, Pratylenchus penetrans.Plant Dis. Rep. 40:146-149.
+  9. Hildebrand, A. A., and West, P. M. 1941.
+Strawberry root rot in relation to microbi ological changes induced in root rot soil by the incorporation of certain cover crops. CanJ. Res. Sect. C 19:183-198.
+ 10. Huber, D. M. 1989. The role of nutrition in the take-all disease of wheat and other small grains. Pages 46-74 in: Soilborne Plant
 Pathogens: Management of Diseases with
-Macro- and Microelements. A. Englehard, ed., APS Press, Inc., St. Paul, MN. 11. Huber, D. M., and McCay-Buis, T. S. 1993. A multiple component analysis of the take-all disease of cereal. Plant Dis. 77:437-447. 12. Huber, D. M., and Wilhelm, N. S. 1988. The role of manganese in resistance to plant dis ease. Pages 155-173 in: Manganese in Soils and Plants, R. D. Graham, R. J. Hannam, and
+Macro- and Microelements. A. Englehard, ed., APS Press, Inc., St. Paul, MN. 11. Huber, D. M., and McCay-Buis, T. S. 1993. A multiple component analysis of the take-all disease of cereal. Plant Dis. 77:437-447.
+ 12. Huber, D. M., and Wilhelm, N. S. 1988. The role of manganese in resistance to plant dis ease. Pages 155-173 in: Manganese in Soils and Plants, R. D. Graham, R. J. Hannam, and
 N. C. Uren, eds., Kluwer Academic Publish ers, Dordrecht, The Netherlands. 13. Hussain, S. S., and McKeen, W. E. 1963.
 Rhizoctonia fragariae species nov. in relation to strawberry degeneration in Southwestern
-Ontario. Phytopathology 53:532-540. 14. LaMondia, J. A. 1994. The effect of rotation crops on strawberry black root rot pathogens in field microplots. J. Nematol. 26:108. 15. LaMondia, J. A., and Martin, S. B. 1989. The influence of Pratylenchus penetrans and tem perature on black root rot of strawberry by binucleate Rhizoctonia species. Plant Dis. 73:107-110. 16. Martin, S. B. 1988. Identification, isolation frequency, and pathogenicity of anastomosis groups of binucleate Rhizoctonia species from strawberry roots. Phytopathology 78:379-384. 17. Ogoshi, A., Oniki, M., Sakair, R., and Vi, T. 1979. Anastomosis grouping among isolates of binucleate Rhizoctonia. Trans. Mycol. Soc. Jpn. 20:33-39. 18. Papavizas, G. C. 1963. Microbial antagonists in bean rhizosphere as affected by oat straw and supplemental nitrogen. Phytopathology 53:1430-1435. 19. Ribeiro, O. K., and Black, L. L. 1971. Rhi zoctonia fragariae: a mycorrhizal and patho genic fungus of strawberry plants. Plant Dis. Rep. 55:599-603. 20. Riggs, R. D., Slack, D. A., and Fulton, J. P. 1956. Meadow nematodes and its relation to decline of strawberry plants in Arkansas. (Abstr.) Phytopathology 46:24. 21. Schippers, B., Bakker, A. W., and Bakker, P. A. H. M. 1987. Interaction of deleterious and beneficial rhizosphere microorganisms and the effect of cropping practices. Annu. Rev. Phytopathol. 25:339-358. 22. Shoa, F. M., and Foy, C. D. 1982. Interaction of soil manganese and reaction of cotton to
+Ontario. Phytopathology 53:532-540.
+ 14. LaMondia, J. A. 1994. The effect of rotation crops on strawberry black root rot pathogens in field microplots. J. Nematol. 26:108.
+ 15. LaMondia, J. A., and Martin, S. B. 1989. The influence of Pratylenchus penetrans and tem perature on black root rot of strawberry by binucleate Rhizoctonia species. Plant Dis. 73:107-110.
+ 16. Martin, S. B. 1988. Identification, isolation frequency, and pathogenicity of anastomosis groups of binucleate Rhizoctonia species from strawberry roots. Phytopathology 78:379-384.
+ 17. Ogoshi, A., Oniki, M., Sakair, R., and Vi, T. 1979. Anastomosis grouping among isolates of binucleate Rhizoctonia. Trans. Mycol. Soc. Jpn. 20:33-39.
+ 18. Papavizas, G. C. 1963. Microbial antagonists in bean rhizosphere as affected by oat straw and supplemental nitrogen. Phytopathology 53:1430-1435.
+ 19. Ribeiro, O. K., and Black, L. L. 1971. Rhi zoctonia fragariae: a mycorrhizal and patho genic fungus of strawberry plants. Plant Dis. Rep. 55:599-603.
+ 20. Riggs, R. D., Slack, D. A., and Fulton, J. P. 1956. Meadow nematodes and its relation to decline of strawberry plants in Arkansas. (Abstr.) Phytopathology 46:24.
+ 21. Schippers, B., Bakker, A. W., and Bakker, P. A. H. M. 1987. Interaction of deleterious and beneficial rhizosphere microorganisms and the effect of cropping practices. Annu. Rev. Phytopathol. 25:339-358.
+ 22. Shoa, F. M., and Foy, C. D. 1982. Interaction of soil manganese and reaction of cotton to
 Verticillium wilt and Rhizoctonia root rot.
-Comm. Soil. Soc. Plant Anal. 13:21-38. 23. Townsend, J. L. 1963. The pathogenicity of
-Pratylenchus penetrans to strawberry. Can. J. Plant Sci. 43:75-78. 24. Townsend, J. L., 1989. Population densities of four species of root-lesion nematodes (Praty lenchus) in the oats cultivar Saia and OAC
-Woodstock. Can. J. Plant Sci. 69:903-905. 25. West, P. M., and Hildebrand, A. A. 1941. The microbiological balance of strawberry root rot soil as related to the rhizosphere and decom position effects of certain cover crops. Can J. Res. Sect. C 19:199-210. 26. Wing, K. B., Pritts, M. P., and Wilcox, W. F. 1994. Strawberry black root rot: A review.Adv. Strawberry Res. 13:13-19. 
+Comm. Soil. Soc. Plant Anal. 13:21-38.
+ 23. Townsend, J. L. 1963. The pathogenicity of
+Pratylenchus penetrans to strawberry. Can. J. Plant Sci. 43:75-78.
+ 24. Townsend, J. L., 1989. Population densities of four species of root-lesion nematodes (Praty lenchus) in the oats cultivar Saia and OAC
+Woodstock. Can. J. Plant Sci. 69:903-905.
+ 25. West, P. M., and Hildebrand, A. A. 1941. The microbiological balance of strawberry root rot soil as related to the rhizosphere and decom position effects of certain cover crops. Can J. Res. Sect. C 19:199-210.
+ 26. Wing, K. B., Pritts, M. P., and Wilcox, W. F. 1994. Strawberry black root rot: A review.Adv. Strawberry Res. 13:13-19. 

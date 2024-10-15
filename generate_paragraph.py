@@ -42,10 +42,12 @@ for file_name in file_names:
     
     with open(text_dir + '{}.txt'.format(file_name.split('\\')[-1].split('.pdf')[0]), 'w') as fw:
         for split_str in new_list:
-            if split_str.find(' ') and len(split_str) > 30:
+            if len(split_str) > 30:
                 fw.write('\n')
+                lengths.append(len(split_str))
+            elif len(lengths) > 0:
+                lengths[-1] = lengths[-1] + len(split_str)
             fw.write(split_str)
-            lengths.append(len(split_str))
 
 print(max(lengths))
 

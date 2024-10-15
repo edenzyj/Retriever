@@ -70,7 +70,8 @@ yR, I, S = Number of resistant, intermediate and susceptible seedlings, respecti
 Table 2. Parent mean of lesion length and general combining ability (GCA) for re sistance to anthracnose on runners of straw berry in the main test.Lesion
 Genotype length (cm) GCA ‘Chandler’ 8.95 0.49NCC 89-39 4.42 0.01NC 92-01 1.52 –0.04NCH 87-10 3.19 –0.05FL 87-210 2.77 –0.16MS/US 541 1.10 –0.25SE 0.22 
 Table 1. Analysis of variance of differences among genotypes and combining analysis for resistance to anthracnose in the main test.Source df MS FRep 3 17.46 16.4** Crosses 13 18.22 17.1** GCA 5 1.03 4.3** SCA 8 1.50 6.3** Error 39 0.24
-Error 39 1.06 **Highly significant (P < 0.01). 6797, p. 686-690 6/26/02, 3:21 PM687 
+Error 39 1.06 **Highly significant (P < 0.01).
+ 6797, p. 686-690 6/26/02, 3:21 PM687 
 HORTSCIENCE, VOL. 37(4), JULY 2002688 
 BREEDING, CULTIVARS, ROOTSTOCKS, & GERMPLASM RESOURCES significant, and GCA variance was much greater than SCA variance. However, the small number of parents probably influenced the results, especially SCA effects. Small partial diallels give reasonable GCA esti mates but are less efficient in detecting SCA effects (Dhillon and Singh, 1978), and are subject to large sampling errors (Christie and
 Shattuck, 1992). Based on GCA effects, NC 85-01 (GCA = –1.65) appeared to be a superior parent for reduced lesion length, and the com bination, NC 85-01 x FL 87-210, yielded twice as many resistant seedlings (30 out of 90) as the best of any other combination (Table 3).

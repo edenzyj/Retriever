@@ -25,7 +25,8 @@ Protection Organization (EPPO), though it is absent from the current list (EPPO 
 Parikka et al. 2006), while the survival rate of conidia in natural field soil is low (Freeman et al. 2002). 
 The most well-known morphological feature of C. acutatum (s. lat.) is the shape of its conidia, which have acute ends (Simmonds 1965). However, other conidial shapes, especially ± cylindrical with only one acute end, are frequently encountered, especially in strains that have been repeatedly subcultured, but these conidial shapes can also occur in species outside the C. acutatum species complex. Even the differentiation between C. acutatum (s. lat.) and 
 C. gloeosporioides (s. lat.) is difficult, because many intermediate strains exist with a restricted number of typical fusiform conidia and many cylindrical ones (Van der Aa et al. 1990). On the host, conidia are formed in acervuli; in culture, conidia are often also produced in the aerial mycelium (Johnston & Jones 1997). Colletotrichum acutatum has also been observed to form secondary conidia on the surface of living strawberry leaves (Leandro et al. 2001) that were 
-StudieS in Mycology 73: 37–113. Damm et al. 38 stimulated by strawberry plant extracts, especially flower extracts (Leandro et al. 2003). According to Buddie et al. (1999) secondary conidia may be produced directly from germinating primary conidia, and are smaller and more variable in shape, thus obscuring differences between taxa. Additionally, C. acutatum forms simple pigmented appressoria, but few or no setae (Simmonds 1965).
+StudieS in Mycology 73: 37–113. Damm et al.
+ 38 stimulated by strawberry plant extracts, especially flower extracts (Leandro et al. 2003). According to Buddie et al. (1999) secondary conidia may be produced directly from germinating primary conidia, and are smaller and more variable in shape, thus obscuring differences between taxa. Additionally, C. acutatum forms simple pigmented appressoria, but few or no setae (Simmonds 1965).
 Guerber & Correll (1997, 2001) described Glomerella acutata, the sexual morph of C. acutatum, as the product of mating experiments, while some related species are homothallic, including 
 Ga. acutata var. fioriniae (Marcelino et al. 2008), later regarded as a separate species (C. fioriniae, Shivas & Tan 2009) and an isolate of a Glomerella species related to C. acutata from Acer platanoides in the USA (LoBuglio & Pfister 2008). Talgø et al. (2007) observed the sexual morph Ga. acutata on naturally infected fruits of highbush blueberry in Norway. Numerous studies have shown that C. acutatum is morphologically and phylogenetically diverse (Sreenivasaprasad et al. 1994, Johnston & Jones 1997, Lardner et al. 1999, Freeman et al. 2001a, Nirenberg et al. 2002, Talhinhas et al. 2002, Guerber et al. 2003, Lubbe et al. 2004, Du et al. 2005, 
 Peres et al. 2005, Sreenivasaprasad & Talhinhas 2005, Talhinhas et al. 2005, Johnston et al. 2008). Sreenivasaprasad et al. (1996) were the first to recognise that C. acutatum was unusually diverse, with strains showing divergence of 5.8 % in ITS-1 sequence compared with levels of 2–4 % frequently found within other fungal species, and they suggested splitting C. acutatum into two species. Johnston & Jones (1997) recognised four morphological groups, C. acutatum A–C and Glomerella miyabeana. Three of these groups were supported by 28S nuclear ribosomal large subunit rRNA (LSU) sequence data. Lardner et al. (1999), using a combination of RAPDs and morphological/cultural data, identified seven subordinate groups within C. acutatum. Sequences of a 200-bp intron of the glyceraldehyde-3-phosphate dehydrogenase (GAPDH) and a 900-bp intron of the glutamine synthetase GS distinguished seven main clades and several subclades within strains that originated mainly from North America and New Zealand (Guerber et al. 2003). The recognition of infraspecific groups was more firmly established by Sreenivasaprasad & Talhinhas (2005), who distinguished clades A1 to A8 based on rDNA ITS and beta-tubulin DNA (TUB2) sequences. These clades were mostly correlated with the groups that had been distinguished previously. 
@@ -68,7 +69,8 @@ Colletotrichum acutatum species complex. Bootstrap support values above 70 % (bo
 Colletotrichum orchidophilum CBS 632.80, CBS 631.80, IMI 309357 and CBS 119291 are used as outgroup. Numbers of ex-holotype, ex-neotype and ex-epitype strains are emphasised in bold. Strain numbers are followed by substrate (host genus) and country of origin, NL = Netherlands, NZ = New Zealand, ZA = South Africa. Branches that are crossed by diagonal lines are shortened by 50 %. Corresponding groups of Sreenivasaprasad & Talhinhas 2005 are emphasised in red, mtDNA RFLP haplotypes of Guerber et al. (2003) are emphasised in blue.CBS 109225 Lupinus UkraineCBS 109216 Lupinus BoliviaCBS 513.97 Lupinus Costa RicaCBS 109226 Lupinus CanadaCBS 509.97 Lupinus FranceCBS 466.76 Manihot Rwanda IMI 375715 Lupinus AustraliaCBS 122746 Lupinus USA CBS 109217 Lupinus GermanyCBS 485.97 Lupinus GermanyCBS 126371 Lupinus NLCBS 507.97 Lupinus France CBS 109219 Lupinus GermanyCBS 109220 Lupinus GermanyCBS 109221 Lupinus GermanyCBS 109222 Lupinus GermanyCBS 109223 Lupinus GermanyCBS 109224 Lupinus AustriaCBS 109227 Lupinus PolandCBS 126525 Lupinus NLCBS 119142 Lupinus ZACBS 119143 Lupinus ZAIMI 351261 Camellia UK
 CBS 129944 Cinnamomum Portugal CBS 129810 Solanum ColombiaCBS 101611 fern Costa Rica CBS 129814 Solanum ColombiaCBS 129811 Solanum ColombiaCBS 129812 Solanum ColombiaCBS 129813 Solanum ColombiaCBS 129954 Solanum ColombiaCBS 129955 Solanum ColombiaCBS 129956 Solanum Colombia CBS 129821 Passiflora ColombiaCBS 129820 Passiflora ColombiaCBS 330.75 Coffea Costa RicaCBS 211.78 Coffea Costa Rica IMI 304802 Cuscuta DominicaIMI 384185 Caryocar Brazil CBS 129823 Passiflora ColombiaCBS 114.14 Citrus USA
 CBS 159.84 Cucumis Brazil 1 change C. tamarilloi C. lupini C. cuscutae C. limetticolaC. melonis C. costaricense C la de  1 A1 
-A8 94 74 100 100 100 75 88 0.99 1.00 1.00 1.00 0.99 0.97 1.00 1.00 1.00 1.00 J6J2 J3 Damm et al. 40 to combine them. In the multigene analyses (gene boundaries of 
+A8 94 74 100 100 100 75 88 0.99 1.00 1.00 1.00 0.99 0.97 1.00 1.00 1.00 1.00 J6J2 J3 Damm et al.
+ 40 to combine them. In the multigene analyses (gene boundaries of 
 ITS: 1–546, GAPDH: 557–829, CHS-1: 840–1121, HIS3: 1131– 1519, ACT: 1530–1786, TUB2: 1797–2290) of 330 isolates of C. acutatum and related Colletotrichum species including the outgroup (C. orchidophilum strains CBS 631.80, CBS 632.80, CBS 119291, 
 IMI 309357), 2290 characters including the alignment gaps were processed, of which 468 characters were parsimony-informative, 65 parsimony-uninformative and 1757 constant. One strain that was revealed as not belonging to the C. acutatum species complex (CBS 436.77, C. pseudoacutatum) was not included in the analysis presented in Fig. 1. After a heuristic search using PAUP, 830 most parsimonious trees were retained (length = 1008 steps, CI = 0.643, 
 RI = 0.981, RC = 0.681, HI = 0.357) of which one is shown in Fig. 1. The topology of the 830 trees was similar, which was verified for a large selection of trees. They differed only in the position of taxa within the subclades. For Bayesian analysis, a HKY+I model was selected for ITS, a HKY+G model for GAPDH and TUB2, a 
@@ -82,7 +84,8 @@ The ColletotriChum aCutatum species complex 41 Fig. 1. (Continued).CBS 128517 Fi
 CBS 127601 Mangifera Australia CBS 119186 Vaccinium NZCBS 490.92 Solanum unknown IMI 345583 Fragaria NZIMI 345578 Fragaria NZ CSL 318 Magnolia UKCBS 127599 Persea AustraliaCBS 119292 Vaccinium NZCBS 128529 Fragaria NZIMI 345575 Fragaria NZCBS 128498 Actinidia NZIMI 384569 Kalmia USACBS 129946 Olea PortugalCBS 129947 Vitis Portugal ATCC 28992 Malus USACBS 119293 Vaccinium NZ CBS 112996 Carica AustraliaCBS 113599 Grevillea AustraliaCBS 113600 Grevillea AustraliaCBS 111993 Grevillea AustraliaCBS 369.73 Lupinus NZCBS 370.73 Pinus NZ CBS 371.73 Pinus NZIMI 223120 Anemone AustraliaCBS 128499 Pyrus NZ CBS 110735 Pinus ZACBS 112979 Pinus ZACBS 112980 Pinus ZACBS 112981 Pinus ZACBS 127534 Pinus ZA CBS 127602 Fragaria AustraliaCBS 112990 Leucadendron ZACBS 112994 Leucospermum ZA CBS 115202 Leucadendron ZACBS 127598 Olea ZACBS 115393 Mimetes ZACBS 126521 Anemone NLCBS 129919 Hoodia ZACBS 127539 Aspalathus ZACBS 127542 Aspalathus ZACBS 129921 Aspalathus ZACBS 129922 Aspalathus ZACBS 127543 Aspalathus ZACBS 127545 Aspalathus ZACBS 129914 Aspalathus ZACBS 129915 Aspalathus ZACBS 129925 Aspalathus ZACBS 126505 Lobelia NLCBS 126506 Phlox NLCSL 287 Statice UK IMI 336479 Pistacia AustraliaIMI 384175 Nerium NZCBS 129920 Hoodia ZACBS 127544 Hoodia ZACBS 127540 Aspalathus water ZACBS 129923 Aspalathus water ZACBS 129924 Aspalathus water ZACBS 127546 Aspalathus water ZACBS 127541 Aspalathus ZA CBS 112759 Hakea ZACBS 112760 Hakea ZACBS 112761 Hakea ZACBS 112993 Hakea ZACBS 113007 Hakea ZACBS 113008 Hakea ZACBS 113009 Hakea ZA IMI 216370 Coffea TanzaniaIMI 319423 Coffea Kenya CBS 129952 Olea PortugalCBS 113006 Protea ZA CBS 979.69 Coffea KenyaCBS 144.29 Capsicum Sri Lanka C. fioriniae C. acutatum C la de  4 C la de  3 A3 
 A5 72 94 100 100 87 96 99 91 1.00 1.00 0.99 0.97 1.00 1.00 1.00 1.00 J4 C1C2C3 0.87 1 change 
 The analyses resulted in detection of five main clades and 29 subclades within C. acutatum s. lat., which we accept as representing different Colletotrichum species. The corresponding groups according to Sreenivasaprasad & Talhinhas (2005, numbers beginning with A) and Guerber et al. (2003, mtDNA 
-RFLP haplotypes, numbers beginning with C...K), which are the most differential and comparable studies, are listed in brackets below and are indicated in the phylogenetic tree (Fig. 1). The Damm et al. 42 first clade is well supported with a bootstrap support of 100 % and a Bayesian posterior probability value of 1.00. It consists of two frequently isolated, well-supported clades (bootstrap support/
+RFLP haplotypes, numbers beginning with C...K), which are the most differential and comparable studies, are listed in brackets below and are indicated in the phylogenetic tree (Fig. 1). The Damm et al.
+ 42 first clade is well supported with a bootstrap support of 100 % and a Bayesian posterior probability value of 1.00. It consists of two frequently isolated, well-supported clades (bootstrap support/
 Bayesian posterior probability value of both 100/1.00) comprising several strains each, representing C. lupini (A1, J2/J6) and C. tamarilloi (A8). Other less frequently encountered subclades in the first clade include C. costaricense (94/1.00) with two strains, C. cuscutae and C. melonis both represented by single-strain clades on long branches, and several short-branched single-strain clades, including the known species C. limetticola (J3) and six further unnamed strains. The majority of strains in clade 2 (A2, 86/1.00) belong to C. nymphaeae (98/1.00, D2/D4), while most of the other 11 subclades of this clade are occupied by only one or few strains. 
 The clade representing C. scovillei (99/1.00) consists of three strains and groups (98/1.00) with a single-strain clade formed by 
 C. guajavae. These two adjacent clades probably correspond to clade D3 in Guerber et al. (2003). The other sister clades represent 
@@ -258,7 +261,8 @@ MP : In ter na tio na l C oll ec tio n o f M icr oo rg an ism s f ro m Pl an ts,
 Cu ltu re  co lle cti on  o f t he  D ep ar tm en t o f P lan t P ath olo gy , U niv er sit y o f S tel len bo sc h, So uth  A fric a; HK UC
 C:  T he  U niv er sit y o f H on g Ko ng  C ult ur e Co lle cti on , H on g Ko ng , C hin a; 
 PD : P lan ten zie kte nk un dig e Di en st 
-W ag en ing en , N ed er lan d; * e x-h olo typ e or  ex -e pit yp e c ult ur es . 3–8.5 µm diam. Setae very few, medium brown, basal cell pale, smooth-walled, 1–2-septate, 45–85 µm long, base cylindrical, 3–4 µm diam, tip ± acute. Conidiophores hyaline to pale brown, smooth-walled, septate, branched, to 30 µm long. Conidiogenous cells hyaline, smooth-walled, cylindrical to ampulliform, 9–20 × 3.5– 5 µm, opening 1–1.5 µm diam, collarette 0.5–1 µm long, periclinal thickening distinct. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical with one end round and one end slightly acute, (12.5–)15–18.5(–20.5) × (4–)4.5–5 µm, mean ± SD = 16.8 ± 1.7 × 4.7 ± 0.3 µm, L/W ratio = 3.6.
+W ag en ing en , N ed er lan d; * e x-h olo typ e or  ex -e pit yp e c ult ur es .
+ 3–8.5 µm diam. Setae very few, medium brown, basal cell pale, smooth-walled, 1–2-septate, 45–85 µm long, base cylindrical, 3–4 µm diam, tip ± acute. Conidiophores hyaline to pale brown, smooth-walled, septate, branched, to 30 µm long. Conidiogenous cells hyaline, smooth-walled, cylindrical to ampulliform, 9–20 × 3.5– 5 µm, opening 1–1.5 µm diam, collarette 0.5–1 µm long, periclinal thickening distinct. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical with one end round and one end slightly acute, (12.5–)15–18.5(–20.5) × (4–)4.5–5 µm, mean ± SD = 16.8 ± 1.7 × 4.7 ± 0.3 µm, L/W ratio = 3.6.
 Culture characteristics: Colonies on SNA flat with entire margin, hyaline to pale cinnamon, on filter paper, Anthriscus stem and medium partly covered with short floccose-felty white aerial mycelium and salmon, orange to olivaceous grey acervuli, reverse same colours, growth rate 20–21.5 mm in 7 d (32–33 mm in 10 d). 
 Colonies on OA flat with entire margin; surface buff to honey, almost entirely covered with floccose-felty white to pale olivaceous grey aerial mycelium and olivaceous grey to salmon acervuli, reverse buff, pale olivaceous grey, grey olivaceous to iron-grey, growth rate 17.5–20 mm in 7 d (27.5–30 mm in 10 d). Conidia in mass salmon to orange.
 Material examined: New Zealand, Nelson, from bitter rot on fruit of Malus domestica, 1 Aug. 1987, P.R. Johnston, (CBS H-20725 holotype, culture ex-type CBS 128530 = ICMP 12921 = PRJ 1199.3).
@@ -271,7 +275,8 @@ Colletotrichum acerbum is distinguishable from C. rhombiforme and all other spec
 CHS-1, and is most effectively distinguished with TUB2 and ITS. 
 In morphological terms its conidia are longer and the appressoria are shorter and wider than those of C. rhombiforme. Based on our studies and blastn searches in GenBank, it seems that C. acerbum could be endemic to New Zealand. The closest match based on TUB2 sequence that we could find (with 99 % identity, 5 bp differences) was AJ748624 from isolate PT250 (= CBS 129953), derived from olive in Portugal (Talhinhas et al. 2005), which we assign to C. rhombiforme. The closest matches for the ITS www.studiesinmycology.org 
 The ColletotriChum aCutatum species complex 55 sequence of C. acerbum (with 99 % identity, 3 bp differences), were with the ITS of C. phormii and C. salicis, which are all members of the same major clade. 
-Colletotrichum acutatum J.H. Simmonds, Queensland J. agric. Anim. Sci. 25: 178A. 1968. Fig. 3. ≡ Colletotrichum acutatum J.H. Simmonds, Queensland J. agric. Anim. 
+Colletotrichum acutatum J.H. Simmonds, Queensland J. agric. Anim. Sci. 25: 178A. 1968. Fig. 3.
+ ≡ Colletotrichum acutatum J.H. Simmonds, Queensland J. agric. Anim. 
 Sci. 22: 458. 1965, nom. inval., Art. 37.1.
 Sexual morph not observed. Asexual morph on SNA. Vegetative hyphae 1–5.5 µm diam, hyaline, smooth-walled, septate, branched. Chlamydospores not observed. Conidiomata absent, conidiophores formed directly on vegetative hyphae. Setae not observed. Conidiophores hyaline, smooth-walled, mostly simple, sometimes septate and branched, to 25 µm long. Conidiogenous cells hyaline, smooth-walled, cylindrical to slightly inflated, often not clearly separated from subtending hyphae by a septum, 3.5–20 × 2–3.5 µm, opening 1–1.5 µm diam, collarette distinct, 1–1.5 µm long, periclinal thickening conspicuous. Conidia hyaline, smooth walled, aseptate, straight, cylindrical to fusiform with both ends acute, (7.5–)11–14.5(–19) × 3.5–4(–4.5) µm, mean ± SD = 12.6 ± 1.8 × 3.9 ± 0.3 µm, L/W ratio = 3.2, conidia of strains CBS 112759, 
 CBS 112979 and CBS 979.69 differ in being cylindrical to clavate and having one round and one acute end, e.g., conidia of strain 
@@ -333,7 +338,8 @@ Sexual morph not observed. Asexual morph on SNA. Vegetative hyphae 1–5 µm dia
 Chlamydospores not observed. Conidiomata absent, conidiophores and setae formed directly on hyphae. Setae rarely observed, pale to medium brown, smooth-walled to finely verruculose, 1–3-septate, 30–90 µm long, base cylindrical to conical, 3.5–5.5 µm diam, tip ± roundish and bent and function as a conidiogenous locus. 
 Conidiophores hyaline to pale brown, smooth-walled, simple or septate and branched, to 30 µm long. Conidiogenous cells hyaline to pale brown, smooth-walled, conical to ampulliform, 4.5–15 × 2.5–5.5 µm, opening 0.5–1 µm diam, collarette 0.5–1.5 µm long, periclinal thickening visible. Conidia hyaline, smooth-walled, aseptate, become septate with age, straight, cylindrical, with one end round and one end slightly acute to truncate, (10–)14.5–19.5(– 25) × (3.5–)4–5(–6) µm, mean ± SD = 17.0 ± 2.4 × 4.4 ± 0.5 µm, 
 L/W ratio = 3.9. Appressoria single or in small groups, medium brown, smooth-walled, outline mostly subglobose to elliptical, sometimes clavate, the edge entire or undulate, sometimes slightly lobate, (5–)6–11(–14) × (4–)4.5–7(–8.5) µm, mean ± SD = 8.5 ± 2.6 × 5.8 ± 1.1 µm, L/W ratio = 1.5.
-Asexual morph on Anthriscus stem. Conidiomata acervular where present, conidiophores and setae formed directly on hyphae or on a cushion of pale brown angular cells. Setae pale to medium brown, smooth-walled to finely verruculose, 2–7-septate, 40–130 µm long, base cylindrical to conical, 3–5 µm diam, tip broadly rounded to somewhat acute, and may function as a conidiogenous locus. Conidiophores hyaline to pale brown, smooth-walled, septate, little branched, to 50 µm long. Conidiogenous cells hyaline to pale brown, smooth-walled, cylindrical to ampulliform, 8–19 × 3–5 µm, opening 1–2.5 µm diam, collarette 0.5–1 µm Damm et al. 58 long, periclinal thickening distinct. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical, sometimes slightly constricted in the middle, with one end round and one end slightly acute to truncate, (16–)17–20(–22) × (4–)4.5–5(–5.5) µm, mean ± SD = 18.6 ± 1.6 × 4.7 ± 0.4 µm, L/W ratio = 4.0, conidia of strain CBS 131325 smaller, measuring (13.5–)15–17.5(–18) × (3.5–)4–5(–5.5) µm, mean ± SD = 16.3 ± 1.1 × 4.4 ± 0.4 µm, L/W ratio = 3.7.
+Asexual morph on Anthriscus stem. Conidiomata acervular where present, conidiophores and setae formed directly on hyphae or on a cushion of pale brown angular cells. Setae pale to medium brown, smooth-walled to finely verruculose, 2–7-septate, 40–130 µm long, base cylindrical to conical, 3–5 µm diam, tip broadly rounded to somewhat acute, and may function as a conidiogenous locus. Conidiophores hyaline to pale brown, smooth-walled, septate, little branched, to 50 µm long. Conidiogenous cells hyaline to pale brown, smooth-walled, cylindrical to ampulliform, 8–19 × 3–5 µm, opening 1–2.5 µm diam, collarette 0.5–1 µm Damm et al.
+ 58 long, periclinal thickening distinct. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical, sometimes slightly constricted in the middle, with one end round and one end slightly acute to truncate, (16–)17–20(–22) × (4–)4.5–5(–5.5) µm, mean ± SD = 18.6 ± 1.6 × 4.7 ± 0.4 µm, L/W ratio = 4.0, conidia of strain CBS 131325 smaller, measuring (13.5–)15–17.5(–18) × (3.5–)4–5(–5.5) µm, mean ± SD = 16.3 ± 1.1 × 4.4 ± 0.4 µm, L/W ratio = 3.7.
 Culture characteristics: Colonies on SNA flat with entire margin, hyaline to honey, filter paper straw to pale olivaceous grey, aerial mycelium lacking, reverse same colours, growth rate 16–18 mm in 7 d (28.5–30 mm in 10 d). Colonies on OA flat with entire margin; surface pale luteous to amber, in the centre covered with floccose white aerial mycelium, reverse pale luteous to salmon, growth rate 16–20 mm in 7 d (25–29.5 mm in 10 d). Conidia in mass salmon.
 Material examined: South Africa, Stellenbosch, university campus, from 
 Trachycarpus fortunei, 2 Jan. 1998, J.E. Taylor, (CBS-H 20721 holotype, culture ex-type CBS 116478 = HKUCC2616). Australia, Western Australia, Alcoa, from 
@@ -361,7 +367,8 @@ Conidiophores hyaline, smooth-walled, septate, branched, to 30 µm long. Conidio
 Asexual morph on Anthriscus stem. Conidiomata possibly acervular, but no basal cells observed. Setae not observed. 
 Conidiophores hyaline to pale brown, smooth-walled, septate, branched, to 30 µm long. Conidiogenous cells hyaline, smooth walled, cylindrical to ampulliform, sometimes proliferating and extending to form a new conidiogenous locus, sometimes polyphialidic, 8.5–23 × 2.5–4.5 µm, opening 1–2 µm diam, collarette 0.5–1 µm long, periclinal thickening distinct. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical with both ends slightly acute, (9.5–)12–15(–17) × (3–)3.5–4 µm, mean ± SD = 13.5 ± 1.4 × 3.9 ± 0.3 µm, L/W ratio = 3.5. 
 Culture characteristics: Colonies on SNA flat with entire margin, hyaline to pale cinnamon, on filter paper partly pale saffron, agar medium partly covered with very short white aerial mycelium, 
-Fig. 5. Colletotrichum brisbanense (from ex-holotype strain CBS 292.67). A–B. Conidiomata. C–H. Conidiophores. I–N. Appressoria. O–P. Conidia. A, C–E, O. from Anthriscus stem. B, F–N, P. from SNA. A–B. DM, C–P. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–P. Damm et al. 60 reverse same colours; growth rate 18–20 mm in 7 d (26–29 mm in 10 d). Colonies on OA flat with entire margin; surface buff, rosy buff to pale saffron, covered with short white aerial mycelium, reverse same colours; growth rate 17.5–18.5 mm in 7 d (27.5–28.5 mm in 10 d). Conidia in mass salmon.
+Fig. 5. Colletotrichum brisbanense (from ex-holotype strain CBS 292.67). A–B. Conidiomata. C–H. Conidiophores. I–N. Appressoria. O–P. Conidia. A, C–E, O. from Anthriscus stem. B, F–N, P. from SNA. A–B. DM, C–P. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–P. Damm et al.
+ 60 reverse same colours; growth rate 18–20 mm in 7 d (26–29 mm in 10 d). Colonies on OA flat with entire margin; surface buff, rosy buff to pale saffron, covered with short white aerial mycelium, reverse same colours; growth rate 17.5–18.5 mm in 7 d (27.5–28.5 mm in 10 d). Conidia in mass salmon.
 Material examined: Australia, Queensland, Brisbane, Eight Mile Plains, from fruit rot of Capsicum annuum, 14 Jul. 1955, J.H. Simmonds, (IMI 117622 holotype of C. brisbanense (also paratype of C. acutatum), CBS H-20801 isotype, culture ex-type CBS 292.67 = BRIP 4684).
 Notes: The type and only confirmed strain of C. brisbanense was cited as one of the paratype strains of C. acutatum by Simmonds (1968), and assigned to C. simmondsii by Shivas & Tan (2009). 
 Conidia and appressoria of C. brisbanense are larger overall than those of C. simmondsii as accepted in this treatment. The two species are easily separable using all sequence data except for ITS, and most effectively with TUB2 and GAPDH sequences. 
@@ -369,7 +376,8 @@ There is only one bp difference in CHS-1 sequence between C. brisbanense and C. 
 A blastn search with the TUB2 sequence of strain CBS 292.67 resulted in a 100 % match with GU183275, the sequence of the same strain generated by Shivas & Tan (2009); next closest was 
 DQ454064 from isolate S6 from Fragaria in Thailand with 99 % identity (four differences; Sang et al. 2011). With the GAPDH sequence there was no match with more than 95 % identity. The ITS sequence of strain CBS 292.67 matched 100 % with GU183315, a sequence of the same isolate generated by Shivas & Tan (2009).
 Colletotrichum chrysanthemi (Hori) Sawada, Rep. Govt 
-Res. Inst. Dep. Agric., Formosa 85: 81. 1943. Fig. 6. ≡ Gloeosporium chrysanthemi Hori, in Takimoto, Jour. Hort. Japan 36(9): 27. 1924.
+Res. Inst. Dep. Agric., Formosa 85: 81. 1943. Fig. 6.
+ ≡ Gloeosporium chrysanthemi Hori, in Takimoto, Jour. Hort. Japan 36(9): 27. 1924.
 Sexual morph not observed. Asexual morph on SNA (CBS 126518). 
 Vegetative hyphae 1.5–9 µm diam, hyaline, smooth-walled, septate, branched. Chlamydospores not observed. Conidiomata absent, conidiophores formed directly on hyphae. Setae not observed. 
 Conidiophores hyaline to pale brown, smooth-walled, septate and branched, to 55 µm long. Conidiogenous cells hyaline, smooth walled, cylindrical to ampulliform, 7–15 × 3–4.5 µm, opening 1.5–2 µm diam, collarette distinct, 0.5–1 µm long, periclinal thickening distinct. Conidia hyaline, smooth-walled, aseptate, straight, broadly ellipsoidal to ovoid, with both ends acute, rarely clavate to cylindrical with one round end one acute end, (6–)7–9.5(–12) × (3–)4–5.5(–6) µm, mean ± SD = 8.3 ± 1.3 × 4.8 ± 0.6 µm, L/W ratio = 1.7, conidia from aerial mycelium shorter, measuring (3.5–)4.5– 9(–15) × 3–5(–6.5) µm, mean ± SD = 6.7 ± 2.3 × 4.1 ± 0.8 µm, 
@@ -463,7 +471,8 @@ Gouli, Mycologia 100: 362. 2008. ≡ Glomerella fioriniae (Marcelino & Gouli) R.
 Sexual morph not observed. Asexual morph on SNA. Vegetative hyphae 1.5–7.5 µm diam, hyaline to pale brown, smooth-walled, septate, branched. Chlamydospores not observed. Conidiomata conidiophores formed directly on hyphae. Setae not observed. 
 Conidiophores hyaline to pale brown, smooth-walled, septate, branched, up to 35 µm long. Conidiogenous cells hyaline to pale brown, smooth-walled, cylindrical to ampulliform, sometimes lacking a basal septum and continuous with the conidiophore, sometimes covert with a mucous coating, discrete phialides measure 4–12 × 2.5–3.5 µm, opening 1–2 µm diam, collarette 1 µm long, periclinal thickening distinct. Conidia hyaline, smooth-walled, aseptate, straight, fusiform to cylindrical with both ends acute, (10–)13.5– 16.5(–19.5) × 4–5(–5.5) µm, mean ± SD = 15.0 ± 1.6 × 4.5 ± 0.3 µm, L/W ratio = 3.3 µm, conidia of strain CBS 129947 are smaller, measuring (10.5–)12–15(–17) × 3.5–5(–6) µm, mean ± SD = 13.5 ± 1.7 × 4.1 ± 0.8 µm, L/W ratio = 3.3 µm. Appressoria solitary or in loose groups, pale to medium brown, smooth-walled, ellipsoidal, clavate to irregular outline, entire edge or undulate, (4.5–)7–11.5(– 
 Fig. 9. Colletotrichum cuscutae (from ex-holotype strain IMI 304802). A–B. Conidiomata. C–J. Conidiophores. K–P. Appressoria. Q–R. Conidia. A, C–E, Q. from Anthriscus stem. 
-B, F–P, R. from SNA. A–B. DM, C–R. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–R. Damm et al. 66 15.5) × (4–)4.5–7(–10.5) µm, mean ± SD = 9.2 ± 2.2 × 5.6 ± 1.2 µm, L/W ratio = 1.6. 
+B, F–P, R. from SNA. A–B. DM, C–R. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–R. Damm et al.
+ 66 15.5) × (4–)4.5–7(–10.5) µm, mean ± SD = 9.2 ± 2.2 × 5.6 ± 1.2 µm, L/W ratio = 1.6. 
 Asexual morph on Anthriscus stem. Conidiomata forming a cushion of pale brown, thick-walled, angular cells, 3–6.5 µm diam. 
 Setae not observed. Conidiophores hyaline to pale brown, smooth walled, septate, branched, up to 35 µm long. Conidiogenous cells hyaline to pale brown, smooth-walled, cylindrical, 10–22 × 3–4 µm, opening 1.5–2 µm diam, collarette 0.5–1 µm long, periclinal thickening distinct. Conidia hyaline, smooth-walled, aseptate, straight, fusiform to cylindrical with both ends acute, (12.5–)14– 18.5(–24.5) × 4–5 µm, mean ± SD = 16.1 ± 2.2 × 4.4 ± 0.4 µm, 
 L/W ratio = 3.6, conidia of CBS 200.35 differ in sometimes having one round and one slightly acute end, conidia of strain CBS 129947 are smaller, measuring (13–)14–16(–17) × (3.5–)4–4.5(–5) µm, mean ± SD = 15.0 ± 1.0 × 4.3 ± 0.4 µm, L/W ratio = 3.5 µm.
@@ -497,11 +506,14 @@ GU183274 from Acacia acuminata, GU183273, GU183270, and
 GU183268 from Persea americana, GU183267 Actinidia chinensis and GU183269 from Mangifera indica (all from Australia; Shivas & 
 Tan 2009), AB618092 from Apium graveolens var. dulce (celery) in 
 Japan (Fujinaga et al. 2011) and AB273716 from grape in Japan (Nakaune & Nakano 2007). All of these are likely to represent strains of C. fioriniae, further emphasising its widespread distribution and presumably also its wide host range as a pathogen.
-Colletotrichum godetiae Neerg., Friesia 4: 72. 1950. Fig. 11. ≡ Colletotrichum godetiae Neerg., Aarsberetn. J. E. Ohlens Enkes plantepatol. Lab. 1 April 1942–31 Marts 1943: 8. 1943, nom. inval., Art. 36.1. = Colletotrichum clavatum Agosteo, Faedda & Cacciola, Fungal Diversity 50: 292. 2011.
+Colletotrichum godetiae Neerg., Friesia 4: 72. 1950. Fig. 11.
+ ≡ Colletotrichum godetiae Neerg., Aarsberetn. J. E. Ohlens Enkes plantepatol. Lab. 1 April 1942–31 Marts 1943: 8. 1943, nom. inval., Art. 36.1.
+ = Colletotrichum clavatum Agosteo, Faedda & Cacciola, Fungal Diversity 50: 292. 2011.
 Sexual morph not observed. Asexual morph on SNA. Vegetative hyphae 1–7 µm diam, hyaline to pale brown, smooth-walled, septate, branched. Chlamydospores not observed. Conidiomata absent, conidiophores formed directly on hyphae. Setae not observed. Conidiophores hyaline, smooth-walled, simple, to 14 µm long. Conidiogenous cells hyaline, smooth-walled, cylindrical, often with only short necks, 4–14 × (1.5–)3–6 µm, opening 1.5–2 µm diam, collarette 0.5 µm long, periclinal thickening observed. 
 Conidia hyaline, smooth-walled, aseptate, straight, cylindrical to fusiform with both ends acute or one end round and one end slightly acute, (7–)10.5–14.5(–15.5) × (3.5–)4–5(–5.5) µm, mean ± SD = 12.4 ± 2.0 × 4.3 ± 0.5 µm, L/W ratio = 2.9, strains CBS 127561, CBS 129917, CBS 193.32 and CBS 129951 differ in forming cylindrical to clavate conidia with one round and one acute end, conidia of strain CBS 862.70 are larger, measuring (8–)14– 19(–24) × (4–)4.5–5(–5.5) µm, mean ± SD = 16.4 ± 2.4 × 4.9 ± 0.4 µm, L/W ratio = 3.4. Appressoria solitary, medium brown, smooth-walled, clavate to elliptical, the edge entire or undulate (8–)9–12.5(–14.5) × (3–)4–5.5(–6) µm, mean ± SD = 10.7 ± 1.9 × 4.7 ± 0.7 µm, L/W ratio = 2.3.
 Asexual morph on Anthriscus stem. Conidiomata absent, conidiophores formed directly on hyphae in aerial mycelium (in strain CBS 125972 present as a cushion of angular to roundish cells 4–10 µm diam). Setae not observed (in strain CBS 125972 very few setae present, medium brown, smooth-walled, 2–3-septate, 70–110 µm long, base cylindrical, 4–5 µm diam, tip ± acute). Conidiophores hyaline, septate, branched, smooth-walled. 
-Conidiogenous cells hyaline, smooth-walled, cylindrical, 9–20 × 3 µm, opening 1.5 µm diam, collarette < 0.5 µm long, periclinal Damm et al. 68 thickening visible. Conidia hyaline, smooth-walled, aseptate, cylindrical to fusiform with both ends acute, (9.5–)10.5–15(–20.5) × 4–5 µm, mean ± SD = 12.8 ± 2.3 × 4.5 ± 0.4 µm, L/W ratio = 2.8, strain CBS 127561 differs in forming clavate conidia with one round and one acute end and strains CBS 129917, CBS 193.32 and CBS 129911 in forming cylindrical to clavate conidia with one round and one acute end, conidia of strain CBS 862.70 are larger, measuring (12.5–)15.5–18(–19.5) × 4.5–5(5.5) µm, mean ± SD = 16.8 ± 1.4 × 4.9 ± 0.2 µm, L/W ratio = 3.4, conidia of strain CBS 129911 are smaller, measuring (7–)9–13(–15.5) × (2.5–)3–4 µm, mean ± SD = 11.0 ± 2.0 × 3.5 ± 0.3 µm, L/W ratio = 3.1.
+Conidiogenous cells hyaline, smooth-walled, cylindrical, 9–20 × 3 µm, opening 1.5 µm diam, collarette < 0.5 µm long, periclinal Damm et al.
+ 68 thickening visible. Conidia hyaline, smooth-walled, aseptate, cylindrical to fusiform with both ends acute, (9.5–)10.5–15(–20.5) × 4–5 µm, mean ± SD = 12.8 ± 2.3 × 4.5 ± 0.4 µm, L/W ratio = 2.8, strain CBS 127561 differs in forming clavate conidia with one round and one acute end and strains CBS 129917, CBS 193.32 and CBS 129911 in forming cylindrical to clavate conidia with one round and one acute end, conidia of strain CBS 862.70 are larger, measuring (12.5–)15.5–18(–19.5) × 4.5–5(5.5) µm, mean ± SD = 16.8 ± 1.4 × 4.9 ± 0.2 µm, L/W ratio = 3.4, conidia of strain CBS 129911 are smaller, measuring (7–)9–13(–15.5) × (2.5–)3–4 µm, mean ± SD = 11.0 ± 2.0 × 3.5 ± 0.3 µm, L/W ratio = 3.1.
 Culture characteristics: Colonies on SNA flat with entire margin, hyaline, with little low white aerial mycelium, on Anthriscus stem growth rate 21–21.5 mm in 7 d (30.5–31.5 mm in 10 d). Colonies on OA flat with entire margin; surface salmon to hazel, no aerial mycelium, reverse salmon to vinaceous buff; growth rate 21–24 mm in 7 d (30–33.5 mm in 10 d). Conidia in mass not observed in strain CBS 133.44, but in strain CBS 125972 orange.
 Material examined: Denmark, from seed of Clarkia (syn. Godetia) hybrida cv. 
 Kelvedon Glory 463 C in seed disinfection experiment, 17 Jun. 1943, P. Neergaard, culture ex-holotype of C. godetiae CBS 133.44. Italy, Calabria, Rizziconi, from rotten fruit of Olea europaea, Oct. 1992, G.E. Agosteo and G. Magnano di San Lio, culture ex-holotype of C. clavatum CBS 130251 = OL10 = IMI 398854. Greece, from Olea europaea, collection date and collector unknown (deposited in CBS collection Jan. 1932 by L. Petri), culture CBS 193.32. Netherlands, Tilburg, from 
@@ -533,7 +545,8 @@ Asexual morph on Anthriscus stem. Conidiomata acervular, conidiophores formed on
 Culture characteristics: Colonies on SNA flat with entire margin, hyaline, buff to pale honey, on filter paper partly pale olivaceous grey, on medium, filter paper and Anthriscus stem partly covered with whitish to pale olivaceous grey floccose-felty aerial mycelium, reverse of filter paper smoke grey to grey olivaceous; growth rate 22–24 mm in 7 d (31.5–34 mm in 10 d). Colonies on OA flat with entire margin; surface white, pale olivaceous grey to rosy buff, covered with thin floccose-felty whitish to pale olivaceous grey aerial mycelium, reverse rosy buff, grey olivaceous to olivaceous black; growth rate 24–26.5 mm in 7 d (35.5–37 mm in 10 d). Conidia in mass salmon.
 Material examined: India, Assam, Silchar, from fruit of Psidium guajava, collection date and collector unknown (deposited in IMI 1991 by M. Das as isolate India No. 1), (IMI 350839 holotype, CBS H-20793 isotype, culture ex-type IMI 350839).
 Notes: Anthracnose and fruit canker of guava are serious diseases in the Indian subcontinent, and according to Misra (2004) are caused in part by C. psidii. However, the identity of the guava pathogen in the sense of Misra is unclear as the conidia are described as sickle-shaped. Curzi (1927) described the conidia of C. psidii as cylindrical with both ends rounded, straight, sometimes slightly curved and measuring 12–15 × 3.5–4.5 µm. Based on study of an authentic strain from Psidium sp. from Italy, C. psidii belongs to the C. gloeosporioides species complex (Weir et al. 2012, this issue). A separate taxon, Glomerella psidii (apparently based on 
-Gloeosporium psidii), causing the “mummy disease” of guava, has uncertain relationships. The sexual morph was formed on apple Damm et al. 70 agar and resembled Glomerella. The Gloeosporium stage it links to may well fall within the C. acutatum complex: Gm. psidii, described from Psidium pomiferi (= Psidium guajava) in Mexico, forms ellipsoidal-ovoid conidia measuring 10–16 × 4–6 µm (Saccardo 1906); its conidia are thus broader than those of C. guajavae. 
+Gloeosporium psidii), causing the “mummy disease” of guava, has uncertain relationships. The sexual morph was formed on apple Damm et al.
+ 70 agar and resembled Glomerella. The Gloeosporium stage it links to may well fall within the C. acutatum complex: Gm. psidii, described from Psidium pomiferi (= Psidium guajava) in Mexico, forms ellipsoidal-ovoid conidia measuring 10–16 × 4–6 µm (Saccardo 1906); its conidia are thus broader than those of C. guajavae. 
 Gloeosporium fructus-psidii was found on fruits of Psidium in Sao 
 Paulo, Brazil, and was described as forming oblong, subfusoid to clavate, hyaline conidia, measuring 14–20 × 5–6 µm (Saccardo et al. 1931). The shape of the conidia of that species points also at the 
 C. acutatum complex, however, there is no species in this complex with conidia on average generally wider than 5 µm. Conidia of C. guajavae are substantially smaller, measuring on average 13.4 × 3.5 µm on SNA and 14.6 × 3.8 µm on Anthriscus stem.
@@ -560,7 +573,8 @@ Material examined: Indonesia: Sumatra, Tele, from leaf spots developing after he
 Notes: Eucalyptus is not a well-known disease reservoir for 
 Colletotrichum species. Colletotrichum eucalypti was described from Brazil by Bitancourt (1927) and noted again by Viégas (1946) from the Campinas region, causing anthracnose of Eucalyptus leaves. Viégas described the species as having conidia that are elongate-fusiform to oblong and 10–20 × 3–5 µm in size; the 
 Fig. 13. Colletotrichum indonesiense (from ex-holotype strain CBS 127551). A–B. Conidiomata. C–G. Conidiophores. H–M. Appressoria. N–O. Conidia. A, C–E, N. from 
-Anthriscus stem. B, F–M, O. from SNA. A–B. DM, C–O. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–O. Damm et al. 72 description is reminiscent of the C. acutatum species complex, but cultures are not available, we have not seen type material, and the species was described from a different continent.
+Anthriscus stem. B, F–M, O. from SNA. A–B. DM, C–O. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–O. Damm et al.
+ 72 description is reminiscent of the C. acutatum species complex, but cultures are not available, we have not seen type material, and the species was described from a different continent.
 There is a number of Gloeosporium species that were described on Eucalyptus spp. in different countries, but none was described in Asia, and most differ considerably from C. indonesiense. 
 Gloeosporium eucalypti was described on E. corynocalyx in 
 Australia, and forms shorter conidia than C. indonesiense, measuring 8–10 × 3–4 µm (Saccardo 1906) compared to those of C. indonesiense that average 12.3 × 3.8 µm and 15.4 × 3.7 µm on SNA and Anthriscus stem, respectively. Gloeosporium eucalyptorum, described on leaves and twigs of Eucalyptus spp. in Italy, has larger conidia, measuring 18–26 × 5–6 µm. They have a different shape, cylindrical to cylindric-clavate, straight to slightly curved, with both ends obtuse (see Tavola VIII, fig. 5 in Turconi 1924), while conidia of C. indonesiense are straight and cylindrical, with one acute end when formed on SNA and both ends acute when formed on Anthriscus stem. Gloeosporium capsularum was described on Eucalyptus sp. in California, USA; it has longer and narrower conidia, measuring 18–20 × 2.5 µm. They are straight and cylindrical with both sides obtuse (Saccardo 1884). Conidia of 
@@ -633,7 +647,8 @@ The TUB2 sequence of strain IMI 383015 (AY376556) was also included in the TUB2 
 It is necessary to consider the possible conspecificity of C. laticiphilum with three previously described taxa, all published by Petch in the same paper (Petch 1906) from collections made from Hevea in Sri Lanka. These were named as C. heveae, 
 Gloeosporium heveae [nomenclaturally unrelated to C. heveae] and Gm. alborubrum. All three species were regarded as synonyms of C. gloeosporioides by von Arx (1957).
 Colletotrichum heveae was described with very wide conidia, measuring 18–24 × 7.5–8 µm (Petch 1906), larger than any of the species in the C. acutatum species complex, and possibly 
-Fig. 16. Colletotrichum laticiphilum (from ex-holotype strain CBS 112989). A–B. Conidiomata. C–H. Conidiophores. I–L. Appressoria. M–N. Conidia. A, C–E, M. from Anthriscus stem. B, F–L, N. from SNA. A–B. DM, C–N. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–N. Damm et al. 76 belonging to the C. crassipes group as accepted by Sutton (1980). 
+Fig. 16. Colletotrichum laticiphilum (from ex-holotype strain CBS 112989). A–B. Conidiomata. C–H. Conidiophores. I–L. Appressoria. M–N. Conidia. A, C–E, M. from Anthriscus stem. B, F–L, N. from SNA. A–B. DM, C–N. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–N. Damm et al.
+ 76 belonging to the C. crassipes group as accepted by Sutton (1980). 
 No type details were given in the original description. There is a probable type specimen of C. heveae in K(M), collected from leaves of Hevea (Petch 2228) on 7 Oct. 1905, presumably from Sri 
 Lanka. It is fragmentary and also contains a fungus identified on the label as Gloeosporium brunneum. According to Petch (1927), 
 C. heveae causes an indeterminate leaf spot, and is perhaps an invader following mechanical damage; it was not considered to be a significant disease of rubber at that time. No fungus corresponding to the description of C. heveae was found on the type specimen, and a slide previously made from this material (IMI 80135) also does not contain this species. Glomerella phyllanthi (from the related plant Phyllanthus acidus) was initially regarded as the sexual morph of C. heveae (Pai 1970), but was later revealed to belong to the C. boninense species complex, as was another species on Hevea, C. annellatum (Damm et al. 2012, this issue). 
@@ -691,7 +706,8 @@ Colletotrichum limetticola is distinguished from other species by TUB2, GAPDH an
 Colletotrichum lupini (Bondar) Damm, P.F. Cannon & 
 Crous, comb. nov. MycoBank MB800519. Fig. 18.
 Basionym: Gloeosporium lupini [as Gm. lupinus] Bondar, Boln 
-Agric., São Paulo 13: 427. 1912. ≡ Colletotrichum lupini (Bondar) Nirenberg, Feiler & Hagedorn, Mycologia 94(2): 309. 2002, nom. inval. (Art. 33.3).
+Agric., São Paulo 13: 427. 1912.
+ ≡ Colletotrichum lupini (Bondar) Nirenberg, Feiler & Hagedorn, Mycologia 94(2): 309. 2002, nom. inval. (Art. 33.3).
 ≡ Colletotrichum lupini var. setosum Nirenberg, Feiler & Hagedorn, 
 Mycologia 94(2): 309. 2002, nom. inval. (Art. 43.1).
 Sexual morph not observed. Asexual morph on SNA. Vegetative hyphae 1–6.5 µm diam, hyaline, smooth-walled, septate, branched. Chlamydospores not observed. Conidiomata absent, conidiophores formed directly on hyphae on the surface of the medium and in the aerial mycelium. Setae not observed. 
@@ -742,7 +758,8 @@ Colletotrichum nymphaeae (Pass.) Aa, Netherlands J. Pl.
 Pathol., Supplement 1 84: 110. 1978. Fig. 20.
 Basionym: Ascochyta nymphaeae Pass., in Rabenh., Fungi 
 Europaei edn 2: 2251 (1876, in sched.); Hedwigia 16: 120. 1877. 
-Fig. 20. Colletotrichum nymphaea (from ex-epitype strain CBS 515.78). A–B. Conidiomata. C–G. Conidiophores. H–M. Appressoria. N–O. Conidia. A, C–D, N. from Anthriscus stem. B, E–M, O. from SNA. A–B. DM, C–O. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–O. Damm et al. 82 = Colletotrichum mahoniae Fabric., Atti Imp. Regia Accad. Rovereto, ser. 3, 6: 139. 1950. 
+Fig. 20. Colletotrichum nymphaea (from ex-epitype strain CBS 515.78). A–B. Conidiomata. C–G. Conidiophores. H–M. Appressoria. N–O. Conidia. A, C–D, N. from Anthriscus stem. B, E–M, O. from SNA. A–B. DM, C–O. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–O. Damm et al.
+ 82 = Colletotrichum mahoniae Fabric., Atti Imp. Regia Accad. Rovereto, ser. 3, 6: 139. 1950. 
 Sexual morph not observed. Asexual morph on SNA. Vegetative hyphae 1.5–5 µm diam, hyaline, smooth-walled, septate, branched. 
 Chlamydospores not observed. Conidiomata absent, conidiophores formed directly on hyphae. Setae not observed. Conidiophores hyaline to pale brown, smooth-walled, septate and branched, to 60 µm long. Conidiogenous cells hyaline to pale brown, smooth walled, cylindrical, 10.5–20 × 2–4 µm, opening 1 µm diam, collarette distinct, 1–1.5 µm long, periclinal thickening distinct. 
 Conidia hyaline, smooth-walled, aseptate, straight, cylindrical to cylindric-clavate with one end round and one end rounded to ± acute, (10–)14–18.5(–19.5) × (3–)4–5.5(–6) µm, mean ± SD = 16.1 ± 2.3 × 4.9 ± 0.7 µm, L/W ratio = 3.3. Strain CBS 526.77 has smaller conidia, measuring (8.5–)9–13(–16) × (3–)3–4.5(–5) µm, mean ± SD = 11.0 ± 2.0 × 3.8 ± 0.6 µm, L/W ratio = 2.9, while conidia of strain CBS 112202 differ in being cylindrical to fusiform with both ends acute. Appressoria single, medium brown, smooth walled, elliptical, clavate or irregular in outline, entire, undulate to lobate margin, (4.5–)6–11(–15) × (3–)4.5–6.5(–8) µm, mean ± SD = 8.7 ± 2.5 × 5.5 ± 1.0 µm, L/W ratio = 1.6.
@@ -788,7 +805,8 @@ Etymology: Named for the host plants from which the species is known, all of whi
 Sexual morph not observed. Asexual morph on SNA. Vegetative hyphae 1.5–7 µm diam, hyaline to pale brown, smooth-walled, septate, branched. Chlamydospores not observed. Conidiomata not developed, conidiophores and setae formed directly on hyphae. 
 Setae abundant, medium brown, basal cell often paler, smooth 
 Fig. 21. Colletotrichum orchidophilum (A–M, S–T from ex-holotype strain CBS 632.80. N–R from IMI 305357). A–B. Conidiomata. C. Setae. D–F. Conidiophores. H. Tip of seta. 
-I. Basis of seta. J–M. Conidiophores. N–R. Appressoria. S–T. Conidia. A, C–F, S. from Anthriscus stem. B, H–R, T. from SNA. A–B. DM, C–T. DIC, Scale bars: A = 100 µm, D = 10 µm. Scale bar of A applies to A–B. Scale bar of D applies to C–T. Damm et al. 84 walled, 1–2-septate, 40–80 µm long, base cylindrical, 2–4.5 µm diam, tip somewhat acute. Conidiophores pale to medium brown, septate, branched, smooth-walled, to 60 µm long. Conidiogenous cells hyaline to medium brown, usually smooth-walled, but some warted conidiogenous cells observed, cylindrical with a slime sheath, 7–18 × 2.5–5 µm, opening 1–1.5 µm diam, collarette 0.5 µm long, periclinal thickening conspicuous. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical with one end round and one end somewhat acute, (10.5–)11.5–14(–16.5) × (2–)3– 3.5(–4) µm, mean ± SD = 12.7 ± 1.1 × 3.1 ± 0.3 µm, L/W ratio = 4.1, conidia of strain CBS 631.80 are larger, measuring (13–)13.5– 17.5(–19) × 2.5–3.5 µm, mean ± SD = 15.4 ± 2.1 × 3.0 ± 0.3 µm, 
+I. Basis of seta. J–M. Conidiophores. N–R. Appressoria. S–T. Conidia. A, C–F, S. from Anthriscus stem. B, H–R, T. from SNA. A–B. DM, C–T. DIC, Scale bars: A = 100 µm, D = 10 µm. Scale bar of A applies to A–B. Scale bar of D applies to C–T. Damm et al.
+ 84 walled, 1–2-septate, 40–80 µm long, base cylindrical, 2–4.5 µm diam, tip somewhat acute. Conidiophores pale to medium brown, septate, branched, smooth-walled, to 60 µm long. Conidiogenous cells hyaline to medium brown, usually smooth-walled, but some warted conidiogenous cells observed, cylindrical with a slime sheath, 7–18 × 2.5–5 µm, opening 1–1.5 µm diam, collarette 0.5 µm long, periclinal thickening conspicuous. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical with one end round and one end somewhat acute, (10.5–)11.5–14(–16.5) × (2–)3– 3.5(–4) µm, mean ± SD = 12.7 ± 1.1 × 3.1 ± 0.3 µm, L/W ratio = 4.1, conidia of strain CBS 631.80 are larger, measuring (13–)13.5– 17.5(–19) × 2.5–3.5 µm, mean ± SD = 15.4 ± 2.1 × 3.0 ± 0.3 µm, 
 L/W ratio = 5.1. Appressoria not observed in type, but present in strain IMI 305357, single or in periodic intervals along hyphae, dark brown, smooth-walled, elliptical, pyriform or spathulate, (5.5–)7.5– 15.5(–20.5) × (4.5–)5.5–8.5(–12) µm, mean ± SD = 11.6 ± 3.9 × 7.0 ± 1.6 µm, L/W ratio = 1.6, appressoria of strain CBS 631.80 smaller, measuring (4.5–)5.5–11(–18) × (4–)4.5–6(–7) µm, mean ± SD = 8.2 ± 2.8 × 5.2 ± 0.8 µm, L/W ratio = 1.6. In SNA cultures of strains IMI 305357 and CBS 119291 no setae were observed.
 Asexual morph on Anthriscus stem. Conidiomata acervular, conidiophores and setae formed directly on hyphae or on pale brown basal cells 3–6 µm diam. Setae abundant, dark brown, basal cell often paler, smooth-walled, 0–2-septate, 40–70 µm long, base cylindrical to conical, sometimes inflated, 3–6.5 µm wide, tip somewhat acute, setae of strain CBS 631.80 only up to 40 µm long, with a round tip or functioning as conidiogenous cells. Conidiophores pale brown, septate, branched, to 40 µm long. Conidiogenous cells hyaline to pale brown, smooth-walled, cylindrical, 7–16 × 3–5 µm, opening 1.5–2 µm diam, collarette 0.5–1 µm long, distinct, periclinal thickening conspicuous. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical with one end round and one end somewhat acute, (11.5–)12.5–14(–15.5) × (2.5–)3–3.5(–4) µm, mean ± SD = 13.2 ± 0.9 × 3.3 ± 0.3 µm, L/W ratio = 4.0.
 Culture characteristics: Colonies on SNA flat with entire margin, hyaline, aerial mycelium lacking, medium, filter paper and on 
@@ -824,7 +842,8 @@ Conidia hyaline, smooth-walled, aseptate, straight, cylindrical with one end rou
 L/W ratio = 1.4, strain CBS 502.97 forms smaller appressoria, measuring (3.5–)4.5–7.5(–10.5) × (3–)3.5–5(–5.5) µm, mean ± SD = 6.0 ± 1.7 × 4.2 ± 0.7 µm, L/W ratio = 1.4.
 Asexual morph on Anthriscus stem. Conidiomata acervular, conidiophores formed on pale brown, angular, basal cells 3.5–7.5 
 Fig. 22. Colletotrichum paxtonii (from ex-holotype strain IMI 165753). A–B. Conidiomata. C–F. Conidiophores. G–K. Appressoria. L–M. Conidia. A, C–D, L. from Anthriscus stem. 
-B, E–K, M. from SNA. A–B. DM, C–M. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–M. Damm et al. 86 µm diam. Setae not observed. Conidiophores hyaline to pale brown, smooth-walled, septate, branched, to 30 µm long. Conidiogenous cells hyaline, smooth-walled, cylindrical, 7–19 × 2–3 µm, opening 1–1.5 µm diam, collarette 1–1.5 µm long, periclinal thickening distinct. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical to fusiform with both ends ± acute, sometimes one end round, (6.5–)12–15.5(–17) × (3–)3.5–4 µm, mean ± SD = 13.7 ± 1.8 × 3.8 ± 0.3 µm, L/W ratio = 3.6.
+B, E–K, M. from SNA. A–B. DM, C–M. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–M. Damm et al.
+ 86 µm diam. Setae not observed. Conidiophores hyaline to pale brown, smooth-walled, septate, branched, to 30 µm long. Conidiogenous cells hyaline, smooth-walled, cylindrical, 7–19 × 2–3 µm, opening 1–1.5 µm diam, collarette 1–1.5 µm long, periclinal thickening distinct. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical to fusiform with both ends ± acute, sometimes one end round, (6.5–)12–15.5(–17) × (3–)3.5–4 µm, mean ± SD = 13.7 ± 1.8 × 3.8 ± 0.3 µm, L/W ratio = 3.6.
 Culture characteristics: Colonies on SNA flat to raised with entire margin, hyaline, on filter paper partly pale olivaceous grey, on medium, filter paper and Anthriscus stem partly covered with thin, floccose white to pale olivaceous grey aerial mycelium and orange acervuli, reverse hyaline to pale cinnamon, filter paper partly pale olivaceous grey; 23–24.5 mm in 7 d (34–36.5 mm in 10 d). Colonies on OA flat with entire margin; surface covered with floccose rosy buff to pale olivaceous grey aerial mycelium and orange acervuli, reverse pale vinaceous, hazel, olivaceous grey to iron grey; growth rate 22.5–23 mm in 7 d (33.5–35.5 mm in 10 d). Conidia in mass orange.
 Material examined: St. Lucia, from Musa sp., 1972, P. Griffee (IMI 165753 holotype, 
 CBS H-20797 isotype, culture ex-type IMI 165753). Unknown country (West 
@@ -849,11 +868,16 @@ Carica papaya in Australia (Prihastuti et al. 2009). With the GAPDH sequence of 
 ITS sequence of C. paxtonii strain IMI 165753 is the same as that of several other Colletotrichum spp., there is a long list of 100 % matching sequences in GenBank. These sequences, however, are all from isolates with hosts other than Musa. 
 Colletotrichum phormii (Henn.) D.F. Farr & Rossman, 
 Mycol. Res. 110(12): 1403. 2006. Fig. 23.
-Basionym: Fusarium phormii Henn., Verh. bot. Ver. Prov. Brandenb. 40: 175. 1898. [1899]. ≡ Gloeosporium phormii (Henn.) Wollenw., Fus. Auto Delin. no. 498. 1916, non Sacc. 1915. = Gloeosporium phormii Sacc., Nuovo Giorn. Bot. Ital. n.s. 22: 67. 1915.
-= Cryptosporium rhodocyclum Mont. ex Almeida & Souza da Camara, Bol. Soc. Brot. 25: 190. 1909. ≡ Gloeosporidium rhodocyclum (Mont. ex Almeida & Souza da Camara) 
+Basionym: Fusarium phormii Henn., Verh. bot. Ver. Prov. Brandenb. 40: 175. 1898. [1899].
+ ≡ Gloeosporium phormii (Henn.) Wollenw., Fus. Auto Delin. no. 498. 1916, non Sacc. 1915.
+ = Gloeosporium phormii Sacc., Nuovo Giorn. Bot. Ital. n.s. 22: 67. 1915.
+= Cryptosporium rhodocyclum Mont. ex Almeida & Souza da Camara, Bol. Soc. Brot. 25: 190. 1909.
+ ≡ Gloeosporidium rhodocyclum (Mont. ex Almeida & Souza da Camara) 
 Höhn., Annls mycol. 18(1/3): 92. 1920.
 ≡ Colletotrichum rhodocyclum (Mont. ex Almeida & Souza da Camara) 
-Petr., Annls mycol. 25(3/4): 251. 1927. = Physalospora phormii J. Schröt., in Cohn, Krypt.-Fl. Schlesien (Breslau) 3.2(3): 347. 1894. ≡ Hypostegium phormii (J. Schröt.) Theiss., Verh. zool.-bot. Ges. Wien 66: 384. 1916.
+Petr., Annls mycol. 25(3/4): 251. 1927.
+ = Physalospora phormii J. Schröt., in Cohn, Krypt.-Fl. Schlesien (Breslau) 3.2(3): 347. 1894.
+ ≡ Hypostegium phormii (J. Schröt.) Theiss., Verh. zool.-bot. Ges. Wien 66: 384. 1916.
 ≡ Glomerella phormii (J. Schröt.) D.F. Farr & Rossman, Mycol. Res. 110(12): 1403. 2006.
 Sexual morph not observed. Asexual morph on SNA. Vegetative hyphae 1–5 µm diam, hyaline, smooth-walled, septate, branched. 
 Chlamydospores not observed. Conidiomata absent, conidiophores formed directly on hyphae. Setae not observed. Conidiophores hyaline to very pale brown, smooth-walled to finely verruculose, www.studiesinmycology.org 
@@ -873,10 +897,15 @@ Ta bl e 2 . C on idi a m ea su re me nts  of  C oll et ot ric hu m  st ra ins  s
 An th ris cu s s te m len gt h × wi dt h (µ m )2 len gt h × wi dt h (µ m ) L/
 W  ra tio len gt h × wi dt h (µ m )2 len gt h × wi dt h (µ m ) L/
 W  ra tio m ea n ± st de v m ea n ± st de v C. ac er bu mCB 
-S 12 85 30 * 15 .5– 20 .5( –2 9)  ×  (4 –) 4.5 –5 17 .9 ± 2.4  ×  4. 7 ±  0. 2 3.8 (1 2.5 –) 15 –1 8.5 (– 20 .5)  ×  (4 –) 4.5 –5 16 .8 ± 1.7  ×  4. 7 ±  0. 3 3.6 C. ac ut at umCB 
-S 11 29 96 * (7 .5– )11 –1 4.5 (– 19 ) ×  3. 5– 4( –4 .5) 12 .6 ± 1.8  ×  3. 9 ±  0. 3 3.2 (8 .5– )1 2– 16 .5( –1 7.5 ) ×  (3 –) 3.5 –4 .5( –5 ) 14 .3 ± 2.1  ×  4. 1 ±  0. 4 3.5  CB 
-S 11 19 93 (1 0.5 –) 12 –1 6( –2 0)  ×  (3 –) 3.5 –4 .5( –5 ) 14 .0 ± 1.8  ×  4. 0 ±  0. 5 3.5 (1 2.5 –) 14 –1 7( –1 8)  ×  (3 .5– )4 –4 .5( –5 ) 15 .5 ± 1.3  ×  4. 2 ±  0. 3 3.7  CB 
-S 12 76 02 (8 –) 11 .5– 14 .5( –1 5)  ×  (2 .5– )3 .5– 4 13 .0 ± 1.5  ×  3. 8 ±  0. 4 3.5 (8 –) 12 .5– 18 .5( –2 2)  ×  4– 4.5 15 .5 ± 2.9  ×  4.2 ±  0.3 3.7  CB
+S 12 85 30 * 15 .5– 20 .5( –2 9)  ×  (4 –) 4.5 –5 17 .9 ± 2.4  ×  4. 7 ±  0.
+ 2 3.8 (1 2.5 –) 15 –1 8.5 (– 20 .5)  ×  (4 –) 4.5 –5 16 .8 ± 1.7  ×  4. 7 ±  0. 3 3.6 C. ac ut at umCB 
+S 11 29 96 * (7 .5– )11 –1 4.5 (– 19 ) ×  3.
+ 5– 4( –4 .5) 12 .6 ± 1.8  ×  3. 9 ±  0.
+ 3 3.2 (8 .5– )1 2– 16 .5( –1 7.5 ) ×  (3 –) 3.5 –4 .5( –5 ) 14 .3 ± 2.1  ×  4. 1 ±  0. 4 3.5  CB 
+S 11 19 93 (1 0.5 –) 12 –1 6( –2 0)  ×  (3 –) 3.5 –4 .5( –5 ) 14 .0 ± 1.8  ×  4. 0 ±  0.
+ 5 3.5 (1 2.5 –) 14 –1 7( –1 8)  ×  (3 .5– )4 –4 .5( –5 ) 15 .5 ± 1.3  ×  4. 2 ±  0. 3 3.7  CB 
+S 12 76 02 (8 –) 11 .5– 14 .5( –1 5)  ×  (2 .5– )3 .5– 4 13 .0 ± 1.5  ×  3. 8 ±  0.
+ 4 3.5 (8 –) 12 .5– 18 .5( –2 2)  ×  4– 4.5 15 .5 ± 2.9  ×  4.2 ±  0.3 3.7  CB
 S 11 29 90 (8 .5– )1 2.5 –1 5.5 (– 17 .5)  ×  (2 .5– )4 –5 14 .1 ± 1.6  ×  4.3 ±  0.
 5 3.3 (8 .5– )11 .5– 15 .5( –1 7)  ×  (3 .5– )4 –4 .5( –5 ) 13 .5 ± 1.8  ×  4.2 ±  0.3 3.2  CB
 S 12 99 15 (7 –) 12 –1 5.5 (– 16 .5)  ×  (3 .5– )4 –4 .5( –5 ) 13 .8 ± 1.9  ×  4.1 ±  0.
@@ -885,8 +914,11 @@ S 11 27 59 (6 .5– )8 .5– 12 (– 13 ) ×  (2 .5– )3 –4 10 .3 ± 1.9  × 
 5 3.1 (8 –) 11 –1 5( –1 9)  ×  (3 –) 4– 5 12 .9 ± 1.9  ×  4.5 ±  0.4 2.9  CB
 S 11 27 61 (7 .5– )1 0– 15 .5( –2 0.5 ) ×  (3 –) 3.5 –4 .5( –6 ) 12 .7 ± 2.7  ×  4.1 ±  0.5 3.1  CB
 S 37 0.7 3 (5 –) 6.5 –1 1( –1 2.5 ) ×  (2 –) 2.5 –3 .5( –4 .5) 8.8  ±  2.1 ×  3.2 ±  0.5 2.7  CB
-S 79 7.7 2 (6 –) 8.5 –1 3( –1 8)  ×  3. 5– 4.5 (– 5) 10 .8 ± 2.3  ×  4. 0 ±  0. 3 2.7 (5 .5– )1 0– 14 (– 15 .5)  ×  (3 –) 4– 5 12 .0 ± 2.2  ×  4.4 ±  0.5 2.7  CB
-S 11 07 35 (7 .5– )11 –1 6.5 (– 21 ) ×  (3 –) 3.5 –4 (– 4.5 ) 13 .7 ± 2.5  ×  3. 8 ±  0. 4 3.6 (1 2.5 –) 14 –1 7( –1 7.5 ) ×  (3 .5– )4 –4 .5( –5 ) 15 .5 ± 1.5  ×  4. 4 ±  0. 3 3.5  CB 
+S 79 7.7 2 (6 –) 8.5 –1 3( –1 8)  ×  3.
+ 5– 4.5 (– 5) 10 .8 ± 2.3  ×  4. 0 ±  0.
+ 3 2.7 (5 .5– )1 0– 14 (– 15 .5)  ×  (3 –) 4– 5 12 .0 ± 2.2  ×  4.4 ±  0.5 2.7  CB
+S 11 07 35 (7 .5– )11 –1 6.5 (– 21 ) ×  (3 –) 3.5 –4 (– 4.5 ) 13 .7 ± 2.5  ×  3. 8 ±  0.
+ 4 3.6 (1 2.5 –) 14 –1 7( –1 7.5 ) ×  (3 .5– )4 –4 .5( –5 ) 15 .5 ± 1.5  ×  4. 4 ±  0. 3 3.5  CB 
 S 11 29 79 (7 .5– )9 –1 3( –1 5)  ×  (2 –) 3– 3.5 (– 4) 11  ±  2.0 ×  3.3 ±  0.
 4 3.3 (9 –) 10 .5– 15 .5( –1 6.5 ) ×  (3 –) 3.5 –4 .5( –5 ) 13 .1 ± 2.4  ×  4.2 ±  0.5 3.1  CB
 S 97 9.6 9 (5 –) 8.5 –1 4.5 (– 16 .5)  ×  (2 .5– )3 –4 (– 4.5 ) 11 .5 ± 3.1  ×  3.5 ±  0.
@@ -908,7 +940,8 @@ I 3 64 54 0 (4 .5– )6 .5– 13 (– 26 ) ×  (3 –) 3.5 –5 (– 11 ) 9.8  �
 9 2.3 (5 –) 6.5 –1 2.5 (– 21 ) ×  (2 –) 3.5 –5 (– 6) 9.4  ±  2. 9 ×  4. 3 ±  0. 7 2.2 C. co sm i CB
 S 85 3.7 3* (7 –) 13 –1 8.5 (– 19 .5)  ×  (3 –) 3.5 –4 .5 15 .8 ± 2.5  ×  4.0 ±  0.
 4 4.0 (1 2– )1 4– 16 .5( –1 8)  ×  (3 .5– )4 –4 .5 15 .3 ± 1.4  ×  4.0 ±  0.3 3.8C.  co st ar ice ns e CB
-S 33 0.7 5* (9 –) 11 .5– 18 (– 28 ) ×  (3 –) 3.5 –4 (– 4.5 ) 14 .6 ± 3.1  ×  3. 7 ±  0. 3 4.0 12 .5– )1 3.5 –1 6( –1 8)  ×  3. 5– 4 14 .8 ± 1.4  ×  3. 8 ±  0. 3 3.9  CB 
+S 33 0.7 5* (9 –) 11 .5– 18 (– 28 ) ×  (3 –) 3.5 –4 (– 4.5 ) 14 .6 ± 3.1  ×  3. 7 ±  0.
+ 3 4.0 12 .5– )1 3.5 –1 6( –1 8)  ×  3. 5– 4 14 .8 ± 1.4  ×  3. 8 ±  0. 3 3.9  CB 
 S 21 1.7 8 (11 .5– )1 2– 16 (– 20 ) ×  (3 .5– )4 –4 .5 13 .9 ± 1.9  ×  4.3 ±  0.
 2 3.2 (1 2– )1 4– 16 .5( 18 .5)  ×  (3 .5– )4 –4 .5 15 .2 ± 1.4  ×  4.2 ±  0.2 3.6C.  cu sc ut ae  IM 
 I 3 04 80 2* (1 5.5 –) 17 .5– 21 (– 22 .5)  ×  (3 –) 3.5 –4 .5 19 .2 ± 1.7  ×  4.0 ±  0.
@@ -918,58 +951,82 @@ S 12 85 17 * (1 0– )1 3.5 –1 6.5 (– 19 .5)  ×  4– 5( –5 .5) 15 .0 ± 
 S 20 0.3 5 (8 –) 10 .5– 17 .5( –3 0.5 ) ×  3.
 5– 5( –6 .5) 14 .1 ± 3.4  ×  4.3 ±  0.
 6 3.3 (9 –) 12 .5– 17 .5( –2 3)  ×  (3 .5– )4 –5 15 .0 ± 2.3  ×  4. 4 ±  0. 4 3.4  CB 
-S 12 75 99 (7 .5– )1 2– 16 .5( –1 7)  ×  (2 .5– )4 –5 (– 5.5 ) 14 .4 ± 2.4  ×  4. 5 ±  0. 6 3.2 (1 0.5 –) 13 .5– 17 (– 17 .5)  ×  (3 .5– )4 –5 15 .1 ± 1.7  ×  4. 4 ±  0. 4 3.4  CB 
+S 12 75 99 (7 .5– )1 2– 16 .5( –1 7)  ×  (2 .5– )4 –5 (– 5.5 ) 14 .4 ± 2.4  ×  4. 5 ±  0.
+ 6 3.2 (1 0.5 –) 13 .5– 17 (– 17 .5)  ×  (3 .5– )4 –5 15 .1 ± 1.7  ×  4. 4 ±  0. 4 3.4  CB 
 S 12 99 16 (6 .5– )11 .5– 16  ×  (3 –) 3.5 –4 .5( –5 ) 13 .8 ± 2.2  ×  3.9 ±  0.
 4 3.5 (1 0– )1 3– 16 .5( –1 8)  ×  (4 –) 4.5 –5 (– 5.5 ) 14 .8 ± 1.7  ×  4.7 ±  0.3 3.2  CB
 S 12 76 01 (4 .5– )1 0.5 –1 8( –2 0)  ×  (3 .5– )4 –5 (– 5.5 ) 14 .2 ± 4.0  ×  4.5 ±  0.
 4 3.2 (7 –) 13 .5– 18 .5( –1 9)  ×  (3 .5– )4 –4 .5( –5 ) 15 .9 ± 2.3  ×  4.4 ±  0.4 3.6  CB
 S 12 99 47 (1 0.5 –) 12 –1 5( –1 7)  ×  3.5– 5( –6 ) 13 .5 ± 1.7  ×  4.1 ±  0.
 8 3.3 (1 3– )1 4– 16 (– 17 ) ×  (3 .5– )4 –4 .5( –5 ) 15 .0 ± 1.0  ×  4. 3 ±  0. 4 3.5  CB 
-S 29 3.6 7 (8 .5– )1 2.5 –1 6( –1 7.5 ) ×  (3 –) 3.5 –4 .5( –5 ) 14 .4 ± 1.7  ×  4. 0 ±  0. 5 3.6 (1 3– )1 4– 16 .5( –1 8)  ×  (4 –) 4.5 –5 (– 5.5 ) 15 .2 ± 1.3  ×  4. 7 ±  0. 3 3.2 C. g od et iaeCB 
-S 13 3.4 4* (7 –) 10 .5– 14 .5( –1 5.5 ) ×  (3 .5– )4 –5 (– 5.5 ) 12 .4 ± 2.0  ×  4. 3 ±  0. 5 2.9 (9 .5– )1 0.5 –1 5( –2 0.5 ) ×  4– 5 12 .8 ± 2.3  ×  4.5 ±  0.4 2.8  CB
+S 29 3.6 7 (8 .5– )1 2.5 –1 6( –1 7.5 ) ×  (3 –) 3.5 –4 .5( –5 ) 14 .4 ± 1.7  ×  4. 0 ±  0.
+ 5 3.6 (1 3– )1 4– 16 .5( –1 8)  ×  (4 –) 4.5 –5 (– 5.5 ) 15 .2 ± 1.3  ×  4. 7 ±  0. 3 3.2 C. g od et iaeCB 
+S 13 3.4 4* (7 –) 10 .5– 14 .5( –1 5.5 ) ×  (3 .5– )4 –5 (– 5.5 ) 12 .4 ± 2.0  ×  4. 3 ±  0.
+ 5 2.9 (9 .5– )1 0.5 –1 5( –2 0.5 ) ×  4– 5 12 .8 ± 2.3  ×  4.5 ±  0.4 2.8  CB
 S 12 59 72 (5 .5– )1 2– 16 .5( –1 7)  ×  (3 .5– )4 –4 .5( –5 ) 14 .2 ± 2.2  ×  4.3 ±  0.
-4 3.3 (1 3.5 –) 14 –1 6( –1 7)  ×  (4 –) 4.5 –5 15 .1 ± 0.9  ×  4. 7 ±  0. 3 3.2 www.studiesinmycology.org 
+4 3.3 (1 3.5 –) 14 –1 6( –1 7)  ×  (4 –) 4.5 –5 15 .1 ± 0.9  ×  4. 7 ±  0.
+ 3 3.2 www.studiesinmycology.org 
 The ColletotriChum aCutatum species complex 89 Ta bl e 2 . ( Co nti nu ed ).Sp ec ies Ac ce ss io n No .Co ni di a o n SNA Co ni di a o n 
 An th ris cu s s te m len gt h × wi dt h (µ m )2 len gt h × wi dt h (µ m )  L /W  ra tio len gt h × wi dt h (µ m )2 len gt h × wi dt h (µ m ) L/
 W  ra tio m ea n ± st de v m ea n ± st de v C. g od et iaeCB 
-S 19 3.3 2 (8 –) 11 .5– 15 (– 19 .5)  ×  (2 .5– )3 .5– 4.5 (– 5) 13 .2 ± 1.9  ×  4. 2 ±  0. 5 3.1 (6 .5– )9 .5– 14 (– 15 .5)  ×  (3 –) 3.5 –4 .5( –5 .5) 11 .8 ± 2.2  ×  4. 1 ±  0. 6 2.9  CB 
+S 19 3.3 2 (8 –) 11 .5– 15 (– 19 .5)  ×  (2 .5– )3 .5– 4.5 (– 5) 13 .2 ± 1.9  ×  4. 2 ±  0.
+ 5 3.1 (6 .5– )9 .5– 14 (– 15 .5)  ×  (3 –) 3.5 –4 .5( –5 .5) 11 .8 ± 2.2  ×  4. 1 ±  0. 6 2.9  CB 
 S 12 99 11 (1 0.5 –) 12 .5– 15 .5( –1 7.5 ) ×  (3 –) 4– 5( –6 .5)  13 .9 ± 1.4  ×  4.5 ±  0.
 6 3.1 (7 –) 9– 13 (– 15 .5)  ×  (2 .5– )3 –4  11 .0 ± 2.0  ×  3. 5 ±  0. 3 3.1  CB 
 S 86 2.7 0 (8 –) 14 –1 9( –2 4)  ×  (4 –) 4.5 –5 (– 5.5 ) 16 .4 ± 2.4  ×  4.9 ±  0.
-4 3.4 (1 2.5 –) 15 .5– 18 (– 19 .5)  ×  4. 5– 5( 5.5 ) 16 .8 ± 1.4  ×  4. 9 ±  0. 2 3.4  CB 
+4 3.4 (1 2.5 –) 15 .5– 18 (– 19 .5)  ×  4.
+ 5– 5( 5.5 ) 16 .8 ± 1.4  ×  4. 9 ±  0. 2 3.4  CB 
 S 12 98 09 (1 0.5 –) 13 .5– 17 (– 22 .5)  ×  (3 .5– )4 –5 (– 5.5 ) 15 .3 ± 1.9  ×  4.4 ±  0.
 3 3.4 (1 4– )1 4– 17 .5( –2 3)  ×  4– 4.5 (– 5)  15 .8 ± 1.6  ×  4.4 ±  0.3 3.6  CB
-S 12 98 16 (1 3– )1 3.5 –1 6.5 (– 20 .5)  ×  4– 4.5 (– 5)  15 .1 ± 1.4  ×  4. 4 ±  0. 3 3.4 (1 3– )1 4– 16 (– 17 .5)  ×  4. 5– 5 15 .1 ± 1.1  ×  4. 7 ±  0. 2 3.2  CB 
+S 12 98 16 (1 3– )1 3.5 –1 6.5 (– 20 .5)  ×  4– 4.5 (– 5)  15 .1 ± 1.4  ×  4. 4 ±  0.
+ 3 3.4 (1 3– )1 4– 16 (– 17 .5)  ×  4. 5– 5 15 .1 ± 1.1  ×  4. 7 ±  0. 2 3.2  CB 
 S 12 75 61 (1 2.5 –) 14 –1 5.5 (– 16 .5)  ×  4.
-5– 5( –5 .5)  14 .7 ± 0.9  ×  4. 9 ±  0. 3 3.0 (11 .5– )1 3.5 –1 7.5 (– 20 ) ×  (4 –) 4.5 –5 .5 15 .5 ± 1.8  ×  5. 0 ±  0. 4 3.1  CB 
+5– 5( –5 .5)  14 .7 ± 0.9  ×  4. 9 ±  0.
+ 3 3.0 (11 .5– )1 3.5 –1 7.5 (– 20 ) ×  (4 –) 4.5 –5 .5 15 .5 ± 1.8  ×  5. 0 ±  0. 4 3.1  CB 
 S 12 99 17 (8 –) 10 –1 5( –1 8.5 ) ×  3– 4.5 (– 5.5 ) 12 .5 ± 2.3  ×  3.8 ±  0.
 6 3.3 (9 .5– )1 3– 16 (– 17 ) ×  (4 –) 4.5 –5 .5( –6 ) 14 .6 ± 1.5  ×  4. 9 ±  0. 5 3.0 C. g ua jav ae  IM
-I 3 50 83 9* (6 –) 10 .5– 16 .5( –2 3.5 ) ×  (2 .5– )3 –4 (– 5) 13 .4 ± 3.0  ×  3. 5 ±  0. 5 3.8 (11 –) 13 –1 6( –1 7)  ×  (3 –) 3.5 –4  14 .6 ± 1.7  ×  3.8 ±  0.3 3.9C.  in do ne sie ns e CB
-S 12 75 51 * (8 –) 10 –1 4.5 (– 18 ) ×  (2 .5– )3 .5– 4( –4 .5)  12 .3 ± 2.4  ×  3. 8 ±  0. 3 3.2 (1 0.5 –) 13 –1 7.5 (– 19 ) ×  (3 –) 3.5 –4  15 .4 ± 2.2  ×  3. 7 ±  0. 2 4.1 C. jo hn st on ii CB
+I 3 50 83 9* (6 –) 10 .5– 16 .5( –2 3.5 ) ×  (2 .5– )3 –4 (– 5) 13 .4 ± 3.0  ×  3. 5 ±  0.
+ 5 3.8 (11 –) 13 –1 6( –1 7)  ×  (3 –) 3.5 –4  14 .6 ± 1.7  ×  3.8 ±  0.3 3.9C.  in do ne sie ns e CB
+S 12 75 51 * (8 –) 10 –1 4.5 (– 18 ) ×  (2 .5– )3 .5– 4( –4 .5)  12 .3 ± 2.4  ×  3. 8 ±  0.
+ 3 3.2 (1 0.5 –) 13 –1 7.5 (– 19 ) ×  (3 –) 3.5 –4  15 .4 ± 2.2  ×  3. 7 ±  0. 2 4.1 C. jo hn st on ii CB
 S 12 85 32 * (1 3.5 –) 14 .5– 19 (– 21 .5)  ×  (3 .5– )4 .5– 5( –6 ) 16 .7 ± 2.1  ×  4.7 ±  0.
 4 3.6 (1 4.5 –) 15 .5– 17 (– 18 ) ×  4.
 5– 5( –5 .5)  16 .3 ± 1.0  ×  4. 9 ±  0. 3 3.3  IM 
-I 3 57 02 7 (1 3– )1 4.5 –1 7( –1 9)  ×  (4 –) 4.5 –5 (– 5.5 ) 15 .6 ± 1.3  ×  4. 7 ±  0. 3 3.3 (8 .5– )1 4.5 –1 7.5 (– 19 ) ×  (3 –) 4– 5 15 .9 ± 1.6  ×  4.6 ±  0.4 3.8C.  ki ng ho rn iiCB 
-S 19 8.3 5* (11 –) 15 .5– 21 (– 22 .5)  ×  (3 –) 3.5 –4 (– 4.5 ) 18 .3 ± 2.9  ×  3. 8 ±  0. 4 4.9 (1 5– )1 6– 20 .5( –2 3)  ×  3. 5– 4.5 18 .1 ± 2.3  ×  4. 0 ±  0. 4 4.6 C. la tic ip hi lu mCB 
-S 11 29 89 * (9 .5– )1 3.5 –1 9.5 (– 25 .5)  ×  (3 –) 3.5 –4 (– 4.5 ) 16 .6 ± 3.1  ×  3. 8 ±  0. 4 4.4 (1 0– )1 2– 15 (– 19 .5)  ×  4– 5( –5 .5) 13 .6 ± 1.7  ×  4.5 ±  0.3 3.0  CB
+I 3 57 02 7 (1 3– )1 4.5 –1 7( –1 9)  ×  (4 –) 4.5 –5 (– 5.5 ) 15 .6 ± 1.3  ×  4. 7 ±  0.
+ 3 3.3 (8 .5– )1 4.5 –1 7.5 (– 19 ) ×  (3 –) 4– 5 15 .9 ± 1.6  ×  4.6 ±  0.4 3.8C.  ki ng ho rn iiCB 
+S 19 8.3 5* (11 –) 15 .5– 21 (– 22 .5)  ×  (3 –) 3.5 –4 (– 4.5 ) 18 .3 ± 2.9  ×  3. 8 ±  0.
+ 4 4.9 (1 5– )1 6– 20 .5( –2 3)  ×  3. 5– 4.5 18 .1 ± 2.3  ×  4. 0 ±  0. 4 4.6 C. la tic ip hi lu mCB 
+S 11 29 89 * (9 .5– )1 3.5 –1 9.5 (– 25 .5)  ×  (3 –) 3.5 –4 (– 4.5 ) 16 .6 ± 3.1  ×  3. 8 ±  0.
+ 4 4.4 (1 0– )1 2– 15 (– 19 .5)  ×  4– 5( –5 .5) 13 .6 ± 1.7  ×  4.5 ±  0.3 3.0  CB
 S 12 98 27 (5 –) 8– 15 (– 18 .5)  ×  (1 .5– )2 .5– 4.5 (– 5.3 ) 11 .5 ± 3.4  ×  3.6 ±  0.
 9 3.2 (1 0– )1 2.5 –1 7.5 (– 20 ) ×  4– 4.5 (– 5)  15 .1 ± 2.5  ×  4.4 ±  0.3 3.4C.  lim et tic ol aCB 
-S 11 4.1 4* (9 –) 12 –2 0.5 (– 29 ) ×  (3 –) 4– 5( –6 ) 16 .3 ± 4.2  ×  4. 5 ±  0. 6 3.6 (1 2– )1 3– 18 (– 24 ) ×  (3 .5– )4 –4 .5( –5 .5) 15 .5 ± 2.3  ×  4.3 ±  0.4 3.6C.  lu pi niCB 
-S 10 92 25 * 9– 15 (– 26 .5)  ×  (3 –) 3.5 –4 .5( –6 ) 12 .0 ± 3.2  ×  4. 1 ±  0. 6 2.9 (1 0– )1 2.5 –1 6( –1 8.5 ) ×  (3 –) 3.5 –4 .5 14 .2 ± 1.7  ×  4. 0 ±  0. 3 3.6  IM 
+S 11 4.1 4* (9 –) 12 –2 0.5 (– 29 ) ×  (3 –) 4– 5( –6 ) 16 .3 ± 4.2  ×  4. 5 ±  0.
+ 6 3.6 (1 2– )1 3– 18 (– 24 ) ×  (3 .5– )4 –4 .5( –5 .5) 15 .5 ± 2.3  ×  4.3 ±  0.4 3.6C.  lu pi niCB 
+S 10 92 25 * 9– 15 (– 26 .5)  ×  (3 –) 3.5 –4 .5( –6 ) 12 .0 ± 3.2  ×  4. 1 ±  0.
+ 6 2.9 (1 0– )1 2.5 –1 6( –1 8.5 ) ×  (3 –) 3.5 –4 .5 14 .2 ± 1.7  ×  4. 0 ±  0. 3 3.6  IM 
 I 3 75 71 5 (7 .5– )9 .5– 16 (– 25 ) ×  3.
 5– 5( –6 .5) 12 .8 ± 3.3  ×  4.3 ±  0.
 6 3.0 (1 0– )11 .5– 15 (– 17 ) ×  (3 .5– )4 –4 .5( –5 ) 13 .3 ± 1.8  ×  4. 2 ±  0. 3 3.1  CB 
-S 10 92 21 11 .5– 15 .5( –1 9)  ×  (3 .5– )4 –4 .5( –5 ) 13 .5 ± 1.9  ×  4. 3 ± 0 . 4 3.2 (11 .5– )1 3.5 –1 6.5 (– 18 .5)  ×  (3 .5– )4 –4 .5 15 .0 ± 1.5  ×  4.3 ±  0.3 3.5C.  m elo ni s CB
-S 15 9.8 4* (7 –) 9– 16 .5( –2 3.5 ) ×  (3 –) 3.5 –4 .5( –5 ) 12 .8 ± 3.6  ×  3. 9 ±  0. 4 3.3 (9 –) 12 –1 7( –2 0)  ×  (3 .5– )4 –4 .5( –5 ) 14 .5 ± 2.3  ×  4.2 ±  0.3 3.5C.  n ym ph ae aeCB 
-S 17 3.5 1 (6 –) 9.5 –1 3.5 (– 15 ) ×  (2 –) 3– 4.5 11 .5 ± 1.8  ×  3. 7 ±  0. 5 3.1 (7 .5– )1 0– 14 .5( –1 6)  ×  (3 –) 3.5 –4 .5 12 .3 ± 2.0  ×  3. 9 ±  0. 4 3.2  CB 
-S 11 29 92 (5 .5– )8 –1 4.5 (– 20 .5)  ×  (2 .5– )3 –4 (– 4.5 ) 11 .2 ± 3.4  ×  3. 5 ±  0. 5 3.2 (7 .5– )11 –1 6( –2 0)  ×  (2 .5– )3 .5– 4( –4 .5) 13 .6 ± 2.7  ×  3.8 ±  0.4 3.6  CB
-S 12 63 72 (9 .5– )1 3– 17 .5( –2 1.5 ) ×  (2 .5– )3 .5– 4.5 (– 5.5 ) 15 .3 ± 2.4  ×  3. 9 ±  0. 7 3.9 (1 2.5 –) 13 .5– 17 (– 18 .5)  ×  (3 .5– )4 –4 .5 15 .3 ± 1.7  ×  4.2 ±  0.3 3.7  CB
-S 11 22 02 (1 0– )1 4– 17 (– 18 .5)  ×  (3 –) 4– 4.5 15 .7 ± 1.6  ×  4. 1 ±  0. 3 3.8 (1 2– )1 3.5 –1 7.5 (– 19 .5)  ×  (3 .5– )4 (– 4.5 ) 15 .5 ± 1.8  ×  4. 0 ±  0. 2 3.9  CB 
-S 12 63 82 (3 –) 7.5 –1 4( –1 7.5 ) ×  3– 4( –5 ) 10 .8 ± 3.4  ×  3. 6 ±  0. 5 3.0 (11 –) 12 .5– 16 (– 18 ) ×  (3 –) 3.5 –4 .5 14 .4 ± 1.8  ×  4.0 ±  0.3 3.6  CB
-S 51 5.7 8* (1 0– )1 4– 18 .5( –1 9.5 ) ×  (3 –) 4– 5.5 (– 6) 16 .1 ± 2.3  ×  4. 9 ±  0. 7 3.3 (1 2.5 –) 14 –1 8.5 (– 22 .5)  ×  (4 –) 4.5 –5 .5( –6 ) 16 .3 ± 2.1  ×  4.8 ±  0.5 3.4  CB
+S 10 92 21 11 .5– 15 .5( –1 9)  ×  (3 .5– )4 –4 .5( –5 ) 13 .5 ± 1.9  ×  4. 3 ± 0 .
+ 4 3.2 (11 .5– )1 3.5 –1 6.5 (– 18 .5)  ×  (3 .5– )4 –4 .5 15 .0 ± 1.5  ×  4.3 ±  0.3 3.5C.  m elo ni s CB
+S 15 9.8 4* (7 –) 9– 16 .5( –2 3.5 ) ×  (3 –) 3.5 –4 .5( –5 ) 12 .8 ± 3.6  ×  3. 9 ±  0.
+ 4 3.3 (9 –) 12 –1 7( –2 0)  ×  (3 .5– )4 –4 .5( –5 ) 14 .5 ± 2.3  ×  4.2 ±  0.3 3.5C.  n ym ph ae aeCB 
+S 17 3.5 1 (6 –) 9.5 –1 3.5 (– 15 ) ×  (2 –) 3– 4.5 11 .5 ± 1.8  ×  3. 7 ±  0.
+ 5 3.1 (7 .5– )1 0– 14 .5( –1 6)  ×  (3 –) 3.5 –4 .5 12 .3 ± 2.0  ×  3. 9 ±  0. 4 3.2  CB 
+S 11 29 92 (5 .5– )8 –1 4.5 (– 20 .5)  ×  (2 .5– )3 –4 (– 4.5 ) 11 .2 ± 3.4  ×  3. 5 ±  0.
+ 5 3.2 (7 .5– )11 –1 6( –2 0)  ×  (2 .5– )3 .5– 4( –4 .5) 13 .6 ± 2.7  ×  3.8 ±  0.4 3.6  CB
+S 12 63 72 (9 .5– )1 3– 17 .5( –2 1.5 ) ×  (2 .5– )3 .5– 4.5 (– 5.5 ) 15 .3 ± 2.4  ×  3. 9 ±  0.
+ 7 3.9 (1 2.5 –) 13 .5– 17 (– 18 .5)  ×  (3 .5– )4 –4 .5 15 .3 ± 1.7  ×  4.2 ±  0.3 3.7  CB
+S 11 22 02 (1 0– )1 4– 17 (– 18 .5)  ×  (3 –) 4– 4.5 15 .7 ± 1.6  ×  4. 1 ±  0.
+ 3 3.8 (1 2– )1 3.5 –1 7.5 (– 19 .5)  ×  (3 .5– )4 (– 4.5 ) 15 .5 ± 1.8  ×  4. 0 ±  0. 2 3.9  CB 
+S 12 63 82 (3 –) 7.5 –1 4( –1 7.5 ) ×  3– 4( –5 ) 10 .8 ± 3.4  ×  3. 6 ±  0.
+ 5 3.0 (11 –) 12 .5– 16 (– 18 ) ×  (3 –) 3.5 –4 .5 14 .4 ± 1.8  ×  4.0 ±  0.3 3.6  CB
+S 51 5.7 8* (1 0– )1 4– 18 .5( –1 9.5 ) ×  (3 –) 4– 5.5 (– 6) 16 .1 ± 2.3  ×  4. 9 ±  0.
+ 7 3.3 (1 2.5 –) 14 –1 8.5 (– 22 .5)  ×  (4 –) 4.5 –5 .5( –6 ) 16 .3 ± 2.1  ×  4.8 ±  0.5 3.4  CB
 S 52 6.7 7 (8 .5– )9 –1 3( –1 6)  ×  (3 –) 3– 4.5 (– 5) 11 .0 ± 2.0  ×  3.8 ±  0.
 6 2.9 (9 .5– )1 3.5 –1 9( –2 1.5 ) ×  (3 .5– )5 –6 (– 6.5 ) 16 .1 ± 2.7  ×  5.6 ±  0.7 2.9C.  o rc hi do ph ilu mCB 
-S 63 2.8 0* (1 0.5 –) 11 .5– 14 (– 16 .5)  ×  (2 –) 3– 3.5 (– 4) 12 .7 ± 1.1  ×  3. 1 ±  0. 3 4.1 (11 .5– )1 2.5 –1 4( –1 5.5 ) ×  (2 .5– )3 –3 .5( –4 ) 13 .2 ± 0.9  ×  3. 3 ±  0. 3 4.0  IM 
+S 63 2.8 0* (1 0.5 –) 11 .5– 14 (– 16 .5)  ×  (2 –) 3– 3.5 (– 4) 12 .7 ± 1.1  ×  3. 1 ±  0.
+ 3 4.1 (11 .5– )1 2.5 –1 4( –1 5.5 ) ×  (2 .5– )3 –3 .5( –4 ) 13 .2 ± 0.9  ×  3. 3 ±  0. 3 4.0  IM 
 I 3 05 35 7 (8 .5– )11 .5– 17 (– 25 ) ×  (1 .5– )2 .5– 4( –4 .5) 14 .2 ± 2.7  ×  3.3 ±  0.
 6 4.4 (1 0– )1 2– 14 .5( –1 5)  ×  3– 3.5 (– 4) 13 .3 ± 1.0  ×  3. 5 ±  0. 3 3.8  CB 
 S 11 92 91 (1 3.5 –) 14 –1 5.5 (– 16 ) ×  3– 3.5 (– 4) 14 .8 ± 0.7  ×  3.3 ±  0.
@@ -980,7 +1037,8 @@ I 1 65 75 3* (5 –) 10 .5– 15 .5( –1 9.5 ) ×  (2 .5– )3 .5– 4( –4 .5
 3 3.5 (6 .5– )1 2– 15 .5( –1 7)  ×  (3 –) 3.5 –4  13 .7 ± 1.8  ×  3.8 ±  0.3 3.6C.  p ho rm ii CB
 S 11 81 94 * (1 7– )2 0– 26 (– 35 .5)  ×  4– 5( –6 .5) 23 .0 ± 3.2  ×  4.6 ±  0.
 6 5.1 (1 4– )2 0– 24 .5( –2 5.5 ) ×  4– 4.5 (– 5) 22 .3 ± 2.3  ×  4. 3 ±  0. 2 5.2  CB 
-S 10 20 54 (1 80 .5– )2 0– 24 (– 29 ) ×  (4 –) 4.5 –5 (– 5.5 ) 22 .1 ± 2.1  ×  4. 8 ±  0. 4 4.6 (1 9– )2 0.5 –2 4( –2 5)  ×  (4 –) 4.5 –5 .5 22 .2 ± 1.6  ×  4. 9 ±  0. 4 4.5  CB 
+S 10 20 54 (1 80 .5– )2 0– 24 (– 29 ) ×  (4 –) 4.5 –5 (– 5.5 ) 22 .1 ± 2.1  ×  4. 8 ±  0.
+ 4 4.6 (1 9– )2 0.5 –2 4( –2 5)  ×  (4 –) 4.5 –5 .5 22 .2 ± 1.6  ×  4. 9 ±  0. 4 4.5  CB 
 S 11 81 97 19 .5– 25 (– 33 .4)  ×  (3 .5– )4 –5 (– 6) 22 .3 ± 2.6  ×  4.5 ±  0.
 4 5.0 21 .5– 26 (– 30 ) ×  (4 –) 4.5 –5 (– 6) 23 .7 ± 2.1  ×  4.9 ±  0.4 4.9 Damm et al. 90 Ta bl e 2 . ( Co nti nu ed ).Sp ec ies Ac ce ss io n No .Co ni di a o n SNA Co ni di a o n 
 An th ris cu s s te m len gt h × wi dt h (µ m )2 len gt h × wi dt h (µ m )  L /W  ra tio len gt h × wi dt h (µ m )2 len gt h × wi dt h (µ m ) L/
@@ -990,42 +1048,63 @@ S 11 82 01 (2 1– )2 1.5 –2 4( –2 4.5 ) ×  4– 4.5 22 .9 ± 1.2  ×  4.4 
 5– 5( –5 .5) 21 .9 ± 1.4  ×  4.8 ±  0.2 4.5  CB
 S 11 81 91 (1 8– )1 8.5 –3 0( –3 9.5 ) ×  (3 –) 3.5 –4 .5( –5 ) 24 .1 ± 5.5  ×  4.2 ±  0.
 3 5.7 (1 4– )1 8.5 –2 2( –2 4)  ×  (4 –) 4.5 –5 (– 5.5 ) 20 .3 ± 1.9  ×  4.9 ±  0.4 4.1  CB
-S 12 49 53 (1 3.5 –) 18 –2 6.5 (– 28 ) ×  4– 4.5 (– 5) 22 .3 ± 4.2  ×  4. 4 ±  0. 3 5.0 (2 0.5 –) 21 –2 3( –2 3.5 ) ×  4. 5– 5 22 .0 ± 1.2  ×  4. 9 ±  0. 2 4.5  CB 
+S 12 49 53 (1 3.5 –) 18 –2 6.5 (– 28 ) ×  4– 4.5 (– 5) 22 .3 ± 4.2  ×  4. 4 ±  0.
+ 3 5.0 (2 0.5 –) 21 –2 3( –2 3.5 ) ×  4. 5– 5 22 .0 ± 1.2  ×  4. 9 ±  0. 2 4.5  CB 
 S 48 3.8 2 (1 8– )1 9– 28 (– 33 .5)  ×  4– 5( –6 .5) 23 .3 ± 4.5  ×  4.5 ±  0.
-6 5.2 (1 9– )2 0– 22 (– 23 ) ×  4. 5– 5( –5 .5) 20 .9 ± 1.0  ×  4. 7 ±  0. 3 4.4 C. p se ud oa cu ta tu mCB 
-S 43 6.7 7* (9 .5– )11 .5– 13 .5( –1 4.5 ) ×  3. 5– 4 12 .7 ± 1.1  ×  3. 8 ±  0. 2 3.4 (9 .5– )11 .5– 13 .5( –1 4.5 ) ×  3. 5– 4 15 .0 ± 1.2  ×  4. 2 ±  0. 3 3.5 C. p yr ico laCB 
-S 12 85 31 * (1 0– )1 4.5 –1 8.5 (– 24 ) ×  (3 .5– )4 .5– 5( –5 .5)  16 .7 ± 2.1  ×  4. 7 ±  0. 4 3.5 (9 .5– )1 4– 17 (– 18 .5)  ×  (4 –) 4.5 –5 (– 5.5 ) 15 .4 ± 1.6  ×  4. 8 ±  0. 4 3.2 C. rh om bi fo rm eCB 
+6 5.2 (1 9– )2 0– 22 (– 23 ) ×  4.
+ 5– 5( –5 .5) 20 .9 ± 1.0  ×  4. 7 ±  0. 3 4.4 C. p se ud oa cu ta tu mCB 
+S 43 6.7 7* (9 .5– )11 .5– 13 .5( –1 4.5 ) ×  3. 5– 4 12 .7 ± 1.1  ×  3. 8 ±  0.
+ 2 3.4 (9 .5– )11 .5– 13 .5( –1 4.5 ) ×  3. 5– 4 15 .0 ± 1.2  ×  4. 2 ±  0. 3 3.5 C. p yr ico laCB 
+S 12 85 31 * (1 0– )1 4.5 –1 8.5 (– 24 ) ×  (3 .5– )4 .5– 5( –5 .5)  16 .7 ± 2.1  ×  4. 7 ±  0.
+ 4 3.5 (9 .5– )1 4– 17 (– 18 .5)  ×  (4 –) 4.5 –5 (– 5.5 ) 15 .4 ± 1.6  ×  4. 8 ±  0. 4 3.2 C. rh om bi fo rm eCB 
 S 12 99 53 * (1 2– )1 2.5 –1 7( –2 4)  ×  (4 –) 4.5 –5 .5( –6 ) 14 .7 ± 2.1  ×  5.0 ±  0.
 7 2.9 (7 .5– )1 0.5 –1 7.5 (– 21 ) ×  (3 .5– )4 –5 .5( –6 ) 14 .1 ± 3.5  ×  4.8 ±  0.6 2.9C.  sa lic isCB 
 S 60 7.9 4* (8 .5– )1 0.5 –1 5.5 (– 19 .5)  ×  (3 .5– )3 –4 .5( –5 ) 13 .0 ± 2.4  ×  4.0 ±  0.
 5 3.2 (1 4.5 –) 16 –1 8.5 (– 20 ) ×  (4 –) 4.5 –5 (– 5.5 ) 17 .1 ± 1.3  ×  4.9 ±  0.3 3.5  CB
-S 11 5.1 4 (9 –) 10 .5– 15 (– 17 ) ×  2. 5– 3.5 (– 4) 12 .7 ± 2.3  ×  3. 1 ±  0. 5 4.1 (9 .5– )11 .5– 16 (– 18 .5)  ×  (2 .5– )3 –4 (– 4.5 ) 14 .0 ± 2.3  ×  3. 3 ±  0. 4 4.2  CB 
+S 11 5.1 4 (9 –) 10 .5– 15 (– 17 ) ×  2.
+ 5– 3.5 (– 4) 12 .7 ± 2.3  ×  3. 1 ±  0.
+ 5 4.1 (9 .5– )11 .5– 16 (– 18 .5)  ×  (2 .5– )3 –4 (– 4.5 ) 14 .0 ± 2.3  ×  3. 3 ±  0. 4 4.2  CB 
 S 46 5.8 3 (7 .5– )9 .5– 15 .5( –2 2)  ×  3– 3.5 (– 4.5 ) 12 .4 ± 3.1  ×  3. 3 ±  0. 4 3.8 no t o bs er ve d C. sc ov ille i CB 
-S 12 65 29 * (1 0.5 –) 12 .5– 15 (– 16 .5)  ×  (3 –) 3.5 –4 (– 4.5 ) 13 .7 ± 1.3  ×  3. 8 ±  0. 3 3.6 (9 –) 14 .5– 18 (– 19 .5)  ×  3. 5– 4.5  16 .0 ± 1.8  ×  4.0 ±  0.3 4.0  CB
+S 12 65 29 * (1 0.5 –) 12 .5– 15 (– 16 .5)  ×  (3 –) 3.5 –4 (– 4.5 ) 13 .7 ± 1.3  ×  3. 8 ±  0.
+ 3 3.6 (9 –) 14 .5– 18 (– 19 .5)  ×  3. 5– 4.5  16 .0 ± 1.8  ×  4.0 ±  0.3 4.0  CB
 S 12 07 08 (11 .5– )1 2.5 –1 4.5 (– 15 ) ×  3– 3.5  13 .5 ± 0.8  ×  3.3 ±  0.
 2 4.1 (1 2.5 –) 13 –1 6( –1 8)  ×  (3 –) 3.5 –4  14 .6 ± 1.4  ×  3.6 ±  0.3 4.1C.  si m m on ds ii CB
 S 12 21 22 *1 (4 .5– )6 .5– 10 (– 11 .5)  ×  (2 –) 2.5 –3 .5( –4 ) 8.1  ±  1.7 ×  2.9 ±  0.
 4 2.7 (6 –) 7– 10 (– 12 .5)  ×  (2 –) 2.5 –3 .5( –4 .5) 8.4  ±  1.5 ×  3.0 ±  0.5 2.8  CB
 S 29 4.6 7 (6 –) 10 .5– 14 (– 16 .5)  ×  3.
-5– 4.5 (– 5.5 ) 12 .3 ± 1.8  ×  4. 0 ±  0. 4 3.0 (11 –) 12 –1 4.5 (– 15 .5)  ×  (3 –) 4– 4.5 (– 5) 13 .3 ± 1.2  ×  4.1 ±  0.4 3.2  CB
+5– 4.5 (– 5.5 ) 12 .3 ± 1.8  ×  4. 0 ±  0.
+ 4 3.0 (11 –) 12 –1 4.5 (– 15 .5)  ×  (3 –) 4– 4.5 (– 5) 13 .3 ± 1.2  ×  4.1 ±  0.4 3.2  CB
 S 11 44 94 (6 –) 9.5 –1 4.5 (– 15 .5)  ×  (2 .5– )3 –4 (– 4.5 ) 12 .1 ± 2.7  ×  3.6 ±  0.
 5 3.3 (1 0– )1 3– 17 (– 18 ) ×  (3 –) 3.5 –4 .5( –5 ) 14 .9 ± 1.9  ×  3. 8 ±  0. 4 3.9  IM 
 I 3 54 38 1 (8 .5– )11 –1 5( –1 6)  ×  (3 .5– )4 –4 .5 13 .0 ± 1.8  ×  4.2 ±  0.
 2 3.1 (1 2– )1 3.5 –1 7( –1 9)  ×  (3 .5– )4 –4 .5( –5 ) 15 .4 ± 1.7  ×  4.2 ±  0.3 3.7C.  sl oa ne i IM
-I36 42 97 * (8 .5– )1 2– 17 (– 22 ) ×  (3 –) 3.5 –4 (– 4.5 ) 14 .4 ± 2.5  ×  3. 7 ±  0. 3 3.9 (9 –) 11 .5– 15 .5( –1 9.5 ) ×  (3 –) 3.5 –4 (– 4.5 ) 13 .4 ± 1.8  ×  3. 9 ±  0. 3 3.5 C. ta m ar illo i CB
-S 12 98 14 * (8 .5– )11 .5– 14 .5( –1 5)  ×  (2 .5– )3 –4 (– 4.5 ) 13 .0 ± 1.4  ×  3. 5 ±  0. 4 3.7 (1 0.5 –) 12 –1 6( –2 2)  ×  (3 –) 3.5 –4 .5( –5 ) 14 .0 ± 1.9  ×  4. 0 ±  0. 4 3.5  CB 
-S 12 98 11 (9 .5– )1 2– 15 .5( –1 9.5 ) ×  (3 –) 3.5 –4 (– 4.5 ) 13 .7 ± 1.6  ×  3. 7 ±  0. 3 3.7 (1 2.5 –) 13 .5– 16 .5( –1 7.5 ) ×  (3 –) 3.5 –4 15 .1 ± 1.4  ×  3. 8 ±  0. 3 4.0  CB 
-S 12 99 55 (1 0.5 –) 11 .5– 14 .5( –1 7.5 ) ×  3– 4( –5 ) 13 .2 ± 1.5  ×  3. 6 ±  0. 4 3.6 (11 .5– )1 3.5 –1 7( –1 8.5 ) ×  3. 5– 4( –4 .5) 15 .3 ± 1.7  ×  3. 8 ±  0. 3 4.0 C. w all er iCB 
-S 12 54 72 * (6 –1 0.5 )1 5.5 –( –1 9.5 ) ×  (3 –) 3.5 –4 .5( –5 .5)  13 .0 ± 2.7  ×  4. 0 ±  0. 5 3.3 (1 0.5 –) 12 –1 6( –1 8.5 ) ×  3. 5– 4( –4 .5)  13 .9 ± 1.8  ×  4.0 ±  0.3 3.5Co lle to tri ch um  sp .CB 
+I36 42 97 * (8 .5– )1 2– 17 (– 22 ) ×  (3 –) 3.5 –4 (– 4.5 ) 14 .4 ± 2.5  ×  3. 7 ±  0.
+ 3 3.9 (9 –) 11 .5– 15 .5( –1 9.5 ) ×  (3 –) 3.5 –4 (– 4.5 ) 13 .4 ± 1.8  ×  3. 9 ±  0. 3 3.5 C. ta m ar illo i CB
+S 12 98 14 * (8 .5– )11 .5– 14 .5( –1 5)  ×  (2 .5– )3 –4 (– 4.5 ) 13 .0 ± 1.4  ×  3. 5 ±  0.
+ 4 3.7 (1 0.5 –) 12 –1 6( –2 2)  ×  (3 –) 3.5 –4 .5( –5 ) 14 .0 ± 1.9  ×  4. 0 ±  0. 4 3.5  CB 
+S 12 98 11 (9 .5– )1 2– 15 .5( –1 9.5 ) ×  (3 –) 3.5 –4 (– 4.5 ) 13 .7 ± 1.6  ×  3. 7 ±  0.
+ 3 3.7 (1 2.5 –) 13 .5– 16 .5( –1 7.5 ) ×  (3 –) 3.5 –4 15 .1 ± 1.4  ×  3. 8 ±  0. 3 4.0  CB 
+S 12 99 55 (1 0.5 –) 11 .5– 14 .5( –1 7.5 ) ×  3– 4( –5 ) 13 .2 ± 1.5  ×  3. 6 ±  0.
+ 4 3.6 (11 .5– )1 3.5 –1 7( –1 8.5 ) ×  3.
+ 5– 4( –4 .5) 15 .3 ± 1.7  ×  3. 8 ±  0. 3 4.0 C. w all er iCB 
+S 12 54 72 * (6 –1 0.5 )1 5.5 –( –1 9.5 ) ×  (3 –) 3.5 –4 .5( –5 .5)  13 .0 ± 2.7  ×  4. 0 ±  0.
+ 5 3.3 (1 0.5 –) 12 –1 6( –1 8.5 ) ×  3.
+ 5– 4( –4 .5)  13 .9 ± 1.8  ×  4.0 ±  0.3 3.5Co lle to tri ch um  sp .CB 
 S 12 98 21 (9 –) 12 –1 4.5 (– 15 .5)  ×  (3 –) 3.5 –4 .5( –5 .5)  13 .2 ± 1.4  ×  4.0 ±  0.
-5 3.3 (1 0– )1 3– 17 (– 20 ) ×  3. 5– 4( –4 .5)  14 .9 ± 2.0  ×  4.0 ±  0.2 3.8  CB
+5 3.3 (1 0– )1 3– 17 (– 20 ) ×  3.
+ 5– 4( –4 .5)  14 .9 ± 2.0  ×  4.0 ±  0.2 3.8  CB
 S 12 98 20 (9 .5– )11 –1 5( –1 9.5 ) ×  (2 .5– )3 .5– 4( –4 .5)  13 .1 ± 1.9  ×  3.7 ±  0.
 4 3.5 (9 .5– )1 2– 14 .5( –1 6)  ×  (3 –) 4– 4.5  13 .3 ± 1.3  ×  4.0 ±  0.2 3.3  CB
 S 12 98 23 (7 –) 10 .5– 15 .5( –1 8)  ×  (2 .5– )3 –4 (– 4.5 ) 13 .1 ± 2.3  ×  3.5 ±  0.
 6 3.7 (9 –) 12 –1 5.5 (– 17 ) ×  (2 .5– )3 .5– 4( –4 .5)  14 .0 ± 1.8  ×  3.8 ±  0.4 3.7  IM
-I 3 84 18 5 (9 –) 12 –1 4( –1 4.5 ) ×  (2 .5– )3 –4 (– 4.5 ) 12 .3 ± 1.5  ×  3. 6 ±  0. 4 3.4 (6 –) 10 –1 6.5 (– 19 .5)  ×  (3 –) 3.5 –4 .5( –6 ) 13 .5 ± 3.2  ×  4. 0 ±  0. 6 3.4  CB 
-S 10 16 11  (1 3– )1 5– 19 (– 22 ) ×  (3 .5– )4 –5 (– 5.5 ) 16 .9 ± 2.0  ×  4. 5 ±  0. 4 3.7 (1 4– )1 6.5 –2 0( –2 3.5 ) ×  (4 –) 4.5 –5 (– 5.5 ) 18 .3 ± 1.8  ×  4. 6 ±  0. 3 4.0  CB 
-S 12 98 10 (1 2.5 –) 13 –1 7( –2 3.5 ) ×  (2 .5– )3 .5– 4( –4 .5) 15 .1 ± 2.1  ×  3. 9 ±  0. 3 3.9 (7 .5– )9 .5– 12 .5( –1 5)  ×  2. 5– 3.5 (– 4) 10 .8 ± 1.5  ×  2. 9 ±  0. 5 3.7 *e x-t yp e s tra in 1 ae ria l m yc eli um 2 (m in– )m in std ev –m ax -st de v(– ma x) www.studiesinmycology.org 
+I 3 84 18 5 (9 –) 12 –1 4( –1 4.5 ) ×  (2 .5– )3 –4 (– 4.5 ) 12 .3 ± 1.5  ×  3. 6 ±  0.
+ 4 3.4 (6 –) 10 –1 6.5 (– 19 .5)  ×  (3 –) 3.5 –4 .5( –6 ) 13 .5 ± 3.2  ×  4. 0 ±  0. 6 3.4  CB 
+S 10 16 11  (1 3– )1 5– 19 (– 22 ) ×  (3 .5– )4 –5 (– 5.5 ) 16 .9 ± 2.0  ×  4. 5 ±  0.
+ 4 3.7 (1 4– )1 6.5 –2 0( –2 3.5 ) ×  (4 –) 4.5 –5 (– 5.5 ) 18 .3 ± 1.8  ×  4. 6 ±  0. 3 4.0  CB 
+S 12 98 10 (1 2.5 –) 13 –1 7( –2 3.5 ) ×  (2 .5– )3 .5– 4( –4 .5) 15 .1 ± 2.1  ×  3. 9 ±  0.
+ 3 3.9 (7 .5– )9 .5– 12 .5( –1 5)  ×  2.
+ 5– 3.5 (– 4) 10 .8 ± 1.5  ×  2. 9 ±  0.
+ 5 3.7 *e x-t yp e s tra in 1 ae ria l m yc eli um 2 (m in– )m in std ev –m ax -st de v(– ma x) www.studiesinmycology.org 
 The ColletotriChum aCutatum species complex 91 
 Notes: The synonymy given for this species follows Farr et al. (2006), and this work should be consulted for details. Fusarium phormii was described by Hennings (1898) on leaves of Phormium tenax in the Botanical Garden in Berlin, Germany, as forming sporodochia with oblong-cylindrical to fusoid, straight to slightly curved, multiguttulate, hyaline conidia, measuring 18–25 × 4–6 µm. Hennings (1898) found this fungus together with Physalospora phormii, and assumed the two belonged together. Fusarium phormii is formed on the leaf surface, while the perithecia of P. phormii appear on the undersurface. Kinghorn (1936) observed structures considered to be the sexual morph of C. phormii on leaves of 
 Phormium plants but not in culture, as did von Arx (in litt.). We have found, however, that Kinghorn was looking at two species; part of this material belongs to a species that is named in the present publication as C. kinghornii. The sexual morph, originally named as Physalospora phormii, was originally found by Schröter (1894) on dead leaves of Phormium tenax in Breslau, Germany (today: Wrocław, Poland). 
@@ -1120,7 +1199,8 @@ IMI 384185 (4.5–)5.5–9.5(–12.5) × (4.5–)5–7(–8) 7.6 ± 2.1 × 6.0 �
 CBS 101611 (5.5–)6.5–10(–14) × (5–)6–8(–8.5) 8.2 ± 1.8 × 6.8 ± 1.0 1.2
 CBS 129810 (6–)6.5–9(–10.5) × (5.5–)6–7(–7.5) 7.8 ± 1.1 × 6.3 ± 0.6 1.2 * ex-type strain 1(min–)min-stdev–max-stdev(–max) 
 Fig. 24. Colletotrichum pseudoacutatum (from ex-holotype strain CBS 436.77). A–B. Conidiomata. C. Tips of setae. D. basis of seta. E. Conidiophores. F. Seta. G. Conidiophores. 
-H–M. Appressoria. N–O. Conidia. A, C–E, N. from Anthriscus stem. B, F–M, O. from SNA. A–B. DM, C–O. DIC, Scale bars: A = 100 µm, B = 200 µm, E = 10 µm. Scale bar of E applies to C–O. Damm et al. 94 restricted terminal growth and increased growth of lateral shoots. 
+H–M. Appressoria. N–O. Conidia. A, C–E, N. from Anthriscus stem. B, F–M, O. from SNA. A–B. DM, C–O. DIC, Scale bars: A = 100 µm, B = 200 µm, E = 10 µm. Scale bar of E applies to C–O. Damm et al.
+ 94 restricted terminal growth and increased growth of lateral shoots. 
 Two strains with differing colony characteristics were isolated and were used in pathogenicity tests on 4-month-old seedlings of Pinus radiata; 11.5 % of the seedlings inoculated with the salmon orange culture and 92 % of the seedlings with the grey culture showed the symptoms. The two strains were sent to CBS, and both were identified as C. acutatum f. pineum by von Arx, presumably because of the identity of the host plant and some of their morphological features, especially the conidia with acute ends typical for C. acutatum. One of the strains was kept in the CBS collection as 
 CBS 436.77; unfortunately we can only suppose it was the salmon orange culture. 
 Strain CBS 436.77 turns out not to be closely related to C. acutatum f. pineum, which belongs to C. acutatum s. str. (Fig. 1). 
@@ -1187,14 +1267,20 @@ AF411719 from Rhododendron isolates L3, L5, L6, S2 from Latvia and Sweden (Vinne
 CBS 131322, the other isolate of C. rhombiforme included in this study) (Robideau et al. 2008).
 Colletotrichum salicis (Fuckel) Damm, P.F. Cannon & 
 Crous, comb. nov. MycoBank MB800518. Fig. 27.
-Basionym: Sphaeria salicis Fuckel, Jahrb. nass. Ver. Naturk. 23– 24: 115. 1870. ≡ Sphaeria salicis Auersw., in Fuckel, Fungi Rhen. no. 913, in sched. 1864, nom. nud.
+Basionym: Sphaeria salicis Fuckel, Jahrb. nass. Ver. Naturk. 23– 24: 115. 1870.
+ ≡ Sphaeria salicis Auersw., in Fuckel, Fungi Rhen. no. 913, in sched. 1864, nom. nud.
 ≡ Physalospora salicis (Fuckel) Sacc., Syll. fung. (Abellini) 1: 439. 1882.
 ≡ Physosporella salicis (Fuckel) Höhn., Annls mycol. 16: 58. 1918.
 ≡ Anisostomula salicis (Fuckel) Petr., Hedwigia 65: 198. 1925.
 ≡ Plectosphaera salicis (Fuckel) Arx & E. Müll., Beitr. Kryptfl. Schweiz 11 (no. 1): 204. 1954.
-≡ Glomerella salicis (Fuckel) L. Holm, in Holm & Ryman, Thunbergia 30: 6. 2000. = Phyllachora amenti Rostr., Skr. Christiana Vidensk.-Selsk. Forhandl. 9: 5. 1891. ≡ Haplothecium amenti (Rostr.) Theiss. & Syd., Annls Mycol. 13: 615. 1915.
-≡ Glomerella amenti (Rostr.) Arx & E. Müll., Beitr. Kryptfl. Schweiz 11 (no. 1): 197. 1954. = Glomerella lycopersici F. Krüger, Arbeiten Kaiserl. Biol. Anst. Land- Forstw. 9: 308. 1913. ≡ Gloeosporium lycopersici F. Krüger, Arbeiten Kaiserl. Biol. Anst. Land- 
-Forstw. 9: 308. 1913. ≡ Colletotrichum kruegerianum Vassiljevsky, Fungi Imperfecti Parasitici 2: 321. 1950 [non C. lycopersici Chester 1891]. = Physalospora miyabeana Fukushi, Annls phytopath. Soc. Japan 1 (no. 4): 7. 1921. ≡ Glomerella miyabeana (Fukushi) Arx, Phytopath. Z. 29: 448. 1957.
+≡ Glomerella salicis (Fuckel) L. Holm, in Holm & Ryman, Thunbergia 30: 6. 2000.
+ = Phyllachora amenti Rostr., Skr. Christiana Vidensk.-Selsk. Forhandl. 9: 5. 1891.
+ ≡ Haplothecium amenti (Rostr.) Theiss. & Syd., Annls Mycol. 13: 615. 1915.
+≡ Glomerella amenti (Rostr.) Arx & E. Müll., Beitr. Kryptfl. Schweiz 11 (no. 1): 197. 1954.
+ = Glomerella lycopersici F. Krüger, Arbeiten Kaiserl. Biol. Anst. Land- Forstw. 9: 308. 1913. ≡ Gloeosporium lycopersici F. Krüger, Arbeiten Kaiserl. Biol. Anst. Land- 
+Forstw. 9: 308. 1913. ≡ Colletotrichum kruegerianum Vassiljevsky, Fungi Imperfecti Parasitici 2: 321. 1950 [non C. lycopersici Chester 1891].
+ = Physalospora miyabeana Fukushi, Annls phytopath. Soc. Japan 1 (no. 4): 7. 1921.
+ ≡ Glomerella miyabeana (Fukushi) Arx, Phytopath. Z. 29: 448. 1957.
 Sexual morph developed on Anthriscus stem. Ascomata globose to pyriform, ostiolate, medium brown, darker towards the ostiole, 150–200 × 185–250 µm. Peridium 10–15 µm thick, composed of pale to medium brown flattened angular cells 5–15 µm diam. 
 Ascogenous hyphae hyaline, smooth-walled, delicate. Interascal tissue composed of paraphyses, hyaline, septate, 30–80 × 2–3.5 µm, widest part at the base, tips round. Asci cylindrical, 55–88 × 8–12 µm, 8-spored. Ascospores arranged uni- to biseriately, aseptate, hyaline, smooth-walled, ovoid, fusiform, cigar-shaped or cylindrical, one end acute and one end obtuse or both ends obtuse, sometimes very slightly curved, (12.5–)13–15(–17) × (4.5–)5–6(–6.5) µm, mean ± SD = 14.1 ± 1.1 × 5.4 ± 0.5 µm, L/W ratio = 2.6. 
 Asexual morph on SNA. Vegetative hyphae 1–8 µm diam, hyaline to pale brown, smooth-walled, septate, branched. 
@@ -1234,7 +1320,8 @@ Johnston & Jones (1997) found that C. salicis (as Ga. miyabeana) had a close gen
 Fruit-inhabiting strains of C. salicis (as Ga. miyabeana) are known to be homothallic (Johnston & Jones 1997), and those from Acer platanoides in USA (which also belong here), were also determined as homothallic by LoBuglio & Pfister (2008). In this study, only strains of C. salicis and C. rhombiforme formed sexual morphs in culture. The ascospores of the two species are the same size, but differ in shape. Conidia of C. salicis formed on 
 SNA are smaller than those of C. rhombiforme, and those formed on Anthriscus stem are uniformly cylindrical, with no ellipsoidal or limoniform conidia as found in C. rhombiforme. Other closely related species i.e. C. acerbum, C. australe, C. kinghornii and C. phormii form conidia on SNA, measuring on average 17.9 × 4.7 µm, 17 × 4.4 µm and 18.3 × 3.8 µm and 23 × 4.6 µm respectively, that are larger than those of C. salicis, measuring 13.0 × 4.0 µm. 
 According to our study, C. salicis is not restricted to a single host genus but seems to have a preference for woody hosts (Acer, 
-Araucaria, Malus, Populus, Pyrus and especially Salix). According to Farr & Rossman (2012), Glomerella amenti has been recorded Damm et al. 100 on Salix polaris and S. reticulata in Norway (Holm & Holm 1994) and Ga. miyabeana was recorded on Salix amygdaloides, S. babylonica, S. daphnoides, S. fragilis, S. gooddingii, S. lasiolepis, 
+Araucaria, Malus, Populus, Pyrus and especially Salix). According to Farr & Rossman (2012), Glomerella amenti has been recorded Damm et al.
+ 100 on Salix polaris and S. reticulata in Norway (Holm & Holm 1994) and Ga. miyabeana was recorded on Salix amygdaloides, S. babylonica, S. daphnoides, S. fragilis, S. gooddingii, S. lasiolepis, 
 S. × alba-matsudana, Fragaria × ananassa, Malus domestica and 
 Pyrus pyrifolia in New Zealand (Pennycook 1989, Guerber et al. 2003, Gadgil 2005) on Salix sp. in Poland (Mulenko et al. 2008) and UK (Dennis 1986) and on Acer truncatum in China (Sun et al. 2011). The species is also reported from leaf lesions of Salix fragilis, S. alba var. vitellina, S. cinerea in Australia (Cunnington et al. 2007). Johnston & Jones (1997) suggested that Ga. miyabeana which causes the distinctive disease “twig canker” on Salix spp., only occurs on fruits (strawberry, apple, nashi, tomato) as an opportunistic secondary invader, becoming infected from willow trees that, in New Zealand, are commonly used as orchard shelter belts. Cunnington et al. (2007) therefore tested the pathogenicity of strains from Salix spp. in Australia on apple and nashi fruits. They were shown to be positive for pathogenicity but less aggressive than a different C. acutatum s. lat. strain that originated from an apple fruit. All Colletotrichum strains from Salix spp. in the CBS collection belong to the former species.
 Colletotrichum salicis is separated from other species by all genes, except for ITS; it forms a well-supported clade (bootstrap support 98–99 %) with little sequence variation in HIS3, TUB2, 
@@ -1268,7 +1355,8 @@ Diversity 39: 119. 2009. Fig. 29.
 Sexual morph not observed. Asexual morph on SNA. Vegetative hyphae 1–5 µm diam, hyaline, smooth-walled, septate, branched. 
 Chlamydospores not observed. Conidiomata absent, conidiophores formed directly on hyphae on the surface of the medium and in the aerial mycelium. Setae not observed. Conidiophores hyaline, smooth-walled, rather irregular in form, sometimes septate. 
 Conidiogenous cells formed singly or in clusters of 2–3 apically or as lateral branches of conidiophores, hyaline, smooth-walled, cylindrical, thread-like, 7–23 × 1–2.2 µm, opening 0.5 µm diam, collarette sometimes visible, < 0.5 µm long, periclinal thickening not observed, conidiogenous cells of other strains differ, e.g. conidiophores of CBS 294.67 are cylindrical, sometimes slightly inflated and usually wider than the ex-type strain, measuring 4.5–18 × 1.5–4 µm, opening 1–1.5 µm diam, collarette 0.5–1 µm long, periclinal thickening visible. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical with one end round and one end acute or both ends acute, (4.5–)6.5–10(–11.5) × (2–)2.5–3.5(–4) µm, mean ± SD = 8.1 ± 1.7 × 2.9 ± 0.4 µm, L/W ratio = 2.7, conidia of other strains differ in shape and size from the ex-type strain, e.g. conidia of CBS 294.67 are cylindrical to fusiform with both ends acute and measure (6–)10.5–14(–16.5) × 3.5–4.5(–5.5) µm, mean ± SD = 12.3 ± 1.8 × 4.0 ± 0.4 µm, L/W ratio = 3. Appressoria in loose groups or dense clusters of 2–6, medium brown, round, elliptical to clavate in outline, the margine entire to undulate, (4.5–) 6–9.5(–11.5) × (3.5–)4–6.5(–9.5) µm, mean ± SD = 7.8 ± 1.9 × 5.3 ± 1.1 µm, L/W ratio = 1.5. 
-Asexual morph on Anthriscus stem. Conidiomata not observed, conidiophores formed on aerial hyphae only. Setae not observed in the ex-type strain, but few setae observed in Damm et al. 102 strain CBS 294.67, medium brown, smooth-walled, 0–1-septate, 20–40 µm long, base 2–3 µm diam, cylindrical, tip ± acute. 
+Asexual morph on Anthriscus stem. Conidiomata not observed, conidiophores formed on aerial hyphae only. Setae not observed in the ex-type strain, but few setae observed in Damm et al.
+ 102 strain CBS 294.67, medium brown, smooth-walled, 0–1-septate, 20–40 µm long, base 2–3 µm diam, cylindrical, tip ± acute. 
 Conidiophores hyaline, smooth-walled, septate, branched, to 65 µm long. Conidiogenous cells hyaline, smooth-walled, cylindrical, thred-like, 19–30 × 1 µm, opening 0.5 µm diam, collarette < 0.5 µm long, periclinal thickening not observed, conidiogenous cells of other strains differ, e.g. conidiophores of CBS 294.67 are cylindrical to slightly inflated and usually wider than the ex-type strain, measuring 5–18 × 2.5–4.5 µm, opening 1–1.5 µm diam, collarette 0.5–1 µm long, periclinal thickening visible. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical to fusiform with both ends acute or one end round and one end acute, (6–)7– 10(–12.5) × (2–)2.5–3.5(–4.5) µm, mean ± SD = 8.4 ± 1.5 × 3.0 ± 0.5 µm, L/W ratio = 2.8, conidia of other strains differ in shape and size from the ex-type strain, e.g. conidia of CBS 294.67 are cylindrical to fusiform with both ends acute and (11–)12–14.5(– 15.5) × (3–)4–4.5(–5) µm, mean ± SD = 13.3 ± 1.2 × 4.1 ± 0.4 µm, L/W ratio = 3.2.
 Culture characteristics: Colonies on SNA flat with entire margin, hyaline to to pale isabelline, on filter paper and on Anthriscus stem partly covered with short white to pale grey felty aerial mycelium, reverse of filter paper white to olivaceous grey, growth 10–16 mm in 7 d (16–26 mm in 10 d), other strains differ from the type strain by growing faster, e.g. CBS 294.67 grows 20.5–31 mm in 7 d (34–40 mm in 10 d). Colonies on OA flat with entire margin; surface covered with felty white aerial mycelium, becoming pale olivaceous grey towards the centre, margin white or rosy buff, reverse dark olivaceous grey or salmon and purplish to iron-grey towards the margin, growth 10–16 mm in 7 d (14–24 mm in 10 d), other strains differ from the type strain by growing faster, e.g. CBS 294.67 grows 21–27 mm in 7 d (32.5–40 mm in 10 d). Conidia in mass not observed in the ex-type strain, those of other strains are salmon-orange.
 Material examined: Australia, Queensland, Yandina, from fruit anthracnose of of 
@@ -1308,7 +1396,8 @@ Asexual morph on Anthriscus stem. Conidiomata either not developed, conidiophore
 Culture characteristics: Colonies on SNA flat with entire margin, hyaline buff to pale honey, on filter paper and Anthriscus stem partly pale olivaceous grey to olivaceous grey, the medium, filter paper and Anthriscus stem partly covered with thin white aerial mycelium, reverse same colours; growth rate 21–24 mm in 7 d (31–34 mm in 10 d). Colonies on OA flat with entire margin; surface iron-grey to black with a buff margin, partly covered with thin felty white aerial mycelium and orange acervuli arranged in a few rings at the margin, reverse olivaceous grey with a buff margin; growth rate 21–22.5 mm in 7 d (31–32.5 mm in 10 d). Conidia in mass salmon to orange.
 Material examined: Malaysia, Borneo, Sabah, Tuaran, from leaf of Theobroma cacao, 1994, A.R. Rossman and C.L. Bong, (IMI 364297 holotype, CBS H-20796 isotype, culture ex-type IMI 364297).
 Notes: A representative of the C. acutatum species complex does not previously appear to have been associated with Theobroma cacao. Three species from the C. gloeosporioides species complex, 
-C. ignotum, C. theobromicola and C. tropicale were recognised as endophytes of T. cacao by Rojas et al. (2010). Two of these Damm et al. 104 species were considered to have potential to protect host plants from Phytophthora diseases. All have been reviewed by Weir et al. (2012, this issue). 
+C. ignotum, C. theobromicola and C. tropicale were recognised as endophytes of T. cacao by Rojas et al. (2010). Two of these Damm et al.
+ 104 species were considered to have potential to protect host plants from Phytophthora diseases. All have been reviewed by Weir et al. (2012, this issue). 
 Further Colletotrichum species have been described from 
 T. cacao, including C. brachytrichum from leaves of T. cacao in 
 Trinidad. This species has conidia that are ovoid-cylindrical with an attenuated base and a round apex, measuring 10–13.5 × 3–3.7 µm; it produces sparse setae that are dark brown, aseptate, slightly flexuous and 40 × 3.5 µm, as well as conidiogenous cells measuring 4 × 2 µm (Saccardo 1906). In contrast, C. sloanei forms larger conidia averaging 14.4 × 3.7 µm on SNA and 13.4 × 3.9 µm on Anthriscus stem. No setae were found in cultures of C. sloanei (though these may only form on host material) and its conidiogenous cells are much longer than those of C. brachytrichum. 
@@ -1329,7 +1418,8 @@ Appressoria single, medium brown, smooth-walled, subglobose, elliptical or clava
 Asexual morph on Anthriscus stem. Conidiomata acervular, conidiophores formed on thick-walled, pale brown, angular, basal cells 4–8 µm diam. Setae not observed. Conidiophores hyaline to pale brown, smooth-walled, septate, branched, to 50 µm long. 
 Conidiogenous cells hyaline, smooth-walled, cylindrical, sometimes polyphialidic, 10–21 × 2–4 µm, opening 1–1.5 µm diam, collarette distinct, 1–2 µm long, periclinal thickening conspicuous. Conidia hyaline, smooth-walled, aseptate, straight, cylindrical to fusiform with both ends acute, (10.5–)12–16(–22) × (3–)3.5–4.5(–5) µm, mean ± SD = 14.0 ± 1.9 × 4.0 ± 0.4 µm, L/W ratio = 3.5. Conidia of CBS 129955 and CBS 129811 differ in having slightly longer conidia, measuring (11.5–)13.5–17(–18.5) × 3.5–4(–4.5) µm, mean ± SD = 15.3 ± 1.7 × 3.8 ± 0.3 µm, L/W ratio = 4.0.
 Culture characteristics: Colonies on SNA flat with entire margin, hyaline to pale honey, on filter paper partly pale olivaceous grey 
-Fig. 31. Colletotrichum tamarilloi (from ex-holotype strain CBS 129814). A–B. Conidiomata. C–J. Conidiophores. K–P. Appressoria. Q–R. Conidia. A, C–E, Q. from Anthriscus stem. B, F–P, R. from SNA. A–B. DM, C–R. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–R. Damm et al. 106 to olivaceous grey, filter paper Anthriscus stem and medium partly covered with felty white aerial mycelium (and salmon acervuli), reverse same colours; growth rate 17.5–21.5 mm in 7 d (28.5–31.5 mm in 10 d). Colonies on OA flat with entire margin; surface honey, isabelline to olivaceous, almost entirely covered by felty white to pale olivaceous grey aerial mycelium, reverse buff, olivaceous, pale olivaceous grey, olivaceous grey to iron-grey, growth rate 16–18 mm in 7 d (26–29 mm in 10 d). Conidia in mass salmon.
+Fig. 31. Colletotrichum tamarilloi (from ex-holotype strain CBS 129814). A–B. Conidiomata. C–J. Conidiophores. K–P. Appressoria. Q–R. Conidia. A, C–E, Q. from Anthriscus stem. B, F–P, R. from SNA. A–B. DM, C–R. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–R. Damm et al.
+ 106 to olivaceous grey, filter paper Anthriscus stem and medium partly covered with felty white aerial mycelium (and salmon acervuli), reverse same colours; growth rate 17.5–21.5 mm in 7 d (28.5–31.5 mm in 10 d). Colonies on OA flat with entire margin; surface honey, isabelline to olivaceous, almost entirely covered by felty white to pale olivaceous grey aerial mycelium, reverse buff, olivaceous, pale olivaceous grey, olivaceous grey to iron-grey, growth rate 16–18 mm in 7 d (26–29 mm in 10 d). Conidia in mass salmon.
 Material examined: Colombia, Cundinamarca, from fruit anthracnose of Solanum betaceum, 13 Aug. 2010, J. Molina, (CBS H-20726 holotype, culture ex-type CBS 129814 = T.A.6); Cundinamarca, from anthracnose on a fruit of Solanum betaceum, 13 Aug. 2010, J. Molina, culture CBS 129811 = T.A.3; Antioquia, Santa Rosa, from a flower of Solanum betaceum, 1998, collector unknown, CBS H-20728, culture CBS 129955 = Tom-12. 
 Notes: Afanador-Kafuri et al. (2003) identified several strains from tamarillo in Colombia as C. acutatum, three of which are included in this study. Sreenivasaprasad & Talhinhas (2005) recognised these strains as a separate molecular group, A8, closely related to A1 (C. lupini). 
 Colletotrichum tamarilloi can be separated from other species using CHS-1, HIS3, TUB2 and GAPDH sequences, most effectively with GAPDH, and forms a uniform cluster even with six genes (Fig. 1). Afanador-Kafuri et al. (2003) observed uniformity of banding patterns with apPCR, RAPD-PCR and A+T-rich DNA analyses of the strains they studied. They speculated that selection for clonality and homogeneity had occurred among the isolates, all of which were collected in one region in Colombia where only one cultivar of the host was cultivated. Conidia of C. tamarilloi are uniformly fusiform on SNA, and almost so on Anthriscus stem, while C. lupini forms conidia that are usually clavate on SNA and cylindrical on the stems. Additionally, we found that appressoria of C. lupini have an undulate to lobate margin, while those of C. tamarilloi have an entire or rarely slightly undulate edge.
@@ -1364,7 +1454,8 @@ R14 from Capsicum annuum from South Korea (Sang et al. 2011).
 The closest GAPDH match for a sequence covering ± the full gene length (with 98 % identity, 4 bp differences) was HQ846724 from isolate OBP6 from an unnamed plant, probably from India (Chowdappa P, Chethana CS, Madhura S, unpubl. data). The only 100 % match with the ITS sequence was FJ968601, the sequence of the same isolate previously sequenced by Nguyen et al. (2009).DISCUSSION 
 Colletotrichum acutatum (in the broad sense) was originally distinguished using morphological characteristics. The primary diagnostic feature was given as the possession of fusiform conidia with acute ends (Simmonds 1965). More detailed research has however shown that this characteristic is not absolute; while most strains of species within the C. acutatum complex have at least a proportion of conidia with at least one acute end, it is common to find significant variation in conidial shape within species and even within individual strains. Conidia that are more or less cylindrical are frequently encountered. The variation may have multiple causes; in some circumstances it seems that secondary conidia 
 Fig. 32. Colletotrichum walleri (from ex-holotype strain CBS 125472). A–B. Conidiomata. C–H. Conidiophores. I–N. Appressoria. O–P. Conidia. A, C–E, O. from Anthriscus stem. 
-B, F–N, P. from SNA. A–B. DM, C–P. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–P. Damm et al. 108 are formed directly from the germ tube of a germinating primary conidium, and these are smaller and more irregular in form than those from which they are derived (Buddie et al. 1999). Additionally, older strains, especially if they have been frequently subcultured, may have conidia that are more variable in appearance than those derived from recent stock. Nirenberg et al. (2002) observed that shapes differed among conidia formed in acervuli and in the aerial mycelium. The variation in conidial shape has led to species within the C. acutatum complex being incorrectly placed into synonymy with other Colletotrichum species, primarily C. gloeosporioides – a legacy of the revision of the genus by von Arx (1957). His work marked a new era in the understanding of Colletotrichum systematics (Cannon et al. 2012, this issue), but many of the synonymies proposed were inaccurate. 
+B, F–N, P. from SNA. A–B. DM, C–P. DIC, Scale bars: A = 100 µm, C = 10 µm. Scale bar of A applies to A–B. Scale bar of C applies to C–P. Damm et al.
+ 108 are formed directly from the germ tube of a germinating primary conidium, and these are smaller and more irregular in form than those from which they are derived (Buddie et al. 1999). Additionally, older strains, especially if they have been frequently subcultured, may have conidia that are more variable in appearance than those derived from recent stock. Nirenberg et al. (2002) observed that shapes differed among conidia formed in acervuli and in the aerial mycelium. The variation in conidial shape has led to species within the C. acutatum complex being incorrectly placed into synonymy with other Colletotrichum species, primarily C. gloeosporioides – a legacy of the revision of the genus by von Arx (1957). His work marked a new era in the understanding of Colletotrichum systematics (Cannon et al. 2012, this issue), but many of the synonymies proposed were inaccurate. 
 In this study we found many species that had been considered as synonyms of C. gloeosporioides by von Arx (1957) actually belong to the C. acutatum species complex, including C. mahoniae, 
 C. godetiae, Gm. phormii, Gm. lycopersici, and Gm. limetticola. 
 Glomerella miyabeana, here treated as a synonym of the older C. salicis, was regarded as a forma specialis of Ga. cingulata by von 

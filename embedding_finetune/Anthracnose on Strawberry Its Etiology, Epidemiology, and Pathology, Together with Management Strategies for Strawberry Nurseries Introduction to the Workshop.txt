@@ -69,7 +69,8 @@ w‘‘Other states’’ with strawberry plasticulture production in 2003 inclu
 U.S. EPA (www.smallfruits.org).
 vEstimate of plant usage per ha for matted row in these states is based on a standard recommended spacing of 0.6 m · 1.06 m (2 ft · 3.5 ft).
 uAnnual planting needs in the matted-row states may be estimated by dividing the total production area by 3, as matted-row beds are commonly fruited for 3 yr (four production seasons).
-tEstimate of plant usage per ha for matted row in these states is based on a spacing of 0.3 m · 1.06 m (1 ft · 3.5 ft). 60 HORTSCIENCE VOL. 43(1) FEBRUARY 2008 http://www.smallfruits.org http://www.smallfruits.org worldwide (Smith, 2007). Specific accounts of economic loss due to C. acutatum infection are given below, along with some additional reports by workers who did not participate directly in the workshop.
+tEstimate of plant usage per ha for matted row in these states is based on a spacing of 0.3 m · 1.06 m (1 ft · 3.5 ft).
+ 60 HORTSCIENCE VOL. 43(1) FEBRUARY 2008 http://www.smallfruits.org http://www.smallfruits.org worldwide (Smith, 2007). Specific accounts of economic loss due to C. acutatum infection are given below, along with some additional reports by workers who did not participate directly in the workshop.
 Florida. Barbara Smith was able to relate in her oral presentation (this information does not appear in her paper) that in recent years losses to AFR in Florida have averaged $3 million USD per year; she also noted in 1997–1998 that losses due to fruit rot in
 Florida were estimated to be between $10 and $15 million USD. Assuming that AFR losses in Florida have averaged around $3 million USD annually in recent years, this would represent �1.7% of the value of the
 Florida crop in 2004 ($178 million USD). 
@@ -112,7 +113,8 @@ North America nurserymen in controlling an ‘‘invisible’’ pathogen in the
 Initial evidence of C. acutatum in the
 United States. Before this fungus was identi fied in North America, it had previously been reported in Queensland, Australia, in the mid-1960s (Smith, 2007). In Smith’s paper, ‘‘Epidemiology and Pathology of Strawberry
 Anthracnose,’’ she speculates that C. acuta tum had probably been present in the United
-States for some time under the name Gloeo sporium spp. (Maas, 1984). In a less widely circulated report that I came across after the workshop, I learned that C. acutatum was also found in California strawberries in 1983, and the pathogen was noted to sporadic ally cause disease outbreaks typified by plant stunting, crown rot, and collapse, espe cially in early southern California plantings (Wilhelm, 2004). 1987 NASGA meeting. I can personally remember attending a North American
+States for some time under the name Gloeo sporium spp. (Maas, 1984). In a less widely circulated report that I came across after the workshop, I learned that C. acutatum was also found in California strawberries in 1983, and the pathogen was noted to sporadic ally cause disease outbreaks typified by plant stunting, crown rot, and collapse, espe cially in early southern California plantings (Wilhelm, 2004).
+ 1987 NASGA meeting. I can personally remember attending a North American
 Strawberry Growers (NASGA) Winter Con ference in Feb. 1987 (Nashville, TN), soon after C. acutatum had been implicated in severe AFR problems in both the Southeast ern United States and Southern California (Maas, 1987). At this meeting, USDA plant pathologist John Maas presented an overview of Anthracnose Disease of Strawberry in the
 United States and stated in the 1987 Proceed ings of the NASGA Winter Conference, ‘‘More information is urgently needed on the reactions of (strawberry) cultivars to these fungi (Colletotrichum fragariae, C. gloeo sporioides, and C. acutatum)’’ (Maas, 1987).
 To his credit, John Maas was trying to get our attention about the potential seriousness of C. acutatum (Maas, 1987), 17 years before our Anthracnose on Strawberry workshop in Austin. We now know that all important nursery areas in the United States (north and south) and Canada are within the range of C. acutatum infection, but relatively little infor mation was presented by participants in that program (on video tape or in the papers) that specifically addressed how extensively C. acutatum has infiltrated nursery production areas outside of California. The pathogen’s presence in California nursery plant growing areas is well documented (Strand et al., 1994).
@@ -210,7 +212,8 @@ Leandro, L.F.S., M.L. Gleason, F.W. Nutter, Jr.,
 S.N. Wegulo, and P.M. Dixon. 2001. Germi nation and sporulation of Colletotrichum acu tatum on symptomless strawberry leaves.Phytopathology 91:659–664.
 Legard, D. 2005. Cooperative efforts by the Cal ifornia Strawberry Commission to control Col letotrichum acutatum in strawberry transplants.
 In: Anthracnose on strawberry. Amer. Soc. Hort. Sci., Video Workshop Series, Disk 2.ASHS, Alexandria, VA. 
-Legard, D., M. Ellis, C. Chandler, and J. Price. 2004. Integrated management of strawberry diseases in winter fruit production areas, p. 64 HORTSCIENCE VOL. 43(1) FEBRUARY 2008 113–114. In: N.F. Smith (ed.). The strawberry: a book for growers, others. Dr. Norman F. Childers Publications, Gainesville, FL. 
+Legard, D., M. Ellis, C. Chandler, and J. Price. 2004. Integrated management of strawberry diseases in winter fruit production areas, p.
+ 64 HORTSCIENCE VOL. 43(1) FEBRUARY 2008 113–114. In: N.F. Smith (ed.). The strawberry: a book for growers, others. Dr. Norman F. Childers Publications, Gainesville, FL. 
 Maas, J.L. 1984. Anthracnose fruit rot (black spot), p. 57–60. In: J.L. Maas (ed.). Compendium of strawberry diseases. American Phytopatholog ical Society, St. Paul, MN. 
 Mass, J.L. 1987. Anthracnose diseases of straw berry, p. 100–107. In: E.E. Burns and E.J. Burns (eds.). Proceedings 1987 Winter Confer ence, 8–11 Feb., North American Strawberry
 Growers Association, Madrid, NY. 

@@ -7,7 +7,8 @@ Microbiology, a section of the journalFrontiers in Microbiology Received: 18 Jul
 Baroncelli R, Talhinhas P, Pensec F, 
 Sukno SA, Le Floch G and Thon MR (2017) The Colletotrichum acutatum 
 Species Complex as a Model System to Study Evolution and Host 
-Specialization in Plant Pathogens. Front. Microbiol. 8:2001. doi: 10.3389/fmicb.2017.02001 The Colletotrichum acutatum
+Specialization in Plant Pathogens. Front. Microbiol. 8:2001.
+ doi: 10.3389/fmicb.2017.02001 The Colletotrichum acutatum
 Species Complex as a Model System to Study Evolution and Host
 Specialization in Plant Pathogens
 Riccardo Baroncelli1, Pedro Talhinhas2*, Flora Pensec1, Serenella A. Sukno3,
@@ -43,7 +44,8 @@ are associated with anthracnose, most frequently C. nymphaeae,
 C. godetiae, and C. acutatum (Talhinhas et al., 2005, 2009). Upon penetration of mature fruits, these species have a short biotrophic phase that is represented by multi-lobed primary hyphae, followed by an extended necrotrophic stage, leading to disease symptoms. On olive leaves and branches, the fungus is most frequently asymptomatic but capable of epiphytic growth and 
 Frontiers in Microbiology | www.frontiersin.org 2 October 2017 | Volume 8 | Article 2001 https://www.frontiersin.org/journals/microbiology/ https://www.frontiersin.org/ https://www.frontiersin.org/journals/microbiology#articles fmicb-08-02001 October 9, 2017 Time: 15:34 # 3 
 Baroncelli et al. The Colletotrichum acutatum Species Complex 
-FIGURE 1 | Phylogenetic analysis of the 42 Colletotrichum acutatum species complex strains listed in Supplementary Table S1 based on a multilocus concatenated alignment of the ITS, GAPDH, CHS-1, HIS3, ACT, and TUB2 genes. Accepted species (Jayawardena et al., 2016) are highlighted in black while isolates not fitting with those are reported in gray. Colletotrichum orchidophilum was used as an outgroup. sporulation (Talhinhas et al., 2011). Colletotrichum nymphaeae is also an entomopathogen infecting the citrus orthezia scale insect, Praelongorthezia praelonga (Mascarin et al., 2016) while
+FIGURE 1 | Phylogenetic analysis of the 42 Colletotrichum acutatum species complex strains listed in Supplementary Table S1 based on a multilocus concatenated alignment of the ITS, GAPDH, CHS-1, HIS3, ACT, and TUB2 genes. Accepted species (Jayawardena et al., 2016) are highlighted in black while isolates not fitting with those are reported in gray. Colletotrichum orchidophilum was used as an outgroup.
+ sporulation (Talhinhas et al., 2011). Colletotrichum nymphaeae is also an entomopathogen infecting the citrus orthezia scale insect, Praelongorthezia praelonga (Mascarin et al., 2016) while
 C. fioriniae is pathogenic toward the insect Fiorinia externa (Marcelino et al., 2008).
 On some fruits, such as apple and blueberry (Vaccinium spp.), members of the C. acutatum species complex cause both pre-harvest and post-harvest diseases (Milholland, 1995; Jones et al., 1996; Shi et al., 1996). On these plants, asymptomatic, quiescent infections occur on unripe fruit and begin to develop necrotic lesions as the fruit ripens (Alkan et al., 2015). There are many other examples of post-harvest decays on fruits such as peaches (Prunus persica), almonds (Prunus dulcis), avocado (Persea americana), mango (Mangifera indica), papaya (Carica papaya), and guava (Psidium guajava) that develop from quiescent infections that began in the field (Agostini et al., 1992; 
 Frontiers in Microbiology | www.frontiersin.org 3 October 2017 | Volume 8 | Article 2001 https://www.frontiersin.org/journals/microbiology/ https://www.frontiersin.org/ https://www.frontiersin.org/journals/microbiology#articles fmicb-08-02001 October 9, 2017 Time: 15:34 # 4 
