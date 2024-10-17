@@ -6,14 +6,14 @@ pdf_dir = 'pdf/strawberry_file/EN'
 
 file_names = glob.glob(pdf_dir + "/*.pdf")
 
-text_dir = 'embedding_finetune/'
+text_dir = 'embedding_finetune/paragraphs/'
 
 text_file = text_dir + 'contents_EN.txt'
 
 lengths = []
 
 for file_name in file_names:
-    # print(file_name)
+    print(file_name)
     text = parser.from_file(file_name)
     pdf_str = text["content"]
     new_str = ""
@@ -54,7 +54,7 @@ print(max(lengths))
 num = 0
 
 for length in lengths:
-    if length > 2000: num = num + 1
+    if length > 4000: num = num + 1
 
 print(num)
 print(len(lengths))
