@@ -1,0 +1,781 @@
+Naturalis Biodiversity Center & Westerdijk Fungal Biodiversity Institute
+You are free to share, copy, distribute, and transmit the work under the following conditions:
+For any reuse or distribution, you must make clear to others the license terms of this work, which can be found at Creative Commons License. Any of the above conditions can be waived if you get permission from the copyright holder. Nothing in this license impairs or restricts the author’s moral rights.
+Persoonia 42, 2019: 1–35
+ISSN (Online) 1878-9080
+www.ingentaconnect.com/content/nhn/pimj
+https://doi.org/10.3767/persoonia.2019.42.01
+RESEARCH ARTICLE
+INTRODUCTION
+Colletotrichum species are important plant pathogens, saprobes, and endophytes, and can infect numerous plant hosts (Cannon et al. 2012, Dean et al. 2012, Diao et al. 2017, Guarnaccia et al. 2017). In recent years, the Colletotrichum species isolated from many host plants, e.g., Camellia sinensis (Theaceae), Capsicum annuum (Solanaceae), Citrus reticulata (Rutaceae), Mangifera indica (Anacardiaceae), and Vitis vinifera (Vitaceae), have been studied at a broad geographical level, contributing to a better understanding of the genus (Huang et al. 2013, Lima et al. 2013, Vieira et al. 2014, Liu et al. 2015, Yan et al. 2015, Diao et al. 2017, Guarnaccia et al. 2017). Although Pyrus is an important host genus for Colletotrichum spp., the Colletotrichum spp. associated with pear anthracnose remained largely unresolved, with only six individual species identified including C. acutatum, C. aenigma, C. fioriniae, C. fructicola, C. pyricola, and C. salicis (Damm et al. 2012b, Weir et al. 2012). Moreover, previous reports chiefly investigated morphology and ITS sequence data (Wu et al. 2010, Liu et al. 2013b), which are insufficient for distinguishing closely related taxa in several species complexes (Liu et al. 2016a). Additionally, most of the species reported from pear were based on small sample sizes from restricted areas, thus underestimating the species diversity on this host (Damm et al. 2012b, Weir et al. 2012).
+In the genus Pyrus, P. bretschneideri, P. communis, P. pyrifolia, P. sinkiangensis, and P. ussuriensis are commercially cultivated (Wu et al. 2013). Of these, P. bretschneideri, P. communis, and P. pyrifolia represent the major cultivated species in China (Zhao et al. 2016). Pear is the third most widespread temperate fruit crop after apple and grape, with the largest production in China (Wu et al. 2013). The pear industry is also one of the most important fruit industries worldwide. Statistical data for 2016 indicated that pear cultivation area was 1,121,675 ha, yielding 19.5 MT fruit in China, accounting for 70% of the global pear fruit yield (FAO 2016). Furthermore, Pyrus originated from the tertiary period (about 65 to 55 Myr ago) in western China, which represents one of the two subcenters for genetic diversity of this genus (Rubtsov 1944, Vavilov 1951, Zeven & Zhukovsky 1975, Wu et al. 2013, Silva et al. 2014).
+Characterization of the Colletotrichum spp. associated with Pyrus plants is expected to provide better insight into the biology of this important genus. Moreover, pear anthracnose caused by Colletotrichum spp. is an important disease in major pear cultivation areas of China, occurring during the growth and fruit maturation periods of pear, mainly damaging leaves and fruits. Pear anthracnose has led to substantial economic
+Colletotrichum Species Associated with Anthracnose of Pyrus spp. in China
+M. Fu¹²³⁴, P. W. Crous⁵⁶⁷, Q. Bai⁴, P. F. Zhang⁴, J. Xiang⁴, Y. S. Guo⁴, F. F. Zhao⁴, M. M. Yang⁴, N. Hong¹²³⁴, W. X. Xu¹²³⁴, G. P. Wang¹²³⁴
+¹State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan 430070, Hubei, China; corresponding authors' emails: xuwenxing@mail.hzau.edu.cn, gpwang@mail.hzau.edu.cn.
+²Key Laboratory of Horticultural Crop (Fruit Trees) Biology and Germplasm Creation of the Ministry of Agriculture, Wuhan 430070, Hubei, China.
+³Key Lab of Plant Pathology of Hubei Province, Wuhan, Hubei 430070, China.
+⁴College of Plant Science and Technology, Huazhong Agricultural University, Wuhan 430070, Hubei, China.
+⁵Westerdijk Fungal Biodiversity Institute, Uppsalalaan 8, 3584 CT Utrecht, The Netherlands.
+⁶Department of Genetics, Biochemistry and Microbiology, Forestry and Agricultural Biotechnology Institute (FABI), University of Pretoria, Pretoria 0002, South Africa.
+⁷Wageningen University and Research Centre (WUR), Laboratory of Phytopathology, Droevendaalsesteeg 1, 6708 PB Wageningen, The Netherlands.
+Keywords: Colletotrichum, multi-gene phylogeny, pathogenicity, Pyrus
+Abstract: Colletotrichum species are plant pathogens, saprobes, and endophytes on a range of economically important hosts. However, the species occurring on pear remain largely unresolved. To determine the morphology, phylogeny, and biology of Colletotrichum species associated with Pyrus plants, a total of 295 samples were collected from cultivated pear species (including P. pyrifolia, P. bretschneideri, and P. communis) from seven major pear cultivation provinces in China. Pear leaves and fruits affected by anthracnose were sampled and subjected to fungus isolation, resulting in a total of 488 Colletotrichum isolates. Phylogenetic analyses based on six loci (ACT, TUB2, CAL, CHS-1, GAPDH, and ITS), coupled with the morphology of 90 representative isolates, revealed that they belong to 10 known Colletotrichum species, including C. aenigma, C. citricola, C. conoides, C. fioriniae, C. fructicola, C. gloeosporioides, C. karstii, C. plurivorum, C. siamense, C. wuxiense, and two novel species, described here as C. jinshuiense and C. pyrifoliae. Of these, C. fructicola was the most dominant, occurring on P. pyrifolia and P. bretschneideri in all surveyed provinces except in Shandong, where C. siamense was dominant. In contrast, only C. siamense and C. fioriniae were isolated from P. communis, with the former being dominant. In order to prove Koch’s postulates, pathogenicity tests on pear leaves and fruits revealed a broad diversity in pathogenicity and aggressiveness among the species and isolates, of which C. citricola, C. jinshuiense, C. pyrifoliae, and C. conoides appeared to be organ-specific on either leaves or fruits. This study also represents the first reports of C. citricola, C. conoides, C. karstii, C. plurivorum, C. siamense, and C. wuxiense causing anthracnose on pear.
+Article Info
+Received: 30 April 2018; Accepted: 20 June 2018; Published: 24 July 2018.
+http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode. Any of the above conditions can be
+http://www.ingentaconnect.com/content/nhn/pimj
+Persoonia – Volume 42, 2019
+Fig. 1: Representative symptoms of pear anthracnose on fruits and leaves in the field. a–c. Symptoms of big sunken rot lesions (BrL; 10–35 mm diam) on fruits of P. pyrifolia (a, b) and P. communis cultivar (cv.) Gyuiot (c); d, e. Symptoms of tiny black spots (TS; <1 mm diam) on young pear fruits of P. pyrifolia cv. Cuiguan and mature pear fruit of P. bretschneideri
+3M. Fuetal.: Colletotrichum associated with anthracnose of Pyrus spp. affecting pear production has been lacking in China and is also poorly documented worldwide. The taxonomy of the genus Colletotrichum has, in the past, mainly relied on host range and morphological characters (Von Arx 1957, Sutton 1980), which is limited in species resolution (Cai et al. 2009, Hyde et al. 2009, Cannon et al. 2012). Recently, multi-locus phylogenetic analyses together with morphological characteristics have significantly influenced the classification and species concepts in Colletotrichum (Cai et al. 2009, Cannon et al. 2012, Damme et al. 2012a,b, 2013, 2014, 2019, Weir et al. 2012, Liu et al. 2013a, 2014, Vieira et al. 2014, Yan et al. 2015, Guarnaccia et al. 2017). Phylogenetic analyses based on multi-locus DNA sequence data and the application of Genealogical Concordance Phylogenetic Species Recognition (GCPSR) represent an enhanced ability for species resolution (Quaedvlieg et al. 2014, Liu et al. 2016a, Diao et al. 2017). For example, C. siamense was previously assumed to be a species complex composed of several taxa (Yang et al. 2009, Wikee et al. 2011, Lima et al. 2013, Vieira et al. 2014, Sharma et al. 2015), but was shown to represent a single variable species in the C. gloeosporioides species complex (Weir et al. 2012, Liu et al. 2016a). Based on recent progress, 14 Colletotrichum species complexes and 15 singleton species have been identified (Marin-Felix et al. 2017, Damme et al. 2019). The aims of the present study were as follows: i. identify the prevalence of Colletotrichum spp. associated with Pyrus anthracnose in the major production provinces in China; ii. validate the taxonomy of the Colletotrichum spp. through morphology and DNA phylogenetic analysis; and iii. evaluate their pathogenicity by proving Koch’s postulates. MATERIALS AND METHODS Sampling and Isolation A survey was conducted in 15 commercial pear orchards and four nurseries (Aug. 2013 to Oct. 2016) in the seven major pear cultivation provinces (Anhui, Fujian, Hubei, Jiangsu, Jiangxi, Shandong, and Zhejiang) of China. Two kinds of symptoms were observed on fruit: 1) bitter rot showing big sunken rot lesions (BrL), 10–35 mm diam., with embedded concentric acervuli, secreting an orange conidial mass under humid conditions; and 2) tiny black spots (TS) less than 1 mm diam., gradually increasing in number instead of in size during the season. Three symptom types were observed on leaves: 1) big necrotic lesions (BnL); 2) small round spots (SS); and 3) TS. The BnL symptoms were characterized by sunken necrotic lesions 5–10 mm diam., brown in the center but black along the margin, with black acervuli on the surface, secreting orange conidial tendrils under humid conditions. The SS symptoms were characterized by grey-white spots, 3–4 mm diam., circular to subcircular, grey-white in the center, with a dark-brown margin. The TS symptoms were characterized by tiny black spots of less than 1 mm diam., which increased in number instead of in size, accompanied by chlorosis, yellowing, and ‘green island regions’, resulting in defoliation. Fruits and leaves showing the symptoms explained above were collected from pear trees of P. pyrifolia cultivars (cvs.) Cuiguan, Guanyangxueli, Hohsui, Huanghua, Huali No. 1, Imamuraaki, Jinshui No. 1, Jinshui No. 2, and Xiangnan, P. bretschneideri cvs. Chili, Dangshansuli, Huangguan, Huangxianchangba, and Yali, and P. communis cv. Gyuiot in the surveyed orchards. Fungi were isolated and linked to symptom types. Diseased tissues (neighboring the asymptomatic regions) without sporulation were cut into small pieces (4–5 mm²) after surface sterilization (1% NaOCl for 45 s, 75% ethanol for
+Photita et al. (2005). Excised tissues were placed on potato dextrose agar (PDA: 20% diced potato, 2% glucose, 1.5% agar, and distilled water) plates and incubated at 28°C. For diseased tissues with sporulation, conidia were collected, suspended in sterilized water, diluted to a concentration of 1 × 10⁴ conidia per mL, and spread on the surface of water agar (WA: 2% agar and distilled water) to generate discrete colonies (Choi et al. 1999). Six single colonies of each isolate were picked up with a sterilized needle (insect pin, 0.5 mm diameter) and transferred onto PDA plates. Pure cultures were stored in 25% glycerol at -80°C until use. Type specimens of new species from this study were deposited in the Mycological Herbarium, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China (HMAS), and ex-type living cultures were deposited in the China General Microbiological Culture Collection Centre (CGMCC), Beijing, China.
+DNA extraction, PCR amplification, and sequencing: Mycelial discs were transferred to PDA plates covered with sterile cellophane and incubated at 28°C in the dark for 5–7 days. Fungal genomic DNA was extracted with cetyltrimethyl ammonium bromide (CTAB) buffer (2% w/v CTAB, 1.42 M NaCl, 20 mM EDTA, 100 mM Tris·HCl, pH 8.0, 0.2% (w/v) β-mercaptoethanol) as previously described (Freeman et al. 1996). Six loci, including the 5.8S nuclear ribosomal gene with the two flanking internal transcribed spacers (ITS), a 200-bp intron of the glyceraldehyde-3-phosphate dehydrogenase (GAPDH), and partial actin (ACT), beta-tubulin (TUB2), chitin synthase (CHS-1), and calmodulin (CAL) genes, were amplified using the primer pairs ITS4/ITS5 (White et al. 1990), GDF1/GDR1 (Guerber et al. 2003), ACT-512F/ACT-783R (Carbone & Kohn 1999), T1/Bt2b (Glass & Donaldson 1995, O’Donnell & Cigelnik 1997), CHS-79F/CHS-345R (Carbone & Kohn 1999), and CL1C/CL2C (Wei et al. 2012), respectively. PCR amplification was conducted as described by Wei et al. (2012) but modified by using an annealing temperature of 56°C for ITS, 59°C for ACT and GAPDH, 58°C for TUB2 and CHS-1, and 57°C for CAL. PCR amplicons were purified and sequenced at Sangon Biotech (Shanghai, China) Co., Ltd. Forward and reverse sequences were assembled to obtain a consensus sequence with DNAMAN (v. 9.0; Lynnon Biosoft). Sequences generated in this study were deposited in GenBank (Table 1).
+Phylogenetic analyses: Multiple sequences of concatenated ACT, TUB2, CAL, CHS-1, GAPDH, and ITS sequences were aligned using MAFFT v. 7 (Katoh & Standley 2013) with default settings, and if necessary, manually adjusted in MEGA v. 7.0.1 (Kumar et al. 2016). Bayesian inference (BI) was used to construct phylogenies using MrBayes v. 3.1.2 (Ronquist & Huelsenbeck 2003). MrModeltest v. 2.3 (Nylander 2004) was used to carry out statistical selection of best-fit models of nucleotide substitution using the corrected Akaike information criterion (AIC) (Table 2). Two analyses of four Markov Chain Monte Carlo (MCMC) chains were conducted from random trees with 1 × 10⁷ generations for the C. gloeo-sporioides species complex, 3 × 10⁶ for the C. dematium species complex and the related reference species involved in the same phylogenetic tree, and 2 × 10⁶ generations for C. acutatum and C. boninense species complexes. The analyses were sampled every 1,000 generations, which were stopped once the average standard deviation of split frequencies was below 0.01. Convergence of all parameters was checked using the internal diagnostics of the standard deviation of split frequencies and performance scale reduction factors (PSRF).
+B an kac ce ss io nnu m be r IT S GA PD H CA L A CT CH S -1 TU B 2 C. a en ig m a PAFQ 1 P. p yr ifo lia c v. Xi ang na n, le af B nL Zh on gx ia ng, Hu bei MG 74 79 97 MG 74 79 15 MG 74 77 69 MG 74 76 87 MG 74 78 33 MG 74 80 79 PA FQ 5 P. p yr ifo lia c v. Hu a li N o.1, le af B nL Zh on gx ia ng, Hu bei MG 74 79 98 MG 74 79 16 MG 74 77 70 MG 74 76 88 MG 74 78 34 MG 74 80 80 PA FQ 21 P. p yr ifo lia c v. Ji n sh ui N o.1, le af SS W uh an, Hu bei MG 74 79 99 MG 74 79 17 MG 74 77 71 MG 74 76 89 MG 74 78 35 MG 74 80 81 PA FQ 23 P. p yr ifo lia c v. Ji n sh ui N o.1, le af SS W uh an, Hu bei MG 74 80 00 MG 74 79 18 MG 74 77 72 MG 74 76 90 MG 74 78 36 MG 74 80 82 PA FQ 24 P. p yr ifo lia c v. Ji n sh ui N o.1, le af SS W uh an, Hu bei MG 74 80 01 MG 74 79 19 MG 74 77 73 MG 74 76 91 MG 74 78 37 MG 74 80 83 PA FQ 45 P. b re ts ch ne id er i c v. Ya li, le af B nL Ya nc he ng, Ji a ng su MG 74 80 02 MG 74 79 20 MG 74 77 74 MG 74 76 92 MG 74 78 38 MG 74 80 84 PA FQ 47 P. b re ts ch ne id er i c v. Ch i li, fr ui t B rL Ya nc he ng, Ji a ng su MG 74 80 03 MG 74 79 21 MG 74 77 75 MG 74 76 93 MG 74 78 39 MG 74 80 85 PA FQ 64 P. b re ts ch ne id er i c v. Hu a ng gu an, le af B nL D an gs ha n, A nh ui MG 74 80 04 MG 74 79 22 MG 74 77 76 MG 74 76 94 MG 74 78 40 MG 74 80 86 PA FQ 66 P. b re ts ch ne id er i c v. Hu a ng gu an, fr ui t B rL D an gs ha n, A nh ui MG 74 80 05 MG 74 79 23 MG 74 77 77 MG 74 76 95 MG 74 78 41 MG 74 80 87 PA FQ 81 P. p yr ifo lia c v. Gu a ny an gx ue li, le af SS H an gz ho u, Z he jia ng MG 74 80 06 MG 74 79 24 MG 74 77 78 MG 74 76 96 MG 74 78 42 MG 74 80 88 PA FQ 83 P. p yr ifo lia c v. Gu a ny an gx ue li, le af SS H an gz ho u, Z he jia ng MG 74 80 07 MG 74 79 25 MG 74 77 79 MG 74 76 97 MG 74 78 43 MG 74 80 89 C. c itr ic ol a PAFQ 13 P. p yr ifo lia, le af B nL W uh an, Hu bei MG 74 80 62 MG 74 79 80 MG 74 78 19 MG 74 77 52 MG 74 78 98 MG 74 81 42 C. c on oi de s PAFQ 6 P. p yr ifo lia, fr ui t B rL W uh an, Hu bei MG 74 80 08 MG 74 79 26 MG 74 77 80 MG 74 76 98 MG 74 78 44 MG 74 80 90 C. f io rin ia e PAFQ 8 P. p yr ifo lia c v. Ji n sh ui N o.1, le af SS W uh an, Hu bei MG 74 80 47 MG
+Dangs Hanh Shuli, fruit TS Yancheng, Jiangsu
+MG 74 80 17
+MG 74 79 35
+MG 74 77 89
+MG 74 77 07
+MG 74 78 53
+MG 74 80 99
+PA FQ 51
+P. pyrifolia cv. Cuiguan, leaf
+BNL Jianxi
+MG 74 80 18
+MG 74 79 36
+MG 74 77 90
+MG 74 77 08
+MG 74 78 54
+MG 74 81 00
+PA FQ 57
+P. pyrifolia cv. Cuiguan, leaf
+BNL Jianxi, Jiangxi
+MG 74 80 19
+MG 74 79 37
+MG 74 77 91
+MG 74 77 09
+MG 74 78 55
+MG 74 81 01
+PA FQ 62
+P. bretschneideri cv. Huangguan, leaf
+BNL Dangsahn, Anhui
+MG 74 80 20
+MG 74 79 38
+MG 74 77 92
+MG 74 77 10
+MG 74 78 56
+MG 74 81 02
+PA FQ 63
+P. bretschneideri cv. Huangguan, leaf
+BNL Dangsahn, Anhui
+MG 74 80 21
+MG 74 79 39
+MG 74 77 93
+MG 74 77 11
+MG 74 78 57
+MG 74 81 03
+PA FQ 77
+P. pyrifolia cv. Guangyang xueli, leaf
+BNL Hangzhou, Zhejiang
+MG 74 80 23
+MG 74 79 41
+MG 74 77 95
+MG 74 77 13
+MG 74 78 59
+MG 74 81 05
+PA FQ 79
+P. pyrifolia cv. Guanyan xueli, leaf
+BNL Hangzhou, Zhejiang
+MG 74 80 24
+MG 74 79 42
+MG 74 77 96
+MG 74 77 14
+MG 74 78 60
+MG 74 81 06
+PA FQ 84
+P. pyrifolia cv. Cuiguan, leaf
+BNL Tonglu, Zhejiang
+MG 74 80 22
+MG 74 79 40
+MG 74 77 94
+MG 74 77 12
+MG 74 78 58
+MG 74 81 04
+C. gloeosporioides PAFQ 7
+P. bretschneideri cv. Huangxian, leaf
+BNL Wuhan, Hubei
+MG 74 80 25
+MG 74 79 43
+MG 74 77 97
+MG 74 77 15
+MG 74 78 61
+MG 74 81 07
+PA FQ 27
+P. pyrifolia cv. Hohsui, leaf
+SS Wuhan, Hubei
+MG 74 80 26
+MG 74 79 44
+MG 74 77 98
+MG 74 77 16
+MG 74 78 62
+MG 74 81 08
+PA FQ 29
+P. pyrifolia cv. Hohsui, leaf
+SS Wuhan, Hubei
+MG 74 80 27
+MG 74 79 45
+MG 74 77 99
+MG 74 77 17
+MG 74 78 63
+MG 74 81 09
+PA FQ 44
+P. bretschneideri cv. Yali, leaf
+SS Yancheng, Jiangsu
+MG 74 80 28
+MG 74 79 46
+MG 74 78 00
+MG 74 77 18
+MG 74 78 64
+MG 74 81 10
+Table 1: List of 90 representative isolates of 12 Colletotrichum spp. collected from pear in China, with details about host, symptoms, origins, and GenBank accession numbers.
+5 M. Fu et al.: Colletotrichum associated with anthracnose of Pyrus spp.
+C. gloeosporioides PAFQ 56
+P. pyrifolia cv. Cuiguan, leaf
+BNL Jianxi, Jiangxi
+MG 74 80 29
+MG 74 79 47
+MG 74 78 01
+MG 74 77 19
+MG 74 78 65
+MG 74 81 11 (cont.)
+Guan Yang Xueli, leaf SS Hangzhou, Zhejiang MG 74 80 35 MG 74 79 53 MG 74 78 07 MG 74 77 25 MG 74 78 71 MG 74 81 17 PAFQ 86 P. pyrifolia, leaf BnL Hangzhou, Zhejiang MG 74 80 34 MG 74 79 52 MG 74 78 06 MG 74 77 24 MG 74 78 70 MG 74 81 16 C. jinshuiensis PAFQ 26, C. GMCC 3.18903 *P. pyrifolia cv. Jinshui No. 1, leaf SS Wuhan, Hubei MG 74 80 77 MG 74 79 95 –MG 74 77 67 MG 74 79 13 MG 74 81 57 PAFQ 26 a P. pyrifolia cv. Jinshui No. 1, leaf SS Wuhan, Hubei MG 87 48 30 MG 87 48 22 –MG 87 48 07 MG 87 48 14 MG 87 48 38 PAFQ 26 b P. pyrifolia cv. Jinshui No. 1, leaf SS Wuhan, Hubei MG 87 48 31 MG 87 48 23 –MG 87 48 08 MG 87 48 15 MG 87 48 39 PAFQ 26 c P. pyrifolia cv. Jinshui No. 1, leaf SS Wuhan, Hubei MG 87 48 32 MG 87 48 24 –MG 87 48 16 MG 87 48 40 PAFQ 26 d P. pyrifolia cv. Jinshui No. 1, leaf SS Wuhan, Hubei MG 87 48 33 MG 87 48 25 –MG 87 48 09 MG 87 48 17 MG 87 48 41 C. karstii PAFQ 14 P. pyrifolia, leaf BnL Wuhan, Hubei MG 74 80 63 MG 74 79 81 MG 74 78 20 MG 74 77 53 MG 74 78 99 MG 74 81 43 PAFQ 15 P. pyrifolia, leaf BnL Wuhan, Hubei MG 74 80 64 MG 74 79 82 MG 74 78 21 MG 74 77 54 MG 74 79 00 MG 74 81 44 PAFQ 16 P. pyrifolia, leaf BnL Wuhan, Hubei MG 74 80 65 MG 74 79 83 MG 74 78 22 MG 74 77 55 MG 74 79 01 MG 74 81 45 PAFQ 28 P. pyrifolia cv. Hohsui, leaf BnL Wuhan, Hubei MG 74 80 66 MG 74 79 84 MG 74 78 23 MG 74 77 56 MG 74 79 02 MG 74 81 46 PAFQ 37 P. pyrifolia cv. Cuiguan, leaf BnL Jianning, Fujian MG 74 80 67 MG 74 79 85 MG 74 78 24 MG 74 77 57 MG 74 79 03 MG 74 81 47 PAFQ 38 P. pyrifolia cv. Cuiguan, leaf BnL Jianning, Fujian MG 74 80 68 MG 74 79 86 MG 74 78 25 MG 74 77 58 MG 74 79 04 MG 74 81 48 PAFQ 39 P. pyrifolia cv. Cuiguan, leaf BnL Jianning, Fujian MG 74 80 69 MG 74 79 87 MG 74 78 26 MG 74 77 59 MG 74 79 05 MG 74 81 49 PAFQ 40 P. pyrifolia cv. Huanghua, leaf BnL Jianning, Fujian MG 74 80 70 MG 74 79 88 MG 74 78 27 MG 74 77 60 MG 74 79 06 MG 74 81 50 PAFQ 41 P. pyrifolia cv. Huanghua, leaf BnL Jianning, Fujian MG 74 80 71 MG 74 79 89 MG 74 78 28 MG 74 77 61 MG 74 79 07 MG 74 81 51 PAFQ 42 P. pyrifolia cv. Huanghua, leaf BnL Jianning, Fujian MG 74 80 72 MG 74 79 90 MG 74 78 29 MG 74 77 62 MG 74 79 08 MG 74 81 52 PAFQ 43 P. pyrifolia cv. Huanghua, leaf BnL Jianning, Fujian MG 74 80 73 MG 74 79 91 MG 74 78 30 MG 74 77 63 MG 74 79 09 MG 74 81 53 PAFQ 52 P. pyrifolia cv. Cuiguan, leaf BnL Jinx, Jiangxi MG 74 80 74 MG 74 79 92 MG 74 78 31 MG 74 77 64 MG 74 79 10 MG 74 81 54 PAFQ 82 P. pyrifolia cv. Guanyangxueli, leaf BnL Hangzhou, Zhejiang MG
+B rL: big sunken necrotic lesions; B nL: big necrotic lesions; S S: small round spots; T S: tiny black spots. Table 1 (cont.) Species Isolate No. Host Symptoms Origin Gen Bank accession number IT S GA PD H CA L A CT CH S -1 T U B 2 6. Persoonia – Volume 42, 2019 and then externally with Tracer v.1.6 (Rambaut et al. 2013). The first 25% of trees were discarded as the burn-in phase of each analysis, and posterior probabilities were determined from the remaining trees. Additionally, maximum parsimony analyses (MP) were performed on the multi-locus alignment using PAUP (Phylogenetic Analysis Using Parsimony) v.4.0b10 (Swofford 2002). Phylogenetic trees were generated using the heuristic search option with Tree Bisection Reconnection (TBR) branch swapping and 1000 random sequence additions. Max trees were set up to 5000, branches of zero length collapsed, and all multiple parsimonioustrees were saved. Cladestability was assessed using a bootstrap analysis with 1000 replicates. Afterwards, tree length (TL), consistency index (CI), retention index (RI), rescaled consistency index (RC), and homoplasy index (HI) were calculated. Furthermore, maximum likelihood (ML) analyses were implemented on the multi-locus alignments using the RaxmlGUI v.1.3.1 (Silvestro & Michalak 2012). Cladestability was assessed using bootstrap analyses with 1000 replicates. A general time-reversible model (GTR) was applied with an invgamma-distributed rate variation. Phylogenetic trees were visualized in FigTree v.1.4.2 (Rambaut 2014). The alignments and phylogenetic trees were deposited in TreeBASE (study 22264). For the phylogenetically close but not clearly delimited species, sequences were analyzed using the GCPSR model by performing a pairwise homoplasy index (PHI) test as described by Quaedvlieg et al. (2014). The PHI test was performed in SplitsTree4 (Huson 1998, Huson & Kloepper 2005, Huson & Bryant 2006) to determine the recombination level within phylogenetically closely related species using a six-locus concatenated dataset (ACT, TUB2, CAL, CHS-1, GAPDH, and ITS). If the resulting pairwise homoplasy index was below a 0.05 threshold (Фw < 0.05), it was indicative of significant recombination in the dataset. The relationship between closely related species was visualized by constructing a splits graph. Morphological analysis Morphological and cultural features were characterized according to Yan et al. (2015). Briefly, mycelial discs (5 mm diam) were taken from the growing edge of 5-d-old cultures in triplicate, transferred on PDA, oatmeal agar (OA; Crous et al. 2009) and synthetic nutrient-poor agar medium (SNA; Nirenberg 1976), and incubated in the dark at 28°C. Colony diameters were measured daily for 5 d to calculate their mycelial growth rates (mm/d). The shape, color, and density of colonies were recorded after 6 d. Moreover, the shape, color, and size of sporocarps, conidia, conidiophores, asci, and ascospores were observed using light microscopy (Nikon Eclipse 90i or Olympus BX63, Japan), and 50 conidia or ascospores were measured to determine their sizes unless no or fewer spores were produced. Conidial appressoria were induced by dropping a conidial suspension (10^6 conidia/mL; 50 μL) on a concavity slide, placed inside plates containing moistened filter papers with distilled sterile water, and then incubated at 25°C in the dark. After incubating for 24 to 48 h, the sizes of 30 conidial appressoria formed at the ends of germ tubes were measured (Yang et al. 2009). Prevalence.
+To determine the prevalence of Colletotrichum species in sampled provinces, the Pyrus spp. and pear organs (leaf or fruit) involved were established. The Isolation Rate (RI) was calculated for each species using the formula RI% = (NS / NI) × 100, where NS is the number of isolates from the same species and NI is the total number of isolates from each sample-collected province (Vieira et al. 2014, Wang et al. 2016). The overall RI was calculated using the NI value equal to the total number of isolates obtained from pear plants.
+Pathogenicity Tests
+Representative Colletotrichum isolates were selected for pathogenicity tests with a spore suspension on detached leaves (approximately 4 weeks old) of P. pyrifolia cv. Cuiguan in eight replicates as previously described (Cai et al. 2009). Briefly, healthy-looking leaves were collected, washed three times with sterile water, and air-dried on sterilized filter paper. The leaves were inoculated using the wound/drop and non-wound/drop inoculation methods (Lin et al. 2002, Kanchana-udomkan et al. 2004, Than et al. 2008). For the wound/drop method, an aliquot of 6 μL of spore suspension (1.0 × 10^6 conidia or ascospores per mL) was dropped on the left side of a leaf after wounding it once by pin-pricking with a sterilized needle (insect pin, 0.5 mm diameter), and sterile water was applied on the right side as a control. For the non-wound/drop method, the spore suspension was dropped on the left side of a leaf without prior wounding, with sterile water on the right side as a control. The infection rates were calculated using the formula (infection rate = the number of infected leaves or fruits / the number of inoculated leaves or fruits) at 14 days post-inoculation (dpi) (Huang et al. 2013).
+Additionally, pathogenicity was determined on detached mature pear fruits of P. bretschneideri cv. Huangguan in triplicate as previously described (Cai et al. 2009). Briefly, healthy fruits were surface-sterilized with 1% sodium hypochlorite for 5 minutes, washed three times with sterile water, and air-dried. The wound/drop and non-wound/drop inoculation methods were also used (Lin et al. 2002, Kanchana-udomkan et al. 2004, Than et al. 2008). For the wound/drop method, an aliquot of 6 μL of spore suspension (1 × 10^6 conidia or ascospores per mL) was dropped on the fruits after wounding three times with a sterilized needle (5 mm deep). For the non-wound/drop method, the same spore suspension was directly dropped on the surface of unwounded pear fruits. Sterile water was applied to the fruit as a control. Symptom development under wounded conditions was evaluated by determining the mean lesion lengths at 10 dpi. Symptom development on fruits was studied by determining the infection rates at 30 dpi using the aforementioned formula.
+After inoculation, the detached leaves and fruits were placed on plastic trays, covered with plastic wrap to maintain a 99% relative humidity, and incubated at 25°C with a 12/12 hour light/dark photoperiod. Pathogens were re-isolated from the resulting samples.
+Nucleotide Substitution Models Used in Phylogenetic Analyses:
+Gene: Gloeosporioides clade, Acutatum clade, Boninense clade, Dematium clade, and other taxa.
+ITS: GTR + I + G
+GAPDH: HKY + G
+TUB2: SYM + G
+CHS-1: K80 + ISYM + G
+C. abscissum: COAD 1 877*
+Citrus sinensis cv. Per a Brazil KP 84 31 26 KP 84 31 29 – KP 84 31 41 KP 84 31 32 KP 84 31 35
+C. acerbum CBS 1 28 53 0*
+Malus domestica New Zealand JQ 94 84 59 JQ 94 87 90 – JQ 94 97 80 JQ 94 91 20 JQ 95 01 10
+C. acutatum CBS 1 12 99 6*
+Carica papaya Australia JQ 00 57 76 JQ 94 86 77 – JQ 00 58 39 JQ 00 57 97 JQ 00 58 60
+C. enigmatic ICMP18 60 8*
+Persea americana Israel JX 01 02 44 JX 01 00 44 JX 00 96 83 JX 00 94 43 JX 00 97 74 JX 01 03 89
+ICMP18 68
+Pyrus pyrifolia Japan JX 01 02 43 JX 00 99 13 JX 00 96 84 JX 00 95 19 JX 00 97 89 JX 01 03 90
+C. aeschynomenes ICMP17 67 3*
+Aeschynomenes virginica USA JX 01 01 76 JX 00 99 30 JX 00 97 21 JX 00 94 83 JX 00 97 99 JX 01 03 92
+C. agaves CBS 1 18 19 0
+Agave striata Mexico DQ 28 62 21 – – – – –
+C. alatae CBS 3 04.67*
+Dioscorea alata India JX 01 01 90 JX 00 99 90 JX 00 97 38 JX 00 94 71 JX 00 98 37 JX 01 03 83
+C. allium ICMP12 07 1*
+Malus domestica New Zealand JX 01 02 51 JX 01 00 28 JX 00 96 54 JX 00 95 72 JX 00 98 82 JX 01 04 11
+C. annelatum CBS 1 29 82 6*
+Hevea brasiliensis, leaf Colombia JQ 00 52 22 JQ 00 53 09 JQ 00 57 43 JQ 00 55 70 JQ 00 53 96 JQ 00 56 56
+C. anthrisc CBS 1 25 33 4*
+Anthriscus sylvestris, dead stem Netherlands GU 22 78 45 GU 22 82 37 – GU 22 79 43 GU 22 83 35 GU 22 81 39
+CBS 1 25 33 5
+Anthriscus sylvestris, dead stem Netherlands GU 22 78 46 GU 22 82 38 – GU 22 79 44 GU 22 83 36 GU 22 81 40
+C. aotearoa ICMP18 53 7*
+Coprobsma sp. New Zealand JX 01 02 05 JX 01 00 05 JX 00 96 11 JX 00 95 64 JX 00 98 53 JX 01 04 20
+C. asianum ICMP18 58 0*
+Coffea arabica Thailand FJ 97 26 12 JX 01 00 53 FJ 91 75 06 JX 00 95 84 JX 00 98 67 JX 01 04 06
+C. australe CBS 1 16 47 8*
+Trachycarpus fortunei South Africa JQ 94 84 55 JQ 94 87 86 – JQ 94 97 76 JQ 94 91 16 JQ 95 01 06
+C. beeveri CBS 1 28 52 7*
+Brachyglottis repanda New Zealand JQ 00 51 71 JQ 00 52 58 JQ 00 56 92 JQ 00 55 19 JQ 00 53 45 J
+Carthamus tinctorius Japan
+AB 69 69 98 – – – –
+AB 69 69 92
+C. cattleya
+CBS 1 70.49*
+Cattleya sp. Belgium
+MG 60 07 58
+MG 60 08 19 –
+MG 60 09 63
+MG 60 08 66
+MG 60 10 25
+C. chlorophyti
+IMI1 03 806*
+Chlorophytum sp. India
+GU 22 78 94
+GU 22 82 86 –
+GU 22 79 92
+GU 22 83 84
+GU 22 81 88
+C. chrysanthemi
+IMI3 64 540
+Chrysanthemum coronarium, leaf spot
+China
+JQ 94 82 73
+JQ 94 86 03 –
+JQ 94 95 94
+JQ 94 89 34
+JQ 94 99 24
+C. circinans
+CBS 2 21.81*
+Allium cepa Serbia
+GU 22 78 55
+GU 22 82 47 –
+GU 22 79 53
+GU 22 83 45
+GU 22 81 49
+C. citricola
+CBS 1 34 228*
+Citrus unshiu China
+KC 29 35 76
+KC 29 37 36
+KC 29 36 96
+KC 29 36 16
+KC 29 36 96
+KC 29 36 56
+CBS 1 34 229
+Citrus unshiu China
+KC 29 35 77
+KC 29 37 37
+KC 29 36 97
+KC 29 36 17
+KC 29 37 93
+KC 29 36 57
+CBS 1 34 230
+Citrus unshiu China
+KC 29 35 78
+KC 29 37 38
+KC 29 36 98
+KC 29 36 18
+KC 29 37 94
+KC 29 36 58
+C. clidemiae
+ICMP18 658*
+Clidemia hirta USA, Hawaii
+JX 01 02 65
+JX 00 99 89
+JX 00 96 45
+JX 00 95 37
+JX 00 98 77
+JX 01 04 38
+C. cliviicola
+CBS 1 25 375*
+Clivia miniata China
+JX 51 92 23
+JX 54 66 11 –
+JX 51 92 40
+JX 51 92 32
+JX 51 92 49
+CSS 1
+Clivia miniata China
+GU 10 94 79
+GU 08 58 67 –
+GU 08 58 61
+GU 08 58 65
+GU 08 58 69
+CSS 2
+Clivia miniata China
+GU 10 94 80
+GU 08 58 68 –
+GU 08 58 62
+GU 08 58 66
+GU 08 58 70
+C. colombiense
+CBS 1 29 818*
+Passiflora edulis, leaf
+Colombia
+JQ 00 51 74
+JQ 00 52 61
+JQ 00 56 95
+JQ 00 55 22
+JQ 00 53 48
+JQ 00 56 08
+C. conoidis
+CGMCC 3.17615*
+Capsicum annuum China
+KP 89 01 68
+KP 89 01 62
+KP 89 01 50
+KP 89 01 44
+KP 89 01 56
+KP 89 01 74
+CAUG 33
+Capsicum annuum China
+KP 89 01 69
+KP 89 01 63
+KP 89 01 51
+KP 89 01 45
+KP 89 01 57
+KP 89 01 75
+CAUG 34
+Capsicum annuum China
+KP 89 01 70
+KP 89 01 64
+KP 89 01 52
+KP 89 01 46
+KP 89 01 58
+KP 89 01 76
+C. constrictum
+Genista tinctoria, leaf spot, Czech Republic
+C. dracaenophilum
+Dracaena sp., China
+C. euphorbiae
+Euphorbia sp., South Africa
+C. fioriniae
+Malus domestica, fruit lesion, USA
+Malus pumila, USA
+Primula sp., leaf spots, Netherlands
+Pyrus sp., fruit rot, USA
+Fragaria × ananassa, New Zealand
+Malus domestica, USA
+Vaccinium sp., fruit, New Zealand
+Malus domestica, New Zealand
+Malus domestica, USA
+C. fructicola
+Malus sylvestris, fruit, USA
+C. fructicola
+Coffea arabica, Thailand
+Limonium sinuatum, Israel
+Theobroma cacao, Panama
+Fragaria × ananassa, USA
+Dioscorea alata, Nigeria
+C. fructicola (syn. C. ignotum)
+Tetragastris panamensis, Panama
+C. fructicola (syn. Glomerella cincta var. minor)
+Ficus edulis, Germany
+C. fructivorum
+Vaccinium macrocarpon, USA
+Rhexiavirginica, USA
+C. gloeosporioides
+Citrus sinensis, Italy
+Citrus sp., New Zealand
+Citrus sp., USA
+Mangifera indica, South Africa
+C. gloeosporioides (syn. Gloeosporium)
+Citrus limon, Italy
+Sure! Here's the revised context without any other words:
+JX 00 99 03 – Pedemontanum, C. godetiae, CBS 133.44*
+Clarkia hybrid, Denmark
+JQ 94 84 02
+JQ 94 87 33 – JQ 94 97 23
+JQ 94 90 63
+JQ 95 00 53
+C. hebecae, JZB 33 00 24
+Vitis vinifera cv. Cabernet Sauvignon, China
+KF15687 3
+KF377 50 5 – KF377 54 2 – CGMCC 3.17464*
+Vitis vinifera cv. Cabernet Sauvignon, China
+KF15686 3
+KF377 49 5 – KF377 53 2
+KF289 00 8
+KF288 97 5
+C.hemerocalis, CDLG 5*
+Hemerocalis fulva var. kwansoi, China
+JQ 40 00 05
+JQ 40 00 12 – JQ 39 99 91
+JQ 39 99 98
+JQ 40 00 19
+C. hippeastrum, CBS 12537 6*
+Hippeastrum vittatum, leaf, China
+JQ 00 52 31
+JQ 00 53 18
+JQ 00 57 52
+JQ 00 55 79
+JQ 00 54 05
+JQ 00 56 65
+C. horii, ICMP 10 49 2*
+Diospyros kaki, Japan
+GQ 32 96 90
+GQ 32 96 81
+JX 00 96 04
+JX 00 94 38
+JX 00 97 52
+JX 01 04 50
+C. inserta, MFLU 1 5 18 95*
+Parthenocissus inserta, Russia
+KX 61 86 86
+KX 61 86 84 – KX 61 86 82
+KX 61 86 83
+KX 61 86 85
+C. jasminigenum, MFLUCC 1 0 02 73
+Jasminum sambac, Vietnam
+HM 13 15 13
+HM 13 14 99 – HM 13 15 08 – HM 15 37 70
+C. jiangxiensis, CGMCC 3.17362
+Camellia sinensis, endophyte, China
+KJ 9 55 19 8
+KJ 9 54 89 9
+KJ 9 54 74 9
+KJ 9 54 46 9 – KJ 9 55 34 5
+CGMCC 3.17363*
+Camellia sinensis, pathogen, China
+KJ 9 55 20 1
+KJ 9 54 90 2
+KJ 9 54 75 2
+KJ 9 54 47 1 – KJ 9 55 34 8
+C. johnstonii, CBS 12853 2*
+Solanum lycopersicum, fruit rot, New Zealand
+JQ 94 84 44
+JQ 94 87 75 – JQ 94 97 65
+JQ 94 91 05
+JQ 95 00 95
+C. kahawae subsp. ciggaro, ICMP 18 53 9*
+Olea europaea, Australia
+JX 01 02 30
+JX 00 99 66
+JX 00 96 35
+JX 00 95 23
+JX 00 98 00
+JX 01 04 34
+ICMP 18 53 4
+Kunzea ericoides, New Zealand
+JX 01 02 27
+JX 00 99 04
+JX 00 96 34
+JX 00 94 73
+JX 00 97 65
+JX 01 04 27
+ICMP 12 95 2
+Persea americana, New Zealand
+JX 01 02 14
+JX 00 99 71
+JX 00 96 48
+JX 00 94 31
+JX 00 97 57
+JX 01 04 26
+C. kahawae subsp. kahawae, IMI 3 19 41 8*
+Coffea arabica, Kenya
+JX 01 02 31
+JX 01 00 12
+JX 00 96 42
+JX 00 94 52
+JX
+Synsepalum dulcificum, leaves
+Taiwan: JQ 00 51 88, JQ 00 52 75, JQ 00 57 09, JQ 00 55 36, JQ 00 53 62, JQ 00 56 22
+C. kinghornii CBS 1 98.35
+Phormium sp. UK: JQ 94 84 54, JQ 94 87 85, JQ 94 97 75, JQ 94 91 15, JQ 95 01 05
+C. claticiphlum CBS 1 12 98 9
+Hevea brasiliensis India: JQ 94 82 89, JQ 94 86 19, JQ 94 96 10, JQ 94 89 50, JQ 94 99 40
+C. ledebouriae CBS 1 41 28 4
+Ledebouria floridunda South Africa: KX 22 82 54, KX 22 83 57
+C. lianingense CGMCC 3.176 16
+Capsicum sp. China: KP 89 01 04, KP 89 01 35, KP 89 00 97, KP 89 01 27, KP 89 01 11
+C. lindemuthianum CBS 1 44.31
+Phaseolus vulgaris Germany: JQ 00 57 79, JX 54 67 12, JQ 00 58 42, JQ 00 58 00, JQ 00 58 63
+C. lineola CBS 1 25 33 7
+Apiaceae, dead stem Czech Republic: GU 22 78 29, GU 22 82 21, GU 22 79 27, GU 22 83 19, GU 22 81 23
+CBS 1 24.25
+Trillium sp., leaf spot Czech Republic: GU 22 78 36, GU 22 82 28, GU 22 79 34, GU 22 83 26, GU 22 81 30
+C. lupini CBS 1 09 22 5
+Lupinus albus Ukraine: JQ 94 81 55, JQ 94 84 85, JQ 94 94 76, JQ 94 88 16, JQ 94 98 06
+C. magnum CBS 5 19.97
+Citrullus lanatus USA: MG 60 07 69, MG 60 08 29, MG 60 09 73, MG 60 08 75, MG 60 10 36
+C. menispermi MFLU 1 406 25
+Menisperma dauricum Russia: KU 24 23 57, KU 24 23 56, KU 24 23 53, KU 24 23 55, KU 24 23 54
+C. musae CBS 1 16 87 0
+Musa sp. USA: JX 01 01 46, JX 01 00 50, JX 00 97 42, JX 00 94 33, JX 00 98 96, HQ 59 62 80
+C. musicola CBS 1 32 88 5
+Musa sp. Mexico: MG 60 07 36, MG 60 07 98, MG 60 09 42, MG 60 08 53, MG 60 10 03
+C. neosansevierae CBS 1 39 91 8
+Sansevieria trifasciata South Africa: KR 47 67 47, KR 47 67 91, KR 47 67 90, KR 47 67 97
+C. novae-zeelandiae CBS 1 28 50 5
+Capsicum annuum, fruit rot New Zealand: JQ 00 52 28, JQ 00 53 15, JQ 00 57 49, JQ 00 55 76, JQ 00 54 02, JQ 00 56 62
+C. nuparicola CBS 4 70.96
+Nupar lutea subsp. Polys epala USA: JX 01 01 87, JX 00 99 72, JX 00 96 63, JX 00 94 37, JX 01 03 98
+C. nymphaeae CBS 5 15.78
+Nymphaea alba Netherlands: JQ 94 81 97, JQ 94 85 27, JQ 94 95 18, JQ 94 88 58, JQ 94 98 48
+C. oncidi CBS 1 29 82 8
+Oncidium sp., leaf Germany: JQ 00 51 69, JQ 00 52 56, JQ 00
+Phyllanthus acidus, anthracnose
+India: JQ 00 52 21, JQ 00 53 08, JQ 00 57 42, JQ 00 55 69, JQ 00 53 95, JQ 00 56 55
+C. piperi
+IMI 7 13 97
+Piper nigrum
+Malaysia: MG 60 07 60, MG 60 08 20, MG 60 09 64, MG 60 08 67, MG 60 10 27
+C. plurivorum
+CBS 1 25 47 4
+Coffea sp.
+Vietnam: MG 60 07 18, MG 60 07 81, MG 60 09 25, MG 60 08 41, MG 60 09 85, CBS 1 25 47 3
+Coffea sp.
+Vietnam: MG 60 07 17, MG 60 07 80, MG 60 09 24, MG 60 08 40, MG 60 09 84, CGMCC 3.1 73 58
+Camellia sinensis, endophyte
+China: KJ9 55 21 5, KJ9 54 91 6, KJ9 54 48 3, KJ9 55 36 1
+CMM 3 74 2
+Mangifera indica
+Brazil: KC 70 29 80, KC 70 29 41, KC 70 29 08, KC 59 81 00, KC 99 23 27, LJTJ 30
+Capsicum annuum
+China: KP 74 82 21, KP 82 38 00, KP 82 37 41, KP 82 38 53
+MAFF 2 43 07 3
+Amorphophallus rivieri
+Japan: MG 60 07 30, MG 60 07 93, MG 60 09 36, MG 60 08 47, MG 60 09 97
+MAFF 3 05 79 0
+Musa sp.
+Japan: MG 60 07 26, MG 60 07 89, MG 60 09 32, MG 60 08 45, MG 60 09 93
+C. psidii
+CBS 1 45.29
+Psidium sp.
+Italy: JX 01 02 19, JX 00 99 67, JX 00 97 43, JX 00 95 15, JX 00 99 01, JX 01 04 43
+C. pyricola
+CBS 1 28 53 1
+Pyrus communis, fruit rot
+New Zealand: JQ 94 84 45, JQ 94 87 76, JQ 94 97 66, JQ 94 91 06, JQ 95 00 96
+C. queenslandicum
+ICMP 17 78
+Carica papaya
+Australia: JX 01 02 76, JX 00 99 34, JX 00 96 91, JX 00 94 47, JX 00 98 99, JX 01 04 14
+C. quinquefoliae
+MFLU 1 4 06 26
+Parthenocissus quinquefolia
+Russia: KU 23 63 91, KU 23 63 90, KU 23 63 89, KU 23 63 92
+C. rhexiiae
+CBS 1 33 13 4
+Rhexi virginica
+USA: JX 14 51 28, JX 14 51 79
+C. rhexiiae (cont.)
+CBS 1 33 13 2
+Vaccinium macrocarpon
+USA: JX 14 51 57, JX 14 52 09
+C. rhombiforme
+CBS 1 29 95 3
+Olea europaea
+Portugal: JQ 94 84 57, JQ 94 87 88, JQ 94 97 78, JQ 94 91 18, JQ 95 01 08
+C. salicis
+CBS 6 07.94
+Salix sp., leaf spot
+Netherlands: JQ 94 84 60, JQ 94 87 91, JQ 94 97 81, JQ 94 91 21, JQ 95 01 11
+C. salsolae
+ICMP 19 05 1
+Salsola tragus
+Hungary: JX 01 02 42, JX 00 99 16, JX 00 96 96, JX 00 95 62, JX 00 98 63, JX 01 04 03
+C. sansevieriae
+MAFF 2 39 72 1
+Sansevieria trifasciata
+Japan: AB
+C. siamensis (syn. C. jasmini-sambac) ICMP 19118* Jasminum sambac Vietnam HM 131511 HM 131497 JX 009713 HM 131507 JX 009895 JX 010415 C. simmondsii CBS 12212 2* Carica papaya Australia JQ 948276 JQ 948606 –JQ 949597 JQ 948937 JQ 949927 C. sloanei IMI364297* Theobroma cacao, leaf Malaysia JQ 948287 JQ 948617 –JQ 949608 JQ 948948 JQ 949938 C. sojae ATCC 62257* Glycine max USA MG 600749 MG 600810 –MG 600954 MG 600860 MG 601016 CGMCC 3.15171 Bletilla ochracea China HM 751813 KC 843501 –KC 843550 –KC 244161 C. sonchicola JZB 330117 Sonchus sp. Italy KY 962756 KY 962753 –KY 962747 KY 962750 –MFLUCC 171300 Sonchus sp. Italy KY 962758 KY 962755 –KY 962749 KY 962752 –C. spinaciae CBS 12857 Spinacia oleracea Netherlands GU 227847 GU 228239 –GU 227945 GU 228337 GU 228141 C. sydowii CBS 135819 Sambucus sp. China, Taiwan KY 263783 KY 263785 –KY 263791 KY 263787 KY 263793 C. tamarilloi CBS 129814* Solanum betaceum, fruit, anthracnose Colombia JQ 948184 JQ 948514 –JQ 949505 JQ 948845 JQ 949835 C. temperatum CBS 133122* Vaccinium macrocarpon USA JX 145159 ––––JX 145211 CBS 133120 Vaccinium macrocarpon USA JX 145135 ––––JX 145186 C. theobromicola CBS 124945* Theobroma cacao Panama JX 010294 JX 010006 JX 009591 JX 009444 JX 009869 JX 010447 C. ti ICMP4832* Cordyline sp. New Zealand JX 010269 JX 009952 JX 009649 JX 009520 JX 009898 JX 010442 C. torulosum CBS 128544* Solanum melongena New Zealand JQ 005164 JQ 005251 JQ 005685 JQ 005512 JQ 005338 JQ 005598 C. tropicale CBS 124949* Theobroma cacao Panama JX 010264 JX 010007 JX 009719 JX 009489 JX 009870 JX 010407 C. tropicalicola BCC 38877* Citrus maximus Thailand JN 050240 JN 050229 –JN 050218 –JN 050246 MFLUCC 100167 Paphio pedilum bellatulum Thailand JN 050241 JN 050230 –JN 050219 –JN 050247 C. truncatum CBS 15135* Phaseolus lunatus USA GU 227862 GU 228254 –GU 227960 GU 228352 GU 228156 C. viniferum GZA AS 508601* Vitis vinifera cv. Shuijing China JN 412804 JN 412798 JQ 309639 JN 412795 –JN 412813 C. vittalense CBS 18182* Theobroma cacao India MG 600734 MG 600796 –MG 600940 MG 600851 MG 601001 C. walleri CBS 25472* Coffea sp., leaf tissue Vietnam JQ 948275 JQ 948605 –JQ 949596 JQ 948936 JQ 949926 C. wuxiensis CGMCC 3.17894* Camellia sinensis China KU 251591 KU 252045 KU 251833 KU 251672 KU 251939 KU 252200 JS 1A 44 Camellia sinensis China KU 251592 KU 252046 KU 251834 KU 251673 KU 251940 KU 252201 C. xanthorrhoeae ICMP17903* Xanthorrhoea preissii Australia JX 010261 JX 009927 JX 0096
+Glo mer ella cin gu la ta ‘f. sp. cam el lia e’ ICMP10 64 3C am el lia × wil li am si i UK JX 01 02 24 JX 00 99 08 JX 00 96 30 JX 00 95 40 JX 00 98 91 JX 01 04 36 Mon ilo ch ae te s in fu sc an s CBS 8 69.9 6* Ip om oe a ba ta ta s South Africa JQ 00 57 80 JX 54 66 12 – JQ 00 58 43 JQ 00 58 01 JQ 00 58 64 x ATCC: American Type Culture Collection; BCC: BIOTEC Culture Collection, National Center for Genetic Engineering and Biotechnology (BIOTEC), Khlong Luang, Pathum Thani, Thailand; BRIP: Plant Pathology Herbarium, Department of Employment, Economic, Development and Innovation, Queensland, Australia; CBS: Culture collection of the Centraal bureau voor Schimmelcultures, Fungal Biodiversity Centre, Utrecht, The Netherlands; CGMCC: China General Microbiological Culture Collection; CMM: Culture collection of Phytopathogenic Fungi Prof. Maria Menezes, Federal Rural University of Pernambuco, Brazil; COAD: Coleção Octávio Almeida Drummond, Viçosa, Brazil; GZAAS: Guizhou Academy of Agricultural Sciences Herbarium, China; ICMP: International Collection of Microorganisms from Plants, Auckland, New Zealand; IMI: Culture collection of CABI Europe-UK Centre, Egham, UK; MAFF: MAFF Gene bank Project, Ministry of Agriculture, Forestry and Fisheries, Tsukuba, Japan; MFLU: Herbarium of Mae Fah Luang University, Chiang Rai, Thailand; MFLUCC: Mae Fah Luang University Culture Collection, Chiang Rai, Thailand. *=ex-type culture. Species Culture x Host/Substrate Country Gen Bank accession number ITS GAPDH CALACTC HS-1 TUB 2 Table 3 (cont.) 11 M. Fuetal.: Colletotrichum associated with anthracnose of Pyrus spp. 0.02 C. sloanei IMI 364297 C. fioriniae IMI 324996 PAFQ34 ● C. phormii CBS 118194 C. kinghornii CBS 198.35 PAFQ19 ▲ C. fioriniae IMI 504882 C. fioriniae CBS 124958 C. fioriniae CBS 126526 PAFQ12 ● C. fioriniae CBS 125396 PAFQ55 ● C. cuscutae IMI 304802 C. fioriniae CBS 129930 C. johnstonii CBS 128532 PAFQ50 ▲ C. acutatum CBS 112996 PAFQ18 ▲ PAFQ17 ▲ PAFQ8 ● C. godetiae CBS 133.44 C. fioriniae CBS 129938 C. rhombiforme CBS 129953 C. carthami SAPA100011 C. walleri CBS 125472 C. fioriniae CBS 119292 PAFQ11 ● C. cosmi CBS 853.73 PAFQ9 ● PAFQ10 ● C. australe CBS 116478 C. cairnsense BRIP 63642 C. paxtonii IMI 165753 C. laticiphilum CBS 112989 PAFQ36 ● C. abscissum COAD 1877 C. fioriniae ATCC 28992 C. lupini CBS 109225 C. paranaense CBS 134729 PAFQ49 ▲ C. nymphaeae CBS 515.78 C. pyricola CBS 128531 C. simmondsii CBS 122122 PAFQ75 ▲ C. salicis CBS 607.94 PAFQ35 ● C. tamarilloi CBS 129814 C. acerbum CBS 128530 C. costaricense CBS 330.75 C. brisbanense CBS 292.67 C. chrysanthemi IMI 364540 C. orchidophilum CBS 632.80 1/91/100 1/97/97 1/100/100 -/-/58 1/78/78 0.98/53/63 1/100/100 0.99/73/69 -/-/62 0.98/66/63 1/94/99 1/97/100 0.9/62/66 0.9/77/82 1/100/100 0.99/81/80 1/100/100 1/95/99 1/100/100 1/85/87 0.99/-/89 1/89/97 -/-/56 0.99/64/84 1/99/100 1/75/79 2× 2× Subclade I Subclade II Subclade III C. fioriniae 0.05 PAFQ32 ● PAFQ51 ● C. aenigma ICMP 18686 PAFQ86 ● PAFQ76 ▲ PAFQ70 ▲ PAFQ71 ▲ PAFQ46 ● PAFQ77 ● C. hebeiense JZB330024 C. siamense ICMP 17795 PAFQ72 ▲ PAFQ69 ▲ C. aenigma ICMP 18608 C. kahawae subsp. kahawae ICMP 17915 PAFQ66 ▲ PAFQ61 ▲ C. gloeosporioides ICMP 18695 C. conoides CAUG33 PAFQ48 ▲ C. salsolae ICMP 19051
+Glomerella cingulate “f. sp. camelliae” ICMP 10643, C. alienum ICMP 12071, C. gloeosporioides ICMP 12939, PAFQ23, PAFQ68, PAFQ44, PAFQ27, C. rhexiae CBS 133132, C. wuxiense JS1A44, C. hebeiense CGMCC3.17464, C. viniferum GZAAS 5.08601, C. kahawae subsp. kahawae ICMP 17905, PAFQ63, PAFQ79, C. kahawae subsp. kahawae IMI 319418, C. nupharicola CBS 470.96, C. siamense ICMP 18574, PAFQ57, PAFQ1, PAFQ21, C. fructicola (syn. C. ignotum) ICMP 18646, C. horii ICMP 10492, PAFQ29, PAFQ7, C. aeschynomenes ICMP 17673, C. kahawae subsp. ciggaro ICMP 12952, PAFQ56, C. queenslandicum ICMP 1778, PAFQ33, C. temperatum CBS 133120, C. fructicola ICMP 18120, C. temperatum CBS 133122, PAFQ24, PAFQ59, C. fructivorum CBS 133135, C. fructivorum CBS 133125, C. fructicola (syn. Glomerella cingulate var. minor) ICMP 17921, PAFQ5, C. tropicale CBS 124949, PAFQ64, PAFQ60, C. clidemiae ICMP 18658, C. jiangxiense CGMCC 3.17363, C. siamense (syn. C. jasmine-sambac) ICMP 19118, C. siamense ICMP 12567, C. wuxiense CGMCC 3.17894, C. jiangxiense CGMCC 3.17362, PAFQ54, C. boninense CBS 123755, PAFQ74, PAFQ58, C. conoides CGMCC 3.17615, PAFQ62, C. siamense ICMP 18121, PAFQ53, PAFQ45, C. fructicola ICMP 18645, C. asianum ICMP 18580, C. ti ICMP 4832, C. musae CBS 116870, PAFQ83, C. gloeosporioides ICMP 18694, PAFQ31, C. fructicola ICMP 18581, C. fructicola ICMP 18613, PAFQ78, C. xanthorrhoeae ICMP 17903, C. kahawae subsp. ciggaro ICMP 18539, C. rhexiae CBS 133134, PAFQ81, PAFQ6, C. gloeosporioides ICMP 19121, C. fructicola ICMP 18727, PAFQ73, PAFQ80, C. siamense (syn. C. hymenocallidis) ICMP 18642, C. siamense ICMP 18578, C. alatae CBS 304.67, PAFQ84, PAFQ85, C. aotearoa ICMP 18537, PAFQ47, C. gloeosporioides IMI 356878, C. psidii CBS 145.29, C. kahawae subsp. ciggaro ICMP 18534, C. conoides CAUG34, PAFQ25, C. theobromicola CBS 124945, PAFQ67, C. cordylinicola ICMP 18579.
+1/87/93 0.98/54/57 0.99/61/66 1/87/88 1/94/96 1/93/95 1/71/86 -/61/69 0.91/-/68 0.94/-/50 0.97/-/50 1/95/90 0.99/57/58 0.98/55/70 0.99/89/88 0.99/60/65 1/95/98 1/70/71 1/90/100 0.97/51/59 1/73/82 0.99/-/0.93/61/60 0.85/-/51 1/65/81 0.92/75/93 0.93/68/63 1/89/93 0.91/68/-/57/66 1/88/95 1/100/100 0.99/55/65 1/95/100 0.99/62/77 0.98/74/84 1/81/87 1/74/80 0.99/84/96 1/99/96 1/57/78 1/86/90 1/94/95 3× 3× C. fructicola, C. aenigma, C. conoides, C. siamense, C. gloeosporioides, C. wuxiense.
+C. camelliae-japonicae CGMCC 3.18117
+C. constrictum CBS 128504
+C. oncidii CBS 129828 PAFQ42 ● PAFQ43 ●
+C. brassicicola CBS 101059
+C. citricola CBS 134228
+C. karstii CBS 128524
+C. novae-zelandiae CBS 128505
+C. beeveri CBS 128527
+C. cymbidiicola IMI 347923
+C. boninense CBS 123755 PAFQ15 ●
+C. karstii CBS 127552
+C. annellatum CBS 129826 PAFQ14 ●
+C. torulosum CBS 128544 PAFQ38 ● PAFQ40 ●
+C. brasiliense CBS 128501
+C. colombiense CBS 129818 PAFQ37 ●
+C. karstii CBS 113087
+C. hippeastri CBS 125376
+C. parsonsiae CBS 128525
+C. citricola CBS 134229
+C. citricola CBS 134230
+C. karstii CBS 129832 PAFQ82 ●
+C. phyllanthi CBS 175.67
+C. karstii CBS 129824 PAFQ52 ●
+C. petchii CBS 378.94
+C. dacrycarpi CBS 130241 PAFQ13 ●
+C. camelliae-japonicae CGMCC 3.18118 PAFQ28 ● PAFQ39 ●
+C. karstii CBS 128551
+C. gloeosporioides IMI 356878 PAFQ41 ●
+-/69/68
+1/94/100
+1/-/100
+1/100/99
+1/95/98
+1/99/96
+1/97/99
+1/100/100
+0.97/85/97
+1/100/100
+1/97/100
+1/100/99
+1/59/81
+1/89/83
+1/92/82
+0.96/99/78
+1/-/74
+0.97/70/64
+1/100/99
+3× 3×
+C. citricola
+C. karstii
+Fig. 4 A Bayesian inference phylogenetic tree of 41 isolates in the C. boninense species complex. The species C. gloeosporioides (IMI 356878) was selected as an outgroup. The tree was built using concatenated sequences of the ACT, TUB2, CAL, CHS-1, GAPDH, and ITS genes. Bayesian posterior probability (PP≥0.90), MP bootstrap support values (ML≥50%), and RAxML bootstrap support values (ML≥50%) are shown at the nodes (PP/MP/ML). Ex-type isolates are in bold. Coloured blocks indicate clades containing isolates from Pyrus spp. in this study; circles indicate isolates isolated from leaves. The scale bar indicates 0.04 expected changes per site.
+Fig. 5 Phylogenetic tree generated by Bayesian inference based on concatenated sequences of the ACT, CHS-1, GAPDH, ITS, and TUB genes. Monilochaetes infuscans (CBS 869.96) was selected as an outgroup. Bayesian posterior probability (PP≥0.90), MP bootstrap support values (ML≥50%), and RAxML bootstrap support values (ML≥50%) are shown at the nodes (PP/MP/ML). Ex-type isolates are in bold. Coloured blocks indicate clades containing isolates from Pyrus spp. in this study; circles indicate isolates isolated from leaves. The scale bar indicates 0.09 expected changes per site.
+0.09
+C. aotearoa ICMP 18537
+C. brassicicola CBS 101059
+C. circinans CBS 221.81
+C. chlorophyti IMI 103806
+C. boninense CBS 123755
+C. plurivorum MAFF 243073
+C. yunnanense CBS 132135
+C. xanthorrhoeae ICMP 17903 PAFQ26d ●
+C. musae CBS 116870
+C. magnum CBS 519.97
+C. truncatum CBS 151.35
+C. plurivorum CGMCC 3.17358
+C. sojae CGMCC 3.15171
+C. insertae MFLU 15–1895
+C. dematium CBS 125.25
+C. sonchicola JZB330117
+C. brevisporum BCC 38876
+C. anthrisci CBS 125334
+C. orbiculare CBS 514.97 PAFQ26b ●
+C. sedi MFLUCC 14–1002
+C. plurivorum LJTJ30
+C. liaoningense CGMCC 3.17616
+C. gloeosporioides IMI 356878
+C. cliviicola CSSS2
+C. musicola CBS 132885
+C. anthrisci CBS 125335
+C. sydowii CBS 135819 PAFQ22b ●
+C. dematium CBS 123728
+C. quinquefoliae MFLU 14–0626
+C. dracaenophilum CBS 118199
+C. lindemuthianum CBS 144.31 PAFQ26a ●
+C. tropicicola BCC 38877
+C. cattleyicola CBS 170.49 PAFQ22d ●
+C. vittalense CBS 181.82
+C. petchii CBS 378.94
+C. plurivorum CBS 125474
+C. hemerocallidis CDLG5
+C. spinaciae CBS 128.57
+C. plurivorum CBS 125473
+C. orchidearum CBS 135131
+C. lineola CBS 124.25
+C. sonchicola MFLUCC 17–1300
+Colletotrichum sp. CGMCC 3.15172 PAFQ22c ● C. tropicicola MFLUCC100167 C. piperis IMI 71397 C. aenigma ICMP 18686 C. curcumae IMI 288937 PAFQ22 ● C. fructicola ICMP 18581 C. fructi CBS 346.37 C. euphorbiae CBS 134725 C. cliviicola CSSS1 C. siamense ICMP 18578 PAFQ22a ● C. sojae ATCC 62257 1/90/94 1/100/100 1/97/83 1/100/100 1/100/100 1/100/100 1/93/89 -/66/89 1/100/100 1/100/100 1/100/100 1/52/99 -/69/54 0.96/74/ 1/95/97 1/96/99 1/100/100 1/-/99 1/94/85 -/51/56 1/100/100 1/100/100 1/83/93 1/54/67 0.9/-/57 1/98/95 1/100/100 1/83/97 1/86/92 1/100/100 -/60/71 1/99/100 1/100/100 0.97/-/66 0.99/60/ 1/100/100 1/100/100 1/89/87 1/82/100 0.93/66/52 1/100/99 1/100/100 1/87/100 1/100/100 1/100/100 -/58/84 1/66/98 0.92/53/61 0.98/89/82 1/100/100 1/97/100 1/100/100 1/100/100 1/100/100 1/97/100 2× 2× 1× Dematium C. jinshuiense Truncatum Gloeosporioides C. pyrifoliae Boninense Dracaenophilum Orchidearum C. plurivorum Magnum Orbiculare 13 M. Fuetal.: Colletotrichum associated with anthracnose of Pyrusspp. C. anthrisci CBS 125334 C. fructi CBS 346.37 C. jinshuiense PAFQ26b C. jinshuiense PAFQ26a C. jinshuiense PAFQ26d C. jinshuiense PAFQ26 C. jinshuiense PAFQ26c Colletotrichum sp. CGMCC 3.15172 C. anthrisci CBS 125335 0.01 Φw = 1.0 a C. kahawae IMI 319418 C. pyrifoliae PAFQ22 C. pyrifoliae PAFQ22a C. pyrifoliae PAFQ22c C. pyrifoliae PAFQ22d C. pyrifoliae PAFQ22b Colletotrichum sp. Q026 C. boninense CBS 123755 0.01 Φw = 0.9862 b b lesions and identified as described above. The pathogenicity tests were repeated once. RESULTS Colletotrichum isolates associated with pear anthracnose A total of 295 pear samples (249 leaves and 46 fruits) affected by pear anthracnose, including BrLandTS on fruits, and BnL, SS, and TS on leaves were collected for fungal isolation, resulting in a total of 488 Colletotrichum isolates identified based on morphology and ITS sequence data. A total of 90 representative isolates were chosen for further analyses based on their morphology (colony shape, colour, and conidial morphology), ITS sequence data, symptom type, origin, and host cultivar involved (Table 1). Multi-locus phylogenetic analyses The 90 representative isolates (Table 1) together with 181 reference isolates from previously described species (Table 3) were subjected to multi-locus phylogenetic analyses with concatenated ACT, TUB2, CAL, CHS-1, GAPDH, and ITS sequences for those belonging to the C. gloeosporioides and C. boninense species complexes, or with concatenated ACT, TUB2, CHS-1, GAPDH, and ITS sequences for other species of which no CAL sequences are available. The results showed that isolates clustered together with 12 species in five Colletotrichum species complexes, including gloeosporioides (50 isolates), acutatum (15), boninense (14), dematium (5), and orchidearum (1), and one singleton species (5) (Fig. 2–5). In the phylogenetic tree constructed for the isolates in the C. gloeosporioides species complex, 50 isolates clustered in six clades corresponding to C. fructicola (14 isolates), C. aenigma (11), C. siamense (11), C. gloeosporioides (11), C. wuxiense (2), and C. conoides (1) (Fig. 2). For the isolate
+Colletotrichum sp. isolate CGMCC 3.15172 is part of the C. dematium species complex. Additionally, the remaining five isolates, which formed a distinct clade (1/100/100), clustered distantly from any known Colletotrichum species complex (Fig. 5). To exclude the possibility that species delimitation might be affected by recombination among the genes used for phylogenetic analyses, the multi-locus (ACT, TUB2, CHS-1, GAPDH, and ITS) concatenated datasets were subjected to two PHI tests (Fig. 6) to determine the recombination level within phylogenetically closely related species. The results showed that no significant recombination events were observed between C. jinshuiense and phylogenetically related isolates or species (Colletotrichum sp. isolate CGMCC 3.15172, C. anthrisci, and C. fructi) (Fig. 6a), and between C. pyrifoliae and phylogenetically related isolates or species (Colletotrichum sp. isolate Q026, C. boninense, and C. kahawae) (Fig. 6b).
+Taxonomy: Based on morphology and multi-locus sequence data, the 90 isolates were assigned to 12 Colletotrichum spp. Of these, two species proved to represent new taxa that are described below. Six species are reported from pear for the first time. Eight species formed sexual morphs in vitro.
+Colletotrichum aenigma B.S. Weir & P.R. Johnston, Stud. Mycol. 73:135. 2012. — Fig. 7 Description & Illustration — Weir et al. (2012), Wang et al. (2016).
+Materials examined: China, Hubei Province, Zhongxiang City, on leaves of P. pyrifolia cv. Xiangnan, 1 Sept. 2015, M. Fu (culture PAFQ1); ibid., on leaves of P. pyrifolia cv. Huanghua, 1 Sept. 2015, M. Fu (PAFQ3); ibid., on leaves of P. pyrifolia cv. Huali No. 1, 1 Sept. 2015, M. Fu (PAFQ5); Jiangsu Province, Yancheng City, on fruits of P. bretschneideri cv. Renli, 1 Sept. 2015, M. Fu (PAFQ47); ibid., on leaves of P. bretschneideri cv. Yali, 1 Sept. 2015, M. Fu (PAFQ45); Zhejiang Province, Hangzhou City, on leaves of P. pyrifolia cv. Guanyangxueli, 18 Aug. 2016, M. Fu (PAFQ81); Anhui Province, Dangshan County, on fruits of P. bretschneideri cv. Huangguan, 4 Aug. 2016, M. Fu (PAFQ66).
+Notes — A total of 40 isolates were collected. Colletotrichum aenigma has been reported to cause anthracnose diseases of P. pyrifolia from Japan (Weir et al. 2012) and P. communis from Italy (Schena et al. 2014). This is the first report of C. aenigma causing anthracnose on P. bretschneideri and on Pyrus in China.
+Colletotrichum citricola F. Huang et al., Fung. Diversity 61:67. 2013. — Fig. 8 Description & Illustration — Huang et al. (2013).
+Materials examined: China, Hubei Province, Wuhan City, on leaves of P. pyrifolia, 1 Sept. 2015, P.F. Zhang (culture PAFQ13).
+Fig. 6 The result of the pairwise homoplasy index (PHI) tests of closely related species using both LogDet transformation and splits decomposition. a, b. The PHI of C. jinshuiense (a) or C. pyrifoliae (b) and their phylogenetically related isolates or species, respectively. PHI test value (Φw) < 0.05 indicates significant recombination within the dataset.
+Fig. 7 Colletotrichum aenigma. a, b. Front and back view, respectively, of 6-day-old PDA culture; c. conidiomata; d. conidiophores; e. seta; f. section view of a cervulus produced on pear leaf (P. pyrifolia cv. Cuiguan); g. conidia; h, i. appressoria; j. ascoma produced on pear leaf (P. bretschneideri cv. Dangshansuli); k. section view of ascoma produced on pear leaf (P. pyrifolia cv. Cuiguan); l. ascomata; m. outer surface of peridium;
+Fig. 10 Colletotrichum fioriniae. a,c,e. Front views of 6-d-old PDA culture; b,d,f. back views of 6-d-old PDA culture; g. conidiomata; h,i. conidiophores; j. section view of a cervulus produced on pear fruit (P. bretschneideri cv. Huangguan); k. conidia; l–n. appressoria (a,b,g–l. isolate PAFQ8; c,d,m. isolate PAFQ36; e,f,n. isolate PAFQ49; a–i,k produced on PDA agar medium). — Scale bars: g = 400 μm; h–k = 20 μm; l–n = 10 μm.
+18 Persoonia–Volume 42, 2019 Colletotrichum fioriniae (Marcelino & Gouli) Pennycook, Mycotaxon 132:150. 2017. — Fig. 10 Description & Illustration — Dammetal et al. (2012b).
+Materials examined. China, Hubei Province, Wuhan City, on leaves of P. pyrifolia cv. Jinshui No. 1, 1 Sept. 2015, M. Fu (cultures PAFQ8 and PAFQ9); ibid., on fruits of P. pyrifolia, 1 Aug. 2016, M. Fu (PAFQ17); Fujian Province, Jianning County, on leaves of P. pyrifolia cv. Cuiguan, 1 Apr. 2016, M. Fu (PAFQ35, PAFQ36); Jiangxi Province, Jinxi County, on leaves of P. pyrifolia cv. Cuiguan, 23 July 2016, M. Fu (PAFQ55); Shandong Province, Yantai City, on fruits of P. communis cv. Gyuiot, 27 Aug. 2016, M. Fu (PAFQ75); Jiangsu Province, Nanjing City, on leaves of P. pyrifolia, 20 Aug. 2016, M. Fu (PAFQ49).
+Notes — Colletotrichum fioriniae was first reported on Persea americana and Acacia acuminata from Australia (Shivas & Tan 2009) and also caused fruit rot on Pyrus spp. in the USA (Dammetal et al. 2012b). In the study of Dammetal et al. (2012b), iso
+Fig. 11 Colletotrichum fructicola. a,c. Front views of 6-d-old PDA culture; b,d. back views of 6-d-old PDA culture; e. conidiomata; f,g. conidiophores; h. conidia; i–l. appressoria; m. section view of a cervulus produced on pear fruit (P. bretschneideri cv. Huangguan); n. section view of ascomata produced on pear leaf (P. pyrifolia cv. Cuiguan); o. ascomata; p,q. asci; r,s. ascospores (a,b,h–l,o,q,r. isolate PAFQ31; c–e,m,n. isolate PAFQ32; p,s. isolate PAFQ48; f,g. isolate PAFQ30; a–h,o–s produced on PDA agar medium). — Scale bars: e = 500 μm; f–h,p–s = 20 μm; i–l = 10 μm; m–o = 50 μm.
+19 M. Fu et al.: Colletotrichum associated with anthracnose of Pyrus spp. lates clustered in two subclades, here designated as I and II. In the current study, an additional subclade (III) was detected (Fig. 3), which differs from subclade I in 2–3 bp in ACT, 1 bp in CHS, 1 bp in GAPDH, and 1 bp in TUB2, and subclade II in 3 bp in CHS, 4 bp in GAPDH, and 2 bp in TUB2.
+Colletotrichum fructicola Prihast et al., Fung. Diversity 39:96. 2009. — Fig. 11 Description & Illustration — Prihastuti et al. (2009).
+Materials examined. China, Fujian Province, Jianning County, on leaves of P. pyrifolia cv. Cuiguan, Apr. 2014, P.F. Zhang (cultures PAFQ30 and PAFQ31); ibid., 1 Sept. 201
+Fig. 12 Colletotrichum gloeosporioides. a,c,e. Front views of 6-day-old PDA culture; b,d,f. back views of 6-day-old PDA culture; g. conidiomata; h. conidiophores; i. section view of a cervulus produced on pear fruit (P. bretschneideri cv. Huangguan); j–l. conidia; m–p. appressoria (a,b,j,m. isolate PAFQ80; c,d,k,n. isolate PAFQ7; e–i,l,o,p. isolate PAFQ56; a–h,j–l produced on PDA agar medium). — Scale bars: g = 200 μm; h–l = 20 μm; m–p = 10 μm.
+20 Persoonia – Volume 42, 2019
+Previously reported on Pyrus pyrifolia in Japan (Weire et al. 2012), Citrus reticulata in China (Huang et al. 2013), Pyrus bretschneideri in China (Li et al. 2013), and other plants (e.g., Lima et al. 2013, Liu et al. 2015, Diao et al. 2017). This species was identified as responsible for pear anthracnose, causing TS symptoms on P. pyrifolia leaves (Zhang et al. 2015) and P. bretschneideri fruits in China (Jiang et al. 2014). Colletotrichum gloeosporioides (Penz.) Penz. & Sacc., Atti Reale Ist. Veneto Sci. Lett. Arti., ser. 6, 2:670. 1884. — Fig. 12 Description & Illustration — Cannon et al. (2008), Liu et al. (2015).
+Materials examined. China, Jiangxi Province, Jinxi County, on leaves of P. pyrifolia cv. Cuiguan, 23 July 2016, M. Fu (culture PAFQ56); ibid., on fruits of P. pyrifolia cv. Huanghua, 23 July 2016, M. Fu (PAFQ61); Hubei Province, Wuhan City, on leaves of P. pyrifolia cv. Hohsui, 1 Aug. 2016, M. Fu (PAFQ27); ibid., on leaves of P. bretschneideri cv. Huangxianchangba.
+Fig. 13 Colletotrichum jinshuiense. a,b. Front and back view, respectively, of 6-day-old PDA culture; c. acervuli produced on pear leaf (P. bretschneideri cv. Dangshansuli); d. acervuli produced on pear fruit; e,f. section view of acervulus produced on pear leaf and fruit, respectively; g,h. conidiophores; i. setae; j,k. conidia; l,m. appressoria (a–m isolate PAFQ26; a,b. produced on PDA agar medium; c,e,j,l. from pear leaf (P. pyrifoliae cv. Cuiguan), d,f–i,k–m. from pear fruit (P. bretschneideri cv. Huangguan)). — Scale bars: c = 200 μm; d = 100 μm; e–k = 20 μm; l,m = 10 μm.
+21 M. Fu et al.: Colletotrichum associated with anthracnose of Pyrus spp. 1 Sept. 2016, M. Fu (PAFQ7); Jiangsu Province, Yancheng City, on leaves of P. bretschneideri cv. Yali, 1 Sept. 2015, M. Fu (PAFQ44); Zhejiang Province, Hangzhou City, on leaves of P. pyrifolia cv. Guanyangxueli, 18 Aug. 2016, M. Fu (PAFQ80); ibid., on leaves of Pyrus sp., 18 Sept. 2016, M. Fu (PAFQ86).
+Notes — Although C. gloeosporioides has been identified as responsible for pear anthracnose in China, these identifications were chiefly based on morphology and/or ITS sequence data (Wu et al. 2010, Liu et al. 2013b). In this study, 20 isolates of C. gloeosporioides isolated from fruits and leaves of pear were identified as C. gloeosporioides based on multi-loci phylogenetic analyses and confirmed as responsible for
+Fig. 14 Colletotrichum karstii. a, b. Front and back view, respectively, of 6-d-old PDA culture; c. conidiomata; d. conidiophores; e, f. section view of a cervulus produced on pear leaf (P. pyrifolia cv. Cuiguan) and fruit (P. bretschneideri cv. Huangguan), respectively; g. conidia; h–j. appressoria; k, l. asci; m. ascospores (a–h isolate PAFQ14, i, k–m isolate PAFQ40, j isolate PAFQ52; a–d, g, k–m produced on PDA agar medium). — Scale bars: c = 200 μm; d–g, k–m = 20 μm; h–j = 10 μm.
+22 Persoonia–Volume 42, 2019 μm, mean ± SD = 27.1 ± 1.7 × 4.0 ± 0.3 μm, L/W ratio = 6.8; on fruit surface: 21–30.5 × 3–4.5 μm, mean ± SD = 24.4 ± 2.1 × 4.0 ± 0.3 μm, L/W ratio = 6.2. Appressoria pale brown, smooth-walled, ellipsoidal to clavate, 8–17 × 5–7.5 μm, mean ± SD = 10.7 ± 1.7 × 6.0 ± 0.5 μm, L/W ratio = 1.8.
+Culture characteristics — Colonies on PDA flat with entire margin, aerial mycelium sparse, cottony, surface pale grey-black with white margin; reverse black to dark grey-green in center with white margin. Colony diameter 56–57 mm in 5 d. Conidia in mass not observed on PDA or SNA.
+Materials examined. China, Hubei Province, Wuhan City, on leaves of P. pyrifolia cv. Jinshui, 1 Aug. 2016, M. Fu (holotype HMAS247824, culture ex-type CGMCC3.18903 = PAFQ26); ibid., cultures PAFQ26a, PAFQ26b, PAFQ26c, and PAFQ26d.
+Notes — Isolates of C. jinshuiense are phylogenetically closely related to Colletotrichum sp. isolate CGMCC3.15172 (Fig. 5), which was reported as an endophytic Colletotrichum species from Bletilla ochracea (Orchidaceae) in China (Tao et al. 2013), whereas they are different in GAPDH (94.98%), and TUB2 (98.12%). Furthermore, the PHI test (Φw = 1) did not detect recombination between these isolates and Colletotrichum sp. isolate CGMCC3.15172 (Fig. 6a). In this study, C. jinshuiense clustered in the C. dematium species complex, which is often associated with herbaceous plants (Dammet et al. 2009). The asexual and sexual morphs of C. jinshuiense were not observed on PDA or SNA, while they easily developed on pear fruit and leaves, indicating that pear tissue plays an important part in the epidemiology and life cycle of C. jinshuiense.
+Fig. 15 Colletotrichum plurivorum. a, b. Front and back view, respectively, of 6-d-old PDA culture; c, d. ascomata; e. section of ascoma; f, g. asci; h. immature ascus; i. ascospores; j. section view of a cervulus produced on pear fruit (P. bretschneideri cv. Huangguan); k. conidia (a–k isolate PAFQ65; a–i produced on PDA agar medium, j, k from pear fruits). — Scale bars: c = 200 μm; d = 50 μm; e–k = 20 μm.
+23 M. Fu et al.: Colletotrichum associated with anthracnose of Pyrus spp. Colletotrichum karstii Yan L. Yang et al., Cryptog. Mycol. 32:241. 2011. — Fig. 14 Description & Illustration — Yang et al. (2011).
+Materials examined. China, Hubei Province, Wuhan City, on leaves of P. pyrifolia, 1 Sept. 2015, P.F. Zhang (culture PAFQ14); ibid., on leaves of P. pyrifolia cv. Hohsui, 1 Aug. 2016, M. Fu (PAFQ28); Fujian Province, Jianning County, on leaves of P. pyrifolia cv. Cuiguan, 20 Oct. 2016, M. Fu (PAFQ40); Zhejiang Province, Hangzhou City, on leaves of P. pyrifolia cv. Guanyangxueli, 18 Aug. 2016, M. Fu (PAFQ82); Jiangxi Province, Jinxi County, on leaves of P. pyrifolia cv. Cuiguan, 23 July 2016, M. Fu (PAFQ52).
+Conidia of the ex-type (GZAAS090006, 12–19.5 × (5–)6–7.5 µm, mean ± SD = 15.4 ± 1.3 × 6.5 ± 0.5 µm) of C. karstii are slightly smaller than that of isolate PAFQ82 (12.5–21 × 5–8 µm, mean ± SD = 16.8 ± 1.6 × 7.2 ± 0.6 µm), but larger than that of isolate PAFQ40 (12.5–16 × 5.5–7.5 µm, mean ± SD = 13.6 ± 0.8 × 6.5 ± 0.4 µm) and isolate PAFQ52 (11.5–16 × 5.5–7.5 µm, mean ± SD = 13.9 ± 1.0 × 6.8 ± 0.3 µm).
+Fig. 16 Colletotrichum pyrifoliae. a,b. Front and back view, respectively, of 6-d-old PDA culture; c. conidiomata; d. ascomata; e–g. conidiophores; h. conidia; i. appressoria; j,k. section view of ascomata produced on pear fruit (P. bretschneideri cv. Huangguan) and leaf (P. pyrifoliae cv. Cuiguan), respectively; l. section view of ascoma; m,n. asci; o. ascospores (a–o isolate PAFQ22; a–e,h,l–o produced on PDA, f produced on OA, g produced on SNA). — Scalebars: c,d = 200 µm; e–h,j–o = 20 µm; i = 10 µm.
+24 Persoonia – Volume 42, 2019 Colletotrichum plurivorum Dammeta., Stud. Mycol. 92:31. 2019. — Fig. 15 Description & Illustration — Dammeta l. (2019).
+Materials examined. China, Anhui Province, Dangshan County, on leaves of P. bretschneideri cv. Huangguan, 4 Aug. 2016, M. Fu (culture PAFQ65).
+Notes — Colletotrichum plurivorum was first reported as C. sichuanensis from fruits of Capsicum annuum in China (Liu et al. 2016b), further regarded as a synonym of C. cliviicola (as C. cliviae) (Douanla-Mel et al. 2018), but later distinguished from the latter by Dammeta l. (2019). In this study, isolate PAFQ65 was isolated from pear leaves and clustered together.
+Fig. 17 Colletotrichum siamense. a,c,e. Front views of 6-d-old PDA culture; b,d,f. back views of 6-d-old PDA culture; g,h. conidiomata; i,j. section view of a cervulus produced on pear leaf (P. pyrifoliae cv. Cuiguan) and fruit (P. bretschneideri cv. Huangguan), respectively; k–m. conidiophores; n,o. setae; p–r. conidia; s–u. appressoria (a,b,k,p,s from PAFQ67; c,d,g,h,j,l,n,q,t from PAFQ74; e,f,i,m,o,r,u from PAFQ78; a–g,k–r produced on PDA, h produced on pear leaf (P. bretschneideri cv. Dangshansuli)). — Scalebars: g,h = 100 µm; i–r = 20 µm; s–u = 10 µm.
+25 M. Fu et al.: Colletotrichum associated with anthracnose of P
+26 Persoonia–Volume 42, 2019
+Conidia, Appressoria, and Ascospores: Species and Size (μm)
+Means ± SD of Length (μm) x Width (μm) y, Means ± SD of Growth Rate (mm/day)
+FQ 44 11.5 –2 14–616.6 ± 1.7 × 5.5 ± 0.4 7.5–12.5 5.5–8.5 9.0 ± 1.2 × 7.0 ± 0.7 /// 8.3 PA
+FQ 56 16 –3 24.5–6.5 21.5 ± 4.1 × 5.5 ± 0.4 6–10.5 5–9 8.3 ± 1.0 × 6.6 ± 0.8 /// 7 PA
+FQ 61 15.5 –2 2.55–6.5 17.7 ± 1.6 × 5.6 ± 0.3 6.5–10 4.5–7.5 8.2 ± 0.8 × 6.3 ± 0.7 /// 7.4 PA
+FQ 80 15 –2 15–6.5 16.9 ± 1.1 × 5.9 ± 0.3 6.5–11 5–6.5 7.8 ± 0.9 × 5.9 ± 0.4 /// 7.4 PA
+FQ 86 14 –1 85–6.5 16.1 ± 0.9 × 5.8 ± 0.3 7–11.5 5–7.5 9.0 ± 1.3 × 6.4 ± 0.6 /// 7.1 C. jinshuiensis PA
+FQ 26 21 –3 0.5α 3–4.5α 24.4 ± 2.1 × 4.0 ± 0.3 α 8–17 5–7.5 10.7 ± 1.7 × 6.0 ± 0.5 /// 5.6 C. karstii PA
+FQ 14 12.5 –1 85.5–8 15.8 ± 1.0 × 7.2 ± 0.5 6.5–10 5.5–7.5 8.3 ± 0.8 × 6.4 ± 0.5 /// 4.3 PA
+FQ 28 12.5 –1 8.5 15.5 ± 1.4 × 6.8 ± 0.5 6.5–10 5–8.5 8.4 ± 0.7 × 6.9 ± 0.7 /// 5.2 PA
+FQ 40 12.5 –1 65.5–7.5 13.6 ± 0.8 × 6.5 ± 0.4 6.5–9.5 6–8.5 8.0 ± 0.7 × 7.3 ± 0.6 14–1 95–8 16.4 ± 1.1 × 6.8 ± 0.7 5.3 PA
+FQ 52 11.5 –1 65.5–7.5 13.9 ± 1.0 × 6.8 ± 0.3 7–10.5 5–8 8.8 ± 0.7 × 6.8 ± 0.8 /// 5.3 PA
+FQ 82 12.5 –2 15–8 16.8 ± 1.6 × 7.2 ± 0.6 8–14 5–9.5 10.5 ± 1.4 × 7.2 ± 1.0 /// 4.4 C. plurivorum PA
+FQ 65 14 –2 4α 4.5–7α 18.1 ± 2.1 × 5.6 ± 0.7 α /// 15 –2 0.5 4.5–6 18.2 ± 1.6 × 5.4 ± 0.4 7.2 C. pyrifoliae PA
+FQ 22 14 –2 35.5–7 18.1 ± 1.8 × 6.4 ± 0.4 7–12 6–8 8.8 ± 1.0 × 6.9 ± 0.5 11.5 –2 0.5 4.5–7 16.8 ± 1.6 × 6.4 ± 0.5 4.9
+Table 4: The sizes of conidia, appressoria, and ascospores of the representative isolates of Colletotrichum spp. obtained in this study.
+27 M. Fu et al.: Colletotrichum associated with anthracnose of Pyrus spp.
+Conidiogenous cells hyaline to pale brown, cylindrical to clavate, 15–32 × 3–5 μm, opening 1.5–2.5 μm.
+Conidia hyaline, smooth-walled, aseptate, cylindrical, both ends rounded, contents granular, 14–23 × 5.5–7 μm, mean ± SD = 18.1 ± 1.8 × 6.4 ± 0.4 μm, L/W ratio = 2.9.
+Appressoria dark brown, elliptical, 7–12 × 6–8 μm, mean ± SD = 8.8 ± 1.0 × 6.9 ± 0.5 μm, L/W ratio = 1.3.
+Asexual morph developed on OA. Setae not observed.
+Conidiophores hyaline to pale brown, smooth-walled, septate and branched.
+Conidiogenous cells hyali
+Notes—Colletotrichum pyrifoliae is phylogenetically closely related to Colletotrichum sp. isolate Q026 (Fig. 5), which was reported to be associated with anthracnose of Rubus glaucus in Colombia (Afanador-Kafuri et al. 2014). However, C. pyrifoliae differs from the latter in ACT (95.62% sequence identity), CHS-1 (96.47%), GAPDH (93.01%), ITS (99.25%), and TUB2 (96.41%) sequences. Moreover, isolates of C. pyrifoliae have larger conidia (PAFQ22, 14–23 × 5.5–7 µm, mean ± SD = 18.1 ± 1.8 × 6.4 ± 0.4 μm) than those of Colletotrichum sp. isolate Q026 (mean = 10.4 × 2.9 μm). The PHI test (Φw = 0.9862) detected no significant recombination between the isolates and Colletotrichum sp. isolate Q026 (Fig. 6b). Colletotrichum pyrifoliae is a singleton species, which grouped neither with the C. gloeosporioides nor the C. boninense species complexes (Fig. 5). Colletotrichum siamense Prihast et al., Fung. Diversity 39: 98. 2009.—Fig. 17 Description & Illustration—Prihast et al. (2009). Materials examined. China, Shandong Province, Yantai City, on fruits of P. communis cv. Gyuiot, 27 Aug. 2016, M. Fu (cultures PAFQ67, PAFQ68, PAFQ71, PAFQ73, PAFQ74); Zhejiang Province, Hangzhou City, on leaves of P. pyrifolia cv. Guanyangxueli, 18 Aug. 2016, M. Fu (PAFQ78); ibid., on leaves of P. pyrifolia cv. Cuiguan, 18 Aug. 2016, M. Fu (PAFQ85). Notes—Colletotrichum siamense was first reported on Coffea arabica in Thailand (Prihast et al. 2009) and subsequently reported on a wider range of hosts (e.g., Yang et al. 2009, Wikee et al. 2011, Wei et al. 2012, Wang et al. 2016, Liu et al. 2016b). Notably, this is the first report and characterization of C. siamense causing anthracnose on P. pyrifolia and P. communis. The isolates of C. siamense were divided into three groups (I–III) in this study according to morphology. Group I colonies (13 isolates, representative isolate PAFQ67) flat, grey-green with white margin; reverse dark green to black in the center and pale white margin, sporadic pigment at the margin. Group C. siamense PAFQ67 12–185–6. 515.5 ± 1.0 × 5.6 ± 0.3 6–10.5 4.5–8.5 8.1 ± 1.3 × 6.2 ± 0.7 /// 7.9 PAFQ68 12.5–17.5 5.5–7 14.7 ± 1.0 × 5.8 ± 0.4 5.5–10.5 5.5–7.5 8.0 ± 1.1 × 6.3 ± 0.6 /// 8.2 PAFQ71 13–194.5–6.5 15.8 ± 1.1 × 5.3 ± 0.4 5.5–9.5 5–6.5 7.7 ± 1.0 × 5.8 ± 0.4 /// 7.7 PAFQ73 13.5–194–6 16.0 ± 1.2 × 5.6 ± 0.4 6.5–8.5 4.5–6.5 7.4 ± 1.0 × 5.7 ± 0.4 //// PAFQ74 13–17.5 4.5–6.5 15.1 ± 0.9 × 5.7 ± 0.3 6–9 4.5–6.5 7.8 ± 0.6 × 5.7 ± 0.5 /// 7.8 PAFQ78 15–214–6 17.4 ± 1.1 × 5.4 ± 0.5 6.5–12 5.5–9 9.0 ± 1.2 × 6.7 ± 0.8 /// 7.6 PAFQ85 14–204.5–5.9 15.9 ± 1.1 × 5.4 ± 0.3 5.5–10 4.5–6.5 7.8 ± 1.0 × 5.8 ± 0.5 /// 8.3 PAFQ91 12–17.5 5–7 15.0 ± 1.1 × 5.9 ± 0.4 6.5–10 4–7 7.8 ± 1.2 × 5.9 ± 0.5 //// C. wuxiensis PAFQ53
+Numbers indicate minimum and maximum sizes for the width of 50 conidia, ascospore sizes, and 30 appressoria recorded from the representative strains of Colletotrichum spp. obtained in this study. Significance at P = 0.05 level. Numbers indicate mean conidia, appressoria, and ascospore sizes of each representative strain calculated by statistical analysis. Data were analyzed with SPSS Statistics 21.0 (WinWrap® Basic; http://www.winwrap.com) by one-way ANOVA, and means were compared using Duncan’s test at a significance level of P = 0.05. SD: standard deviation. Appressoria, ascospore, and growth rate data were absent. α Conidia induced on fruit. β Ascospore induced on SNA.
+Sexual morph on SNA. Ascomata developed on SNA after 18–22 d, immersed or semi-immersed in the agar medium, subglobose to pyriform, dark brown, 88–249 × 88–224 μm, ostiolate. Asci clavate, 43–91 × 9–13 μm, 8-spored. Ascospores hyaline, smooth-walled, aseptate, fusiform, slightly curved, rarely straight, rounded ends, contents granular, sometimes with 1–3 guttules, 14–20 × 4–6.5 μm, mean ± SD = 17.2 ± 1.3 × 5.0 ± 0.5 μm, L/W ratio = 3.4. Sexual morph developed on PDA. Ascomata pyriform to subglobose, dark brown, 74–139 × 64–127 μm, ostiolate. Asci clavate, 57–96 × 12–16 μm, 8-spored. Ascospores hyaline, smooth-walled, aseptate, fusoid, slightly curved, straight with rounded ends, contents granular, 15.5–22 × 5–6.5 μm, mean ± SD = 18.37 ± 1.39 × 5.80 ± 0.44 μm, L/W ratio = 3.2. Asexual morph developed on PDA. Vegetative hyphae 1.5–4.5 μm diam, hyaline, smooth-walled, septate, branched. Setae not observed. Conidiophores hyaline to pale brown, smooth-walled, septate, and branched. Conidiogenous cells hyaline to pale brown, cylindrical, 8.5–28 × 2.5–4 μm. Conidia hyaline, smooth-walled, aseptate, cylindrical, both ends rounded or one end slightly acute, contents granular or guttulate, 11.5–17 × 4.5–6.5 μm, mean ± SD = 14.9 ± 1.3 × 5.3 ± 0.3 μm, L/W
+Culture characteristics—Colonies on PDA are convex with an entire margin, dense aerial mycelium, and a surface that is greenish in the center with a white margin; the reverse is pale yellow with a white margin and a dark green concentric ring in the middle of the colony. Colony diameter is 70–71 mm after 5 days. Conidia are orange in mass.
+Materials examined: China, Jiangxi Province, Jinxi County, on leaves of P. pyrifolia cv. Cuiguan, 23 July 2016, M. Fu (cultures PAFQ53 and PAFQ54).
+Notes—According to multi-locus phylogenetic analyses, two isolates (PAFQ53, PAFQ54) from pear leaves clustered with the ex-type culture of C. wuxiense (CGMCC3.17894), initially reported on Camellia sinensis in China (Wang et al., 2016). Notably, the conidium sizes of C. wuxiense isolates in this study (PAFQ53: 11.5–17 × 4.5–6.5 μm, mean ± SD = 14.9 ± 1.3 × 5.3 ± 0.3 μm; PAFQ54: 13–18 × 4.5–6 μm, mean ± SD = 15.0 ± 1.3 × 5.1 ± 0.4 μm) were smaller than those of the ex-type culture (CGMCC3.17894: 16.5–23 × 4.5–6.5 μm, mean ± SE = 19.0 ± 1.4 × 5.6 ± 0.5 μm). This is the first report of C. wuxiense causing anthracnose on P. pyrifolia and the first description of its sexual morph.
+Prevalence of Colletotrichum species: Analyses of 12 Colletotrichum species revealed that C. fructicola isolates (298 isolates, 61.1% of the total) were predominantly isolated from six provinces (Anhui, Fujian, Hubei, Jiangsu, Jiangxi, and Zhejiang), followed by C. fioriniae (52 isolates, 10.7%), C. siamense (43 isolates, 8.8%), C. aenigma (40 isolates, 8.2%), C. gloeosporioides (20 isolates, 4.1%), and C. karstii (19 isolates, 3.9%). The remaining six species accounted for 3.2% of the isolates. These results indicate that C. fructicola is the most dominant species on pear in China, with C. aenigma, C. fioriniae, C. gloeosporioides, C. karstii, and C. siamense being less dominant. The least dominant species include C. citricola, C. conoides, C. jinshuiense, C. plurivorum, C. pyrifoliae, and C. wuxiense. Moreover, C. fructicola isolates causing black spot symptoms were mainly found in the Yangtze Valley regions of Fujian, Hubei, Jiangsu, Jiangxi, and Zhejiang provinces.
+Analyses of the isolation rates in sampled provinces showed that C. fructicola was dominant in Fujian, Jiangxi, Jiangsu, Anhui, and Zhejiang, accounting for 85.2%, 83.8%, 80.4%, 78%, and 71.4% of the obtained isolates, respectively. Isolates of other species accounted for less than 15%. However, in Shandong province, C. siamense isolates were predominant, making up 95% of the total isolates. In Hubei province, C. fructicola, C. fioriniae, and C. aenigma were commonly isolated, accounting for 27.5%, 26.7%, and 25.0%, respectively.
+Analyses of isolation rates from each sampled pear species revealed that C. fructicola was dominant on P. pyrifolia and P. bretschneideri, accounting for 64.5% and 79.7% of the total isolates, respectively, followed by C. fioriniae (11.8%), C. aenigma (9.3%), C. karstii (4.9%), and C. gloeosporioides (4.6%) from P. pyrifolia, and C. fioriniae (6.8%), C. aenigma (6.8%), C. plurivorum (3.4%), and C. gloeosporioides (3.4%) from P. bretschneideri. The remaining species (C. citricola, C. conoides, C. jinshuiense, ...) were also identified.
+C. pyrifoliae, C. siamense, and C. wuxiense were isolated in low incidence (less than 5.0%) from P. pyrifolia. Only C. siamense and C. fioriniae were isolated from P. communis, with the former accounting for 95% and the latter for 5% (Fig. 19c). Analyses of the incidence of these Colletotrichum species from the leaves and fruits revealed that C. aenigma, C. fructicola, C. gloeosporioides, C. fioriniae, and C. siamense were isolated from both leaves and fruits, while C. citricola, C. jinshuiense, C. karstii, C. plurivorum, and C. pyrifoliae were isolated only from leaves, and C. conoides only from fruits (Fig. 19d).
+Thirteen representative Colletotrichum isolates (one from each species, except two from C. fructicola related to different symptom types) were selected to prove Koch’s postulates using a spore suspension on detached leaves of P. pyrifolia cv. Cuiguan. Under unwounded conditions, only C. fructicola (isolate PAFQ31) and C. siamense (isolate PAFQ78) were pathogenic to leaves, inducing lesions on the leaf tissues (Fig. 20). Of these, isolate PAFQ31 caused TS symptoms at 8 dpi (Fig. 20b2), while isolate PAFQ78 caused extended BnL symptoms at 14 dpi (Fig. 20b5).
+Under wounded conditions at 29 dpi, all species were pathogenic to leaves, but with varying infection rates depending on the species/isolates (Table 5), ranging from 2/16 for C. plurivorum (isolate PAFQ65) to 16/16 for C. fructicola (isolate PAFQ31). In successful infections, all species initially induced small dark-brown to black necrotic lesions at 6 dpi (or 10 dpi for C. citricola isolate PAFQ13). The lesions rapidly expanded into large dark-brown to black lesions, with lesion lengths varying among species (Fig. 20c1–c13). Concentric rings of acervuli formed on the leaf tissues, exuding an orange conidial mass (6–10 dpi) at 25°C under 99% relative humidity. It is worth noting that C. fructicola isolate PAFQ31, isolated from a leaf showing TS symptoms in the field, induced similar symptoms around the BnL on inoculated leaves (Fig. 20c2), while another C. fructicola isolate PAFQ32, isolated from a leaf showing BnL symptoms, induced large black lesions only (Fig. 20c3). Moreover, C. conoides isolate PAFQ6, which was only isolated from pear fruits, also caused BnL symptoms on pear leaves (Fig. 20c7). No lesions were induced in control fruits inoculated with sterile water.
+Under unwounded conditions, all isolates from the fruits were pathogenic at 30 dpi, with infection rates ranging from 2/6 for C. fioriniae (PAFQ19) to 5/6 for C. gloeosporioides (PAFQ61). These isolates began to induce small brown or dark brown lesions at different time points post-inoculation: 28–30 dpi for C. aenigma, C. conoides, and C. fioriniae; 18–22 dpi for C. gloeosporioides; and 6–8 dpi for C. siamense. The small lesions expanded to larger brown or dark brown lesions over time, forming concentric rings of acervuli at 4–6 dpi, which exuded an orange conidium mass. For the isolates from pear leaves, only C. fructicola isolates (PAFQ31 and PAFQ32) were pathogenic, with infection rates of 6/6 for isolate PAFQ31 and 5/6 for isolate PAFQ32. Notably, these isolates induced black spots and fruit rot symptoms at 30 dpi, similar in size to those observed on leaves in the field. The remaining six species isolated from pear leaves did not induce any visual fruit symptoms. Under wounded conditions, all species were pathogenic to pear fruits at 10 dpi, but with varying aggressiveness among species. The isolates of the C. gloeosporioides species complex induced significantly longer lesions (40–62.5 mm) compared to those induced by C. fioriniae (20–22 mm), C. citricola (3 mm), C. karstii (31–32 mm), C. pyrifoliae (20.5 mm), and C. jinshuiense (24.5 mm). No lesions were induced in control fruits inoculated with sterile water. From the diseased leaf and fruit tissues, fungi were isolated from lesions neighboring asymptomatic regions, and the obtained colonies matched the originals used for inoculation regarding their morphology and ITS sequence data.
+In this study, we employed morphological and multi-locus phylogenetic analyses to identify the species associated with pear anthracnose, and pathogenicity tests to confirm Koch’s postulates. We revealed 12 species belonging to five Colletotrichum species complexes, including gloeosporioides (C. aenigma, C. conoides, C. fructicola, C. gloeosporioides, C. siamense, and C. wuxiense), acutatum (C. fioriniae), boninense (C. citricola and C. karstii), dematium (C. jinshuiense), orchidarium (C. plurivorum), and one singleton species (C. pyrifoliae). Among these, C. conoides, C. siamense, C. wuxiense, C. citricola, C. karstii, and C. plurivorum were confirmed to be responsible for pear anthracnose for the first time. Importantly, this study differentiated two new species responsible for pear anthracnose: C. jinshuiense and C. pyrifoliae. Corresponding to the taxonomic classification determined by multi-locus phylogenetic analyses, most Colletotrichum species exhibited characteristic morphological traits, including colony colors, aerial mycelium density, and shapes and sizes of conidia, ascospores, appressoria, and setae. Most of these features have been used to delineate species in previous studies. It is worth noting that the Colletotrichum species associated with pear anthracnose secreted pigments that differed in color among species and isolates. Moreover, these species also varied in their ability to form sexual morphs in culture.
+For example, C. gloeosporioides, C. siamense, C. fioriniae, and C. jinshuiense produced no ascospores under the culture conditions employed. Additionally, C. citricola and C. jinshuiense produced setae on the host tissues, but C. aenigma and C. siamense did so on PDA. Importantly, the macro- and micro-morphologies of the Colletotrichum species isolated from pear showed differences compared with those from other plants. For instance, most of the C. gloeosporioides isolates (e.g., PAFQ56, PAFQ61, and PAFQ7; 15.5–32 μm) from pear had longer conidia than those from tea (11–15.5 μm) (Liu et al., 2015) and citrus (11.3–14.7 μm) (Huang et al., 2013); and most of the C. fructicola isolates (PAFQ30, PAFQ31, and PAFQ84; 14.0–20 × 4.5–7.5 μm) from pear had larger conidia than those from coffee (9.7–14 × 3–4.3 μm) (Prihastuti et al., 2009). The prevalence of a Colletotrichum species associated with pear anthracnose is closely related to the sampling area, Pyrus sp., and plant organ. For example, C. fructicola is the most prevalent species in most pear-growing regions in China studied and most frequently isolated from P. pyrifolia and P. bretschneideri in all the sampled areas except for Shandong province, where C. siamense was most frequently isolated and prevalent on P. communis. Geographical preference was also found for C. aenigma and C. fioriniae, which were mainly isolated in Hubei province. However, C. jinshuiense, C. pyrifoliae, C. wuxiense, C. plurivorum, C. conoides, and C. citricola showed low prevalence and restricted distribution. Moreover, a high species diversity was observed in Hubei province compared to Fujian and Shandong provinces. It is worth noting that C. acutatum, C. pyricola, and C. salicis were not detected in this study, although they were linked to pear anthracnose in New Zealand (Damm et al., 2012b).
+In previous reports, the pathogenicity of most identified Colletotrichum species associated with pear anthracnose, including C. aenigma, C. fructicola, C. acutatum, C. fioriniae, C. pyricola, and C. salicis (Dammet et al. 2012b, Weir et al. 2012, Jiang et al. 2014, Schena et al. 2014, Zhang et al. 2015), remained unresolved. Here, pathogenicity tests were conducted to confirm Koch’s postulates for all isolated species to clarify their pathogenicity. The data revealed that the Colletotrichum species/isolates showed broad diversity in their pathogenicity and aggressiveness. Notably, C. fructicola caused typical symptoms on leaves and fruits under unwounded conditions, while it caused rot symptoms on fruits or necrotic lesions on leaves under wounded conditions. The BnL symptoms on leaves could also be induced by C. fructicola isolates, if those isolates were obtained from leaves showing BnL symptoms, indicating that C. fructicola has two pathogenic types. Other species, including C. aenigma, C. citricola, C. wuxiense, C. gloeosporioides, C. karstii, and C. siamense, are also related to the leaf BnL symptoms. C. fioriniae, C. fructicola, C. aenigma, C. gloeosporioides, C. pyrifoliae, and C. jinshuiense are associated with leaf SS symptoms, while C. aenigma, C. fioriniae, C. gloeosporioides, C. siamense, and C. conoides are related to fruit BrL symptoms. Notably, many isolates caused obvious lesions on fruits (or leaves) under wounded conditions but not under unwounded conditions. This phenomenon is related to the quiescent infection of these species, which is an important feature of Colletotrichum spp. and occurs at the immature fruit stage, progressively developing to rot as the fruits ripen (Peres et al. 2005, Alkan et al. 2015, De Silva et al. 2017). Previous results indicated that wounding can break the quiescent infection and enhance the infectivity of C. fructicola, leading to more rapid rot of young and mature fruits (Jiang et al. 2014). It is worth noting that although the 12 species obtained in this study can infect pear fruits under wounded conditions, those isolated from pear leaves (C. citricola, C. jinshuiense, C. karstii, C. plurivorum, C. pyrifoliae, and C. wuxiense) showed no pathogenicity to pear fruits (P. bretschneideri cv. Huang Guan) under unwounded conditions up to 30 dpi. These results revealed a clear organ specificity for the pathogenicity of some Colletotrichum isolates. Some studies also provide clues that some isolates of Glomerella cingulata, C. gloeosporioides, and C. acutatum are host organ-specific; they mainly infected the leaves instead of causing bitter rot on apple and pear fruit (Yano et al. 2004, González et al. 2006, Tashiro et al. 2012). Additionally, most isolates belonging to the C. gloeosporioides species complex showed higher aggressiveness than those of C. fioriniae, C. citricola, and C. pyrifoliae. Previous studies revealed that C. fructicola caused anthracnose on many plants, e.g., Citrus reticulata (Huang et al. 2013), Capsicum sp. (Diao et al. 2017), Camellia sinensis (Liu et al. 2015), Mangifera indica (Lima et al. 2013), and Malus sp. (Munir et al. 2016), resulting in lesions rather than typical symptoms. Therefore, it is interesting that C. fructicola causes typical symptoms on pear. Colletotrichum aenigma was reported on P. pyrifolia in Japan (Weir et al. 2012) and P. communis in Italy (Schena et al. 2014) without mention of the infected organs and induced symptoms. This is the first report of C. aenigma inducing pear anthracnose of P. bretschneideri (on fruits and leaves) and P. pyrifoliae (on leaves) in China, with a dominant incidence on the latter. Colletotrichum fioriniae was reported causing leaf spots on Cinnamomum subavenium and Juglans regia in China (Sun et al. 2012, Zhu et al. 2015), Salvia leucantha in Italy.
+Pyrus spp. in the USA and Croatia (Dammeta et al. 2012b, Ivic et al. 2013) and P. communis in France (Da Lio et al. 2017). This is the first report of C. fioriniae in China, which caused pear bitter rot and was associated with pear leaf spot on P. pyrifolia, P. bretschneideri, and P. communis. Colletotrichum citricola was first reported on Citrus unchiu in China, where it was a saprobe on leaves (Huang et al. 2013), but this is the first report of C. citricola on P. pyrifolia, where it was found to cause anthracnose on pear leaves. This study provides the first systematic investigation, morphological, molecular, and biological characterization of Colletotrichum spp. associated with Pyrus plants, and represents the first reports of C. citricola, C. conoides, C. karstii, C. plurivorum, C. siamense, and C. wuxiense, together with the novel species causing anthracnose on pear. This study also reveals taxonomic, morphological, and biological diversity of Colletotrichum spp. associated with different Pyrus spp. in China in respect to tissue type, geographical location, and climate, contributing useful information to help understand the ecology of the Colletotrichum spp. involved in pear anthracnose.
+Acknowledgements: This work was financially supported by the earmarked fund for Pear Modern Agro-Industry Technology Research System (CARS 28-15) of the Chinese Ministry of Agriculture and the Fundamental Research Funds for the Central Universities (no. 2662016PY107). The authors would like to thank Dr. Lei Cai for critical comments on the manuscript, Dr. Fang Liu for technical assistance in the pairwise homoplasy index tests, Dr. Xiushi Song for technical assistance in microscopy, and Dr. Fangluan Gao for help with the phylogenetic analyses.
+REFERENCES
+Afanador-Kafuri L, González A, Gañán L, et al. 2014. Characterization of the Colletotrichum species causing anthracnose in Andean blackberry in Colombia. Plant Disease 98:1503–1513.
+Alkan N, Friedlander G, Ment D, et al. 2015. Simultaneous transcriptome analysis of Colletotrichum gloeosporioides and tomato fruit pathosystem reveals novel fungal pathogenicity and fruit defense strategies. New Phytologist 205:801–815.
+Cai L, Hyde KD, Taylor PWJ, et al. 2009. A polyphasic approach for studying Colletotrichum. Fungal Diversity 39:183–204.
+Cannon PF, Buddie AG, Bridge PD. 2008. The typification of Colletotrichum gloeosporioides. Mycotaxon 104:189–204.
+Cannon PF, Damm U, Johnston PR, et al. 2012. Colletotrichum – current status and future directions. Studies in Mycology 73:181–213.
+Carbone I, Kohn LM. 1999. A method for designing primer sets for speciation studies in filamentous ascomycetes. Mycologia 91:553–556.
+Choi YW, Hyde KD, Ho WH. 1999. Single spore isolation of fungi. Fungal Diversity 3:29–38.
+Crous PW, Verkleij GJM, Groenewald JZ, et al. (eds). 2009. Fungal Biodiversity. CBS Laboratory Manual Series 1. Centraalbureau voor Schimmelcultures, Utrecht, Netherlands.
+Da Lio D, Baroncelli R, Weill A, et al. 2017. First report of pear bitter rot caused by Colletotrichum fioriniae in France. Plant Disease 101:1319.
+Damm U, Cannon PF, Liu F, et al. 2013. The Colletotrichum orbiculare species complex: important pathogens of field crops and weeds. Fungal Diversity 61:29–59. Damm U, Cannon PF, Woudenberg JHC, et al. 2012a. The Colletotrichum boninense species complex. Studies in Mycology 73:1–36. Damm U, Cannon PF, Woudenberg JHC, et al. 2012b. The Colletotrichum acutatum species complex. Studies in Mycology 73:37–113. Damm U, O’Connell RJ, Groenewald JZ, et al. 2014. The Colletotrichum destructivum species complex – hemibiotrophic pathogens of forage and field crops. Studies in Mycology 79:49–84. Damm U, Sato T, Alizadeh A, et al. 2019. The Colletotrichum dracaenophilum, C. magnum, and C. orchidearum species complexes. Studies in Mycology 92:1–46. Damm U, Woudenberg JHC, Cannon PF, et al. 2009. Colletotrichum species with curved conidia from herbaceous hosts. Fungal Diversity 39:45–87. De Silva DD, Crous PW, Ades PK, et al. 2017. Lifestyles of Colletotrichum species and implications for plant biosecurity. Fungal Biology Reviews 31:155–168. Dean R, Van Kan JAL, Pretorius ZA, et al. 2012. The top 10 fungal pathogens in molecular plant pathology. Molecular Plant Pathology 13:414–430. Diao YZ, Zhang C, Liu F, et al. 2017. Colletotrichum species causing anthracnose disease of chili in China. Persoonia 38:20–37. Douanla-Meli C, Unger JG, Langer E. 2018. Multi-approach analysis of the diversity in Colletotrichum cliviae sensu lato. Antonie van Leeuwenhoek 111:423–435. FAO – Food and Agricultural Organization of the United Nations, China. 2016. Pear fruits fresh and processed: annual statistics. http://www.fao.org/faostat/en/#data/QC. Freeman S, Katan T, Shabi E. 1996. Characterization of Colletotrichum gloeosporioides isolates from avocado and almond fruits with molecular and pathogenicity tests. Applied and Environmental Microbiology 62:1014–1020. Garibaldi A, Gilardi G, Franco-Ortega SF, et al. 2016. First report of leaf spot caused by Colletotrichum fioriniae on Mexican bush sage (Salvia leucantha) in Italy. Plant Disease 100:654. Glass NL, Donaldson GC. 1995. Development of primers sets designed for use with the PCR to amplify conserved genes from filamentous ascomycetes. Applied and Environmental Microbiology 61:1323–1330. González E, Sutton TB, Correll JC. 2006. Clarification of the etiology of Glomerella leaf spot and bitter rot of apple caused by Colletotrichum spp. based on morphology and genetic, molecular, and pathogenicity tests. Phytopathology 96:982–992. Guarnaccia V, Groenewald JZ, Polizzi G, et al. 2017. High species diversity in Colletotrichum associated with citrus diseases in Europe. Persoonia 39:32–50. Guerber JC, Liu B, Correll JC, et al. 2003. Characterization of diversity in Colletotrichum acutatum sensu lato by sequence analysis of two gene introns, mtDNA and intron RFLPs, and mating compatibility. Mycologia 95:872–895. Hou LW, Liu F, Duan WJ, et al. 2016. Colletotrichum aracearum and C. camelliae-japonicae, two holomorphic new species from China and Japan. Mycosphere 7:1111–1123. Huang F, Chen GQ, Hou X, et al. 2013. Colletotrichum species associated with cultivated citrus in China. Fungal Diversity 61:61–74. Huson DH. 1998. SplitsTree: analyzing and visualizing evolutionary data. Bioinformatics 14:68–73. Huson DH, Bryant D. 2006. Application of phylogenetic networks in evolutionary studies. Molecular Biology and Evolution 23:254–267. Huson DH, Kloepp
+Colletotrichum fructicola causes black spots on young fruits related to bitter rot of pear (Pyrus bretschneideri Rehd.) in China. Crop Protection 58:41–48. Kanchana-udomkan C, Taylor PWJ, Mongkolporn O. 2004. Development of a bioassay to study anthracnose infection of Capsicum chinense Jacq. fruit caused by Colletotrichum capsici. Thai Journal of Agricultural Science 37:293–297. Katoh K, Standley DM. 2013. MAFFT multiple sequence alignment software version 7: improvements in performance and usability. Molecular Biology and Evolution 30:772–780. Kumar S, Stecher G, Tamura K. 2016. MEGA7: molecular evolutionary genetics analysis version 7.0 for bigger datasets. Molecular Biology and Evolution 33:1870–1874. Li HN, Jiang JJ, Hong N, et al. 2013. First report of Colletotrichum fructicola causing bitter rot of pear (Pyrus bretschneideri) in China. Plant Disease 97:1000. Lima NB, De A. Batista MV, De Morais Jr MA, et al. 2013. Five Colletotrichum species are responsible for mango anthracnose in northeastern Brazil. Fungal Diversity 61:75–88. Lin Q, Kanchana-udomkan C, Jaunet T, et al. 2002. Genetic analysis of resistance to pepper anthracnose caused by Colletotrichum capsici. Thai Journal of Agricultural Science 35:259–264. Liu F, Cai L, Crous PW, et al. 2014. The Colletotrichum gigasporum species complex. Persoonia 33:83–97. Liu F, Damm U, Cai L, et al. 2013a. Species of the Colletotrichum gloeosporioides complex associated with anthracnose diseases of Proteaceae. Fungal Diversity 61:89–105. Liu F, Tang G, Zheng X, et al. 2016b. Molecular and phenotypic characterization of Colletotrichum species associated with anthracnose disease in peppers from Sichuan Province, China. Scientific Reports 6:32761. Liu F, Wang M, Damm U, et al. 2016a. Species boundaries in plant pathogenic fungi: a Colletotrichum case study. BMC Evolutionary Biology 16:81. Liu F, Weir BS, Damm U, et al. 2015. Unraveling Colletotrichum species associated with Camellia: employing ApMat and GS loci resolves species in the C. gloeosporioides complex. Persoonia 35:63–86.
+Liu LZ, Chen ZY, Qian GL, et al. 2013. Isolation, identification and biological characteristics of Colletotrichum gloeosporioides in pear. Jiangsu Journal of Agricultural Sciences 29:60–64. Marin-Felix Y, Groenewald JZ, Cai L, et al. 2017. Genera of phytopathogenic fungi: GOPHY 1. Studies in Mycology 86:99–216. Munir M, Amsden B, Dixon E, et al. 2016. Characterization of Colletotrichum species causing bitter rot of apple in Kentucky orchards. Plant Disease 100:2194–2203. Nirenberg HI. 1976. Untersuchungen über die morphologische und biologische Differenzierung in der Fusarium-Sektion Liseola. Mitteilungen aus der Biologischen Bundesanstalt für Land- und Forstwirtschaft Berlin-Dahlem 169:1–117. Nylander JAA. 2004. MrModelTest v.2. Program distributed by the author. Evolutionary Biology Centre, Uppsala University. O’Donnell K, Cigelnik E. 1997. Two divergent intragenomic rDNA ITS2 types within a monophyletic lineage of the fungus Fusarium are nonorthologous. Molecular Phylogenetics and Evolution 7:103–116. Peres NA, Timmer LW, Adaskaveg JE, et al. 2005. Lifestyles of Colletotrichum acutatum. Plant Disease 89:784–796. Photita W, Taylor PWJ, Ford R, et al. 2005. Morphological and molecular characterization of Colletotrichum species from herbaceous plants in Thailand. Fungal Diversity 18:117–133. Prihastuti H, Cai L, Chen H, et al. 2009. Characterization of Colletotrichum species associated with coffee berries in northern Thailand. Fungal Diversity 39:89–109. Quaedvlieg W, Binder M, Groenewald JZ, et al. 2014. Introducing the consolidated species concept to resolve species in the Teratosphaeriaceae. Persoonia 33:1–40. Rambaut A. 2014. FigTree v.1.4.2. Institute of Evolutionary Biology, University of Edinburgh. http://tree.bio.ed.ac.uk/software/figtree/. Rambaut A, Suchard M, Drummond AJ. 2013. Tracer v1.6. Institute of Evolutionary Biology, University of Edinburgh. http://tree.bio.ed.ac.uk/software/tracer/. Ronquist F, Huelsenbeck JP. 2003. MrBayes 3: Bayesian phylogenetic inference under mixed models. Bioinformatics 19:1572–1574. Rubtsov GA. 1944. Geographical distribution of the genus Pyrus and trends and factors in its evolution. American Naturalist 78:358–366. Schena L, Mosca S, Cacciola SO, et al. 2014. Species of the Colletotrichum gloeosporioides and C. boninense complexes associated with olive anthracnose. Plant Pathology 63:437–446. Sharma G, Pinnaka AK, Shenoy BD. 2015. Resolving the Colletotrichum siamense species complex using ApMat marker. Fungal Diversity 71:247–264. Shivas RG, Tan YP. 2009. A taxonomic re-assessment of Colletotrichum acutatum, introducing C. fioriniae comb. et stat. nov. and C. simmondsii sp. nov. Fungal Diversity 39:111–122. Silva GJ, Souza TM, Barbieri RL, et al. 2014. Origin, domestication, and dispersing of pear (Pyrus spp.). Advances in Agriculture 2014:1–8. Silvestro D, Michalak I. 2012. raxmlGUI: a graphical front-end for RAxML. Organisms Diversity & Evolution 12:335–337. Sun W, Su YY, Cai L, et al. 2012. First report of leaf disease on Cinnamomum subavenium caused by Colletotrichum fioriniae in China. Plant Disease 96:143. Sutton BC. 1980. The coelomycetes. Fungi imperfecti with pycnidia, acervuli and stromata. Commonwealth Mycological Institute, Kew, Surrey, England. Swofford D. 2002. PAUP 4.0b10: Phylogenetic analysis using parsimony (*and other methods). Computer program. Sinauer Associates, Sunderland, MA, USA. Tao G, Liu ZY, Liu F, et al. 2013. Endophytic Colletotrichum species from Bletilla ochracea (Orchidaceae), with descriptions of seven new species. Fungal Diversity 61:139–164. Tashiro N, Manabe K, Ide Y. 2012. Emergence and frequency of highly benzimidazole-resistant Colletotrichum gloeosporioides, pathogen of Japanese pear anthracnose, after discontinued use of benzimidazole. Journal of General Plant
+Than PP, Jeewon R, Hyde KD, et al. 2008. Characterization and pathogenicity of Colletotrichum species associated with anthracnose on chilli (Capsicum spp.) in Thailand. Plant Pathology 57:562–572.
+Vavilov NI. 1951. The origin, variation, immunity and breeding of cultivated plants. Soil Science 72:482.
+Vieira WAS, Michereff SJ, De Morais MA, et al. 2014. Endophytic species of Colletotrichum associated with mango in northeastern Brazil. Fungal Diversity 67:181–202.
+Von Arx JA. 1957. Die Arten der Gattung Colletotrichum Cda. Phytopathologische Zeitschrift 29:413–468.
+Wang YC, Hao XY, Wang L, et al. 2016. Diverse Colletotrichum species cause anthracnose of tea plants (Camellia sinensis (L.) O. Kuntze) in China. Scientific Reports 6:35287.
+Weir BS, Johnston PR, Damm U. 2012. The Colletotrichum gloeosporioides species complex. Studies in Mycology 73:115–180.
+White TJ, Bruns T, Lee S, et al. 1990. Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In: Innis MA, Gelfand DH, Sninsky JJ, et al. (eds), PCR protocols: a guide to methods and applications: 315–322. Academic Press, San Diego, California.
+Wikee S, Cai L, Pairin N, et al. 2011. Colletotrichum species from Jasmine (Jasminum sambac). Fungal Diversity 46:171–182.
+Wu J, Wang ZW, Shi ZB, et al. 2013. The genome of the pear (Pyrus bretschneideri Rehd.). Genome Research 23:396–408.
+Wu LQ, Zhu LW, Heng W, et al. 2010. Identification of Dangshan pear anthracnose pathogen and screening fungicides against it. Scientia Agricultura Sinica 43:3750–3758.
+Yan JY, Jayawardena MMRS, Goonasekara ID, et al. 2015. Diverse species of Colletotrichum associated with grapevine anthracnose in China. Fungal Diversity 71:233–246.
+Yang YL, Cai L, Yu ZN, et al. 2011. Colletotrichum species on Orchidaceae in southwest China. Cryptogamie Mycologie 32:229–253.
+Yang YL, Liu ZY, Cai L, et al. 2009. Colletotrichum anthracnose of Amaryllidaceae. Fungal Diversity 39:123–146.
+Yano K, Ishii H, Fukaya M, et al. 2004. Anthracnose on Japanese pear caused by intermediately benzimidazole-resistant strains of Colletotrichum gloeosporioides (Glomerella cingulata). Japanese Journal of Phytopathology 70:314–319.
+Zeven AC, Zhukovsky PM. 1975. Dictionary of cultivated plants and their centers of diversity: 62–63. Center for Agricultural Publishing and Documentation, Wageningen, The Netherlands.
+Zhang PF, Zhai LF, Zhang XK, et al. 2015. Characterization of Colletotrichum fructicola, a new causal agent of leaf black spot disease of sandy pear (Pyrus pyrifolia). European Journal of Plant Pathology 143:651–662.
+Zhao DY, Xu K, Yuan JC, et al. 2016. Analysis on the current situation of production and sales of the world pear’s main country of origin and its development. China Fruits 2:94–100.
+Zhu YZ, Liao WJ, Zou DX, et al. 2015. First report of leaf spot disease on walnut caused by Colletotrichum fioriniae in China. Plant Disease 99:289.
+http://www.ingentaconnect.com/content/external-references?article=0166-0616()73L.115[aid=10198079]
+http://www.ingentaconnect.com/content/external-references?article=0032-0862()63L.437[aid=10705146]
+http://www.ingentaconnect.com/content/external-references?article=1367-4803()19L.1572[aid=6367437]
+http://www.ingentaconnect.com/content/external-references?article=0031-5850()33L.1[aid=10327748]
+http://www.ingentaconnect.com/content/external-references?article=0031-5850()33L.1[aid=10327748]
+http://www.ingentaconnect.com/content/external-references?article=1055-7903()7L.103[aid=7519989]
+http://www.ingentaconnect.com/content/external-references?article=1055-7903()7L.103[aid=7519989]
+http://www.ingentaconnect.com/content/external-references?article=0166-0616()86L.99[aid=11053842]
+http://tree.bio.ed.ac.uk/software/figtree/
+http://tree.bio.ed.ac.uk/
