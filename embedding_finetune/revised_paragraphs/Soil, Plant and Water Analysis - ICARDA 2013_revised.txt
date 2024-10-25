@@ -1,0 +1,1090 @@
+Soil, Plant and Water Analysis
+Methods of Soil, Plant, and Water Analysis: A Manual for the West Asia and North Africa Region
+George Estefan, Rolf Sommer, and John Ryan - Third Edition
+Acknowledgments
+The authors would like to thank all past and present ICARDA staff associated with the Soil and Plant Analysis Laboratory who have contributed to its operation and the development of various procedures. Appreciation is extended to Dr. Abdallah Matar, who established the idea of analysis as a basis for crop production in the region through the medium of the region’s Soil Test Calibration Network. The contributions of Dr. Karl Harmsen, the late Dr. Sonia Garabet (formerly of the Soil Analysis Laboratory), and the late Mr. Samir Masri (formerly of the Soil Preparation Laboratory) to the authorship of the First Edition of this manual are recognized. The contribution of Dr. Abdul Rashid (Pakistan) is much appreciated, particularly for his valuable input regarding the two First Editions of this manual. Appreciation is extended to Dr. Theib Oweis, Director of the Integrated Water and Land Management Program (IWLMP), for his encouragement and support. Dr. John Ryan has been involved in the entire endeavor of soil and plant analysis, initially in Morocco as a member of the Soil Test Calibration Network and later as Soil Fertility Specialist. He was the lead author of the first two editions of this manual and co-author of the Third Edition. The Soil-Plant Analysis Laboratory has, since ICARDA’s inception, played a vital role in the research activities of the Natural Resource Management Program (NRMP) and indeed throughout the Center. The ICARDA management has always supported the Soil-Plant Laboratory; without this support, this manual of adapted soil and plant analysis procedures would not have been published. Our thanks go to readers who have noted errors in the first two editions of this manual and those who made suggestions for improvement.
+Key words: Feedback
+ICARDA welcomes comments and feedback on this publication.
+The views expressed are those of the authors and not necessarily those of ICARDA. Where trade names are used, it does not imply endorsement of, or discrimination against, any product by the Center. Maps have been used to support research data and are not intended to show political boundaries.
+Copyright © 2013 ICARDA (International Center for Agricultural Research in the Dry Areas) Box 114/5055, Beirut, Lebanon. All rights reserved. ICARDA encourages fair use, sharing, and distribution of this information for non-commercial purposes, with proper attribution and citation.
+Foreword
+Soil is a non-renewable resource upon which mankind depends for survival. Historically, the rise of great civilizations has been linked to the quality of soil and the availability of water. Equally, the demise of such civilizations is often attributed to mismanagement of soil and land in its broadest sense. Crop productivity and soil fertility are thus synonymous.
+In today’s overcrowded world, the challenge to feed and clothe the burgeoning populations of developing countries is a daunting task. Yields must be increased from existing land areas, and adding fertility to the soil to satisfy the demands of higher-yielding crops is essential. Soils vary greatly in their capacity to grow crops without fertilizer; even the richest soils experience declining yields without human intervention. In essence, soil is not always a perfect medium for growing plants; it is, however, the only one available. Soils vary greatly throughout the world and have inherent weaknesses, primarily deficiencies in nutrients essential for growing crops. Even when adequately supplied in the early stages of land cultivation, the nutrient-supplying capacity invariably diminishes over time. Most soils are deficient in nitrogen (N), which is transient in nature, and plants require significant amounts of it. In many cases, phosphorus (P) is equally critical; soil chemical reactions reduce the effectiveness of P fertilizers. The soils of the West Asia and North Africa (WANA) region are generally well supplied with potassium (K) and usually do not need fertilization, especially for low-yielding rainfed crops. In recent years, there has been a growing realization that other elements, such as micronutrients, are deficient in some areas of the region.
+Since no essential element can substitute for another, it is critically important to identify where and when such deficiencies occur. This is where the role of soil and plant analysis comes in. Techniques have been developed to evaluate soil fertility constraints based on soil chemical extraction and the analysis of the plants that grow in such soils. Both approaches are complementary and, when calibrated with field crop responses to fertilizer, provide a rational basis for identifying what elements are missing and how much fertilizer, whether organic or inorganic, should be applied. Therefore, soil and plant analysis laboratories play a vital role in the agricultural development of the WANA region. However, the process does not end there. To be meaningful and valid, tests must be appropriate for their intended purpose, reliable, and repeatable.
+The idea for this soil, plant, and water analysis manual grew out of the Soil Test Calibration Program within the region’s national agricultural programs, which laid the basis for sound fertilizer recommendations. Thus, it was appropriate for ICARDA to address this fundamental issue. If soil and plant tests are not reliable, the process of sampling and analysis is meaningless and undermines the validity of any agronomic trials. This manual is a cornerstone of ICARDA’s soil and water-related research program as well as its training program, serving as a vital link with agricultural scientists in ICARDA’s mandate region.
+This laboratory manual of analytical methods has been compiled primarily for use by research assistants, technicians, and student trainees working in the laboratory. The methods have been selected from various sources and adapted for routine analyses in the WANA region. A detailed description of the methods can be found in the original publications listed in the references. As analytical techniques develop and improve, this manual will be subject to continuous revision. Any helpful suggestions and feedback from users are most appreciated. The idea of having a common laboratory manual for the WANA region was based on the fact that the soils in this arid to semi-arid area share a common suite of properties, leading to similar nutritional problems in crops. Collaborative research in the
+The Mediterranean zone has revealed that several soil tests for assessing nutrient availability have regional applicability (Ryan and Matar, 1990, 1992). Furthermore, there was a lack of a laboratory manual on plant analysis relevant to the crop nutritional problems in the region. A common manual for soil, plant, and water analysis is fundamental for the success of the WANA soil fertility network. To address this gap, a comprehensive manual covering all essential soil, plant, and water analyses was developed. This manual was intentionally designed in a “cookbook” format for the ease of laboratory technicians. Upon completion, the manual draft was reviewed and endorsed at the Soil Fertility Meeting in Tel Hadya in 1995 (Ryan, 1997).
+Subsequently, the First Edition of the manual (Ryan, J., S. Garabet, K. Harmsen, and A. Rashid, “A soil and plant analysis manual adapted for the WANA region”) was published in 1996 by ICARDA and widely distributed among soil and plant analysis laboratories throughout the region. The response was very encouraging, with most laboratory managers appreciating the initiative, especially for compiling all the necessary methodologies in a single, easy-to-use volume for laboratory technicians.
+The Second Edition of the manual (Ryan, J., G. Estefan, and A. Rashid, 2001, “Soil and plant analysis laboratory manual”) incorporated feedback from laboratory managers in the WANA region, making the manual more comprehensive, up-to-date, and with minimal technical or typographical errors. We appreciate the constructive criticism and suggestions from fellow soil scientists for improving the manual. The Second Edition was translated and published in Arabic, Russian, and Farsi.
+The Third Edition of the manual reflects the changes that have occurred in recent years within the region, particularly concerning water and irrigation. While still focused on production agriculture, it acknowledges the increasing concern about environmental pollution, primarily from nitrates, heavy metals, and toxic organic compounds. With advancements in methodologies and equipment, most soil laboratories can now address both agricultural and environmental concerns. Additionally, improvements have been made in the electronic handling of data and establishing databases. As with the Second Edition, we plan to translate the Third Edition into Arabic for the WANA region and into French, particularly for North Africa.
+We encourage all recipients to continue providing feedback regarding the manual's utility for their specific situations and to report any errors.
+The idea that one could test or analyze soil to obtain information about its properties, especially its acidity or alkalinity and nutrient status, is well-established and can be traced back to the beginnings of scientific inquiry into soil. Analyzing plants to reflect the fertility status of the soil in which they grew is more recent, although visual crop observations date back to ancient Greeks, if not earlier. In recent decades, driven by the commercialization of agriculture and the demand for increased output from limited and diminishing land resources, both soil and plant analysis procedures have been developed and continue to evolve.
+With the advent of chemical fertilizers, the need to understand the nutrient status of soil to use such expensive and limited inputs effectively has become increasingly crucial. However, for soil testing to be an effective means of evaluating soil fertility status, correct methodology is essential. A soil or field can be assessed for its capability to provide a crop with essential nutrients in several ways:
+While all these approaches can be used in research, soil testing is the most amenable and serves as the basis for recommendations for farmers. Conversely, plant analysis is a post-mortem approach that should be interpreted in light of soil test results.
+Soil testing is now an intrinsic part of modern farming in the West, as well as in many developing countries. Tests primarily focus on the elements most demanded by crops, which are supplied by fertilizers: nitrogen (N), phosphorus (P), and potassium (K). Depending on soil types, tests for secondary nutrients such as calcium (Ca), magnesium (Mg), and sulfur (S) are also conducted in some regions. In drier areas, micronutrients like iron (Fe), zinc (Zn), manganese (Mn), copper (Cu), and boron (B) are often measured, as deficiencies of these elements are more frequently associated with calcareous soils. Such areas may also have excessive or toxic levels of some elements, such as boron (B), and high levels of elements like sodium (Na) and magnesium (Mg), which can adversely affect soil physical properties.
+As nutrient behavior in soils is governed by soil properties and environmental conditions, measuring such properties is often required. These include pH, salinity, organic matter (OM), calcium carbonate (CaCO3), texture, and aggregate stability. In drier areas, the presence of gypsum (CaSO4·2H2O) is also a concern.
+Soil testing involves four distinct phases:
+Sample Collection: This should be conducted in a way that reliably reflects the average status of a field for the parameter considered.
+Extraction or Digestion and Nutrient Determination: The reagents used and the procedures adopted should extract and reflect all or a portion of the element in the soil that is related to plant availability, meaning it should correlate with plant growth.
+Interpreting the Analytical Results: The units of measurement should reliably indicate if a nutrient is deficient, adequate, or in excess (in some cases, toxic to plants).
+Fertilizer Recommendation: This is based on the soil test calibrated for field conditions and considers other factors such as yield target, crop nutrient requirements, management of the crop, soil type, and method of fertilizer application.
+It should be emphasized, however, that a soil test, even if reliable and accurate, is only one factor in making decisions about the need for fertilization. Many other factors affect crop growth and yield, such as soil type and environmental conditions, including moisture and temperature. Due to the varying forms of nutrients in soils, for instance, calcareous versus acid soils, soil tests are equally varied, particularly for available phosphorus and micronutrients, and to a lesser extent for nitrogen. Nitrogen, being mobile in soils and subject to mineralization-immobilization, poses particular challenges for establishing a reliable test. Tests for potassium, pH, organic matter, and calcium carbonate are more straightforward.
+Since the development of the DTPA test by Lindsay and Norvell and the adoption of Azomethine-H as a color-developing reagent for boron, micronutrient tests for alkaline soils (e.g., iron, manganese, zinc, copper, and boron) have become more valid and therefore more common. Although tests for gypsum have been developed, there are unique challenges for cation exchange capacity (CEC) measurement in such soils. Special mention must be made of the original USDA Handbook 60, authored by the staff of the Salinity Laboratory in Riverside, California, with Richards as the lead author. Despite its age, this iconic manual serves as the basis for most analyses of salinity parameters in relation to soils, water, and plants, along with the ensuing interpretative criteria. Although many methods have been modified, the influence of this manual, commonly referred to as "Handbook 60," still persists.
+The literature on soil testing is extensive and varied. Some notable examples include monographs from the American Society of Agronomy for Physical and Chemical Analysis, which provide detailed descriptions of all available soil tests and their modifications. Soil Science Society of America publications offer a broader look at the philosophy, procedures, and laboratory operations for soil and plant analysis, including interpretation criteria for specific crops. These monographs are regularly updated.
+The range of soil and plant analysis publications includes:
+While most soil testing sources emanate from the West, publications such as those of the Food and Agriculture Organization of the United Nations (FAO) are more international in scope and assume a developing-country perspective. In such countries, soil testing is often less developed and, in some cases, does not exist. Similarly, research pertaining to soil testing and plant analysis is often fragmentary and of questionable relevance. This leads to a consideration of the West Asia – North Africa (WANA) region, which is served by the International Center for Agricultural Research in the Dry Areas (ICARDA). In this region, the development of the Soil Test Calibration Network at ICARDA served as a catalyst to promote soil testing and thus eventually lead to more efficient use of soil and fertilizer resources in the region. Its evolution and potential impact can be seen from scrutiny of the papers presented at various workshops, including those in Aleppo (1986), Ankara (1987), Amman (1988), Agadir (1991), and again in Aleppo (1995).
+Central to the Network, and indeed ICARDA’s operations, has been its Soil, Plant and Water Analysis Laboratory. Though its facilities have been designed and developed without some of the constraints experienced by other governmental and educational laboratories in the region, most of the procedures adapted by the laboratory are based on validated regional research. A key element in any worthwhile laboratory is a list of appropriate tests presented in such a manner that it can be readily followed routinely by those who actually do soil testing and plant analysis, namely the laboratory technicians. Therefore, the target audience for this manual is the cadre of technical staff throughout the region. A brief introduction to each test is provided so that the technician has an elementary understanding of the importance of the work they are doing. They should also know the range of values to be expected for soils and plants in the region, which will help them more readily identify gross errors. We have attempted to select the most appropriate methods for each test and present them in a clear, stepwise manner.
+While the manual primarily deals with soil testing, a number of important plant tests are also included, as they may complement the soil tests and are frequently needed for soil fertility and plant nutrition studies. Due emphasis has been placed on physical properties, describing the tests routinely done alongside chemical analysis. The importance of proper soil, plant, and water sampling has been highlighted, with guidelines for sample collection, processing, and storage provided. We have also included material on laboratory organization and safety aspects, which are often overlooked by technical staff but significantly impact their work output and reliability. Additionally, the appendices contain useful information on related aspects such as abbreviations, conversion factors, atomic weights, solution concentrations, pH effects on soil conditions, summarized soil test methodologies, plant sampling guidelines, criteria for interpreting soil and plant analysis data, soil salinity, and boron toxicity interpretations.
+Soil, plant, and water analyses are conducted by various institutions in both the public and private sectors. Laboratories are operated by multiple entities, including Ministries of Agriculture, National Research and Teaching Institutes, International Organizations, and Commercial Companies. For analytical services to be effective, they should be closely linked to extension and advisory services, maintaining a functional relationship with universities and research stations.
+The kind of facility for such analyses depends on the type of institution it serves, the nature of the clientele, and the volume of samples to be analyzed. Nevertheless, all laboratories, regardless of size, should be designed to facilitate operational efficiency, minimize contamination, and produce reliable and repeatable results. Various publications address management considerations in the design and operation of soil testing (e.g., Walsh and Beaton, 1973). While the advantages of standardized laboratory designs are self-evident, many laboratories in the WANA region exhibit apparent deficiencies in this respect (Ryan, 2000; Ryan et al., 1999). All too often, one sees soil samples stored or, worse still, ground in wet chemistry laboratories. Similarly, many laboratories are configured in a manner that inadvertently hinders efficient use of staff resources.
+Soil, plant, and water analysis facilities should be located in the same building and operate under unified administration. The Soil, Plant, and Water Analysis Laboratory of ICARDA was designed in the 1980s with these considerations in mind. The various components of the laboratory reflect a logical activity framework. While no two laboratories are ever identical or equipped the same way, the details presented for ICARDA’s laboratory will hopefully serve as a general guideline for laboratory arrangement and the type of equipment needed for routine service-oriented operations.
+The Soil, Plant, and Water Analysis Laboratory of ICARDA comprises several key components:
+Soil Preparation Room: This area receives large bulk samples transported by truck, which are then dried and sieved. It is equipped with a large-capacity oven, freezers, soil grinder, containers and trays, stainless steel soil sieve sets, vacuum pumps, sample dividers, various soil sampling tools (augers, spades, and metal rings), an exhaust hood, and a compressed-air machine. Soil samples (~0.5 kg) are dried, placed in clean containers, and then transferred to the soil testing laboratory for analysis.
+Soil Store Room: This room retains all samples for at least two years post-analysis, while bulk samples of special soil types are kept indefinitely. An inventory or catalog of all soil samples is maintained.
+Freezer Room: This facility is used to temporarily store large numbers of samples in cold conditions pending analysis. Without such conditions, any delay in analysis would result in bacterial changes in soil samples, invalidating the analytical results.
+Chemical Analysis Room: Here, sub-samples of dried soil are received for requested analyses. This facility typically houses various equipment such as N digestion/distillation units, CN-elemental analyzers, flame photometers, spectrophotometers, pH meters, and conductivity meters. Traditional analytical processes—like weighing, stirring, shaking, filtering under suction, heating, drying, incubating, and centrifuging—are primarily performed using electrical machines and devices. Digestion and reagent preparation occur in the fume hood.
+Instrument Room: This area is designated for soil extraction when necessary. It is equipped with various instruments, including atomic absorption spectrophotometers, computers, and ref
+This is where the dried soil sub-samples are received in the soil testing laboratory for requested analyses. This facility is equipped with various equipment, such as a pF instrument for field capacity and permanent wilting point, a soil dispersing stirrer (a high-speed electric stirrer with a cup receptacle) for particle size distribution, aggregate stability instruments (for wet and dry methods), balances, permeability apparatus, and a water bath.
+In the Water Analysis Room, more traditional analytical processes are carried out, including pH, electrical conductivity, and analyses of anions and cations.
+Various items of equipment and associated furnishings are generally found in soil, plant, and water analysis laboratories, including laboratory working tables, appropriate racks, weighing benches, cupboards, laboratory desks and chairs, a fixed suction unit, and fume hoods or exhaust systems mounted above the flame photometer, atomic absorption spectrometer, muffle furnace, and Kjeldahl digestion. Washing sinks for cleaning glassware and drawing desk facilities for storing standard forms and documentation are also present.
+As with any workplace, safety is an important consideration in soil, plant, and water analysis laboratories, often overlooked. Safe operations in a chemical laboratory require special care in the design and construction of the laboratory building and in the handling and use of chemicals. For chemical operations, the release of gases and fumes during specific analytical procedures is controlled through a fume hood or trapped in acidic or alkaline solutions and washed through flowing water. Additionally, some chemical reactions during analysis, if not handled properly, may result in explosions.
+Analytical processes typically carried out at room temperature can be affected by temperature variations, meaning an analysis performed in a "cold" room can yield different results compared to one performed in a "hot" room. Many chemicals are sensitive to the temperature and humidity conditions under which they are stored, especially if these conditions fluctuate. The air temperature in the laboratory and working rooms should ideally be maintained at a constant level, usually between 20 and 25 °C, with humidity kept at about 50%.
+All staff, regardless of grade, technical skill, or employment status, should be briefed on all aspects of safety upon starting work, with periodic reminders of regulations to encourage familiarity. Ideally, posters related to laboratory safety should be prominently displayed in the laboratory.
+While safety rules can be extensive, we have endeavored to concisely list the more important ones within different categories of concern, adapted from laboratory safety guides developed by Kalra and Maynard (1991) and Okalebo et al. (1993).
+General Attitude
+Instrument Operation
+Accidents
+Chemicals
+Furnaces, Ovens, Hot Plates
+Use forceps, tongs, or heat-resistant gloves to remove containers from hot plates, ovens, or muffle furnaces.
+Handling Gas
+Cylinders of compressed gases should be secured at all times. A central gas facility is preferred.
+Maintenance
+Maintenance of Pipettes
+Eating and Drinking
+Protective Equipment
+Body Protection: Use a laboratory coat and chemical-resistant apron.
+Hand Protection: Use gloves, particularly when handling concentrated acids, bases, and other hazardous chemicals.
+Dust Mask: A mask is needed when grinding soil, plant samples, etc.
+Eye Protection: Use safety glasses with side shields. Contact lenses should never be worn around corrosives. Make sure that your colleagues know if you wear contact lenses.
+Full Face Shield: Wear face shields over safety glasses in experiments involving corrosive chemicals.
+Foot Protection: Proper footwear should be used; sandals should not be worn in the laboratory.
+Waste Disposal
+Continuing Education
+Contamination
+Contamination is a serious problem in any laboratory; therefore, its sources must be identified and eliminated. Some common sources of contamination include:
+Technical Remarks
+Quality Control and Standardization Procedures
+What follows in this section is a synthesis from the manual of Okalebo et al. (1993). Quality control is an essential part of good laboratory practice. During routine analyses, errors may gradually appear due to contamination, changes in reagent quality, environmental differences, operator error, and instrument calibration or failure. Maximum reproducibility and adequate accuracy of results are the important objectives.
+Repeated measurement of an air-dried soil sample should provide consistent results when analyzed over time for most routine chemical procedures. The deviation of an observed value from its absolute “true” value results from either systematic or random errors. Once identified, systematic errors are more easily corrected than those that occur at random. Three precautions are essential for laboratory quality control and should be routinely included among the test samples. These precautions involve the use of blanks, repeats, and internal references, as elaborated below. Whenever a new procedure is introduced to the laboratory, its accuracy should be evaluated and compared to the tests already in use. Both methods should be compared for a homogeneous test sample using ten-fold replicates, with the standard deviation calculated for each set. This provides a measure of precision. Known amounts of reagent should be added to the homogeneous test sample, the procedures repeated, and the mean and standard deviation calculated. The agreement between the increases in the values obtained and the known increase in test sample concentration provides a test of accuracy. For procedures in which the test material is known to interact with the added reagent, as with phosphorus-sorptive soils, this test can be conducted with reagent solutions.
+Blanks are reaction vessels that undergo identical procedures as the samples in a given batch but contain no added test material. They allow for correction of any background contamination introduced from reagents, filter papers, or other systemic sources of error. Provided the blank values are consistent, the mean value can be subtracted from the sample value. Large blank values suggest excess extraneous contamination; in such cases, the entire batch analysis should be repeated.
+At least 1 in 10 samples selected from the test materials should be analyzed in duplicate, randomly placed within the batch. This ratio is a suggested compromise between the ideal of analyzing all samples in duplicate and the time, effort, and expense involved. The analytical results for duplicate pairs should closely resemble one another; generally, repeat values should fall within ±2.5 – 5.0% of their mean. Any greater discrepancy must be investigated, and if repeat values are not consistent, the entire batch should be re-analyzed.
+Internal reference samples are necessary for each type of test material and analysis conducted within the laboratory. The internal reference sample should not be the same as the homogeneous material routinely used in testing new methods and analytical techniques. A sample obtained from a large, well-mixed, and homogeneous composite bulk sample should be included in each analyzed batch. Variation from the mean, calculated over previous batches, may indicate an error. The analytical results for the internal reference may be plotted on a quality control chart to monitor performance over time. Corrective action could be taken if a single value exceeds the ±3 standard deviation limits or if two successive values exceed the ±2 standard deviations. Periodically, the critical limits could be reassessed by recalculating the overall standard deviation of the internal reference sample as more data are accumulated.
+Results can only be validly compared when they have been obtained using standardized methods. Collaboration between laboratories can be enhanced by exchanging reference materials and then comparing their results. Such materials are referred to as "External References." An example of such standardization is the exchange network of ISRIC (International Soil Reference and Information Center) in Wageningen, The Netherlands, which operates international soil and plant analytical exchange programs. Most external reference samples are costly, and their frequent use increases the operating costs of the laboratory. Internal reference samples are usually much less expensive. Thus, if a relationship between external and internal reference samples can be firmly established, frequent use of internal reference samples, with occasional use of external reference samples, can reduce costs while still providing acceptable quality assurance.
+In quantitative analysis, the concepts of accuracy and precision are important. Accuracy measures systematic error or the degree of agreement of an experimental value with the true or expected value of the quantity of concern. Accuracy is important, but it is equally essential to know when to use a given analytical method and understand its limitations. Precision measures reproducibility affected by random error and is usually described by the standard deviation, standard error, or confidence interval.
+A considerable amount of information is generated in any soil, plant, and water analysis laboratory. To economically justify the existence of a laboratory, it is necessary to maintain a record of the number of samples analyzed and the types of analyses performed. With the advent of computers, such storage is easy, and retrieval is greatly facilitated. Computer processing offers several advantages, including:
+The degree to which laboratories should be computerized depends on sample volume, location, and user services offered. In general, laboratories with a large volume of samples that offer a range of analyses require more computer sophistication and automation than those with a small sample turnover. To facilitate data processing, standard information sheets are required. These vary from laboratory to laboratory but usually include details of analyses required for the sample and information on the crop to be grown, the soil type, and previous cropping history, particularly regarding fertilization. Such information enables answers to questions about the extent of nutrient deficiency in any area from which the samples were obtained and how fertility levels change over the years.
+Computer programs are increasingly used to interpret soil test data and make fertilizer recommendations. Several such programs exist. Standardized report forms for making fertilizer recommendations combine inputs of soil test data with other soil and crop information. To achieve this, the tests used (such as soil NO3-N, available P, etc.) must be calibrated with field crop responses. With a relatively large output of analyses associated with numerous on-station and on-farm research trials, analytical results from ICARDA’s laboratory are stored in a computer program to generate fertilizer recommendations based on soil test values. Where soil maps and rainfall data are available, the accumulated soil test values from known locations can help establish relationships with soil type, region, and climatic zone.
+While the main focus of this manual is to present an easy-to-use methodology for soil testing, and to a lesser extent, for plant analysis, their related aspects deserve emphasis. A brief description of these aspects follows. While much attention is given to laboratory procedures, the process of obtaining soil for analysis—soil sampling—is often ignored or poorly considered. A good sampling plan should provide a measure of the average fertility level of a field and an understanding of its variability. If a sample is not representative of the field or is incorrectly taken, the resulting analytical data are meaningless or, at best, difficult to interpret. The error in field sampling is generally much greater than that due to chemical analysis. Therefore, obtaining a representative soil sample from a field is the most crucial step for meaningful soil analysis.
+A soil sample should be composed of several sub-samples representing a seemingly uniform area or field with similar cropping and management history. There is no universally accepted number of sub-samples for different field situations; however, the following points can serve as guidelines:
+Composite Sampling
+At ICARDA, eight sub-samples are taken per hectare (ha) in a diagonal pattern to obtain one composite sample. Other plans range from 5 to 25 borings or sub-samples per composite sample, with sample units varying from 2 to 8 ha. Fewer sub-samples are needed where little or no fertilizer has been used. Sampling areas are often traversed in a zigzag pattern to provide a uniform distribution of sampling sites. More sub-samples are necessary where fertility is variable due to hand broadcasting of fertilizers or with cropping-livestock systems. Banding of fertilizer poses serious problems for reliable sampling. Thus, the number of sub-samples taken by farmers should be realistic, considering the particular field situation.
+Sampling Time
+Soil samples can be taken any time that soil conditions permit, but sampling directly after fertilization or amendment application should be avoided. Samples taken during the crop growth period will help assess the nutrient status of the soil in which plants are actively taking up nutrients. In the WANA region, it is recommended that sampling be carried out in autumn (before planting) if fertilization is intended at planting. It is important to sample at similar times year after year for comparing analyses at regular time intervals.
+Sampling Depth
+For most purposes, soil sampling is done to a depth of about 20 cm. Available P, NO3-N, and micronutrients in such samples are related to crop growth and nutrient uptake. In some cases, especially in irrigated areas, sampling to a depth of 60-100 cm is desirable, particularly for monitoring nitrate (NO3-N) leaching. Depth-wise soil samples should also be taken where there is a concern about B toxicity.
+Sampling Tools
+A uniform slice should be taken from the surface to the depth of insertion of the tool, and the same volume of soil should be obtained in each sub-sample. Augers generally meet these requirements. In areas where the topsoil is dry, such as during summer, topsoil sampling can be done by using a metal ring to dig out the soil inside the ring, as it is almost impossible to sample dry topsoil with an auger. Soil samples for micronutrient analysis should be taken using a stainless steel auger or at least an ungalvanized auger (because galvanized coating is zinc oxide). Researchers typically use augers for field sampling, while farmers or Extension Agents can use shovels or trowels with similar results. If sampling tools are not available, a spade can be used as follows: Dig a V-shaped hole 15 to 20 cm deep, then take a fine thick slice from the smooth side. Trim the sides to leave a fine strip, then dump this strip into a clean bucket. Break the clods, mix thoroughly, remove large rocks, pieces of sod, earthworms, etc. Put the soil into the sample container and label it clearly. For moist soil, the tube auger or spade is satisfactory, while a screw auger may be more convenient for harder soil.
+Instructions for Field Processing
+Handling in the Laboratory
+As soon as the samples are received at the soil preparation facility, they should be checked against the accompanying information list, which includes the sample number, depth, and date of sampling. This information should be written on the outside of the bag and on a sample card placed inside. Details regarding samples should be entered in a register, and each sample should be assigned a laboratory number.
+The soil-fresh samples received in the laboratory should be analyzed directly after sampling for the determination of nitrate, nitrite, and ammonium. These samples must not be dried, and results are expressed on an oven-dry basis by separately estimating the moisture content. If short-term storage is unavoidable, it should be done in a fridge at a temperature close to 0 °C (but not below zero). Minimizing the lag time between field sampling and analysis is critical; otherwise, storage time will introduce additional factors that can influence the analysis results.
+For drying soil samples, the soil-fresh samples should be dried in wooden or enameled trays, which can be numbered or tagged to maintain sample identity throughout preparation. During drying, the soils should be allowed to dry in the air or placed in racks in a hot air cabinet with a temperature not exceeding 35 °C and humidity between 30 and 60%. Excessive oven-drying affects the availability of most nutrients in the sample and should be avoided. Air-drying is recommended for preserving some nutrients. While drying has negligible effects on total nitrogen content, the ammonium and nitrate content in the soil changes with time and temperature, and microbial biomass is significantly affected by drying at high temperatures.
+Absolutely! Here’s the revised text:
+Preparation of soil samples
+After drying, the samples are ground with a wooden pestle and mortar in a preparation room (which is separate from the main laboratory), and clods and large aggregates are crushed and mixed. Remember that:
+After grinding, the soil is screened through a 2 mm sieve. The coarse portion on the sieve should be returned to the mortar for further grinding (except for concretions, pebbles, and organic residues). Repeat sieving and grinding until all aggregate particles are fine enough to pass through the 2 mm sieve. It is necessary to reduce the size of the large sample for ease of storage and handling. To achieve this goal, a random method of sub-sampling is essential. Sample splitting can be performed with a mechanical sample splitter, such as a Riffle-type Sample Splitter, which divides the sample in half by a series of chutes. This process can be repeated as many times as necessary. Another method for reducing sample size is by quartering. The sample is spread uniformly over a plastic or paper sheet and divided into four equal portions. For example, portions 2 and 3 are collected and thoroughly mixed, while the remainder is discarded. Following the drying and preparation processes, half of the dried soil sub-sample is placed in a clean container and then transferred into the soil testing laboratory for the requested analysis; the rest should be stored in cardboard boxes in a storeroom. Remember, if the soil is to be analyzed for trace elements, containers made of copper, zinc, and brass must be avoided during grinding and handling. Sieves of different sizes can be obtained in stainless steel. Aluminum or plastic sieves are useful alternatives for general purposes.
+Soil Physical Analysis
+Soil physical measurements are numerous, depending on the objective of the study for agricultural purposes. These measurements generally include soil water content, infiltration and hydraulic conductivity, evapotranspiration, heat, temperature, reflectivity, porosity, particle size, bulk density, aggregate stability, and particle size distribution. Soil moisture is routinely measured on field-moist samples since all physical analyses are expressed on an oven-dry basis (16-18 hours drying at 105 °C). As texture (e.g., whether sandy or clay) is quite important in relation to nutrient behavior, particle size distribution is often carried out, especially if more precision is needed than provided by the qualitative physical “feel” approach for determining texture.
+4.1. Soil Moisture Content
+Preparation of soil samples
+After drying, the samples are ground with a wooden pestle and mortar in a preparation room (which is separate from the main laboratory), and clods and large aggregates are crushed and mixed. Remember that pebbles, concretions, and stones should not be broken during grinding. Care should be taken not to break the individual soil particles during the grinding process. The entire sample should be passed through a sieve, except for concretions and pebbles larger than 2 mm. The purpose of grinding is to reduce heterogeneity and to provide maximum surface area for physical and chemical reactions. Various devices are used for crushing and grinding soils; however, the choice of equipment depends on the amount of sample to be crushed or ground, the contamination that can be tolerated, the degree of fineness to be attained, and the analysis in question.
+After grinding, the soil is screened through a 2-mm sieve. The coarse portion on the sieve should be returned to the mortar for further grinding (except for concretions, pebbles, and organic residues). This sieving and grinding process should be repeated until all aggregate particles are fine enough to pass through the 2-mm sieve. It is necessary to reduce the size of the large sample for ease of storage and handling. To achieve this goal, a random method of sub-sampling is essential. Sample splitting can be performed with a mechanical sample splitter, such as a Riffle-type Sample Splitter, which divides the sample in half by a series of chutes. This process can be repeated as many times as necessary.
+Another method for reducing sample size is quartering. The sample is spread uniformly over a plastic or paper sheet and divided into four equal portions. For example, portions 2 and 3 are collected and thoroughly mixed, while the remainder is discarded. Following the drying and preparation processes, half of the dried soil subsample is placed in a clean container and then transferred to the soil testing laboratory for the requested analysis; the rest should be stored in cardboard boxes in a storeroom. Remember, if the soil is to be analyzed for trace elements, containers made of copper (Cu), zinc (Zn), and brass must be avoided during grinding and handling. Sieves of different sizes can be obtained in stainless steel. Aluminum or plastic sieves are useful alternatives for general purposes.
+Soil physical measurements are numerous, depending on the objective of the study for agricultural purposes. These measurements generally include soil moisture content, infiltration and hydraulic conductivity, evapotranspiration, heat, temperature, reflectivity, porosity, particle size, bulk density, aggregate stability, and particle size distribution. Soil moisture is routinely measured on field-moist samples, since all physical analyses are expressed on an oven-dry basis (16-18 hours drying at 105 °C). As texture (e.g., whether sandy or clay) is quite important in relation to nutrient behavior, particle size distribution is often carried out, especially if more precision is needed than provided by the qualitative physical "feel" approach for determining texture.
+Soil Moisture Content
+As water is the most limiting factor in arid to semi-arid areas, soil moisture determination is of major significance. Soil moisture influences crop growth not only by affecting nutrient availability but also nutrient transformations and soil biological behavior. Therefore, at ICARDA, soil moisture is routinely measured in most field trials. While it can be assessed in the field by the neutron probe, the gravimetric approach is more flexible, as samples can be readily taken from any soil situation. All analyses in the laboratory are related to an air- or oven-dry basis, and therefore must consider the actual soil moisture content (Sparks et al., 1966).
+Apparatus
+Procedure
+Calculation
+Technical Remarks
+Water Holding Capacity
+The water-holding capacity (WHC) is defined as the amount of water held in the soil after the excess gravitational water has drained away and after the rate of downward movement of water has materially ceased. The stage of field capacity is attained in the field after 24 to 72 hours of saturation; this is the upper limit of plant-available soil moisture. We must distinguish between soil water content (the percent water on an oven-dry weight basis) and soil water potential (the energy status of water in the soil), which is usually expressed in pressure units (Pascal or bar). However, since we are dealing with tension—a negative pressure—units are usually considered to be negative.
+Apparatus
+A. Field Processing
+B. Laboratory Processing
+Calculations
+Note: Water-holding capacity is expressed as the amount of water retained per liter of soil, so the next step is to multiply by 10 to convert from the 100 mL sample to a full liter.
+Technical Remarks
+4.3. Particle Size Distribution
+Individual soil particles vary widely within any soil type. Additionally, as these particles are cemented together, a variety of aggregate shapes and sizes occur. For standard particle size measurement, the soil fraction that passes a 2-mm sieve is considered. Laboratory procedures typically estimate the percentage of sand (0.05 – 2.0 mm), silt (0.002 – 0.05 mm), and clay (<0.002 mm) fractions in soils. Particle size distribution is an important parameter in soil classification and has implications for soil water, aeration, and nutrient availability to plants. Soil texture is a crucial property for agricultural soil, road beds, and septic disposal systems, influencing fertility, drainage, water-holding capacity, aeration, tillage, and bearing strength of soils. Because texture is so important, it is a standard physical soil test. Since primary soil particles are usually cemented together by organic matter, this must be removed by hydrogen peroxide (H2O2) treatment. However, if substantial amounts of calcium carbonate (CaCO3) are present, actual percentages of sand, silt, or clay can only be determined by prior dissolution of the CaCO3. The two common procedures used for particle size analysis or mechanical analysis are the hydrometer method and the pipette-gravimetric method.
+4.4. Hydrometer Method
+Th
+Theoretically, the particles are assumed to be spherical with a specific density of 2.65 g/cm³. If all other factors are constant, then the settling velocity is proportional to the square of the radius of the particle (Stoke’s Law).
+Where:
+V = Velocity of fall (cm/sec)
+r = "Equivalent" radius of the particle (cm)
+ρdp = Density of particle (g/cm³), 2.65 is a (usual) good approximation
+ρdl = Density of liquid (g/cm³), for water this is ~1.0 g/cm³
+g = Acceleration of gravity (cm/sec²), value at sea level is 981
+η = Viscosity of liquid (g/cm/sec)
+In practice, the density of water and its viscosity are both affected by temperature. Therefore, we must know and make corrections for the temperature of the liquid. Greater temperatures result in reduced viscosity due to liquid expansion and a more rapid descent of falling particles.
+Relative Size of Soil Separates
+Apparatus
+Reagents
+A. Dispersing Solution
+Dissolve 40 g sodium hexametaphosphate [(NaPO3)13] and 10 g sodium carbonate (Na2CO3) in deionized water, and bring to a 1-L volume. This solution deteriorates with time and should not be kept for more than 1 to 2 weeks.
+B. Amyl Alcohol
+Procedure
+A. Determination of Blank
+B. Determination of Silt Plus Clay
+C. Determination of Clay
+D. Determination of Sand
+B. Deionized or distilled water
+C. Dispersing Solution
+Dissolve 40 g sodium hexametaphosphate [(NaPO3)13] and 10 g sodium carbonate (Na2CO3) in deionized water, bringing the total volume to 1 L with deionized water. This solution deteriorates over time and should not be kept for more than 1 to 2 weeks.
+Procedure
+A. Pre-treatment
+B. Sand fraction determination
+C. Silt and clay determination
+Note: The suspension must be complete; otherwise, particles could inter-aggregate. One indication of incomplete suspension is the formation of stratification in the measuring cylinder.
+9. About 30 seconds before the appropriate sampling time, lower the pipette (previously fixed above the center of the cylinder) slowly until the tip just touches the surface of the suspension. Note the vertical scale reading and then lower the pipette to the required depth. Calibrate and fill the pipette by gentle and steady suction (the capacity of the pipette is around 20 mL).
+10. Remove the pipette from the suspension. Transfer the aliquot to an evaporating dish and wash the pipette twice with water, adding the washings to the dish.
+11. Dry
+Using the calibrated pipette:
+Determination of the in-feed depth of the pipette:
+The temperature of the suspension and the corresponding in-feed depth of the pipette in centimeters are given for various temperatures (in °C) and the upper limit particle fraction (in µm) after sedimentation times of 90 seconds and 4 hours. The data indicates how the in-feed depth changes with temperature and particle size.
+Calculation of the depth of pipette sampling:
+The depth of pipette sampling is based on the velocity (Stokes’ Law). The rearranged equation is:
+Where:
+Assumptions used in applying Stokes’ Law to soil sedimentation measurements are as follows: 1. Terminal velocity is attained as soon as settling begins. 2. Settling and resistance are entirely due to the viscosity of the fluid. 3. Particles are smooth and spherical. 4. There is no interaction between individual particles in the solution. 5. It is recommended to use horizontal reciprocating motion to disperse the samples. The use of an electric stirrer at high revolutions per minute (rpm) may result in significant grinding of sample primary minerals. 6. For soils having clay particle densities less than 2.65 g/cm³, settling time increases, while for soils greater than 2.65 g/cm³, settling time decreases. 7. An error of 0.001 g in the dry weight of the pipette sample results in an error of ± 0.32% for the clay size fraction. 8. Since soil particles are not smooth and spherical, the radius of the particle is considered an equivalent rather than an actual radius. In this method, particle density is assumed to be 2.65 g/cm³, and the density of the liquid is assumed to be 1 g/cm³. 9. Water density and viscosity at different temperatures are as follows:
+Soil structure is defined as the arrangement of soil particles. This includes not only sand, silt, and clay but also aggregates formed by the aggregation of smaller mechanical fractions. The size, shape, and character of the soil structure can vary, taking forms such as cubes, prisms, or platters. Based on size, soil structure is classified as follows: very coarse (>10 mm), coarse (5-10 mm), medium (2-5 mm), fine (1-2 mm), and very fine (<1 mm). Depending on the stability of the aggregate and ease of separation, the structure can be characterized as poorly developed, weakly developed, moderately developed, well developed, or highly developed.
+An aggregat
+B. Laboratory Processing
+Calculations: Where: Wt = Weight of aggregates in each sieve group (g) Wt1 = Weight of aggregates in each sieve group plus can (g) Wt2 = Weight of empty can (g) Wt3 = Total weight of soil (g)
+Technical Remarks:
+4.5.2. Wet Aggregate Analysis
+The soil sample is taken when it is moist and friable. It is broken by applying mild stress into smaller aggregates that can pass through an 8-mm screen. The sieved soil sample is placed on a watch glass for wetting by either vacuum soaking or immersion method. Aggregates of different sizes can be obtained through several methods, such as samples under vacuum and sieving under water. Among the different procedures, wetting the samples under vacuum is suggested because the rate of wetting influences the slaking of crumbs. The time for sieving ranges from 10 to 30 minutes, depending on the type of wetting. However, sieving under water more closely simulates the disruptive actions of water and other mechanical forces.
+Apparatus:
+Reagents: A. Sodium Hexametaphosphate [(NaPO3)13], 5%: Dissolve 50 g of Na-hexametaphosphate in DI water and bring to a 1
+A. Field Processing
+B. Laboratory Processing
+For example, the volumetric content of water in a soil layer is obtained by multiplying the gravimetric water content by the product of the bulk density (BD) and the volume of the soil layer. Soil BD is an indirect measure of the total pore space, which is also affected by texture and structure. The BD of fine-textured mineral soils usually ranges from about 1.0 to 1.5 g/cm³, and that of sandy soils ranges from 1.3 to 1.7 g/cm³. The bulk density of organic soils is usually much less than that of mineral soils and may be as low as 0.4 g/cm³. Bulk density and total pore space can be readily altered by tillage operations.
+Two methods are commonly used to determine soil BD: one with samples of disturbed soil and the other with undisturbed soil. The second method uses consolidated soil masses, such as clods and cores.
+Apparatus: Trowel or shovel, sampling cylinders, plastic bags, hammer, knife.
+Soil bulk density - disturbed samples: This method is used when it is not possible to take a consolidated sample of soil, as in sandy soils and soils of greenhouses and nurseries, because they are loose and very friable.
+Procedure:
+Calculation: Where: BD = Bulk density (g/cm³) W = Weight of oven-dry soil (g) V = Volume of soil sample (cm³)
+Technical Remarks
+4.6.2. Soil bulk density - undisturbed samples
+4.5.2.1. Clod method
+The basis for this method is the measurement of the volume of a clod by utilizing the buoyancy principle. When a solid material (with density greater than water) is immersed in water, an upward force equal to the weight of the displaced water is exerted upon it. If a solid object is weighed first in air and then in water, the difference between the two weights represents the weight of displaced water. The weight of displaced water in grams equals its volume in cm³ (assuming that the density of water is 1 g/cm³). When measuring the volume of a soil clod, the clod is coated with paraffin to keep water out of the pores. The volume of water displaced by the clod equals the volume of the paraffin-coated clod minus the volume of the paraffin.
+Reagent: Melted wax (paraffin wax)
+Procedure:
+Calculations
+Where:
+Wt = Weight of oven-dry solid particles in the clod (g)
+Wta – Wtw = Weight of the water displaced by the clod (g) or volume of the clod (cm³)
+V = Change in volume o
+Technical Remarks
+Core Method
+Apparatus
+Procedure
+Calculation:
+Where:
+Wtsc = Weight of oven-dry soil core (g)
+V = Volume of soil core (cm³)
+Technical Remark
+The BD value of undisturbed cores has practical significance as it indicates soil aggregation and structure under field conditions.
+Particle Density
+Soil particle density (PD) is defined as the ratio of the mass (oven-dry weight) of the soil particles to the particle volume, expressed in grams per cubic centimeter (only solid, no pore space). The volume of soil is determined by measuring the volume of water displaced by the particles. The magnitud
+Procedure
+Calculation
+Where:
+Wts = Weight of oven-dry soil (g)
+Vs = Volume of the solids (cm³)
+4.7.2. Pycnometer Method
+Apparatus
+Procedure
+Procedure:
+Calculations:
+Where:
+V = Volume of air-oven soil particles (cm³)
+Wt = Weight of air-dry soil (g)
+Wt1 = Weight of the flask plus water (g)
+Wt2 = Weight of the volumetric flask with its content (g)
+Total Pore Space and Porosity:
+The total pore space (TPS) consists of the pore space between adjacent sand, silt, and clay particles, as well as those between aggregates. Percent pore space (PS) is the ratio of the volume of voids in soil to the total volume (bulk volume) of the soil, multiplied by 100. Texture and structure are the main factors governing the amount of PS in soil. Organic matter (OM) affects pore space indirectly by improving structure. If the aggregation of a particular soil increases, the TPS increases, leading to a decrease in the weight per unit volume or bulk density (BD) of the soil. A medium-textured mineral soil in good structural condition for plant growth has a PS of about 50%. This PS is important for gas exchange (O₂ and CO₂) between the soil and the atmosphere, as well as for water storage and movement. The PS is filled with air and water, and depending on pore size, they are classified as macro-pores (large) or micro-pores (small). There is no sharp demarcation between the two pore sizes.
+Calculation:
+Where:
+PD = Particle density (g/cm³)
+BD = Bulk density (g/cm³)
+Soil Water Retention Curve (pF-curve):
+Soils are equilibrated with water at various tensions, and the moisture content is later determined. The ability of soil to retain water depends on several factors, including texture, OM content (due to its hydrophilic nature), nature of mineral colloids, arrangement of particles (soil structure), and bulk density. The relationship between soil moisture tension and soil moisture content is described by the water
+The available water capacity (AWC) or plant-available water (PAW) is the amount of water retained in the soil that can be accessed by plants. It is estimated as the difference in soil water content between field capacity (FC) and permanent wilting point (PWP). Soil moisture characteristics are used to determine: 1) the water that can be readily absorbed by plant roots (for irrigation purposes), 2) the effective pore space and porosity, 3) specific yield (for drainage design), and 4) changes in soil structure (caused by tillage or mixing of soil layers). The relationship between soil moisture tension and other soil physical properties, such as capillary conductivity, thermal conductivity, clay content, and organic matter (OM) content is sometimes the subject of research.
+4.9.1. Ceramic Plate Method (0.1 to 15 bar)
+The ceramic plate equipment is suitable for determining pF-curves in the pF range of 2.0-4.2 (0.1-15 bar of suction). Soil moisture is removed from soil samples by raising air pressure in an extractor. A porous ceramic plate acts as a hydraulic link for water to move from the soil to the exterior of the extractor. The high-pressure air cannot flow through the plate's pores since they are filled with water. The smaller the pore size, the higher the pressure that can be exerted before air passes through.
+Low range: moisture at 0-100 kPa (0-1 bar) pressure
+Apparatus:
+Procedure:
+Procedure
+Technical Remarks
+Checking the pressure plate: Install the pressure plate to be used in a pressure cooker. Fill it with water, fasten the lid on the cooker, and measure the rate of outflow of water from the ceramic plates at a pressure of 15 bar; the rate should be about 1 mL per cm²/h/atm. Ensure that there is a pressure difference for satisfactory operation of the porous plates.
+Checking the pressure of the ceramic plate: Push free air pressure inside the ceramic pressure plate and then close the outflow valve with your finger. Submerge the ceramic pressure plate in a tank filled with water. If there are air leaks at the ceramic pressure plate gasket or attendant connections, the ceramic pressure plate should be replaced.
+If the outlets of the plates (cooker) continue to bubble after a few hours of applied pressure, the plates are probably defective and should be replaced (air leaks cause troubles with air pressure control and serious errors in retention determination through direct loss of water vapor from the soil sample).
+Pressure should not be allowed to fluctuate during a run. It should be checked every 2-3 hours and adjusted if necessary. If the pressure fluctuations are within the specified tolerance of the regulator, no adjustment is needed.
+During an experimental run, equilibrium is reached when water flow from the outflow tube ceases. At equilibrium, there is an exact relationship between the air pressure in the extractor and the soil suction (and hence the moisture content) in the samples. The accuracy of equilibrium values will be no better than the regulation of air supply; therefore, the pressure control panel has independent double regulators.
+The height of the sample in the ring should be as small as possible to reduce the time required to reach equilibrium, which is proportional to the square of the height of the sample in the ring.
+Never remove the extractor lid while there is pressure in the container.
+The field capacity (FC) is commonly estimated by measuring the moisture retained at the following pressures:
+Pascal is the standard unit for the expression of soil suction. By definition, 100 kPa is equal to 1 bar or 0.987 atmospheres or 14.5 psi. The latter units should not be used anymore.
+The various pressure plate cells are not suitable for extracting solutions from soils for chemical analysis. The immense surface area within the porous ceramic plate can cause disturbance and contamination of the soil solution.
+Pressure plates are washed after use and dried with a coating of sand over the ceramic. This prevents fine airborne particles from lodging in the pores of the ceramic. The dry sand can then be brushed off, and the plate stored until required.
+Sandbox Method
+The sandbox can be used to apply suction from pF 0 (saturation) to pF 2.0 (-100 hPa). Sand is used to convey the suction from the drainage system to the soil samples. As the surface of the sand is flexible, the contact between the sample and the sand can be established more easily, making sand
+Results of measurements taken with this sandbox correspond with points on the drying curves of the relevant samples, associated with decreasing pressure. These pressure values are usually standard water potential increments. The wetting curve, on the other hand, is determined by graphing the water content against increasing pressure values. This curve is not identical to the drying curve because the water content does not respond instantaneously to changes in pressure. This phenomenon is called hysteresis.
+Apparatus
+Assembling the sandbox
+Soil sample ring
+Procedure
+A. Field processing
+B. Laboratory processing
+The 18 essential nutrients for plants are classified into four groups (Brady and Weil, 1999): 1. Major non-mineral macronutrients: these constitute 90–95% of dry plant weight and are supplied to the plant through water absorption and photosynthesis, namely carbon (C), hydrogen (H), and oxygen (O); 2. Primary macronutrients, which include nitrogen (N), phosphorus (P), and potassium (K); 3. Secondary macronutrients, comprising calcium (Ca), magnesium (Mg), and sulfur (S); and 4. Micronutrients, such as boron (B), chloride (Cl), cobalt (Co), copper (Cu), iron (Fe), manganese (Mn), molybdenum (Mo), nickel (Ni), and zinc (Zn).
+Three major factors contribute to plant nutrition: the amount of available nutrients in the soil, the soil’s ability to supply these nutrients to plants, and environmental factors that affect nutrient availability and plant absorption. Measurements that involve the characterization of the soil solution, its constituents, and the composition of both inorganic and organic phases in the soil are broadly termed chemical. This includes all nutrient elements and soil components that directly or indirectly influence such elements or components. This section thus constitutes the core of this manual.
+The chemical procedures presented here are extensive, though by no means exhaustive. For any one element, numerous procedures or variations can be found in the literature (Walsh and Beaton, 1973; Page, 1982; Westerman, 1990; Sparks et al., 1996). We have endeavored to select procedures that are appropriate for soils of the Mediterranean region, where a good relationship exists between test values and crop growth. Where alternative methods are appropriate, we have presented their salient features. A bibliography of soil testing information is provided for users who may need to expand or modify their range of soil testing procedures.
+We have initially presented analyses that are routinely performed to characterize a soil sample or soil type in terms of background information, such as pH, salinity, calcium carbonate (CaCO3), organic matter (OM), cation exchange capacity (CEC), and gypsum (CaSO4·2H2O). Regarding nitrogen, the dominant fertility factor in soils, we have focused on the most convenient methods for measuring different forms or fractions of nitrogen in soils. This is subsequently followed by procedures for phosphorus, soluble and exchangeable cations, soluble anions, and micronutrients. Where appropriate, we have provided guidelines for interpreting the data produced with the analytical procedures listed (see Appendix 9).
+The use of an extract from a saturated paste is advantageous for characterizing saline soils since it closely approximates salinity in relation to plant growth. Soluble cations and anions can also be obtained by this method, allowing for the estimation of other important parameters such as Sodium Adsorption Ratio (SAR), which predicts Exchangeable Sodium Percentage (ESP). Criteria for boron (B) toxicity tolerance by various plant species have also been developed for such an extract (see Appendix 15). Thus, a saturation extract is routinely used where salinity is a concern. The cations analyzed in saturation extracts are calcium (Ca), magnesium (Mg), potassium (K), and sodium (Na), while the anions are sulfate (SO4), carbonate (CO3), bicarbonate
+Procedure
+Technical Remarks
+Procedure
+Note: Oven-dry moisture values will be slightly higher than the direct method as air-dry soil retains 3-5% moisture, depending on clay and salt content.
+Calculations or Technical Remarks
+pH
+Soil pH is a crucial soil indicator, defined as the negative log of the hydrogen ion activity. Since pH is logarithmic, the H-ion concentration in solution increases tenfold when its pH is lowered by one unit. The pH range normally found in soils varies from 3 to 9. Various categories of soil pH may be arbitrarily described as follows:
+The significance of pH lies in its influence on the availability of soil nutrients, the solubility of toxic nutrient elements in the soil, the physical breakdown of root cells, and CEC in soils whose colloids (clay/humus) are pH-dependent, as well as biological activity. At high pH values, the availability of P and most micronutrients, except B and Mo, tends to decrease. Acid soils are rare in semi-arid, dryland areas; they tend to occur in temperate and tropical areas where rainfall is substantial. Conversely, soils of drier areas are generally alkaline (above pH 7.0) due to the presence of CaCO3 and will visibly effervesce (fizz) when 10% hydrochloric acid (HCl) is added dropwise to the s
+Soil salinity refers to the concentration of soluble inorganic salts in the soil. It is normally measured by extracting the soil sample with water (1:1 or 1:5 soil: water ratio, w/v) or in an extract of saturated paste. However, soil: solution ratios of 1:1 or wider are more convenient when the quantity of soil is limited. Such extracts are rapid, and salinity is measured by electrical conductivity (EC) using a conductivity bridge. The total salt content of a soil can be estimated from this measurement. A more precise method involves evaporation of the aqueous extract and weighing the residue (total dissolved solids, TDS).
+Salinity is an important laboratory measurement since it reflects the extent to which the soil is suitable for growing crops. H
+Potassium Chloride Solution (KCl), 0.01 N
+Procedure
+Technical Remarks
+5.4. Calcium Carbonate
+Inorganic carbonate, either as calcium (calcite) or magnesium (dolomite) carbonate or mixtures of both, occurs in soils as a result of weathering or is inherited from the parent material. Most soils of arid and semi-arid regions are calcareous. In fact, soils of these regions may primarily consist of CaCO3. As with alkaline pH, the soil retention of P, Mn, Zn, and Cu is directly related to carbonate content and to the distribution of total and active CaCO3 between the clay and silt fractions. Consequently, CaCO3 equivalent is normally determined in most laboratories. While some laboratories
+Carbonate in the sample is dissolved in an excess of hydrochloric acid (HCl). The remainder of the acid is titrated against sodium hydroxide (NaOH). A given weight of soil is reacted with an excess of acid. In this reaction, CO2 gas is released, and the acid not used in the dissolution of carbonates is back-titrated with NaOH solution. In the titration method, two equivalents of acid are assumed to react with one mole of CaCO3. Hence, one equivalent of acid is assumed to be equivalent to one-half mole of CaCO3.
+Apparatus
+Reagents A. Hydrochloric Acid Solution (HCl), 1 N
+Dilute 82.8 mL concentrated HCl (37%, sp. gr. 1.19) in DI water, mix well, let it cool, and bring to 1 L volume. Standardize with 1 N Na2CO3 solution, and determine the exact normality of the HCl solution.
+B. Sodium Hydroxide Solution (NaOH), 1 N
+Dissolve 40 g NaOH in DI water, and transfer to a 1-L flask, let it cool, and bring to volume. Standardize with 1 N HCl solution, and determine the exact normality of the NaOH solution.
+C. Phenolphthalein Indicator
+Dissolve 0.5 g phenolphthalein indicator in 100 mL ethanol (ethyl alcohol).
+D. Methyl-Orange Indicator
+Dissolve 0.1 g methyl-orange indicator in 100 mL DI water.
+E. Sodium Carbonate Solution (Na2CO3), 1 N
+Dissolve 53 g anhydrous Na2CO3 in DI water, and bring to 1-L volume. Do not keep longer than one week.
+F. Ethanol, 95%
+Procedure
+Where:
+NHCl = Normality of HCl solution
+NNa2CO3 = Normality of Na2CO3 solution
+VHCl = Volume of HCl solution used (mL)
+NNaOH = Normality of NaOH solution
+Technical Remarks:
+Active Calcium Carbonate Measurement is based on the reaction with excess ammonium oxalate, followed by titration with permanganate in an acid medium. Most of the reversibly adsorbed calcium (on clay minerals) is released and precipitated as calcium oxalate. Part of the CaCO3 in the soil is dissolved, and the calcium is precipitated as oxalate. The soluble “active” CaCO3 is assumed to include the smaller particles (less than 2 mm) and some amorphous forms of CaCO3. The reaction of ammonium oxalate with CaCO3 can be expressed as follows:
+CaCO3 + 2 NH4+ C2O4 → CaC2O4 (s) + 2 NH3 + H2O + CO2.
+The oxalate also reacts with dissolved and exchangeable calcium to form oxalate; therefore, the procedure should more appropriately be called an “active” calcium procedure rather than an “active” carbonate procedure. The reaction of unreacted ammonium oxalate (following acidification with H2SO4) is summarized by the following equation:
+2 MnO4 + 5 H2C2O4 + 6 H → 2 Mn + 10 CO2 + 8 H2O.
+After equilibration, the suspension is filtered, and the remaining oxalate is titrated with permanganate in an acid medium. Once all the oxalate is oxidized, the solution turns pink due to the permanganate.
+Apparatus:
+Hot plate, burette, Erlenmeyer flask, volumetric pipette.
+Reagents:
+A. Ammonium Oxalate Solution [(NH4)2C2O4], 0.2 N: Dissolve 12.61 g of ammonium oxalate in DI water and bring to a 1 L volume.
+B. Potassium Permanganate Solution (KMnO4), 0.02 N: Dissolve 3.16 g of KMnO4 in about 600-800 mL of DI water (boiled and cooled). Keep the solution at a gentle boil for about 1 hour, cover, and let stand overnight. Filter and bring to a 1 L volume, storing the solution in an amber glass bottle.
+C. Oxalic Acid (
+Procedure:
+Calculation:
+Where:
+Vblank = Volume of (NH4)2C2O4 solution required to titrate the blank (mL)
+Vsample = Volume of (NH4)2C2O4 solution required to titrate the sample (mL)
+N = Normality of KMnO4 solution
+V1 = Total volume of sample (mL)
+V2 = Volume of soil extract used for measurement (mL)
+Wt = Weight of air-dried soil (g)
+0.1 meq MnO4 reacts with 5 mg CaCO3.
+Technical Remarks:
+Most laboratories in the region perform analyses for soil organic matter (SOM), which can be measured by various methods. These include the loss after ignition method, where weight changes indicate the destruction of organic compounds by H2O2 treatment or by high-temperature ignition, as well as wet combustion analysis of soils using chromic acid digestion, which is the standard method for determining total carbon. Additionally, organic matter and organic carbon can be estimated using volumetric and colorimetric methods. However, the most common procedure involves the reduction of potassium dichromate (K2Cr2O7) by organic carbon compounds, followed by the determination of unreduced dichromate through oxidation-reduction titration with ferrous ammonium sulfate. This method is known as the Walkley-Black method. Although the actual measurement is of oxidizable organic carbon, the data are typically converted to percentage organic matter using a constant factor, assuming that organic matter contains 58% organic carbon. Since this proportion is not constant, results are preferably reported as oxidizable organic carbon or multiplied by 1.33 to represent organic carbon.
+Apparatus:
+Reagents: A. Potassium Dichromate Solution (K2Cr2O7), 1N:
+B. Concentrated Sulfuric Acid (H2SO4, 98%, sp. gr. 1.84)
+C. Concentrated Orthophosphoric Acid (H3PO4)
+D. Ferrous Ammonium Sulfate Solution [(NH4)2SO4.FeSO4.6H2O], 0.5 M:
+E. Diphenylamine Indicator (C6H5)2NH:
+Procedure:
+Calculations: Where: M = Molarity of (NH4)2SO4.FeSO4.6H2O solution (approximately 0.5 M)
+V_bl
+Many minerals in soils are negatively charged and, as a consequence, can attract and retain cations such as potassium (K), sodium (Na), calcium (Ca), magnesium (Mg), ammonium (NH4), and others. Cation exchange is a reversible process, allowing elements or nutrients to be held in the soil rather than lost through leaching, and subsequently released for crop uptake. Certain organic compounds contribute to cation exchange capacity (CEC). The presence of high concentrations of calcium, especially in the form of gypsum, interferes with the determination of CEC, which is an important parameter for soil fertility and mineralogical characterization. Additionally, CEC is influenced by soil pH, where a portion of the total negative charge is permanent, while another variable portion is pH-dependent. Several methods are available for CEC determination. Most methods involve saturating the soil with an index cation (NH4), removing excess cation by washing, and subsequently replacing the adsorbed index cation with another cation (Na) before measuring the index cation in the final extract. Modified procedures have been introduced due to the high solubility of calcium in calcareous and gypsiferous soils. Cation exchange capacity is reported as centimoles of positive charge per kilogram of soil (cmol (+)/kg). The old unit milli-equivalents per 100 grams (meq/100g), where 1 meq/100 g equals 1 cmol (+)/kg, should no longer be used. CEC values typically range from 1.0 to 100 cmol (+)/kg, being least for sandy soils and most for clay soils. Higher CEC values reflect the dominance of 2:1 clay minerals, while lower values indicate the presence of 1:1 clay minerals.
+The apparatus required includes a flame photometer, a reciprocating mechanical shaker, a centrifuge capable of 3000 rpm, and conical centrifuge tubes (50 mL).
+Reagents: A. Sodium Acetate Solution (CH3COONa·3H2O), 1 N: Dissolve 136 g of sodium acetate trihydrate in about 950 mL of deionized water, mix well, and let cool. Adjust pH to 8.2 by adding acetic acid or NaOH and bring to a final volume of 1 L.
+B. Ethanol (C2H5OH), 95%
+C. Ammonium Acetate Solution (NH4OAc), 1 N: Add 57 mL of concentrated acetic acid to 800 mL of deionized water, then add 68 mL of concentrated ammonium hydroxide, mix well, and let cool. Adjust to pH 7.0 by adding more acetic acid or NH4OH, then br
+Procedure
+Calculation
+Where:
+V = Total volume of the soil extract (mL)
+Wt = Weight of air-dry soil (g)
+Technical Remarks
+Gypsum
+Soils with variable contents of gypsum (CaSO4·2H2O) are common in many countries of the WANA region. Gypsum is primarily a concern in irrigated areas and less so in rainfed agriculture. Thus, its determination is important to some laboratories in the region. The standard method for gypsum determination described here is that of Richards (1954), which involves precipitation with acetone. Modifications of that method and other procedures are found in the FAO bulletin on gypsiferous soils (FAO, 1990).
+Apparatus
+Centrifuge, capable of 4000 rpm
+Conical centrifuge tubes (50 mL)
+Conductivity cell and Wheatstone bridge
+Mechanical shaker
+Reagent
+Procedure (Quantitative)
+Gypsum Concentration (meq/L) corresponds to the following Electrical Conductivity (dS/m):
+Calculations
+Where:
+A = Amount of water used to dissolve the precipitate (mL)
+A1 = Soil: water ratio
+A2 = Soil-water extracted used (mL)
+Example
+The electrical conductivity reading from a 10:50 (soil: water ratio) is 1.211 mS/cm.
+Technical Remarks
+The organic fraction constitutes the majority of total nitrogen (N) in soils, usually more than 95%. It is primarily composed of plant and microbial remains, with variable composition. The inorganic phase of soil nitrogen includes ammonium (NH4), nitrate (NO3), and, though in very small amounts, nitrite (NO2). Environmental factors, such as temperature and moisture, along with agronomic management practices like fertilization and cropping, influence the dynamic relationship between organic and inorganic nitrogen forms. The NH4-N and NO3-N forms are routinely measured in soil laboratories, as they reflect the extent of mineralization, and these nitrogen forms are taken up by plants. In the WANA region, the NO3-N content in soils serves as a good indicator for predicting the nitrogen fertilizer needs of crops. The organic nitrogen fraction measures the soil's nitrogen reserve or its capacity to release nitrogen for crop needs through mineralization. Therefore, nitrogen analysis methods vary depending on the fractions or forms of nitrogen of interest. Total soil nitrogen, primarily organic, is generally measured after wet digestion using the well-known Kjeldahl procedure. Total inorganic nitrogen (NH4 + NO3 + NO2) is usually determined by distillation of a 2 M KCl soil extract. Following distillation, NO3-N can be quantified using a method involving chromotropic acid.
+The Kjeldahl nitrogen procedure involves both digestion and distillation. In this process, soil is digested in concentrated sulfuric acid (H2SO4) with a catalyst mixture to raise the boiling temperature and promote the conversion of organic nitrogen to ammonium nitrogen (NH4-N). The NH4-N from the digestion is obtained via steam distillation, using excess sodium hydroxide (NaOH) to raise the pH. The distillate is collected in saturated boric acid (H3BO3) and then titrated with dilute sulfuric acid (H2SO4) to a pH of 5.0. This method determines ammonium nitrogen, most organic nitrogen forms, and a variable fraction of nitrate nitrogen in soil. For most soils, the Kjeldahl procedure provides a good estimate of total soil nitrogen content. If needed, nitrate nitrogen can also be included through reduced iron or salicylic acid modifications of the Kjeldahl procedure.
+Apparatus required for this procedure includes a distillation unit, block digester, automatic titrator connected to a pH meter, and vortex tube stirrer.
+Reagents used in the Kjeldahl nitrogen procedure are as follows:
+A. Catalyst Mixture: A mixture of K2SO4, CuSO4·5H2O, and selenium (Se) in a 100:10:1 weight/weight ratio. Grind reagent-grade chemicals separately and mix. If caked, grind the mixture in a porcelain pestle and mortar to pass a 60-mesh screen (0.250 mm), taking care not to inhale Se dust or allow it to come in contact with skin.
+B. Concentrated Sulfuric Acid (H2SO4): 98%, specific gravity 1.84.
+C. Sodium Hydroxide Solution (NaOH): 10 N. Dissolve 400 g of NaOH in deionized (DI) water, transfer to a 1-L heavy-walled Pyrex flask, let it cool, and bring to volume.
+D. Boric Acid Solution (H3BO3): Saturated. Add 500 g of H3BO3 to a 5-L flask. Add 3 L of DI water and swirl vigorously.
+A. Digestion
+B. Distillation
+Technical Remarks
+Total Nitrogen
+The difference between Kjeldahl-N and total nitrogen (total-N) in soil is usually very small, primarily due to the presence of nitrate nitrogen (NO3-N) in the total-N determination. In the following procedure, the NO3-N fraction present in the soil is reduced and subsequently included in the distillation.
+Reagents
+A. Sulfuric Acid (H2SO4), concentrated (98%, sp. gr. 1.84)
+B. Potassium Permanganate Solution (KMnO4): Dissolve 50 g KMnO4 in DI water and bring to a 1-L volume. Store the solution in an amber bottle.
+C. Sulfuric Acid Solution, 50% v/v ratio: Slowly add 1 L concentrated H2SO4 with continuous stirring to 1 L DI water already placed in a 4-L flask.
+D. Reduced Iron: Grind in a ball mill and sieve to remove any material that does not pass a 0.15-mm sieve (<150 mesh).
+E. N-octyl Alcohol Solution
+F. Catalyst Mixture (K2SO4 – CuSO4·5H2O – Se), 100:10:1 w/w ratio: Grind reagent-grade chemicals separately and mix. If cake
+L. Standard Stock Solution
+Procedure
+A. Pre-treatment
+B. Digestion
+C. Distillation
+Before starting a batch for distillation, the distillation unit should be steamed out for at least 10 minutes. Adjust the steam rate to 7 – 8 mL of distillate per minute. Water should flow through the condenser jacket at a rate sufficient to keep the distillate temperature below 22 °C.
+Calibrate the pH meter with buffer solutions of pH 7.0 (buffer) and 4.0 (sensitivity) after setting for temperature. Then, standardize the 0.01 N H2SO4 in the Auto-Titrator by titrating three separate 10-mL aliquots of the primary standard, 0.01 N Tris solution, to pH 5.0. The titrations should agree within 0.03 mL; if not, titrate further aliquots until agreement is found.
+Carry out distillations as follows:
+Notes:
+Calculations:
+Where:
+V = Volume of 0.01 N H2SO4 titrated for the sample (mL)
+V1 = Total volume of the digest (mL)
+B = Digested blank titration volume (mL)
+N = Normality of H2SO4 solution
+V2 = Volume of the digest sample used for distillation (mL)
+Wt1
+NH4 is transformed to NO3, losing its positive (+) charge, which means the soil no longer attracts the available nitrogen unless positive charges are present (anion exchange capacity). Water percolating through the soil profile may leach and deplete the mobile NO3 from the upper layers to the lower layers and even into the groundwater if leaching is excessive. This excessive NO3 leaching often results from inadequate nitrogen fertilizer management. Nitrate is highly soluble in water, and various solutions, including water, have been used as extractants. Exchangeable NH4 can be extracted at room temperature using a neutral K salt solution. Different extractants at varying molarities have been employed, such as 0.05M K2SO4, 0.1M KCl, 1M KCl, and 2M KCl. At ICARDA, mineral nitrogen is determined using 2M KCl as the extracting solution in a 1:5 (soil
+) ratio. Ammonium and NO3, plus nitrite (NO2), are determined by steam distillation of ammonia (NH3), utilizing heavy MgO for NH4 and Devarda’s Alloy for NO3. The distillate is collected in saturated H3BO3 and titrated to pH 5.0 with dilute H2SO4. This method quantifies dissolved and adsorbed forms of NH4, NO3, and NO2 in soils. The total derived from this method is referred to as mineral nitrogen. Field-fresh soil samples are preferred over air-dried or oven-dried samples since the drying process may alter the concentrations of NH4 and NO3. Soil samples may be stored in the refrigerator for a few days until analysis.
+For the apparatus, a distillation unit and an automatic titrator connected to a pH meter are needed. The reagents include:
+A. Potassium Chloride Solution (KCl), 2 M: Dissolve 150 g of reagent-grade KCl in DI water and bring to a 1-L volume.
+B. Magnesium Oxide (MgO), powder: Heat heavy MgO in a muffle furnace at 600-700 °C for 2 hours, cool in a desiccator with KOH pellets, and store in a tightly stoppered bottle.
+C. Devarda’s Alloy (50 Cu: 45 Al: 5 Zn): Ball-mill reagent-grade Devarda’s Alloy until it passes a 100-mesh sieve (0.150 mm) and at least 75% passes a 300-mesh sieve (0.050 mm).
+D. Boric Acid Solution (H3BO3), saturated: Add 500 g of H3BO3 to a 5-L flask, add 3 L of DI water, swirl vigorously, and leave overnight. There should always be solid H3BO3 at the bottom of the flask.
+E. Tris Solution (hydroxymethyl aminomethane) (C4H11NO3), 0.01 N: Dry reagent-grade Tris in an oven at 80 °C for 3 hours, cool in a desiccator, and store in a tightly stoppered bottle. Dis
+A. Extraction
+B. Distillation
+To determine NH4-N:
+To determine NO3-N and NO2-N:
+Notes
+Calculations
+Where:
+V = Volume of 0.01 N H2SO4 titrated for the sample (mL)
+B = Blank titration volume (mL)
+N = Normality of H2SO4 solution
+14.01 = Atomic weight of N
+V1 = Total volume of the extract (mL)
+V2 = Volume of the soil extract used for distillation (mL)
+Wt = Weight of air-dry soil (g)
+θ = Weight of water (g) per air-dry soil
+Technical Remarks
+Nitrate-Nitrogen (by chromotropic acid)
+Nitrate-N is measured by a spectrophotometric method using chromotropic acid, which is
+Dilute 10 mL of Stock Solution to a 200-mL flask by adding 0.02 N CuSO4.5H2O solution. This solution contains 50 ppm NO3-N (Diluted Stock Solution). Prepare a series of Standard Solutions from the Diluted Stock Solution as follows: Dilute 1, 2, 3, 4, 5, 6, and 7 mL of the Diluted Stock Solution to 100-mL numbered flasks by adding 0.02 N CuSO4.5H2O solution, and then bring to volume. These solutions contain 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, and 3.5 ppm NO3-N, respectively.
+Procedure
+Calculation
+Where:
+V = Total volume of the extract (mL)
+Wt = Weight of air-dry soil (g)
+V1 = Volume of soil extract
+Dissolve 19.616 g of K2Cr2O7 in deionized (DI) water, and bring to a final volume of 1 liter.
+E. Ferrous Ammonium Sulfate Solution [Fe (NH4)2(SO4)2·6H2O], 0.2 N: Dissolve 78.4 g of ferrous ammonium sulfate in DI water, add 5 mL of concentrated H2SO4, mix well, and bring to a final volume of 1 liter.
+F. 1,10-Phenanthroline Indicator: Dissolve 14.85 g of 1,10-phenanthroline indicator and 6.95 g of ferrous sulfate (FeSO4·7H2O) in DI water, and bring to a final volume of 1 liter.
+G. Sulfuric-Orthophosphoric Acid Mixture (H2SO4: H3PO4), concentrated (2:1 ratio): Add 1 liter of concentrated H2SO4 to 0.5 liters of concentrated H3PO4.
+Procedure:
+Remember: The chloroform is being trapped by the oil in the vacuum pump; the oil must be changed more often than normal. Alternatively, chloroform can be trapped by a cooling finger to prevent contamination of the vacuum oil. It is not necessary to evacuate the control desiccator.
+B. Distillation
+Technical Remarks
+Some authors suggest that empirically derived correction factors should be applied to these results. These factors may be obtained by conducting the fumigation/extraction procedure on inert soils containing a known quantity of microbial biomass (e.g., mushrooms or washed bacterial cells). Vance et al. (1987) advocate a factor of 2.64 for microbial biomass, while Brookes et al. (1985) recommend a factor of 1.46 for biomass nitrogen. If these factors are applied, this should be clearly indicated when reporting the results. Because of the large variation in soil microbial (and micro-faunal) populations in soils, it is suggested that these factors may not be applied.
+The fumigation is done in a desiccator lined with paper or tissue. Place the beakers with soil (after pre-incubating for 1 week) in the desiccator, together with a beaker containing 20 mL ethanol-free chloroform (CHCl3) and a few anti-bumping granules.
+5.10. Phosphorus
+5.10.1. Extractable Phosphorus
+Because of its significance as a major nutrient, coupled with the fact that it is widely deficient in alkaline-calcareous soils, phosphorus (P) is measured in virtually all soil laboratories in the WANA regions. Compared to nitrogen and most other nutrients, soil tests for P are generally fairly reliable in predicting the need for P fertilizer for growing field crops. Since P compounds in soils are highly variable and related to soil type or parent material, several extractants are used worldwide for evaluating soil fertility. Few, if any, of these procedures are satisfactory for all soil types. Even a good test must be well correlated with crop P uptake and must be calibrated to crop response to fertilizer application in field situations.
+The sodium bicarbonate (NaHCO3) procedure of Olsen et al. (1954) is generally accepted as a suitable index of P availability for alkaline soils, where the solubility of calcium phosphate is increased because of the precipitation of calcium as calcium carbonate. Field research has confirmed its usefulness in the WANA region since the region’s soils are mainly calcareous (Ryan and Matar, 1990; 1992). Consequently, this soil test has been adapted for routine use in almost all laboratories in the region. The original copper sulfate pentahydrate (CuSO4·5H2O) method, developed and described by Olsen et al. (1954), involved the use of carbon black in the extraction reagent to eliminate color due to soil organic matter in the extract. The procedure was, however, modified later, eliminating the use of carbon black (Murphy and Riley, 1962; Watanabe and Olsen, 1965; Olsen and Sommers, 1982). In the modified method, a single solution reagent containing ammonium molybdate, ascorbic acid, and a small amount of antimony is used for color development in the soil extracts.
+The experimental apparatus for the fumigation procedure includes a spectrophotometer or colorimeter for measuring absorbance, a
+E. Reagent-A
+F. Reagent-B
+Dissolve 1.056 g L-Ascorbic acid
+(C
+6
+H
+8
+O
+6
+) in 200 mL Reagent-A, and then mix well. This reagent should be prepared as required because it does not keep for more than 24 hours.
+G. Standard Stock Solution
+Procedure
+A. Extraction
+B. Measurement
+Notes
+The intensity of blue color changes slightly with every batch of molybdate reagent. Glassware used in phosphorus analysis should not be washed with detergents containing phosphorus (most detergents contain phosphorus). As glass tube density may vary, it is best to use the same tube (cuvette) for each absorbance reading on a spectrophotometer. If the AB-DTPA test (described in Section 5.18.2) is used for evaluating micronutrient status of the soil, phosphorus can also be determined in the same extract. The beauty of this ‘universal’ test for alkaline soils is that macronutrients (nitrate nitrogen, phosphorus, and potassium) and micronutrients (zinc, iron, manganese, and copper) can be determined in a single extract. Color is stable for 24 hours. Dissolved organic matter does not interfere with the method. If a glass container is used to store the extracting solution, pH tends to increase with time, resulting in higher values for extractable phosphorus. In general, the Bray P-1 method extracts about the same amount of phosphorus as the Olsen method in the low range, and more in the medium and high ranges, except on highly calcareous soils, where it extracts less phosphorus. The most commonly used methods for determining available phosphorus in soils are Bray’s method for acidic soils and Olsen’s method for neutral and calcareous/alkaline soils.
+The “plant-available phosphorus” fraction is normally a small proportion of total phosphorus. Total phosphorus measurement involves digestion of a soil sample with a strong acid and the dissolution of all insoluble inorganic and organic phosphorus forms of minerals. This measurement is usually employed only for soil genesis or mineralogical studies.
+Apparatus:
+Reagents: A. Perchloric Acid (HClO4), concentrated (60%) B. Ammonium Heptamolybdate-Ammonium Vanadate in Nitric Acid (HNO3)
+C. Standard Stock Solution
+B. Measurement
+Calculation
+Where:
+V = Total volume of the digest tube (mL)
+Wt = Weight of air-dry soil (g)
+V1 = Volume of soil digest used for measurement (mL)
+V2 = Volume of flask used for measurement (mL)
+Caution!
+HClO4 is explosive in the presence of easily oxidizable organic matter. Avoid this hazard by taking the following precautions:
+(a) Do not add HClO4 to a hot solution containing high organic matter content.
+(b) Always pre-treat samples containing organic matter with HNO3 before adding HClO4.
+5.10.3. Organic Phosphorus
+Organic phosphorus (P) content in soils, by the Ignition Method, is estimated by igniting the soil at 550 °C. Simultaneously, inorganic P in the soil is estimated by extracting with 1 N sulfuric acid. Later, the organic P content in the soil is calculated by subtracting P in the unignited sample from P in the ignited sample.
+Apparatus
+Reagents
+A. Sulfuric Acid (H2SO4), 1 N
+Dilute 30 mL of concentrated H2SO4 solution (in a fume hood) with DI water, mix well, let it cool, and bring to 1-L volume.
+B. Sodium Hydroxide (NaOH), 5 N
+Dissolve 200 g of NaOH in DI water, and transfer the solution to a 1-L heavy-walled Pyrex flask, let it cool, and bring to volume.
+C. p-Nitrophenol, 0.25 % (w/v)
+D. Reagent-A
+A. Digestion
+B. Measurement
+Calculation
+Where:
+V = Total volume of the soil extract (mL)
+Wt = Weight of air-dry soil (g)
+V1 = Volume of extract used for measurement (mL)
+V2 = Volume of flask used for measurement (mL)
+5.11. Potassium
+Along with nitrogen (N) and phosphorus (P), potassium (K) is vital for crop production. Most soils contain relatively large amounts of total K (1 – 2%) as components of relatively insoluble minerals. However, only a small fraction (about 1%) is available to plants, i.e., water-soluble and exchangeable K. Highly weathered acid soils in tropical regions are more frequently deficient in plant-available K, while soils in arid and semi-arid areas tend to have adequate K. A possible exception is sandy soils and irrigated soils grown to high K-requiring crops, such as sugar beet and potatoes.
+Determining plant-available K is complicated, as it includes both K soluble in water and part of the exchangeable K. Additionally, extracting solutions used for exchangeable K may also extract part of the extractable K from K-aluminum silicate clay minerals, such as K-feldspars and micas, which are not readily available. The moisture content of the soil sample and the method of drying the sample also affect K extractability. Nevertheless, extractable K, or exchangeable plus water-soluble K, is often
+However, the cation concentrations determined by this method are referred to as “exchangeable” for non-calcareous soils. For calcareous soils, the cations are referred to as “exchangeable plus soluble.”
+Apparatus
+Reagents
+A. Ammonium Acetate Solution (NH4OAc), 1 N
+B. Standard Stock Solution
+Procedure
+A. Extraction
+Or as an alternative procedure:
+Technical Remarks
+Sodium
+Sodium (Na) can be extracted with ammonium acetate solution in the same way as K, while soluble Na can be obtained in a water extract from a saturated paste, similar to the procedure for electrical conductivity (EC). Subsequently, Na in the extract can be determined by flame photometry, where Na emits a sparkling yellowish-red color.
+Extractable Sodium Reagents
+A. Ammonium Acetate Solution (NH4OAc), 1 N
+B. Lithium Chloride (LiCl), 1000 ppm
+C. Standard Stock Solution
+Procedure
+A. Extraction
+B. Measurement
+Calculations
+Where:
+V = Total volume of the soil extract (mL)
+Wt = Weight of air-dry soil (g)
+23 = Atomic weight of Na
+5.12.2. Soluble Sodium
+This fraction measures the amount of Na extracted from the soil by water (which can be obtained in a water extract from a saturated paste, similar to pH and EC determinations).
+Procedure
+A. Extraction
+B. Measurement
+5.12.3. Exchangeable Sodium
+Exchangeable Na, or that held on the exchange sites or surfaces of clay minerals, is typically the dominant portion of total extractable Na. It can be detected by difference.
+5.13. Calcium and Magnesium
+Exchangeable Ca and Mg are usually determined in a neutral normal ammonium acetate extract of soil. Soluble Ca and Mg are obtained by extracting the soil with water or from a saturated paste as for pH and EC. Extraction is performed by shaking the soil-extractant mixture followed by filtration or centrifugation, and measuring their concentrations in the extract by titration with EDTA. The EDTA titration method is preferred due to its accuracy, simplicity, and speed. However, Ca and Mg in the extracts can also be measured by atomic absorption spectrophotometry after removing ammonium acetate and organic matter.
+5.13.1. Extractable Calcium and Magnesium
+The method is based on the principle that calcium, magnesium, and several other cations form stable complexes with versenate (ethylendiaminetetraacetic acid disodium salt, EDTA) at different pH levels. A known volume of standard calcium solution is titrated with a standard 0.01N EDTA solution using Murexid (ammonium purpurate) indicator in the presence of NaOH solution. The end point is indicated by a color change from orange-red to purple at pH 12 when all Ca forms a complex with EDTA. Calcium plus Mg are also present in the solution and can be titrated with 0.01N EDTA using buffer solution and a few drops of Eriochrome Black T indicator. The end point is a color change from red to blue at pH 10. Beyond pH 10, magnesium is not bound strongly to Eriochrome Black T indicator to provide a distinct end point.
+Reagents
+A. Buffer Solution (NH4Cl-NH4OH)
+Dissolve 67.5 g NH4Cl in 570 mL concentrated NH4OH, transfer the solution to a 1-L flask, let it cool, and bring to volume.
+B. Eriochrome Black Indicator
+Dissolve 0.5 g Eriochrome Black with 4.5 g hydroxylamine hydrochloride in 100 mL of 95% ethyl alcohol. Prepare a fresh batch every month.
+C. Ethylene Diaminetetraacetic Acid Solution (EDTA), approximately 0.01 N
+Dissolve 2 g EDTA and 0.05 g magnesium chloride (MgCl2) in DI water and bring to a final volume of 1 L.
+Mix 0.5 g ammonium purpurate (Murexid) with 100 g potassium sulfate (K2SO4).
+F. Ammonium Acetate Solution (NH4OAc), 1 N
+G. Standard Stock Calcium Chloride Solution (CaCl2·2H2O), 0.01 N
+Procedure
+A. Extraction
+Or as an alternative procedure:
+Note: For both methods above, the tubes or flasks should be stoppered with a clean rubber or polyethylene stopper, but not corks, as corks may introduce errors.
+B. Measurement
+Calcium
+A. Extraction
+B. Measurement
+Calcium
+Calcium plus Magnesium
+Calculations
+Where:
+V = Volume of EDTA titrated for the sample (mL)
+B = Blank titration volume (mL)
+V1 = Volume of soil extract used for titration (mL)
+N = Normality of EDTA solution
+5.13.3. Exchangeable Calcium and Magnesium
+Exchangeable Ca and Mg, or that held on the exchange sites or surfaces of clay minerals, is normally the dominant portion of total extractable Ca and Mg. It can be detected by difference:
+Technical Remarks
+Erlenmeyer flask. 2. Add 1 drop of phenolphthalein indicator. If a pink color develops, add 0.01 N H2SO4 using a burette, drop by drop, until the color disappears. 3. Take the reading,
+y. 4. Continue the titration with 0.01 N H2SO4 after adding 2 drops of 0.1% methyl orange indicator until the color turns to orange. 5. Take the reading,
+t. 6. Always run two blanks containing all reagents but no soil, and treat them in exactly the same way as the samples. Subtract the blank titration reading from the readings for all samples.
+Calculations
+Where:
+2= Valence of carbonate
+Y= Volume of titrant against phenolphthalein indicator (mL)
+t= Volume of titrant against methyl orange indicator (mL)
+V= Volume of soil extract used for titration (mL)
+N= Normality of H2SO4 solution
+Technical Remark
+Carbonate and bicarbonate should be determined soon after preparing extracts because CaCO3 precipitates on standing. If other analyses (Ca, Mg, K, Na, Cl, and SO4) cannot be performed immediately, refrigerate the extracts.
+Chloride
+Soluble chloride (Cl) is obtained in the saturation extract (as prepared for soluble Ca, Mg, and anions), and its concentration in the extract is determined by silver nitrate titration. This method quantifies the concentration of Cl (meq/L) in the saturation paste extract. Chloride may also be determined using anion selective electrodes (potentiometric). Plant tolerance to Cl can be related to its concentration in the soil saturation paste extract. The method detection limit is approximately 0.1 meq/L, dependent on the method of analysis, and is generally reproducible within ± 10%.
+Reagents
+A. Potassium Chromate Solution (K2CrO4), 5% in water
+B. Silver Nitrate Solution (AgNO3), 0.01 N
+C. Sodium Chloride Solution (NaCl), 0.01 N
+Technical Remarks:
+Sulfate
+Sulfur (S) is present in soils in organic and inorganic forms. Organic S is an important constituent of proteins and amino acids. The major inorganic sources of S include gypsum (CaSO4) and pyrite (Fe2S). Sulfur is added to soil through fertilizers containing S, such as K2SO4 and some pesticides. It exists in soil and soil solution mainly as the sulfate (SO4-S) anion in combination with cations such as Ca, Mg, K, Na, or NH4. Phosphate ions (as monocalcium phosphate) are generally preferred for replacing adsorbed SO4 ions. The extraction can also be carried out using CaCl2 solution; however, the former is considered better for more efficient replacement of SO4 ions. Under aerobic conditions, elemental S is oxidized to form SO4, and under anaerobic conditions, elemental SO4 is reduced by microorganisms into SO3 and S. Waterlogged or paddy soils, especially in swamps, provide a suitable environment for the formation of hydrogen sulfide (H2S). The total S content in soils varies widely; sandy soils in humid regions generally contain low S (0.002%), while soils in arid regions may contain up to 5% SO4-S. Plants absorb S mainly in the SO4 form, which is the available form of S. Sulfate is extractable by water, NaCl, CaCl2, NH4OAc, NaHCO3, and Ca(H2PO4)2 solutions.
+Precipitation Method
+Sulfate in soil extractants is normally determined by barium sulfate precipitation.
+Apparatus:
+Mechanical shaker, reciprocating muffle furnace.
+Reagents:
+A. Methyl Orange Indicator (0.1%): Dissolve 0.1 g methyl orange indicator in 100 mL DI water.
+B. Hydrochloric Acid Solution (HCl, 1:1): Mix equal portions of concentrated HCl with DI water.
+C. Barium Chloride Solution (BaCl2.2H2O, 1 N): Dissolve 122 g BaCl2.2H2O in DI water, and bring to a 1-L volume.
+Procedure:
+A. Extraction
+B. Measurement
+CaCl2.2H2O and measurement of SO4-S concentration in the extracts by a turbidimetric procedure using barium chloride. A critical range of 10-13 mg/kg CaCl2-extractable SO4-S has commonly been reported for cereal (e.g., wheat, maize), oilseed (e.g., mustard), and other crops.
+Apparatus
+Mechanical shaker, reciprocal Spectrophotometer or colorimeter
+Reagents
+A. Calcium Chloride Dihydrate Solution (CaCl2.2H2O), 0.15%
+Dissolve 1.5 g CaCl2.2H2O in about 700 mL DI water, and bring to 1-L volume.
+B. Hydrochloric Acid Solution (HCl), 6 M
+Dilute 496.8 mL concentrated HCl (37%, sp. gr. 1.19) in DI water, mix well, let it cool, and bring to 1-L volume.
+C. Barium Chloride (BaCl2.2H2O), crystals
+D. Sorbitol, 70% aqueous solution
+E. Standard Stock Solution
+Procedure
+A. Extraction
+B. Measurement
+Boron (B) is a non-metal, in contrast to the other micronutrient elements. It is present in small amounts in igneous, sedimentary, and metamorphic rocks. Boron is an essential micronutrient for plant growth, particularly needed for cell division, and thus for the growth of young shoots. In soils, boron is primarily important for soil fertility and plant nutrition. The major inorganic sources of boron are borate and boron-silicate minerals. Borate minerals are mostly found in arid regions and are formed by the evaporation of water in enclosed salt-water lakes and basins.
+The hot-water extraction procedure, introduced by Berger and Truog in 1939 and later modified, remains the most popular method for measuring "available" soil boron, or the fraction of boron related to plant growth in alkaline soils. Water-soluble boron, the available form, is extracted from the soil through water suspension. The boron concentration in soil extracts is measured calorimetrically using the reagent Azomethine-H. Other analysis methods include colorimetric techniques using reagents such as Carmine, and more recently, Inductively Coupled Plasma (ICP) and Atomic Emission Spectrometry. The colorimetric method using Azomethine-H is preferred due to the limitations of Atomic Absorption Spectroscopy (AAS), as boron is not a metal. Soil boron levels below 0.5 ppm may lead to deficiency for most crops, while levels above approximately 5 ppm can cause toxicity. The normal boron concentration in plant tissue is reported to be between 20 and 100 μg/mg dry matter in mature leaves. Boron plays a critical role in sugar translocation and in the synthesis of hormones and proteins in plants.
+Apparatus
+Reagents A. Buffer Solution: Dissolve 250 g of ammonium acetate (NH4OAc) and 15 g of ethylenediamine-tetraacetic acid disodium salt (EDTA disodium) in 400 mL of deionized (DI) water. Slowly add 125 mL of glacial acetic acid (CH3COOH) and mix well.
+B. Activated Charcoal (Boron-free): Prepare by washing DI water (boiling charcoal with water in a 1:5 ratio) repeatedly (8-9 times) and filtering. Check boron in the filtrate by Azomethine-H color development, continuing washing until boron-free.
+C. Azomethine-H Solution: Dissolve 0.45 g of Azomethine-H and 1 g of L-ascorbic acid in 100 mL of DI water. Fresh reagent should be prepared weekly and stored in a refrigerator.
+D. Standard Stock Solution: Dissolve 0.114 g of boric acid (H3BO3) in DI water to make a 1-L volume. This solution contains 20 ppm boron (Stock Solution). Prep
+Though the hot water extraction method (HWE) is quite popular for predicting boron (B) fertility in alkaline soils, the procedure is tedious and prone to error due to the difficulty in maintaining a uniform boiling time. In search of a convenient substitute, researchers have found the dilute hydrochloric acid (HCl) method of Ponnamperuma et al. (1981), originally designed for acid soils, to be equally effective in diagnosing B deficiency in alkaline and calcareous soils. The HCl method is simple, economical, and more efficient.
+Reagents: A. Buffer Solution: Dissolve 250 g of ammonium acetate (NH4OAc) and 15 g of ethylenediamine-tetraacetic acid disodium salt (EDTA disodium) in 400 mL of deionized (DI) water. Slowly add 125 mL of glacial acetic acid (CH3COOH) and mix well.
+B. Azomethine-H Solution (C17H12NNaO8S2): Dissolve 0.45 g of Azomethine-H and 1 g of L-ascorbic acid in 100 mL of DI water. Fresh reagent should be prepared weekly and stored in a refrigerator.
+C. Activated Charcoal (Boron-free): This is prepared by giving repeated washings (8–9 times) of DI water (boiling charcoal with water in a 1:5 ratio) and subsequent filtering. Check for boron in the filtrate by Azomethine-H color development and continue washing until it is boron-free.
+D. Hydrochloric Acid (HCl), 0.05 N: Dilute 4.14 mL of concentrated HCl (37%, sp. gr. 1.19) in DI water, mix well, and bring to a 1-L volume.
+E. Standard Stock Solution:
+Procedure: A. Extraction
+B. Measurement (Azomethine-H method)
+Spectrophotometer at 420-nm wavelength. Prepare a calibration curve for standards, plotting absorbance against the respective B concentrations. Read B concentration in the unknown samples from the calibration curve.
+Calculation:
+Where:
+V = Total volume of the soil extract (mL)
+Wt = Weight of air-dry soil (g)
+Micronutrient Cations
+Though required by plants in much smaller amounts than the major plant nutrients (e.g., N, P, K), micronutrients are nevertheless equally essential for crop growth. The solubility of micronutrient cations decreases with an increase in soil pH. As most soils of the WANA region are alkaline, micronutrient deficiencies are common and are becoming more frequent and widespread with the intensification of cropping.
+The extracted elements can be estimated by various methods, which include volumetric analysis, spectrometry, and atomic absorption spectroscopy. Volumetric methods such as ethylene diaminetetraacetic acid solution (EDTA) and KMnO4 titrations are used for the extraction and estimation of Zn, Mn, and Fe, respectively. Copper can be estimated by titration with Na2S2O3. The Atomic Absorption Spectroscopy method is commonly used to measure Zn, Cu, Mn, and Fe. Running parameters that are specific to a particular model are given in the software provided with the equipment manual. Accordingly, the current supply, wavelength of the hollow cathode lamp, integration time, and anticipated estimation ranges are fixed.
+DTPA Method
+The diethylene triamine pentaacetic acid (DTPA) test of Lindsay and Norvell (1978) is commonly used for evaluating fertility status with respect to micronutrient cations, i.e., Fe, Zn, Mn, and Cu. The DTPA method is an important and widely used chelating agent that combines with free metal ions in the solution to form soluble complexes of elements. The DTPA method has the capacity to complex each of the micronutrient cations as 10 times its atomic weight, ranging from 550 to 650 mg/kg depending upon the micronutrient cation. However, the universal soil test for alkaline soils (i.e., AB DTPA) is equally effective for determining micronutrient cations in alkaline soils. Deficiencies of Mo, Cl, Ni, and Co are not known to occur in alkaline soils.
+Apparatus:
+Reagents:
+A. DTPA Extraction Solution
+This solution contains 10 ppm Zn (Second Diluted Stock Solution). Pipette 1, 2, 4, 6, 8, and 10 mL of the Second Diluted Stock Solution into 50-mL numbered flasks, and then dilute to volume with DTPA solution. These solutions contain 0.2, 0.4, 0.8, 1.2, 1.6, and 2.0 ppm Zn, respectively.
+For the Copper (Cu) standard solution, pipette 10 mL of the Cu Stock Solution (1000 ppm) into a 100-mL flask, and then dilute to volume with DTPA solution. This solution contains 100 ppm Cu (Diluted Stock Solution). Next, pipette 10 mL of the Diluted Stock Solution into a 100-mL flask, and then dilute to volume with DTPA solution. This solution contains 10 ppm Cu (Second Diluted Stock Solution). Then, pipette 2, 3, 4, 5, 6, and 7 mL of the Second Diluted Stock Solution into 50-mL numbered flasks, and then dilute to volume with DTPA solution. These solutions contain 0.4, 0.6, 0.8, 1.0, 1.2, and 1.4 ppm Cu, respectively.
+For the Manganese (Mn) standard solution, pipette 10 mL of the Mn Stock Solution (1000 ppm) into a 100-mL flask, and then dilute to volume with DTPA solution. This solution contains 100 ppm Mn (Diluted Stock Solution). Next, pipette 10 mL of the Diluted Stock Solution into a 100-mL flask, and then dilute to volume with DTPA solution. This solution contains 10 ppm Mn (Second Diluted Stock Solution). Finally, pipette 2, 3, 4, 5, 6, and 7 mL of the Second Diluted Stock Solution into 50-mL numbered flasks, and then dilute to volume with DTPA solution. These solutions contain 0.4, 0.6, 0.8, 1.0, 1.2, and 1.4 ppm Mn, respectively.
+Procedure
+A. Extraction
+Its range and sensitivity are the same as that of the DTPA test, sodium bicarbonate test, and ammonium acetate test for micronutrients, phosphorus, and potassium, respectively.
+Apparatus:
+Reagents:
+A. Extracting Solution
+B. Mixed Reagent for Phosphorus
+C. Color Developing Solution for Phosphorus
+Add 0.739 g L-ascorbic acid to 140 mL of the mixed reagent for phosphorus. This solution should be prepared as needed, as it does not keep for more than 24 hours.
+D. Hydrazine Sulfate Stock Solution (H2N2H2·H2SO4)
+Dissolve 27 g H2N2H2·H2SO4 in 750 mL DI water, mix well, and then bring to a 1-L volume (stock solution). Prepare the working solution by diluting 22.5 mL of the stock solution to a 1-L volume with DI water. This solution remains stable for 6 months.
+E. Copper Sulfate Stock Solution (CuSO4·5H2O)
+Dissolve 3.9 g CuSO4·5H2O in 800 mL DI water, mix well, and then bring to a 1-L volume (stock solution). Prepare the working solution
+Slowly increase the temperature setting to about 145 °C for 1 hour. Add 4 mL of concentrated HClO4 and heat it to 240 °C for an additional hour. Lift the tube rack out of the block digester, carefully place it on a rack holder, and allow the tubes to cool to room temperature. Filter through Whatman No. 42 filter paper and bring the volume to 50 mL. Each batch should contain at least one reagent blank (no soil). Determine Fe, Mn, Cu, Zn, Cd, Ni, Pb, Co, and Cr using an Atomic Absorption Spectrophotometer.
+5.19.2. Di-Acid (HNO3-HCl), Microwave Apparatus Use MF/HF microwave vessels and an Atomic Absorption Spectrophotometer. Reagents include concentrated Nitric Acid (HNO3) and concentrated Hydrochloric Acid (HCl).
+Procedure:
+Notes:
+5.19.3. Tri-Acid (HClO4-HF-HCl), Block Digester Apparatus Use Teflon beakers, a hot plate, polyethylene bottles, and an Atomic Absorption Spectrophotometer. Reagents include concentrated Perchloric Acid (HClO4), concentrated Hydrofluoric Acid (HF), and concentrated Hydrochloric Acid (HCl).
+Procedure:
+Preparation for Sampling
+Preparation for a field trip for plant sampling must be planned in advance. Always contact the people who will accompany you to the field for the necessary preparations, as follows:
+Where to Take Samples
+All plant samples taken from abnormal areas should be collected just inside the abnormal zone. A separate plant analysis history must be completed for each sample, as follows:
+Uniform Fields
+Where plant growth is uniform across the entire area, one composite sample is taken from at least 10 widely scattered locations in the field. One plant sample is necessary, and one soil sample is recommended.
+Non-uniform Fields
+In areas where crop growth or appearance differs from the rest of the field, plant analysis can often identify the cause of these differences and indicate the best method to correct the problem. Sample when abnormalities are discovered. Two plant samples and two soil samples are required, including samples from the normal area.
+Sampling Time
+Amount of Plant Material
+All plant analyses require at least a rounded double handful of plant tissue.
+What to Sample
+What Not to Sample
+Shipment of the Plant Material Sample
+Laboratory Processing
+Sample preparation is critical for obtaining accurate analytical data and reliable interpretation of plant analysis results. Proven procedures must be followed during handling in the laboratory, including decontamination, drying, grinding, mixing, and storage. These preparatory procedures enhance the accuracy and reliability of the analytical results.
+Handling in the Laboratory
+Decontamination
+Decontamination procedures involving washing and rinsing should only be used for fresh, fully turgid plant samples. After decontamination, samples should be dried immediately to stabilize the tissue and halt enzymatic reactions.
+A. Reagents and Apparatus
+B. Cleaning Process
+Water is removed from plant tissue to stop enzymatic reactions and to stabilize the sample. Enzymes present in plant tissue become inactive at temperatures above 70 °C. As a result, air-drying may not stabilize samples and prevent enzymatic decomposition. Samples should, therefore, be properly dried as soon as possible after collection. Some technical guidelines are as follows:
+Grinding and Mixing
+Plant tissue samples are reduced to a particle size of 0.5 to 1.0 mm to ensure homogeneity and to facilitate organic matter destruction.
+A. Apparatus
+B. Procedure
+Notes
+After grinding and mixing (homogenization), samples should be stored in conditions that minimize deterioration and maintain sample integrity for weighing and follow-up analytical work.
+Apparatus
+Procedure
+Technical Remarks
+Plant Analysis
+After soil testing, plant analysis is critical to improving crop nutrition and yield. From a nutritional standpoint, plant analysis is based on the principle that the concentration of a nutrient within the plant is an integral value of all the factors that have interacted to affect it. The principles and procedures used for plant analyses have evolved over many years and changed as knowledge increased about each element that is essential for a plant to complete its life cycle. As such, the use of plant analyses has become an integral part of most agronomic research and a tool for crop consultants and fertilizer dealers to monitor production fields.
+The concentration of nutrients in plant tissues can be measured in a plant extract obtained from fresh plant material (i.e., tissue analysis), as well as in whole dried plant material. The former test is qualitative and is appropriate only for quick measurements on a growing crop. Total plant analysis is quantitative in nature and is more reliable and useful. Generalized ranges of deficiency, adequacy, and excess of nutrient concentrations in cereal crops are provided in Appendix 11. Of prime concern are forms of nitrogen, phosphorus, boron, and micronutrient cations. More detailed interpretative guidelines for plant analysis data are available in Reuter and Robinson (1986, 1997), Munson and Nelson (1990), and Jones et al. (1991).
+Effective Uses for Plant Analyses
+Plant analysis is an effective management strategy for a sustainable soil fertility program because it provides a direct measure of nutrient concentrations and balance within the plant. Therefore, the effective uses for plant analysis are as follows:
+Weighing of oven-dried samples is cumbersome, as it involves continuous oven-drying and the use of desiccators, and is still prone to error since plant material may absorb moisture during the weighing process, particularly if the relative humidity is high in the laboratory. To circumvent this difficulty, a moisture factor can be used instead. The moisture factor for each batch of samples can be calculated by oven-drying a few sub-samples from the lot (for example, about 5 from a batch of 100–200 samples). Thereafter, air-dried samples are weighed while considering the moisture factor.
+7.2. Nitrogen
+Plants require a wide range of proteins for growth, development, and maturation. The primary component of proteins is amino acids, and nitrogen (N) is a major component of amino acids. Nitrogen is also present in chlorophyll. Soil microorganisms utilize soil N during the breakdown of organic materials. Nitrogen enhances the quality of leafy vegetables, promotes rapid growth, and if the supply is imbalanced with other nutrients, it may delay flowering and fruiting. The nitrogen content of plant dry matter typically ranges from 1 to 5%. However, it can occasionally be either lower or higher than this range. The common method for plant nitrogen analysis is the Kjeldahl method; however, wet ashing with H2SO4 and H2O2 is also used to eliminate the standard use of selenium (Se) in the former method.
+7.2.1. Kjeldahl Nitrogen (with Catalyst)
+Apparatus
+Reagents
+A. Catalyst Mixture (K2SO4-Se): 100:1 w/w ratio. Grind reagent-grade chemicals separately and mix. If caked, grind the mixture in a porcelain pestle and mortar to pass a 60-mesh screen (0.250 mm), taking care not to breathe Se dust or allow it to contact the skin.
+B. Sulfuric Acid (H2SO4): concentrated (98%, sp. gr. 1.84).
+C. Sodium Hydroxide Solution (NaOH): 10 N. Dissolve 400 g NaOH in DI water, transfer to a 1-L heavy-walled Pyrex flask, let it cool, and bring to volume with DI water.
+D. Boric Acid Solution (H3BO3): saturated. Add 500 g H3BO3 to a 5-L flask, then add 3 L DI water and swirl vigorously. Leav
+B. Digestion
+C. Distillation
+Notes: After
+A. Pre-treatment
+B. Digestion
+4. Weigh 0.25 g (grain) or 0.50 g (straw) of dry plant material, and then transfer quantitatively into a dry 250-mL digestion tube.
+5. Add 20 mL of a sulfuric-salicylic acid mixture while rotating the tube to wash down any sample adhering to the neck of the tube, and allow it to stand for 2 hours or longer with occasional swirling.
+6. Add 2.5 g of sodium thiosulfate through a long-stemmed funnel to the contents of the tube, swirl gently a few times, and allow to stand overnight.
+7. Add 4 g of catalyst mixture and 3 to 4 pumice boiling granules, and place the tubes on the block digester pre-heated to 400 °C.
+8. Place a small glass funnel in the mouth of the tubes to ensure efficient refluxing of the digestion mixture and prevent loss of H2SO4, and proceed with the digestion until the mixture clears.
+9. Remove the tubes from the block digester and allow them to cool for about 20 minutes. Then wash down any material adhering to the neck of the tube with a minimal quantity of DI water.
+10. Thoroughly agitate the tube contents, place the tubes back on the block digester, and digest for 2 hours after clearing. No particulate material should remain in the tube after digestion.
+11. After the digestion is finished, allow the digest to cool, and add water slowly while shaking until the liquid level is about 2 cm below the graduation mark.
+12. Allow the tube to cool to room temperature, and add DI water to bring the volume to the 250 mL mark.
+13. Each batch of samples for digestion should contain at least one reagent blank (no plant), one chemical standard (weigh 0.1 g EDTA standard digest), and one standard plant sample (internal reference).
+Notes: After finishing the titration, wash the Teflon-coated magnetic stirring bar, the burette tip, and the combined electrode into the dish. Between different samples, steam out the distillations. Disconnect the distillation flasks containing the digest sample and NaOH, and attach a 100-mL empty distillation flask to the distillation unit. Place a 100-mL empty beaker underneath the condenser tip, turn off the cooling water supply (drain the water from the condenser jacket), and steam out for 90 seconds.
+Calculations:
+Where: V = Volume of 0.01 N H2SO4 titrated for the sample (mL)
+V1 = Total volume of the plant digest (mL)
+V2 = Volume of plant digest used for distillation (mL)
+B = Digested blank titration volume (mL)
+N = Normality of H2SO4 solution
+14.01 = Atomic weight of N
+Wt1 = Weight of EDTA (g)
+Wt2 = Weight of dry plant (g)
+186.1 = Equivalent weight of the EDTA
+7.3. Phosphorus
+Phosphorus (P) is essential to crop production; it stimulates early root formation and growth, gives a rapid and vigorous start to plants, and promotes flower and seed production. Phosphorus is needed in the genetic coding material that controls cell division. The P content in plants is usually between 0.1% to 0.5% of the dry matter. Total P in plant material can be attained either by a wet-digestion procedure or by a dry-ashing procedure (given in Section 7.4.1). Both methods are satisfactory; however, dry-ashing is a simpler, easier, non-hazardous, and economical option. Later, the P content in the digests or dissolved ash aliquots is measured colorimetrically.
+Apparatus:
+Reagents: A. Ammonium Heptamolybdate-Ammonium Vanadate in Nitric Acid (HNO3)
+B. Standard Stock Solution
+B. Digestion
+C. Measurement
+Calculation
+Where:
+V1 = Total volume of the plant digest (mL)
+V2 = Volume of plant digest used for measurement (mL)
+Wt = Weight of dry plant (g)
+7.4. Macronutrients and Micronutrients
+Plant analysis by dry ashing is simple, non-hazardous, and less expensive compared with HNO₃-HClO₄ wet digestion. Dry ashing is appropriate for analyzing P, K, Ca, Mg, and Na. Micronutrient cations (Fe, Zn, Cu, and Mn) can also be analyzed by dry ashing, but only in plant tissues with low silica content (like legumes). The procedure is based on Chapman and Pratt (1961) with slight modifications. The HNO₃-HClO₄ wet digestion (given in Section 7.4.3) is required for the full recovery of micronutrient cations in high-silica plant tissues (e.g., wheat, barley, rice, and sugarcane).
+7.4.1. Macronutrients (Dry Ashing)
+Dry ashing is usually carried out at an ignition temperature of 550 °C to 600 °C, followed by extraction in diluted HCl or H₂SO₄ for determining various elements. Ashing leads to considerable volatile loss of P, K, S, and Cl. For this reason, and because it is more time-consuming, dr
+Dilute 165.6 mL concentrated HCl (37%, sp.gr. 1.19) in DI water, mix well, let it cool, and bring to a 1 L volume.
+Procedure
+Where:
+V = Total volume of the extract (mL)
+Wt = Weight of dry plant (g)
+Technical Remarks
+Dissolve 250 g ammonium acetate (NH4OAc) and 15 g ethylenediamine tetraacetic acid disodium salt (EDTA disodium) in 400 mL deionized (DI) water. Slowly add 125 mL glacial acetic acid (CH3COOH) and mix well.
+C. Azomethine-H
+Dissolve 0.45 g Azomethine-H and 1 g L-ascorbic acid in 100 mL DI water. Fresh reagent should be prepared weekly and stored in a refrigerator.
+D. Standard Stock Solution
+Procedure
+A. Ashing
+B. Measurement
+Calculation
+Where:
+V = Total volume of the extract (mL)
+Wt = Weigh
+A. Digestion
+B. Measurement
+Calculations
+Where:
+V = Total volume of the plant digest (mL)
+Wt = Weight of dry plant (g)
+Technical Remarks
+7.5. Heavy Metals
+For the release of mineral elements from plant tissues, dry-ashing and wet oxidation are the two widely adopted methods. Critical factors in wet digestion procedures include selection of the digestion vessel, temperature and its control, time, the digestion mixture, and final volume. The selection of a digestion vessel depends on the elements of interest and the heat source. Time and temperature are interrelated and depend on the digestion mixture. Wet oxidation employs oxidizing acids such as HNO3-H2SO
+Procedure for Di-Acid (HNO3-HClO4) Digestion
+Notes:
+Procedure for Tri-Acid (HNO3-H2O2-HCl) Microwave Digestion
+Notes:
+Where: V = Total volume of the plant digest (mL)
+Wt = Weight of dry plant (g)
+Technical Remarks
+Silicon
+Silicon (Si), in the form of silicon dioxide (SiO2), is extracted from plant samples and converted into silicic acid (H3SiO4) during the oxidation of organic material, specifically by eliminating carbon (C) through digestion with hydrogen peroxide (H2O2) under alkaline conditions. The H3SiO4 can be determined colorimetrically by reaction with molybdate; blue and yellow analyses methods are usually distinguished. The method presented follows the description provided by Korndörfer et al. (2004), who, in turn, expanded on the method of Elliot et al. (1991).
+Apparatus
+Ventilated drying oven
+Mechanical plant grinder
+Plastic bottles/cups
+Horizontal shaker
+Magnetic stirrer
+Water bath
+Autoclave
+Volumetric fla
+F. Standard Stock Solution (SiCl4 in 14 % NaOH), 50 ppm
+• With Merck Titrisol® Silicon standard 1000 mg solution (SiCl4 in 14% NaOH): Open the capsule and let the Si-solution flow into a 1-L volume (to ensure that the 1000 mg of Si in the capsule is transferred completely to the flask, rinse the capsule thoroughly with DI water). Fill up with DI water (Stock Solution). The Silicon standard 1000 mg solution is not a 1000 ppm solution!
+• Add 25 mL stock solution to a 500-mL volumetric flask and then bring to volume with DI water. This solution contains 50 ppm Si (Diluted Stock Solution). This solution cannot be stored and needs to be prepared fresh!
+Procedure
+A. Pre-treatment
+B. Extraction
+C. Measurement
+For quality control, a standard sample (such as wheat or rice chaff) might be analyzed every 20th sample, and analyses repeated if deviation from originally measured Si-content is greater than 5%.
+Water sampling and analysis is a vital part of agricultural and environmental applications for studying the quality of water treatment processes, distribution systems, or sources of water supply. Therefore, a water sampling program starts with the collection of samples that accurately represent the characteristics of the bulk material and can be handled conveniently in the laboratory while still providing reliable test results. The major source of error in obtaining water quality information often occurs during sampling. Over 50% of the faulty data that occur in laboratory test results are due to sampling error rather than during laboratory analysis. Much of what is presented here is based on standard methods for the examination of waters and wastewaters.
+Preparation for Sampling
+Suitability of the containers
+The correct sample container type and volume should be used for the required analysis in consultation with laboratory requirements, such as:
+Decontamination of the container
+Decontamination procedures involve washing and rinsing. The decontamination of the containers is of utmost importance for most parameters:
+Sampling techniques and equipment
+Sampling techniques depend on the available equipment, the sampling site, and the analyses to be performed. Some possible variables to consider and decisions to be made include:
+The recommended procedure for collecting water samples is as follows: Water samples must be placed in a labeled suitable container or clear glass, with the label written in waterproof ink, depending on laboratory requirements. Ensure that the bottle is adequately labeled for identification at all stages of transport and analysis. The laboratory requirements for analysis are a minimum of 500 mL, although one liter would be more suitable. Rinse the bottle at least four times with the water to be sampled, and do not dispose of the rinse water where it may contaminate or mix with the sample. Take five sub-samples (100-200 mL each) to make up the full sample. Fill the bottle to the top, leaving little or no air space, and seal it tightly with the cap. Record all information about the water samples on the sample container and in the field logbook, including the site code, time and date of collection, parameters to be tested, sampler’s name, and other details to avoid mix-ups. Each sample is assigned a laboratory number. Sketch your field, diagramming the way you sampled it, and ensure that sampled areas are labeled the same as the sample containers to keep a record of which recommendations apply to which areas—do not rely on your memory. The information sheet should be clearly written with a copy pencil, and you should fill out the information sheets thoroughly; the more information you provide with each sample, the better your recommendations will be. Use plastic bottles for inorganic materials and metals, and glass bottles for organic materials. Use sterile containers for bacteriological analysis and filter for metals if a preservative is being used. Every time you collect a sample, you should record it on the field data sheet and clearly mark and identify the separate sample containers from each location. Certain observations and measurements should be made before sending samples to the laboratory. These observations should include appearance (color, haziness, turbidity, oil on the surface, and odor), and some measurements, such as temperature, dissolved oxygen, and pH, are valid only on a fresh sample. Containers must be closed until ready for analysis, and all water samples should be stored in chilled cool boxes prior to dispatch to the laboratory.
+A representative sample is taken from a large body of water to create a sample that accurately reflects the entire body. To minimize the effects of natural variation in the collected data, the sample should be collected from the exact same location, at approximately the same time each day, using the same method, and analyzed in the same manner.
+Water samples can be taken directly from the body of water (stream or dam), or if a pump is used, from the first outlet along the supply line. Below are some instructions for taking a representative water sample:
+Type of water sampling
+The two types of samples most commonly obtained are grab samples and composite samples:
+Protecting and preserving samples
+The physical and chemical characteristics of a wat
+The most common preservative approach is cooling to 4 °C. This can be achieved by making a slurry of ice and water and placing the collected sample in the slurry. This method slows biological activity in the sample and helps keep dissolved gases in solution. However, it can hasten certain physical processes, such as the precipitation of metals.
+Other common preservatives that prevent known chemical reactions and maintain a target analyte in solution include:
+The analyst must be aware that acidifying nitrate-nitrite samples with HNO3 or preserving sulfate samples with H2SO4 will invalidate the analyses, so adequate notation must be made by the sampler.
+Samples that are not preserved must be analyzed immediately.
+Handling and Storage of Samples for Analysis
+As soon as the water samples are received at the water analysis laboratory, they should be checked against the accompanying information list, which includes the sample number and date of sampling, written on the container. Information regarding samples should be entered into a register, and each sample should be assigned a laboratory number. The sample(s) should be kept refrigerated or on ice in a cooler (but not allowed to freeze) as soon as possible. Changes caused by the growth of microorganisms are best slowed by keeping samples cold and in the dark. In general, the shorter the time between collection and analysis, the more reliable the results will be.
+Health and Safety
+Laboratory personnel who are routinely exposed to water samples that may contain live microorganisms are encouraged to protect themselves from waterborne illnesses by wearing clean disposable gloves and washing their hands frequently. Care must be taken when handling hazardous reagents by using protective clothing and safety goggles.
+Water Analysis
+Water is essential for all aspects of life, including domestic use, industrial processes, and agricultural production. Its suitability for a particular purpose can be determined by analysis. Obtaining good results depends greatly on the following factors:
+Water and wastewater should be checked for chemical, physical (turbidity and solid matter), and biological contamination before use to avoid environmental pollution, as many diseases can be spread to plants, animals, and humans through contaminated water.
+pH
+pH is a measure of how acidic or alkaline a solution is; it represents the power or potentia
+The scale of measurement is from 1 to 14. However, on a pH scale:
+Aqueous solutions with higher [H+] than [OH-] are acidic and will have pH values <7; basic solutions have pH > 7, i.e., [H+] < 1 x 10^-7. The pH of rainwater is about 5.5-6.0. Typically, natural water has a pH of 6.5-8.5. Natural alkalinity is due to the dissolution of CO2, either from atmospheric sources or from carbonate rocks such as limestone and dolomite. Alkalinity is increased by caustic substances from industry (KOH, NaOH), soil additives in agriculture such as lime (Ca(OH)2), superphosphate (a mixture of Ca(H2PO4)2 and CaSO4), and soaps and detergents. Natural acidity is due to CO2 (g), HPO4, H2PO4, H2S, Fe, other acidic metal ions, proteins, and organic acids. Increases in acidity can be due to acids used in industry, acid mine drainage, and acid rain.
+Apparatus:
+Reagents: A. Potassium Chloride (KCl), 0.01 M Dissolve 0.745 g KCl in DI water, and bring to 1-L volume.
+B. Buffer solutions for pH 4 and 7 pH 4.0
+pH 7.0
+Note: The DI water should be freshly boiled, cooled, and free of CO2.
+C. Distilled water (DI) Boil and cool DI water having conductivity less than 2 μmhos/cm.
+Procedure:
+Technical Remarks:
+Wheatstone bridge measures the resistance of the solution between two parallel platinum electrodes. Conductivities range from less than 0.02 dS/m for distilled water to more than 20 dS/m for highly saline waters.
+Apparatus
+Reagents
+Procedure
+A. Pre-treatment of the conductivity cell
+B. Measurement
+Technical Remarks
+Total Dissolved Solids
+Total Dissolved Solids (TDS) are defined as the substances remaining after the evaporation and drying of a water sample. The remaining fraction is approximately equivalent to the total content of the dissolved and suspended matter in the water sample. Non-filterable residue corresponds to Total Suspended Solids (TSS), while filterable residue is the TDS. Determination of TDS can be used to check the accuracy of analyses when relatively complete analysis has been made on a water sample. This is accomplished by comparing the value of calculated TDS with the measured value. Ion concentration, in mg/L of constituents, required to calculate the TDS is as follows:
+Calculated TDS = 0.6 (alkalinity) + Na + K + Ca + Mg + Cl + SO4 + SiO3 + (NO3-N) + F
+The measured TDS concentration should be higher than the calculated value because a significant contributor may not be included in the calculation. If the measured value is less than the calcula
+A. Pre-treatment of filter and crucible
+B. Determination
+Calculation
+Where:
+Wt d+s = Weight of dish plus solids (mg)
+Wtd = Weight of dish before use (mg)
+V = Volume of water sample used for measurement (mL)
+Total Suspended Solids (TSS) apply to the dry weight of the material that is removed from a measured volume of water sample by filtration with a standard filter. The test is essentially empirical and is not subject to usual criteria of accuracy. To achieve reproducibility and comparability of results, close attention to procedural details is required, especially filter characteristics and the time and temperature of drying.
+Apparatus
+Procedure
+A. Pre-treatment of filter disc and crucible
+B. Determination
+Calculation
+Where:
+Wtf+c+s = Weight of filter and crucible plus solids (mg)
+Wtf+c = Weight of filter and crucible before use (mg)
+V = Volume of water sample used for measurement (mL)
+Technical Remarks
+9.5. Nitrogen
+9.5.1. Ammonium Nitrogen and Nitrate Nitrogen
+In water and wastewater, the forms of nitrogen of greatest interest are NO3-N, NO2-N, NH3, and organic forms of nitrogen. These nitrogen forms are interchangeable, being components of the nitrogen cycle. Ammonia is present naturally in surface water and wastewater, with generally low concentrations in groundwater due to adsorption by soil particles and clay, which prevents leaching from soils. Nitrate in groundwater is a significant environmental and public health concern as it can be converted to nitrites in the intestines. Once absorbed into the bloodstream, nitrites prevent hemoglobin from transporting oxygen (older children possess an enzyme that restores hemoglobin). High NO3-N levels in drinking water (>10 ppm) are associated with health problems (i.e., methemoglobinemia). Therefore, water with high NO3-N levels should be avoided for human consumption but is suitable for irrigation as it provides additional nutrients.
+Principle
+Ammonium nitrogen and NO3-N plus NO2-N ar
+E. Tris Solution (hydroxymethyl aminomethane) (C4H11NO3), 0.01 N
+G. Sulfuric Acid Solution (H2SO4), 0.01 N
+H. Standard Stock Solution
+Procedure
+A. Pre-treatment of the distillation unit
+B. Distillation
+To determine NH4-N
+Diluted Stock Solution and two blanks (pipette 20 mL DI water). Recovery of NO3-N should be at least 96%.
+C. Titration
+Titrate the first distillate (for ammonia) and the second distillate (for nitrate) separately to pH 5 with standardized 0.01 N H2SO4 using an auto-titrator.
+Notes:
+Calculation:
+Where:
+V = Volume of 0.01 N H2SO4 titrated for the water sample (mL)
+B = Distillate blank titration volume (mL)
+N = Normality of H2SO4 solution
+V1 = Volume of water sample used for distillation (mL)
+14.01 = Atomic weight of N
+Technical Remarks:
+Total Nitrogen
+The Kjeldahl procedure is a good estimate of nitrogen content in water or wastewater samples. This procedure involves digestion and distillation. The water or wastewater sample is digested in concentrated H2SO4 with a catalyst mixture to raise the boiling temperature and promote the conversion from organic-N to ammonium-N, which is obtained by steam distillation, using excess NaOH to raise the pH. The distillate is collected in saturated H3BO3 and then titrated with dilute H2SO4 to pH 5.0.
+Apparatus:
+Reagents:
+A. Catalyst Mixture (K2SO4 – Se), 100:1 w/w ratio
+Grind reagent-grade chemicals separately and mix. If caked, grind the mixture in a porcelain pestle and mortar to pass a 60-mesh screen (0.250 mm), taking care not to breathe Se dust or allow Se to come in contact with skin.
+B. Sulfuric Acid (H2SO4), concentrated (98%, sp. gr. 1.84)
+C. Sodium Hydroxide Solution (NaOH), 10 N
+Dissolve 400 g NaOH in DI water, transfer to a 1-L heavy-walled Pyrex flask, let it cool, and bring to volume.
+D. Boric Acid Solution (H3BO3), saturated
+Note: There should always be solid H3BO3 on the bottom of the flask.
+E. Tris Solution [hydroxymethyl aminomethane] (C4H11NO3), 0.01 N
+G. Standard Stock Solution
+Dry reagent-grade ammonium sulfate
+(NH
+4
+)
+2
+SO
+4
+in an oven at 100 °C for 2 hours, cool in a desiccator, and store in a tightly stoppered bottle. Dissolve 5.6605 g dried
+(NH
+4
+)
+2
+SO
+4
+in DI water and bring to a 1-L volume. This solution contains 1.2 g NH
+4
+-N/L (Stock Solution).
+Procedure
+A. Digestion
+B. Distillation
+Phosphorus compounds are present in fertilizers and many detergents. When they reach a critical level in the soil, they can be carried into surface waters, sewage, industrial waste, and storm runoff. In contrast to nitrogen, inorganic phosphorus forms are highly reactive and do not readily leach through soils. High concentrations of phosphorus compounds may create secondary problems in water bodies where algal growth is typically limited by phosphorus. In such cases, the presence of additional phosphorus compounds can stimulate algal productivity and enhance eutrophication.
+Phosphorus occurs in natural waters and wastewater as phosphate. Groundwater rarely contains more than 0.1 mg/L phosphate unless polluted by organic matter. Phosphorus is essential for the growth of organisms and can be the limiting nutrient for biological growth in water bodies.
+Principle
+Phosphorus can be determined using vanadomolybdophosphoric acid colorimetric methods, where ammonium molybdate and potassium antimony tartrate react in an acidic medium with orthophosphate to form a heteropoly acid—phosphomolybdic acid—that is reduced to an intensely colored molybdenum blue by ascorbic acid.
+Available Phosphorus
+Apparatus: Spectrophotometer or colorimeter; standard laboratory glassware including beakers, volumetric flasks, pipettes, and funnels.
+Reagents:
+A. Sulfuric Acid Solution (H₂SO₄), 5 N: Dilute 148 mL concentrated H₂SO₄ (in fume hood) with deionized water, mix well, let it cool, and bring to a 1-L volume.
+B. p-Nitrophenol Indicator, 0.25% w/v.
+C. Reagent A:
+Technical Remarks
+The required acid amount to acidify the water sample to pH 5.0 (using 5 N H2SO4) can be done by taking 10 mL of deionized (DI) water and adding 2-3 drops of phenolphthalein indicator. If a red color appears, add 5 N H2SO4 until the color disappears. Then, add the required amount of acid to all the water samples; adding 1 mL of 5 N H2SO4 is adequate to acidify each 10 mL water sample.
+If the sample solutions are too dark-colored for measurement against the highest standard, a smaller volume of water should be taken, and the calculation modified accordingly. Once the blue color has developed, the solution cannot be diluted.
+Glassware used in phosphorus (P) analysis should not be washed with detergents containing phosphorus, as most detergents do contain phosphorus.
+As glass tube density may vary, it is best to use the same tube (cuvette) for each absorbance reading on a spectrophotometer.
+Interference: Arsenates (As) react with the molybdate (Mo) reagent to produce a blue color similar to that formed with phosphate. Concentrations as low as 0.1 mg As/L can interfere with phosphate determination. Hexavalent chromium (Cr) and NO2 cause results to be about 3% lower at concentrations of 1 mg/L and 10 to 15% lower at 10 mg/L. Sulfide (Na2S) and silicate do not interfere at concentrations of 1.0 and 10 mg/L.
+Total Phosphorus
+Organically bound phosphorus and all phosphate forms are first converted to orthophosphate by an acid persulfate digestion. To release phosphorus from combination with organic matter, digestion or wet oxidation is necessary. The digestion sample is analyzed for orthophosphate based on its reaction with a combined reagent containing ammonium molybdate, antimony potassium tartrate, and ascorbic acid to form intensely colored molybdenum blue.
+Apparatus
+Reagents
+A. Sodium Hydroxide Solution (NaOH), 5 N
+Dissolve 200 g NaOH in DI water and transfer the solution to a 1-L heavy-walled Pyrex flask. Let it cool and bring to volume with DI water.
+B. Sulfuric Acid Solution (H2SO4), 5 N
+Dilute 140 mL concentrated H2SO4 solution (in fume hood) with DI water, mix well, let it cool, and bring to 1-L volume.
+C. Perchloric Acid (HClO4), concentrated
+D. Nitric Acid (HNO3), concentrated
+E. Phenolphthalein Indicator, 1%
+Dissolve 1 g phenolphthalein indicator in 100 mL ethanol.
+F. Reagent A
+A. Digestion
+B. Measurement
+Calculation
+Where:
+V = Total volume of the water sample used for digestion (mL)
+V1 = Total volume of the digest (mL)
+V2 = Volume of digest used for measurement (mL)
+V3 = Volume of flask used for measurement (mL)
+Caution
+HClO4 is explosive in the presence of easily oxidizable organic matter. Avoid this hazard by following these precautions: (a) do not add HClO4 to a hot solution containing high organic matter; (b) always pre-treat samples containing organic matter with HNO3 before adding HClO4.
+Technical Remarks
+Dilute 2, 4, 6, 8, 10, 15, and 20 mL of Stock Solution to 100-mL numbered flasks by adding DI water, and then bring to volume. These solutions contain 20, 40, 60, 80, 100, 150, and 200 ppm K, respectively.
+Procedure
+Calculations
+Where: 39.1 = Atomic weight of K
+Technical Remarks
+Sodium (Na) is a common element, the sixth most abundant, and is present to some extent in most natural waters. Sodium is found in several minerals, the principal one being rock salt (sodium chloride). Increased pollution of surface and groundwater over the past decade has led to a substantial increase in Na content in drinking water in different regions of the world. Sources such as sewage, industrial effluents, seawater intrusion in coastal areas, and the use of Na compounds for corrosion control and water-softening processes contribute to Na concentration in water due to the high solubility of sodium salts and minerals. Sodium levels in groundwater vary widely, typically ranging from 6 to 130 mg/L. In surface water, Na concentration may be less than 1 mg/L or exceed 300 mg/L, depending on geographical factors. Sodium may pose a problem in drinking water if the concentration exceeds 20 mg/L.
+Principle
+Sodium in the water sample can be determined by flame photometry, which emits a sparkling yellowish-red color.
+Reagents
+A. Lithium Chloride (LiCl), 1000 ppm
+Technical Remarks
+Calcium and Magnesium
+Calcium (Ca) is easily dissolved from almost all rocks and is consequently detected in most waters. Magnesium (Mg) is relatively abundant in the earth’s crust and is hence a common constituent of natural water. Waters associated with granite or siliceous sand usually contain less than 10 mg of calcium per liter and less than 5 mg of magnesium per liter. Many waters from limestone areas may contain 30-100 mg of calcium per liter, and those associated with gypsiferous shale may contain several hundred milligrams per liter. However, water in contact with dolomite or magnesium-rich limestone may contain 10-50 mg/L, and several hundred milligrams per liter may be present in water that has been in contact with deposits containing sulfates and chlorides of magnesium. Calcium and magnesium contribute to the total hardness of water. It should be noted that the difference between total hardness and the calcium concentration can be used to calculate the magnesium concentration. However, some calcium carbonate (CaCO3) is desirable for domestic waters because it provides a coating in the pipes that protects them against corrosion.
+Principle
+EDTA-disodium salt solution is used to chelate calcium and magnesium. Calcium is estimated separately by the versenate method using ammonium purpurate (Murexide) indicator, when the pH is made sufficiently high that magnesium is largely precipitated as hydroxide, and an indicator is used that combines with calcium only. Thus, magnesium can be obtained by deduction of calcium from the total calcium and magnesium content. Both cations can also be estimated by atomic absorption spectrophotometry.
+Apparatus
+Burette, 25 or 50-mL pipette, stirring rods, graduated cylinder, beakers.
+Reagents
+A. Buffer Solution (NH4Cl-NH4OH)
+Dissolve 67.5 g NH4Cl in 570 mL concentrated NH4OH, transfer the solution to a 1-L flask, let it cool, and bring to volume.
+B. Eriochrome Black Indicator
+Dissolve 0.5 g eriochrome black and 4.5 g hydroxylamine hydrochloride in 100 mL of 95% ethyl alcohol. Prepare a fresh batch every month.
+C. Ethylene Diaminetetraacetic Acid Solution (EDTA), approximately 0.01 N
+Dissolve 2 g EDTA and 0.05 g magnesium chloride (MgCl2) in deion
+B. Calcium plus Magnesium
+Calculations
+N=
+V
+V
+1
+×N
+EDTA
+
+Where:
+Technical Remarks
+9.10. Carbonate and Bicarbonate
+Carbonates (CO3) and bicarbonates (HCO3) in water can be determined by titrating a known volume of water against standard H2SO
+B. Sulfuric Acid Solution (H2SO4), 0.01 N
+C. Phenolphthalein Indicator, 1%
+Dissolve 1 g of phenolphthalein indicator in 100 mL of ethanol.
+Procedure
+Calculations
+Where:
+Technical Remarks
+9.11. Chloride
+Chloride (Cl) anions are usually present in natural waters. High Cl concentrations occur in waters that have been in contact with chloride-containing geological formations. Otherwise, high Cl content may indicate pollution from sewage, industrial wastes, or intrusion of seawater into a freshwater body or aquifer. A salty taste in water depends on the ions associated with Cl. With Na ions, the taste is detectable at about 250 mg/L, but with Ca or Mg, the taste may be undetectable at 1,000 mg/L. Chlorides, being highly soluble, are present in all waters, but the amount is often very low in natural waters. High Cl content can have a corrosive effect on metal pipes and structures and is harmful to most trees and plants.
+Principle
+The determination of Cl is done by the AgNO3 (Moh
+Erlenmeyer flask. Add 4 drops of potassium chromate solution. Titrate against AgNO3 solution until a permanent reddish-brown color appears. To standardize the AgNO3 solution used in the determination of Cl: Titrate 10 mL of 0.01 N NaCl solution against 0.01 N AgNO3 after adding 4 drops of potassium chromate solution until a permanent reddish-brown color appears. Take the reading and calculate the normality of the AgNO3 solution using the formula:
+Where:
+NAgNO3 = Normality of AgNO3 solution
+VAgNO3 = Volume of AgNO3 solution used (mL)
+NNaCl = Normality of NaCl solution
+Calculation:
+Where:
+V1 = Volume of 0.01 N AgNO3 titrated for the sample (mL)
+N = Normality of AgNO3 solution
+V = Volume of water sample used for measurement (mL)
+Technical Remarks:
+Sulfate (SO4) is an abundant ion in the earth’s crust, with concentrations in water ranging from a few milligrams to several thousand milligrams per liter. Industrial wastes and mine drainage can lead to high concentrations of SO4, which also results from the breakdown of SO4-containing organic compounds. Although SO4 is not notably toxic, it can form hard scale in steam boilers when combined with Ca. In large amounts, SO4 can impart a bitter taste to water. Concentrations above 250 mg/L may have a laxative effect, while 500 mg/L is considered safe. The SO4 in water is typically determined by barium sulfate (BaSO4) precipitation.
+Apparatus:
+Muffle furnace, porcelain crucible
+Reagents:
+A. Methyl Orange Indicator (0.1%): Dissolve 0.1 g of methyl orange in 100 mL of deionized water.
+B. Hydrochloric Acid Solution (HCl), 1:1: Mix equal portions of concentrated HCl with deionized water.
+C. Barium Chloride Solution (BaCl2.2H2O), 1 N: Dissolve 122 g of BaCl2.2H2O in deionized water and bring to a 1-L volume.
+Procedure:
+The pH meter should be calibrated daily. Use at least two buffer solutions of different pH values, usually 4.0 and 7.0, as follows: 1. Measure the temperature of the buffer used and adjust the “temperature” knob for accurate readings. 2. Dip the combined electrode in the pH 7.0 buffer solution, check the actual pH at the measured temperature, and adjust with the “buffer” knob. Then, dip the combined electrode in the pH 4.0 buffer solution and adjust with the “sensitivity” knob. 3. Repeat until the pH meter gives correct readings for both buffer solutions. 4. Wash the combined electrode thoroughly with DI water and carefully dry excess water with a tissue.
+The relationship between pH values and temperature indicates that at various temperatures (from 10 °C to 90 °C), the pH for a 7.0 buffer solution slightly decreases as temperature increases, with values ranging from 7.06 to 7.03. For a pH 4.0 buffer solution, the pH remains fairly stable, ranging from 4.00 to 4.30, demonstrating slight variations with temperature changes.
+General Instructions for pH Electrodes
+a. Cleaning and maintenance
+To clean the pH electrode, especially if it is new or providing erratic readings, follow these steps: 1. Rinse the pH electrode with DI water and wipe it with a cloth or lens tissue. 2. Between measurements, leave the pH electrode in DI water. 3. Do not remove the electrode from the solution until the meter is on standby; otherwise, electrode polarization may occur. 4. Never allow sample solutions to dry on the electrode. 5. Do not rub the electrode against the sides of the beaker. 6. Keep the pH buffer properly closed and never pour buffer solution back into the bottle. 7. Always switch the instrument to standby or off before removing the electrode.
+b. Storage
+The EC meter should be calibrated daily as follows: 1. Measure the temperature of 0.01 N KCl. 2. Dip the platinum electrode in 0.01 N KCl, which should give a reading of 1.413 dS/m at 25 °C. 3. Repeat until the EC meter gives the correct reading. 4. Wash the combined electrode thoroughly with DI water and carefully dry excess water with a tissue.
+The relationship between EC values and temperature using 0.01 N KCl shows that as the temperature increases from 20 °C to 30 °C, the EC readings gradually rise from 1.278 dS/m to 1.549 dS/m. This illustrates the temperature-dependent nature of conductivity measurements.
+General Instructions for Platinum Electrode
+a. Cleaning and maintenance
+To clean the platinum electrode, especially if it is new or providing erratic EC readings, follow these steps: 1. Soak the platinum electrode in 32 mL of saturated sodium dichromate (Na2Cr2O7) and then in 6 M H2SO4. 2. Rinse the platinum electrod
+The Kjeldahl method involves three main steps: digestion, distillation, and titration.
+a. Digestion
+Digestion is accomplished by boiling a homogeneous sample in concentrated sulfuric acid (H₂SO₄). The end result is an ammonium sulfate (NH₄)₂SO₄ solution. The general equation for the digestion of an organic sample is:
+Organic-N + H₂SO₄ → (NH₄)₂SO₄ + H₂O + CO₂ + other sample matrix by-products.
+b. Distillation
+Excess base is added to the digestion product to convert ammonium (NH₄) to ammonia (NH₃) as indicated in the following equation. The NH₃ is recovered by distilling the reaction product.
+(NH₄)₂SO₄ + 2 NaOH → 2NH₃ + Na₂SO₄ + 2 H₂O.
+Ammonium sulfate + heat → ammonia gas.
+c. Titration
+Titration quantifies the amount of NH₃ in the receiving solution. The amount of N in a sample can be calculated from the quantified amount of NH₃ in the receiving solution. There are two types of titration:
+In back titration (commonly used in macro Kjeldahl), the NH₃ is captured by a carefully measured excess of a standardized acid solution in the receiving flask. The excess acid in the receiving solution keeps the pH low, and the pH does not change until the solution is “back titrated” with base.
+2NH₃ + 2H₂SO₄ → (NH₄)₂SO₄ + H₂SO₄.
+Ammonia + standard sulfuric acid → excess ammonium sulfate + sulfuric acid.
+(NH₄)₂SO₄ + H₂SO₄ + 2 NaOH → Na₂SO₄ + (NH₄)₂SO₄ + 2H₂O.
+Ammonium sulfate + measured excess acid + measured sodium hydroxide → sodium sulfate + ammonium sulfate.
+In direct titration, where boric acid is used as a receiving solution instead of a standardized mineral acid, the chemical reaction is:
+NH₃ + H₃BO₃ → NH₄ + H₂BO₃ + H₃BO₃.
+Ammonia gas + boric acid → ammonium-borate complex + excess boric acid.
+The boric acid captures the ammonia gas, forming an ammonium-borate complex. As the NH₃ collects, the pH of the receiving solutions changes.
+2NH₄ + H₂BO₃ + H₂SO₄ → (NH₄)₂SO₄ + 2H₃BO₃.
+Ammonium-borate complex + sulfuric acid
+Moist soil is rolled into a cylindrical shape and then squeezed out between the thumb and forefinger to form the longest and thinnest ribbon possible. Clay forms the longest, thinnest ribbons.
+Feel Tests
+Texture Tests:
+Salt and Sodium Hazard
+SALINITY (Salt Hazard)
+Class 4, Very High Sodium: Generally unsatisfactory for irrigation. Special conditions of low salinity water, favorable gypsum content of soils, high leaching, and special management may permit the use of this water. A complete soil analysis is recommended prior to any use of this water.
+Box 11. Bouyoucos Hydrometer Method
+Anderson, J. M., and J. S. I. Ingram. 1993. p. 68–71. In Tropical Soil Biology and Fertility: A Handbook of Methods. CAB International, Wallingford, U.K.
+Anonymous. 1992. Handbook on Reference Methods for Soil Analysis. Soil and Plant Analysis Council, Athens, Georgia, USA.
+AOAC. 1990. Official Methods of Analysis. Association of Analytical Chemists, Virginia, USA.
+APHA. 1998. Standard Methods for the Examination of Waters and Wastewaters. APHA-AWWA-WEF, Washington, DC.
+Ayers, R. S., and D. W. Westcot. 1985. Water Quality for Agriculture. FAO Irrigation Drainage Paper 29. Food and Agriculture Organization of the United Nations, Rome.
+Bell, R. W. 1997. Diagnosis and Prediction of Boron Deficiency for Plant Production. Plant Soil 193: 149–168.
+Berger, K. C., and E. Truog. 1939. Boron Determination in Soils and Plants. Ind. Eng. Anal. Ed. 11: 540–545.
+Bergman, W. (ed.). 1992. Nutrient Disorders of Plant Development: Visual and Analytical Diagnosis. Gustav Fischer, New York, USA.
+Bingham, F. T. 1982. Boron, p. 431–448. In A. L. Page (ed.), Methods of Soil Analysis, Part 2: Chemical and Mineralogical Properties. Amer. Soc. Agron., Madison, WI, USA.
+Black, C. A. 1993. Soil Fertility Evaluation and Control. Lewis Publ., Boca Raton, Florida, USA.
+Bohn, H. L., B. L. McNeal, and G. A. O’Connor. 1985. Soil Chemistry, 2nd ed. John Wiley and Sons, New York, USA.
+Boutton, T. W., and S. Yamasaki (ed.). 1996. Mass Spectrometry of Soils. Marcel Dekker, New York, USA.
+Bouyoucos, G. J. 1962. Hydrometer Method Improved for Making Particle-Size Analysis of Soils. Agron. J. 53: 464–465.
+Brady, N. C., and R. R. Weil. 1999. The Nature and Properties of Soils, 12th ed. Prentice Hall, Upper Saddle River, New Jersey, USA.
+Bremner, J. M., and C. S. Mulvaney. 1982. Nitrogen Total, p. 595–624. In A. L. Page (ed.), Methods of Soil Analysis. Agron. No. 9, Part 2: Chemical and Microbiological Properties, 2nd ed., Am. Soc. Agron., Madison, WI, USA.
+Bremner, J. M., and D. R. Keeney. 1965. Steam Distillation Methods for Determination of Ammonium, Nitrate, and Nitrite. Anal. Chem. Act
+Dhyan Singh, P.K. Chhonkar, R.N. Pandey, 1999. Soil, plant & water analysis—A method manual. IARI, New Delhi. Drouineau, G. 1942. Dosage rapid du calcire actif du sol. Nouvelles donnees sur la reportation de la nature des fractions calcaires. Ann. Agron. 12: 411 – 450. Eastin, E.F. 1976. Use of ammonia electrode for total nitrogen determination in plants. Commun. Soil Sci. Plant Anal. 3(2): 477 – 481. Elliott, L.F., and F.J. Stevenson (ed.). 1977. Soils for management of organic wastes and wastewaters. Soil Sci. Soc. Amer., Madison, Wisconsin, USA. EPA Method No. 3051. 1992. Microwave assisted acid digestion of sediments, sludges, soils, and oils. In test methods of evaluating solid waste, physical/chemical methods, SW-846, 3rd Edition. U.S. Environmental Protection Agency, Washington DC, USA. FAO. 1970. Physical and chemical methods of soil and water analysis. Soils Bull. No. 10. Food and Agriculture Organization, Rome, Italy. FAO. 1974. The Euphrates Pilot Irrigation Project. Methods of soil analysis, Gadeb Soil Laboratory (A laboratory manual). Food and Agriculture Organization, Rome, Italy. FAO. 1980. Soil testing and plant analysis. Bull. No. 38/1, Food and Agriculture Organization, Rome, Italy. FAO. 1990. Management of gypsiferous soils. Soils Bull. No. 62, Food and Agriculture Organization, Rome, Italy. Foth, H.D., and B.G. Ellis. 1997. Soil fertility, 2nd ed. Lewis Publishers, Boca Raton, Florida, USA. Gaines, T.P., and G.A. Mitchell. 1979. Boron determination in plant tissue by the Azomethine-H method. Commun. Soil Sci. Plant Anal. 10: 1099 – 1108. Gee, G.W., and J.W. Bauder. 1986. Particle-size analysis. In A. Klute (ed.). Methods of soil analysis. Part 1. Physical and mineralogical methods. 2nd ed. Agronomy 9: 383-411. Glendinning, J.S. (ed.). 1999. Australian soil fertility manual. CSIRO Publishing, Collingswood, Victoria, Australia. Hach Company. 1992. Soil and irrigation water interpretation manual. Hach, USA. Havlin, J., and J.S. Jacobsen (ed.). 1994. Soil testing: Prospects for improving nutrient recommendations. Soil Sci. Soc. Amer., Madison, Wisconsin, USA. Hesse, P.R. 1971. A Textbook of Soil Chemical Analysis. John Murray, London. Hossner, L.R. 1996. Dissolution for total elemental analysis. In: Methods of Soil Analysis, Part 3 Chemical Methods. Soil Sci. Soc. of Am.; Madison, WI, USA. Jackson, M.L. 1958. Soil Chemical Analysis. Prentice-Hall, Englewood Cliffs, NJ, US
+Keren, R., and F. T. Bingham. 1985. Boron in water, soils, and plants. Adv. Soil Sci. 1: 229–276. Klute, A. (ed.). 1986. Methods of soil analysis, Agron. 9, Part 1: Physical and mineralogical methods. Am. Soc. Agron., Madison, WI, USA. Lindsay, W. L., and W. A. Norvell. 1978. Development of a DTPA soil test for zinc, iron, manganese, and copper. Soil Sci. Soc. Am. J. 42: 421–428. Ludwick, A. E. (ed.). 1995. Western Fertilizer Handbook, 8th ed. Soil Improvement Committee, California Fertilizer Association. Interstate Publ., Danville, IL, USA. Martens, D. C., and W. L. Lindsay. 1990. Testing soils for copper, iron, manganese, and zinc. p. 229–264. In R. L. Westerman (ed.), Soil testing and plant analysis, 3rd ed., Soil Sci. Soc. Am., Madison, WI, USA. Matar, A., P. N. Soltanpour, and A. Chouinard (ed.). 1988. Soil Test Calibration in West Asia and North Africa. Proc. Second Regional Workshop. Ankara, Turkey, Sept 1–7, 1987. ICARDA, Aleppo, Syria. McGill, D., and Figueiredo. 1993. Total Nitrogen, p. 201–211. In M. R. Carter (ed.), Soil sampling and methods of analysis. Lewis Publ., Boca Raton, FL, USA. McKeague, J. A. (ed.). 1978. Manual on soil sampling and methods of analysis. Canadian Society of Soil Science: 66–68. McLean, E. O. 1982. Soil pH and lime requirement. p. 199–224. In A. L. Page (ed.), Methods of soil analysis, Part 2: Chemical and microbiological properties. Am. Soc. Agron., Madison, WI, USA. Miller, R. W., and R. L. Donahue. 1992. Soils: An introduction to soils and plant growth. 6th ed. Prentice Hall of India, New Delhi. Miller, Robert O. 1998. Microwave digestion of plant tissue in a closed vessel. In Y.P. Mortvedt, J. J., F. R. Cox, L. M. Shuman, and R.M. Welch (ed.). 1991. Micronutrients in agriculture, 2nd ed. Soil Sci. Soc. Amer., Madison, Wisconsin, USA. Mortvedt, J. J., P
+Quick, J. 1984. California soil testing procedures. Cooperative Extension, University of California, Davis, CA, USA. Rashid, A. 1986. Mapping zinc fertility of soils using indicator plants and soil analyses. PhD Dissertation, University of Hawaii, HI, USA. Rashid, A., E. Rafique, and N. Bughio. 1994. Diagnosing boron deficiency in rapeseed and mustard by plant analysis and soil testing. Communications in Soil Science and Plant Analysis 25: 2883 – 2897. Rashid, A., E. Rafique, and N. Bughio. 1997. Micronutrient deficiencies in calcareous soils of Pakistan. III. Boron nutrition of sorghum. Communications in Soil Science and Plant Analysis 28: 441 – 454. Reisenauer, H. M. (ed.) 1983. Soil and plant tissue testing in California. Davis, CA, USA. Reuter, D. J., and J. B. Robinson (ed.). 1986. Plant analysis: An interpretation manual. Inkata Press, Melbourne, Australia. Reuter, D. J., and J. B. Robinson (ed.). 1997. Plant analysis: An interpretation manual, 2nd ed. CSIRO Publishing, Australia. Rhoades, J. D. 1982. Cation exchange capacity. p. 149 – 157. In A. L. Page (ed.), Methods of soil analysis, Agronomy No. 9, Part 2: Chemical and mineralogical properties. American Society of Agronomy, Madison, WI, USA. Rhoades, J. D., and Polemio, M. 1977. Determining cation exchange capacity: A new procedure for calcareous and gypsiferous soils. Soil Science Society of America Journal 41: 524 – 300. Richards, L. A. 1954. Diagnosis and improvement of saline and alkali soils. USDA Agricultural Handbook 60. Washington, D.C. Ryan, J. 2000. Soil and plant analysis in the Mediterranean region: Limitations and potential. Communications in Soil Science and Plant Analysis 31(11 – 14): 2147 – 2154. Ryan, J., and A. Matar. 1990. Soil test calibration workshop in West Asia – North Africa. Proceedings of the 3rd regional workshop. Amman, Jordan, Sept. 3 – 9, 1988. ICARDA, Aleppo, Syria. Ryan, J., and A. Matar. 1992. Fertilizer use efficiency under rain-fed agriculture in West Asia and North Africa. Proceedings of the 4th regional soil test calibration workshop in West Asia – North Africa region. Agadir, Morocco, 5 – 10, 1991. ICARDA, Aleppo, Syria. Ryan, J., and S. Garabet. 1994. Soil test standardization in the West Asia – North Africa region. Communications in Soil Science and Plant Analysis 25 (9&10): 1641 – 1653. Ryan, J., S. Garabet, A. Rashid, and M. El-Gharous. 1999. Assessment of soil and plant analysis laboratories in the West Asia – North Africa region. Communications in Soil Science and Plant Analysis 30: 885 – 894. Sayegh, A. H., N. A. Khan, P. Khan, and J
+Sparks, D. L., A. L. Page, P. A. Helmke, R. H. Loeppert, P. N. Soltanpour, M. A. Tabatabai, C. T. Johnson, and M. Sumner (Eds). 1996. Methods of soil analysis: Part 3—chemical methods. Book Series Number 5. Soil Sci. Soc. of Am., Am. Soc. of Agron; Madison, WI, USA. Sumner, E. M. (ed). 1999. Handbook of soil science. CRC Press, Boca Raton, Florida, USA. Tandon, H. L. S. (ed.). 1993. Methods of analysis of soils, plants, waters and fertilizers. Fertilizer Development and Consultation Organization, New Delhi, India. Tandon, H. L. S. 1991. Sulphur research and agricultural production in India. 3rd ed., The Sulphur Institute, Washington, D.C. Tekalign, M., I. Haque, and E. A. Aduayi. 1991. Soil, plant, water, fertilizer, animal manure, and compost analysis manual. Plant Science Division Working Document 13. ILCA, Addis Ababa, Ethiopia. Van Schouwenberg, J. CH., and I. Walinge. 1973. Methods of analysis for plant material. Agric. Univ., Wageningen, The Netherlands. Vance, E. D., Brooks, P. C., and Jenkinson, D. S. 1987. An extraction method for measuring soil microbial biomass C. Soil Bio. Biochem. 19: 703–707. Verma, B. C. 1977. An improved turbidimetric procedure for the determination of sulphate in plants and soils. Talanta 24: 49–50. Walkley, A. 1947. A critical examination of a rapid method for determining organic carbon in soils: Effect of variations in digestion conditions and of organic soil constituents. Soil Sci. 63: 251–263. Walsh, L. M., and J. D. Beaton. 1973. Soil testing and plant analysis. Soil Sci. Soc. Am., Madison, WI, USA. Watanabe, F. S., and S. R. Olsen. 1965. Test of an ascorbic acid method for determining phosphorus in water and NaHCO3 extracts from soil. Soil Sci. Soc. Am. Proc. 29: 677–678. Weaver, R. W. (ed.). 1994. Methods of soil analysis: Part 2 – Microbiological and biological properties. Soil Sci. Soc. Amer., Madison, Wisconsin, USA. Westerman, R. L. (ed.) 1990. Soil testing and plant analysis. 3rd ed. Soil Sci. Soc. Am. Madison, WI, USA. WHO. 1996. Guidelines for drinking water quality, 2nd ed. Vol. 2. Health criteria and other supporting information. World Health Organization, Geneva, Switzerland. Wigle, D. T. (Ed.) 1986. Contaminants in drinking water and cancer in Canadian cities. Canadian J. Public Health 77: 335–342. Williams, C. H., and A. Steinbergs. 1959. Soil sulphur fractions as chemical indices of available sulphur in some Australian soils. Aust. J. Agric. Res. 10: 340–352.
+Appendix 1. Abbreviations
+To convert co
