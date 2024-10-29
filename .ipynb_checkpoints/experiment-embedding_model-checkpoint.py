@@ -3,6 +3,7 @@ import sys
 import time
 import shutil
 import glob
+import gc
 from tika import parser
 
 from langchain.text_splitter import CharacterTextSplitter
@@ -124,7 +125,7 @@ def retrieve(user_query, num, embedding_model):
     
     return avrg_score
 
-def retrieve_with_re_ranker(user_query, num, embedding_model):
+def retrieve_with_re_ranker(user_query, num, embedding_model, model, tokenizer, query_no):
     embeddings_model = HuggingFaceEmbeddings(
         model_name = embedding_model,
         model_kwargs = {'device': 'cuda'},
@@ -148,64 +149,47 @@ def retrieve_with_re_ranker(user_query, num, embedding_model):
     print("number of unique results : {}".format(len(unique_results)))
     print("=======================")
     print()
-    
-    model = EncT5ForSequenceClassification.from_pretrained("facebook/tart-full-flan-t5-xl")
-    tokenizer =  EncT5Tokenizer.from_pretrained("facebook/tart-full-flan-t5-xl")
 
-    model.eval()
+    unique_results = list(unique_results)
     
     in_answer = "retrieve a passage that answers this question from some paper"
 
-    final_results = []
+    final_result = unique_results[0]
     
-    for result in unique_results:
-        final_results.append([result, 0])
-    
-    unique_results = list(unique_results)
-    for i in range(len(unique_results)):
-        for j in range(i+1, len(unique_results)):
-            features = tokenizer(['{0} [SEP] {1}'.format(in_answer, user_query), '{0} [SEP] {1}'.format(in_answer, user_query)], 
-                                 [unique_results[i], unique_results[j]], padding=True, truncation=True, return_tensors="pt")
-            with torch.no_grad():
-                scores = model(**features).logits
-                normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
-            if np.argmax(normalized_scores) == 0:
-                final_results[i][1] = final_results[i][1] + 1
-            else:
-                final_results[j][1] = final_results[j][1] + 1
-    
-    final_results.sort(reverse=True, key=lambda a: a[1])
-    
-    if len(final_results) < 10:
-        first_num = len(final_results)
-    else:
-        first_num = 10
-        final_results = final_results[:10]
+    for i in range(1, len(unique_results)):
+        features = tokenizer(['{0} [SEP] {1}'.format(in_answer, user_query), '{0} [SEP] {1}'.format(in_answer, user_query)], 
+                             [final_result, unique_results[i]], padding=True, truncation=True, return_tensors="pt")
+        with torch.no_grad():
+            scores = model(**features).logits
+            normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
+        if np.argmax(normalized_scores) != 0:
+            final_result = unique_results[i]
 
     result_dir = "results/"
-    result_file = "tart_stella400M_3.txt"
+    result_file = "tart_stella1.5B_100Q_1st_Rtv.txt"
     
-    if os.path.isfile(result_dir+result_file):
-        os.remove(result_dir+result_file)
+    with open(result_dir+result_file, "a") as output_file:
+        output_file.write("Result {} :".format(query_no))
+        output_file.write("\n")
+        output_file.write(final_result)
+        output_file.write("\n")
+        output_file.write("\n")
+        output_file.close()
     
-    with open(result_dir+result_file, "w") as output_file:
-        for i in range(first_num):
-            output_file.write("Result {} :".format(i))
-            output_file.write("\n")
-            output_file.write(final_results[i][0])
-            output_file.write("\n")
-            output_file.write("\n")
-        
-    return final_results
+    return final_result
 
 # run this python file only when a new vector DB is going to be set up
 if __name__ == "__main__":
-    user_query = "What are the most effective methods for preventing and controlling anthracnose in strawberry crops?"
-    
-    embedding_model = 'dunzhang/stella_en_400M_v5'
+    query_dir = "questions/"
+    query_file = "questions_100.txt"
+
+    with open(query_dir + query_file, 'r') as fr:
+        user_queries = fr.read().split("\n")
+        
+    embedding_model = 'dunzhang/stella_en_1.5B_v5'
     
     chunk_size = 200
-    chunk_number = set_vector_db(chunk_size, embedding_model)
+    # chunk_number = set_vector_db(chunk_size, embedding_model)
     
     num = 50
     
@@ -215,18 +199,38 @@ if __name__ == "__main__":
     # print("Embedding Model = {} :".format(embedding_model))
     # print("average score = {}".format(score))
         
-    retrieved_results = retrieve_with_re_ranker(user_query, num, embedding_model)
-    
+    retrieved_results = []
+
+    '''model = EncT5ForSequenceClassification.from_pretrained("facebook/tart-full-flan-t5-xl")
+    tokenizer =  EncT5Tokenizer.from_pretrained("facebook/tart-full-flan-t5-xl")
+
+    model.eval()
+
+    for i in range(len(user_queries)):
+        query = user_queries[i]
+        result = retrieve_with_re_ranker(query, num, embedding_model, model, tokenizer, i)
+        retrieved_results.append(result)
+        gc.collect()'''
+
     result_dir = "results/"
-    result_file = "tart_stella400M_generation_3.txt"
+    result_file = "tart_stella1.5B_100Q_1st_Rtv.txt"
+    
+    with open(result_dir+result_file, "r") as retrieved_file:
+        retrieved_list = retrieved_file.read().split("Result ")
+        for retrieved_result in retrieved_list:
+            if "\n" not in retrieved_result:
+                continue
+            retrieved_results.append(retrieved_result.split("\n")[1])
+    
+    result_file = "llama3.1_tart_stella1.5B_100Q_1st_Ans.txt"
     
     with open(result_dir+result_file, "w") as output_file:
         for i in range(len(retrieved_results)):
             histories = ""
 
-            retrieved_result = retrieved_results[i][0]
+            retrieved_result = retrieved_results[i]
 
-            generation_reranker = generate_with_loop(user_query + " " + retrieved_result, histories)
+            generation_reranker = generate_with_loop("Here is a question : " + user_queries[i] + " And I give you a related document : " + retrieved_result + " Generate a answer for me.", histories)
 
             answer_reranker = ""
 

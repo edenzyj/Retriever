@@ -12,7 +12,7 @@ def generate_with_loop(message, histories):
         history.append({"role": "assistant", "content": assistant})
     history.append({"role": "user", "content": message})
     
-    llm = get_llm()
+    llm = get_llm("meta-llama/Llama-3.1-8B-Instruct")
     tokenizer = get_tokenizer()
     sampling_params = get_sampling_params()
     
