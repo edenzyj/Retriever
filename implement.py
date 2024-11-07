@@ -1,11 +1,12 @@
 import os
+import sys
 import shutil
 import glob
-from tika import parser
+import gc
 
 from langchain.text_splitter import CharacterTextSplitter
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_chroma import Chroma
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
 
 from tart.TART.src.modeling_enc_t5 import EncT5ForSequenceClassification
 from tart.TART.src.tokenization_enc_t5 import EncT5Tokenizer
@@ -13,30 +14,30 @@ import torch
 import torch.nn.functional as F
 import numpy as np
 
+from generation import generate_with_loop
+
+from sentence_transformers import SentenceTransformer
+
 # from generation import generate_with_loop
 
-database_path = "vectorDB"
+database_path = "vectorDB_9907"
 
 def set_vector_db(chunk_size, embedding_model):
-    pdf_dir = 'pdf/strawberry_file/EN'
-    file_names = glob.glob(pdf_dir + "/*.pdf")
+    revise_paragraph_dir = 'embedding_finetune/revised'
+    file_names = glob.glob(revise_paragraph_dir + "/*.txt")
     
     texts = []
     
     for file_name in file_names:
-        text = parser.from_file(file_name)
-        print(type(text["content"]))
-        
-        pdf_str = text["content"]
-        
-        # split References which is not using now.
-        '''pdf_str = pdf_str.split("References")
-        for i in range(len(pdf_str) - 1):
-            texts.append(pdf_str[i])
-        if len(pdf_str) == 1:
-            texts.append(pdf_str[0])'''
-        
-        texts.append(pdf_str)
+        with open(file_name, 'r') as fr:
+            content = fr.read()
+            paragraphs = content.split("\n")
+
+            for paragraph in paragraphs:
+                if len(paragraph) > 0:
+                    texts.append(paragraph)
+
+            fr.close()
 
     text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=40)
 
@@ -55,7 +56,11 @@ def set_vector_db(chunk_size, embedding_model):
         
     os.makedirs(database_path)
 
-    chromadb = Chroma.from_documents(chunks, embeddings_model, persist_directory=database_path)
+    chromadb = Chroma.from_documents(chunks, 
+                                     embedding=embeddings_model,
+                                     collection_name='coll_cosine',
+                                     collection_metadata={"hnsw:space": "cosine"},
+                                     persist_directory=database_path)
     chromadb.persist()
     
     return len(chunks)
@@ -70,7 +75,10 @@ def retrieve(user_query, num, embedding_model):
         encode_kwargs = {'normalize_embeddings': False}
     )
     
-    chromadb = Chroma(embedding_function=embeddings_model, persist_directory=database_path)
+    chromadb = Chroma(embedding_function=embeddings_model,
+                      collection_name='coll_cosine',
+                      collection_metadata={"hnsw:space": "cosine"},
+                      persist_directory=database_path)
 
     results = chromadb.similarity_search_with_score(user_query, num)
     
@@ -84,13 +92,6 @@ def retrieve(user_query, num, embedding_model):
             final_results.append((content, results[i][1]))
     
     final_results.sort(key=lambda a: a[1])
-    
-    return_message = user_query
-    
-    if final_results[0][1] <= 0.8:
-        print(final_results[0][1])
-        print(len(final_results[0][0]))
-        return_message = return_message + " " + final_results[0][0]
     
     print("number of unique results : {}".format(len(unique_results)))
     print("=======================")
@@ -108,16 +109,19 @@ def retrieve(user_query, num, embedding_model):
     
     avrg_score = total_score / first_num
     
-    return return_message, avrg_score
+    return avrg_score
 
-def retrieve_with_re_ranker(user_query, num, embedding_model, chunk_size):
+def retrieve_with_re_ranker(user_query, num, embedding_model, model, tokenizer, query_no):
     embeddings_model = HuggingFaceEmbeddings(
         model_name = embedding_model,
         model_kwargs = {'device': 'cuda'},
         encode_kwargs = {'normalize_embeddings': False}
     )
     
-    chromadb = Chroma(embedding_function=embeddings_model, persist_directory=database_path)
+    chromadb = Chroma(embedding_function=embeddings_model,
+                      collection_name='coll_cosine',
+                      collection_metadata={"hnsw:space": "cosine"},
+                      persist_directory=database_path)
 
     results = chromadb.similarity_search_with_score(user_query, num)
     
@@ -131,100 +135,100 @@ def retrieve_with_re_ranker(user_query, num, embedding_model, chunk_size):
     print("number of unique results : {}".format(len(unique_results)))
     print("=======================")
     print()
+
+    unique_results = list(unique_results)
     
+    in_answer = "retrieve a passage that answers this question from some paper"
+
+    final_result = unique_results[0]
+    
+    for i in range(1, len(unique_results)):
+        features = tokenizer(['{0} [SEP] {1}'.format(in_answer, user_query), '{0} [SEP] {1}'.format(in_answer, user_query)], 
+                             [final_result, unique_results[i]], padding=True, truncation=True, return_tensors="pt")
+        with torch.no_grad():
+            scores = model(**features).logits
+            normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
+        if np.argmax(normalized_scores) != 0:
+            final_result = unique_results[i]
+
+    result_dir = "results/9907/"
+    if not os.path.isdir(result_dir):
+        os.makedirs(result_dir)
+    
+    result_file = "tart_stella1.5B_100Q_1st_Rtv.txt"
+    
+    with open(result_dir+result_file, "a") as output_file:
+        output_file.write("Result {} :".format(query_no))
+        output_file.write("\n")
+        output_file.write(final_result)
+        output_file.write("\n")
+        output_file.write("\n")
+        output_file.close()
+    
+    return final_result
+
+# run this python file only when a new vector DB is going to be set up
+if __name__ == "__main__":
+    query_dir = "questions/"
+    query_file = "questions_100.txt"
+
+    with open(query_dir + query_file, 'r') as fr:
+        user_queries = fr.read().split("\n")
+        
+    embedding_model = 'dunzhang/stella_en_1.5B_v5'
+    
+    chunk_size = 200
+    # chunk_number = set_vector_db(chunk_size, embedding_model)
+    
+    num = 50
+    
+    # score = retrieve(user_query, num, embedding_model)
+    
+    # print()
+    # print("Embedding Model = {} :".format(embedding_model))
+    # print("average score = {}".format(score))
+        
+    retrieved_results = []
+
     model = EncT5ForSequenceClassification.from_pretrained("facebook/tart-full-flan-t5-xl")
     tokenizer =  EncT5Tokenizer.from_pretrained("facebook/tart-full-flan-t5-xl")
 
     model.eval()
-    
-    in_answer = "retrieve a passage that answers this question from some paper"
 
-    final_results = []
-    
-    for result in unique_results:
-        final_results.append([result, 0])
-    
-    unique_results = list(unique_results)
-    unique_result_best = unique_results[-1]
-    for i in range(len(unique_results) - 1):
-        features = tokenizer(['{0} [SEP] {1}'.format(in_answer, user_query), '{0} [SEP] {1}'.format(in_answer, user_query)], 
-                             [unique_results[i], unique_result_best], padding=True, truncation=True, return_tensors="pt")
-        with torch.no_grad():
-            scores = model(**features).logits
-            normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
-        if np.argmax(normalized_scores) == 0:
-            unique_result_best = unique_results[i]
-        
-        '''if np.argmax(normalized_scores) == 0:
-            final_results[i][1] = final_results[i][1] + 1
-        else:
-            final_results[j][1] = final_results[j][1] + 1
-    
-    final_results.sort(reverse=True, key=lambda a: a[1])
-    
-    if len(final_results) < 10:
-        first_num = len(final_results)
-    else:
-        first_num = 10
+    for i in range(len(user_queries)):
+        query = user_queries[i]
+        result = retrieve_with_re_ranker(query, num, embedding_model, model, tokenizer, i)
+        retrieved_results.append(result)
+        gc.collect()
 
-    result_dir = "results/"
-    result_file = "re-ranker_result_{}.txt".format(chunk_size)
+    result_dir = "results/9907/"
     
-    if os.path.isfile(result_dir+result_file):
-        os.remove(result_dir+result_file)
+    '''result_file = "tart_stella1.5B_100Q_1st_Rtv.txt"
+    
+    with open(result_dir+result_file, "r") as retrieved_file:
+        retrieved_list = retrieved_file.read().split("Result ")
+        for retrieved_result in retrieved_list:
+            if "\n" not in retrieved_result:
+                continue
+            retrieved_results.append(retrieved_result.split("\n")[1])'''
+    
+    result_file = "tart_stella1.5B_100Q_1st_Ans.txt"
     
     with open(result_dir+result_file, "w") as output_file:
-        for i in range(first_num):
-            output_file.write("Result {} :".format(i))
-            output_file.write("\n")
-            output_file.write("Win other {} results".format(final_results[i][1]))
-            output_file.write("\n")
-            output_file.write(final_results[i][0])
-            output_file.write("\n")
-            output_file.write("\n")'''
-        
-    return_message = user_query
-    
-    return_message = return_message + " " + unique_result_best
-    
-    return return_message
+        for i in range(len(retrieved_results)):
+            histories = ""
 
-# run this python file only when a new vector DB is going to be set up
-if __name__ == "__main__":
-    user_query = "What is Anthracnose caused by?"
-    
-    embedding_model = 'sentence-transformers/all-MiniLM-L6-v2'
-    
-    chunk_size = 200
-    chunk_number = set_vector_db(chunk_size, embedding_model)
-    
-    num = 50
-    result_similarity, score = retrieve(user_query, num, embedding_model)
-    
-    result_reranker = retrieve_with_re_ranker(user_query, num, embedding_model, chunk_size)
-    
-    print("This is the answer with naive RAG :")
-    print(result_similarity)
-    print()
-    print("This is the answer with RAG + Re-ranker :")
-    print(result_reranker)
-    
-    '''histories = ""
-    
-    generation_similarity = generate_with_loop(result_similarity, histories)
-    generation_reranker = generate_with_loop(result_reranker, histories)
-    
-    answer_similarity = ""
-    answer_reranker = ""
-    
-    for ans in generation_similarity:
-        answer_similarity = ans
-    print(answer_similarity)
-    
-    print()
-    print("//////////**********//////////")
-    print()
-    
-    for ans in generation_reranker:
-        answer_reranker = ans
-    print(answer_reranker)'''
+            retrieved_result = retrieved_results[i]
+
+            generation_reranker = generate_with_loop("Here is a question : " + user_queries[i] + " And I give you a related document : " + retrieved_result + " Generate a answer for me.", histories)
+
+            answer_reranker = ""
+
+            for ans in generation_reranker:
+                answer_reranker = ans
+            
+            output_file.write("Answer {} :".format(i))
+            output_file.write("\n")
+            output_file.write(answer_reranker)
+            output_file.write("\n")
+            output_file.write("\n")
