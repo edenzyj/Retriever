@@ -155,7 +155,7 @@ def retrieve_with_re_ranker(user_query, num, embedding_model, model, tokenizer, 
     if not os.path.isdir(result_dir):
         os.makedirs(result_dir)
     
-    result_file = "tart_stella1.5B_100Q_1st_Rtv.txt"
+    result_file = "9907_tart_stella1.5B_100Q_1st_Rtv.txt"
     
     with open(result_dir+result_file, "a") as output_file:
         output_file.write("Result {} :".format(query_no))
@@ -212,7 +212,7 @@ if __name__ == "__main__":
                 continue
             retrieved_results.append(retrieved_result.split("\n")[1])'''
     
-    result_file = "tart_stella1.5B_100Q_1st_Ans.txt"
+    result_file = "9907_tart_stella1.5B_100Q_1st_Ans.txt"
     
     with open(result_dir+result_file, "w") as output_file:
         for i in range(len(retrieved_results)):

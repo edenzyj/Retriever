@@ -221,7 +221,7 @@ def retrieve_with_re_ranker(user_query, num, model_path):
 if __name__ == "__main__":
     user_query = "What are the most effective methods for preventing and controlling anthracnose in strawberry crops?"
     
-    embedding_model = 'finetune_embed/epoch_5_20241007'
+    embedding_model = 'finetune_embed/finetuned_stella1.5B_6pdfs'
     
     chunk_size = 200
     chunk_number = set_vector_db(chunk_size, embedding_model)
