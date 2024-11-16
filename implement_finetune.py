@@ -3,6 +3,8 @@ import sys
 import shutil
 import glob
 import gc
+from tika import parser
+from typing import List
 
 from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
@@ -17,25 +19,37 @@ import numpy as np
 from generation import generate_with_loop
 
 from sentence_transformers import SentenceTransformer
+from transformers import AutoModel, AutoTokenizer
 
 # from generation import generate_with_loop
 
-database_path = "vectorDB_finetuned_6pdfs"
+database_path = "vectorDB_finetuned_360k"
 
 class MyEmbedding:
-    def __init__(self, model):
-        self.model = SentenceTransformer(model, trust_remote_code=True)
+    def __init__(self, model_path):
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.model = AutoModel.from_pretrained(model_path).to(self.device)
+        self.tokenizer = AutoTokenizer.from_pretrained(model_path)
 
     def embed_documents(self, texts: List[str]) -> List[List[float]]:
-        return [self.model.encode(t).tolist() for t in texts]
+        embeddings = []
+        for text in texts:
+            inputs = self.tokenizer(text, return_tensors="pt", padding=True, truncation=True)
+            inputs = {k: v.to(self.device) for k, v in inputs.items()}
+            outputs = self.model(**inputs)
+            embeddings.append(outputs.last_hidden_state.mean(dim=1).squeeze(0).tolist())
+        return embeddings
 
     def embed_query(self, query: str) -> List[float]:
-        encoded_query = self.model.encode(query)
-        return self.model.encode(query).tolist()
+        inputs = self.tokenizer(query, return_tensors="pt", padding=True, truncation=True)
+        inputs = {k: v.to(self.device) for k, v in inputs.items()}
+        outputs = self.model(**inputs)
+        embedding = outputs.last_hidden_state.mean(dim=1).squeeze(0).tolist()
+        return embedding
 
 
 def set_vector_db(chunk_size, model_path):
-    pdf_dir = 'pdf/strawberry_file/EN'
+    '''pdf_dir = 'pdf/strawberry_file/EN'
     file_names = glob.glob(pdf_dir + "/*.pdf")
     
     texts = []
@@ -63,7 +77,23 @@ def set_vector_db(chunk_size, model_path):
         new_list = new_str.split('\n')
         
         for split_str in new_list:
-            texts.append(split_str)
+            texts.append(split_str)'''
+
+    revise_paragraph_dir = 'embedding_finetune/revised'
+    file_names = glob.glob(revise_paragraph_dir + "/*.txt")
+    
+    texts = []
+    
+    for file_name in file_names:
+        with open(file_name, 'r') as fr:
+            content = fr.read()
+            paragraphs = content.split("\n")
+
+            for paragraph in paragraphs:
+                if len(paragraph) > 0:
+                    texts.append(paragraph)
+
+            fr.close()
 
     text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=40)
 
@@ -173,7 +203,7 @@ def retrieve_with_re_ranker(user_query, num, model_path, model, tokenizer, query
     if not os.path.isdir(result_dir):
         os.makedirs(result_dir)
     
-    result_file = "9907_tart_stella1.5B_100Q_1st_Rtv.txt"
+    result_file = "9907_tart_finetuned360k_100Q_1st_Rtv.txt"
     
     with open(result_dir+result_file, "a") as output_file:
         output_file.write("Result {} :".format(query_no))
@@ -193,7 +223,7 @@ if __name__ == "__main__":
     with open(query_dir + query_file, 'r') as fr:
         user_queries = fr.read().split("\n")
         
-    embedding_model = 'finetune_embed/finetuned_stella1.5B_6pdfs'
+    embedding_model = './finetune_embed/360k/final'
     
     chunk_size = 200
     chunk_number = set_vector_db(chunk_size, embedding_model)
@@ -221,7 +251,7 @@ if __name__ == "__main__":
 
     result_dir = "results/9907/"
     
-    '''result_file = "tart_stella1.5B_100Q_1st_Rtv.txt"
+    '''result_file = "tart_finetuned360k_100Q_1st_Rtv.txt"
     
     with open(result_dir+result_file, "r") as retrieved_file:
         retrieved_list = retrieved_file.read().split("Result ")
@@ -230,7 +260,7 @@ if __name__ == "__main__":
                 continue
             retrieved_results.append(retrieved_result.split("\n")[1])'''
     
-    result_file = "9907_tart_stella1.5B_100Q_1st_Ans.txt"
+    result_file = "9907_tart_finetuned360k_100Q_1st_Ans.txt"
     
     with open(result_dir+result_file, "w") as output_file:
         for i in range(len(retrieved_results)):
