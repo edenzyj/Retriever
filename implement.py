@@ -1,30 +1,40 @@
 import os
-import sys
 import shutil
 import glob
 import gc
 
+# Import langchain frameware to build vector DB of RAG.
 from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
+# Import tart to implement reranker.
+# Torch and Numpy is needed when using tart to rerank.
 from tart.TART.src.modeling_enc_t5 import EncT5ForSequenceClassification
 from tart.TART.src.tokenization_enc_t5 import EncT5Tokenizer
 import torch
 import torch.nn.functional as F
 import numpy as np
 
+# Import function to generate answer using llama3.
 from generation import generate_with_loop
 
-from sentence_transformers import SentenceTransformer
-
-# from generation import generate_with_loop
-
+# =====Setting Here=====
+# Set the path of vector DB.
 database_path = "vectorDB_9907"
 
-def set_vector_db(chunk_size, embedding_model):
-    revise_paragraph_dir = 'embedding_finetune/revised'
-    file_names = glob.glob(revise_paragraph_dir + "/*.txt")
+
+def set_vector_db(file_names, chunk_size, embedding_model):
+    """
+    Use vector store with embedding model to build vector DB.
+
+    Parameters:
+        chunk_size (int): A number representing the approximate length of every chunk.
+        embedding_model (str): The repo name of the embedding model on HuggingFace or the directory path of the embedding model if the model is stored locally.
+
+    Returns:
+        int: The number of chunks.
+    """
     
     texts = []
     
@@ -65,9 +75,23 @@ def set_vector_db(chunk_size, embedding_model):
     
     return len(chunks)
 
-def retrieve(user_query, num, embedding_model):
-    print(user_query)
-    print()
+
+def retrieve(user_query, num, embedding_model, output_dir, result_file, query_no):
+    """
+    Retrieve the results from vector DB using smilarity search with score, and then compare the scores to select the best retrieved result.
+
+    Args:
+        user_query (str): The query given by user.
+        num (int): The number of results get from similarity search.
+        embedding_model (str): The repo name of the embedding model on HuggingFace or the directory path of the embedding model if the model is stored locally.
+        output_dir (str): The name of directory path which stores the retrieved results file.
+        result_file (str): The name of the retrieved results file.
+        query_no (int): The current query's number.
+
+    Returns:
+        str: The retrieved result which has the highest score.
+        int: The highest score.
+    """
     
     embeddings_model = HuggingFaceEmbeddings(
         model_name = embedding_model,
@@ -97,21 +121,40 @@ def retrieve(user_query, num, embedding_model):
     print("=======================")
     print()
     
-    if len(final_results) < 10:
-        first_num = len(final_results)
-    else:
-        first_num = 10
-
-    total_score = 0
-
-    for i in range(first_num):
-        total_score = total_score + final_results[i][1]
+    first_result = final_results[0]
+    score = final_results[1]
     
-    avrg_score = total_score / first_num
+    with open(output_dir + result_file, "a") as output_file:
+        output_file.write("Result {} :".format(query_no))
+        output_file.write("\n")
+        output_file.write("Score = {}".format(score))
+        output_file.write("\n")
+        output_file.write(first_result)
+        output_file.write("\n")
+        output_file.write("\n")
+        output_file.close()
     
-    return avrg_score
+    return first_result, score
 
-def retrieve_with_re_ranker(user_query, num, embedding_model, model, tokenizer, query_no):
+
+def retrieve_with_re_ranker(user_query, num, embedding_model, reranker_model, reranker_tokenizer, output_dir, result_file, query_no):
+    """
+    Retrieve the results from vector DB using smilarity search, and then use reranker to select the best retrieved result.
+
+    Parameters:
+        user_query (str): The query given by user.
+        num (int): The number of results get from similarity search.
+        embedding_model (str): The repo name of the embedding model on HuggingFace or the directory path of the embedding model if the model is stored locally.
+        reranker_model : The reranker model loaded outside the function.
+        reranker_tokenizer : The reranker tokenizer loaded outside the function.
+        output_dir (str): The name of directory path which stores the retrieved results file.
+        result_file (str): The name of the retrieved results file.
+        query_no (int): The current query's number.
+
+    Returns:
+        str: The retrieved result which is ranked by reranker.
+    """
+    
     embeddings_model = HuggingFaceEmbeddings(
         model_name = embedding_model,
         model_kwargs = {'device': 'cuda'},
@@ -143,21 +186,15 @@ def retrieve_with_re_ranker(user_query, num, embedding_model, model, tokenizer, 
     final_result = unique_results[0]
     
     for i in range(1, len(unique_results)):
-        features = tokenizer(['{0} [SEP] {1}'.format(in_answer, user_query), '{0} [SEP] {1}'.format(in_answer, user_query)], 
+        features = reranker_tokenizer(['{0} [SEP] {1}'.format(in_answer, user_query), '{0} [SEP] {1}'.format(in_answer, user_query)], 
                              [final_result, unique_results[i]], padding=True, truncation=True, return_tensors="pt")
         with torch.no_grad():
-            scores = model(**features).logits
+            scores = reranker_model(**features).logits
             normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
         if np.argmax(normalized_scores) != 0:
             final_result = unique_results[i]
-
-    result_dir = "results/9907/"
-    if not os.path.isdir(result_dir):
-        os.makedirs(result_dir)
     
-    result_file = "9907_tart_stella1.5B_100Q_1st_Rtv.txt"
-    
-    with open(result_dir+result_file, "a") as output_file:
+    with open(output_dir + result_file, "a") as output_file:
         output_file.write("Result {} :".format(query_no))
         output_file.write("\n")
         output_file.write(final_result)
@@ -167,63 +204,82 @@ def retrieve_with_re_ranker(user_query, num, embedding_model, model, tokenizer, 
     
     return final_result
 
+
 # run this python file only when a new vector DB is going to be set up
 if __name__ == "__main__":
+    # =====Setting Here=====
+    # These are parameters used to build vector DB.
+    paragraph_dir = 'enterprises/revised'
+    file_names = glob.glob(paragraph_dir + "/*.txt")
+    chunk_size = 200
+    embedding_model = 'dunzhang/stella_en_1.5B_v5'
+    
+    chunk_number = set_vector_db(file_names, chunk_size, embedding_model)
+    
+    # =====Setting Here=====
+    # Directory name and file name of query file.
     query_dir = "questions/"
     query_file = "questions_100.txt"
 
     with open(query_dir + query_file, 'r') as fr:
         user_queries = fr.read().split("\n")
-        
-    embedding_model = 'dunzhang/stella_en_1.5B_v5'
     
-    chunk_size = 200
-    # chunk_number = set_vector_db(chunk_size, embedding_model)
-    
-    num = 50
-    
-    # score = retrieve(user_query, num, embedding_model)
-    
-    # print()
-    # print("Embedding Model = {} :".format(embedding_model))
-    # print("average score = {}".format(score))
-        
-    retrieved_results = []
+    retrieved_results = []  # List to store all retrieved results.
+    num = 50  # Number of similarity search results.
 
-    model = EncT5ForSequenceClassification.from_pretrained("facebook/tart-full-flan-t5-xl")
-    tokenizer =  EncT5Tokenizer.from_pretrained("facebook/tart-full-flan-t5-xl")
+    # Reranker model : TART from Facebook.
+    reranker_tokenizer =  EncT5Tokenizer.from_pretrained("facebook/tart-full-flan-t5-xl")
+    reranker_model = EncT5ForSequenceClassification.from_pretrained("facebook/tart-full-flan-t5-xl")
+    reranker_model.eval()
 
-    model.eval()
+    # =====Setting Here=====
+    # Directory name of both retrieved results file and generated answers file.
+    output_dir = "results/9907/"
+    if not os.path.isdir(output_dir):
+        os.mkdir(output_dir)
+    
+    # =====Setting Here=====
+    # File name of retrieved results file.
+    result_file = "9907_tart_stella1.5B_100Q_1st_Rtv.txt"
 
+    # Retrieve document and get result for each query.
     for i in range(len(user_queries)):
         query = user_queries[i]
-        result = retrieve_with_re_ranker(query, num, embedding_model, model, tokenizer, i)
+        # result, score = retrieve(query, num, embedding_model, output_dir, result_file, i)  # Naive retrieve
+        result = retrieve_with_re_ranker(query, num, embedding_model, reranker_model, reranker_tokenizer, output_dir, result_file, i)  # Retrieve with reranker
         retrieved_results.append(result)
         gc.collect()
-
-    result_dir = "results/9907/"
     
-    '''result_file = "tart_stella1.5B_100Q_1st_Rtv.txt"
-    
-    with open(result_dir+result_file, "r") as retrieved_file:
+    '''
+    # Seperate retrieving and generating.
+    # Read result file to fulfill "retrieved_results" list.
+    with open(output_dir+result_file, "r") as retrieved_file:
         retrieved_list = retrieved_file.read().split("Result ")
         for retrieved_result in retrieved_list:
             if "\n" not in retrieved_result:
                 continue
-            retrieved_results.append(retrieved_result.split("\n")[1])'''
+            retrieved_results.append(retrieved_result.split("\n")[1])
+    '''
     
-    result_file = "9907_tart_stella1.5B_100Q_1st_Ans.txt"
+    # =====Setting Here=====
+    # File name of generated answers file.
+    answer_file = "9907_tart_stella1.5B_100Q_1st_Ans.txt"
     
-    with open(result_dir+result_file, "w") as output_file:
+    # Generate answer and write into answer file for each retrieved result.
+    with open(output_dir + answer_file, "w") as output_file:
         for i in range(len(retrieved_results)):
-            histories = ""
+            histories = []
 
             retrieved_result = retrieved_results[i]
+            
+            prompt = "Here is a question : " + user_queries[i] + " And I give you a related document : " + retrieved_result + " Generate a answer for me."
 
-            generation_reranker = generate_with_loop("Here is a question : " + user_queries[i] + " And I give you a related document : " + retrieved_result + " Generate a answer for me.", histories)
+            # Call generating function to get generated answer.
+            generation_reranker = generate_with_loop(prompt, histories)
 
             answer_reranker = ""
-
+            
+            # Keep update answer until the whole answer has been generated.
             for ans in generation_reranker:
                 answer_reranker = ans
             
