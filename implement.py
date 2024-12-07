@@ -21,7 +21,7 @@ from generation import generate_with_loop
 
 # =====Setting Here=====
 # Set the path of vector DB.
-database_path = "vectorDB_9907"
+database_path = "vectorDB_6"
 
 
 def set_vector_db(file_names, chunk_size, embedding_model):
@@ -209,12 +209,14 @@ def retrieve_with_re_ranker(user_query, num, embedding_model, reranker_model, re
 if __name__ == "__main__":
     # =====Setting Here=====
     # These are parameters used to build vector DB.
-    paragraph_dir = 'enterprises/revised'
+    paragraph_dir = 'enterprises/revised_6'
     file_names = glob.glob(paragraph_dir + "/*.txt")
     chunk_size = 200
     embedding_model = 'dunzhang/stella_en_1.5B_v5'
     
     chunk_number = set_vector_db(file_names, chunk_size, embedding_model)
+    
+    print("Number of chunks : ".format(chunk_number))
     
     # =====Setting Here=====
     # Directory name and file name of query file.
@@ -234,13 +236,13 @@ if __name__ == "__main__":
 
     # =====Setting Here=====
     # Directory name of both retrieved results file and generated answers file.
-    output_dir = "results/9907/"
+    output_dir = "results/6/"
     if not os.path.isdir(output_dir):
         os.mkdir(output_dir)
     
     # =====Setting Here=====
     # File name of retrieved results file.
-    result_file = "9907_tart_stella1.5B_100Q_1st_Rtv.txt"
+    result_file = "6_tart_stella1.5B_100Q_1st_Rtv.txt"
 
     # Retrieve document and get result for each query.
     for i in range(len(user_queries)):
@@ -263,7 +265,7 @@ if __name__ == "__main__":
     
     # =====Setting Here=====
     # File name of generated answers file.
-    answer_file = "9907_tart_stella1.5B_100Q_1st_Ans.txt"
+    answer_file = "6_tart_stella1.5B_100Q_1st_Ans.txt"
     
     # Generate answer and write into answer file for each retrieved result.
     with open(output_dir + answer_file, "w") as output_file:
