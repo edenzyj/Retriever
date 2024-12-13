@@ -1,0 +1,309 @@
+import os
+import shutil
+import glob
+import gc
+
+# Import langchain frameware to build vector DB of RAG.
+from langchain.text_splitter import CharacterTextSplitter
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
+
+# Import tart to implement reranker.
+# Torch and Numpy is needed when using tart to rerank.
+from tart.TART.src.modeling_enc_t5 import EncT5ForSequenceClassification
+from tart.TART.src.tokenization_enc_t5 import EncT5Tokenizer
+import torch
+import torch.nn.functional as F
+import numpy as np
+
+# Import function to generate answer using llama3.
+from generation import generate_with_loop
+
+# Import configuration file
+import config
+
+
+def set_vector_db(file_names, chunk_size, embedding_model, database_path):
+    """
+    Use vector store with embedding model to build vector DB.
+
+    Parameters:
+        chunk_size (int): A number representing the approximate length of every chunk.
+        embedding_model (str): The repo name of the embedding model on HuggingFace or the directory path of the embedding model if the model is stored locally.
+
+    Returns:
+        int: The number of chunks.
+    """
+    
+    texts = []
+    
+    for file_name in file_names:
+        with open(file_name, 'r') as fr:
+            content = fr.read()
+            paragraphs = content.split("\n")
+
+            for paragraph in paragraphs:
+                if len(paragraph) > 0:
+                    texts.append(paragraph)
+
+            fr.close()
+
+    text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=40)
+
+    chunks = text_splitter.create_documents(texts)
+    print(len(chunks))
+    print(chunks[0])
+
+    embeddings_model = HuggingFaceEmbeddings(
+        model_name = embedding_model,
+        model_kwargs = {'device': 'cuda'},
+        encode_kwargs = {'normalize_embeddings': False}
+    )
+    
+    database_path = database_path + "_{}".format(len(chunks))
+    
+    if os.path.isdir(database_path):
+        shutil.rmtree(database_path)
+        
+    os.makedirs(database_path)
+
+    chromadb = Chroma.from_documents(chunks, 
+                                     embedding=embeddings_model,
+                                     collection_name='coll_cosine',
+                                     collection_metadata={"hnsw:space": "cosine"},
+                                     persist_directory=database_path)
+    chromadb.persist()
+    
+    return len(chunks)
+
+
+def retrieve(user_query, num, embedding_model, output_dir, result_file, query_no):
+    """
+    Retrieve the results from vector DB using smilarity search with score, and then compare the scores to select the best retrieved result.
+
+    Args:
+        user_query (str): The query given by user.
+        num (int): The number of results get from similarity search.
+        embedding_model (str): The repo name of the embedding model on HuggingFace or the directory path of the embedding model if the model is stored locally.
+        output_dir (str): The name of directory path which stores the retrieved results file.
+        result_file (str): The name of the retrieved results file.
+        query_no (int): The current query's number.
+
+    Returns:
+        str: The retrieved result which has the highest score.
+        int: The highest score.
+    """
+    
+    embeddings_model = HuggingFaceEmbeddings(
+        model_name = embedding_model,
+        model_kwargs = {'device': 'cuda'},
+        encode_kwargs = {'normalize_embeddings': False}
+    )
+    
+    chromadb = Chroma(embedding_function=embeddings_model,
+                      collection_name='coll_cosine',
+                      collection_metadata={"hnsw:space": "cosine"},
+                      persist_directory=database_path)
+
+    results = chromadb.similarity_search_with_score(user_query, num)
+    
+    unique_results = set()
+    final_results = []
+
+    for i in range(len(results)):
+        content = results[i][0].page_content
+        if content not in unique_results:
+            unique_results.add(content)
+            final_results.append((content, results[i][1]))
+    
+    final_results.sort(key=lambda a: a[1])
+    
+    print("number of unique results : {}".format(len(unique_results)))
+    print("=======================")
+    print()
+    
+    first_result = final_results[0]
+    score = final_results[1]
+    
+    with open(output_dir + result_file, "a") as output_file:
+        output_file.write("Result {} :".format(query_no))
+        output_file.write("\n")
+        output_file.write("Score = {}".format(score))
+        output_file.write("\n")
+        output_file.write(first_result)
+        output_file.write("\n")
+        output_file.write("\n")
+        output_file.close()
+    
+    return first_result, score
+
+
+def retrieve_with_re_ranker(database_path, user_query, num, embedding_model, reranker_model, reranker_tokenizer, output_dir, result_file, query_no, k):
+    """
+    Retrieve the results from vector DB using smilarity search, and then use reranker to select the best retrieved result.
+
+    Parameters:
+        user_query (str): The query given by user.
+        num (int): The number of results get from similarity search.
+        embedding_model (str): The repo name of the embedding model on HuggingFace or the directory path of the embedding model if the model is stored locally.
+        reranker_model : The reranker model loaded outside the function.
+        reranker_tokenizer : The reranker tokenizer loaded outside the function.
+        output_dir (str): The name of directory path which stores the retrieved results file.
+        result_file (str): The name of the retrieved results file.
+        query_no (int): The current query's number.
+
+    Returns:
+        str: The retrieved result which is ranked by reranker.
+    """
+    
+    embeddings_model = HuggingFaceEmbeddings(
+        model_name = embedding_model,
+        model_kwargs = {'device': 'cuda'},
+        encode_kwargs = {'normalize_embeddings': False}
+    )
+    
+    chromadb = Chroma(embedding_function=embeddings_model,
+                      collection_name='coll_cosine',
+                      collection_metadata={"hnsw:space": "cosine"},
+                      persist_directory=database_path)
+
+    results = chromadb.similarity_search_with_score(user_query, num)
+    
+    unique_results = set()
+
+    for i in range(len(results)):
+        content = results[i][0].page_content
+        if content not in unique_results:
+            unique_results.add(content)
+    
+    print("number of unique results : {}".format(len(unique_results)))
+    print("=======================")
+    print()
+
+    unique_results = list(unique_results)
+    
+    in_answer = "retrieve a passage that answers this question from some paper"
+
+    final_results = []
+    
+    for i in range(len(unique_results)):
+        features = reranker_tokenizer(['{0} [SEP] {1}'.format(in_answer, user_query), '{0} [SEP] {1}'.format(in_answer, user_query)], 
+                             [unique_results[0], unique_results[i]], padding=True, truncation=True, return_tensors="pt")
+        with torch.no_grad():
+            scores = reranker_model(**features).logits
+            normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
+            final_results.append([unique_results[i], normalized_scores[1]])
+    
+    final_results.sort(reverse=True, key=lambda a: a[1])
+    
+    final_result = ""
+    
+    for i in range(k):
+        final_result = final_result + "Context 1: [{}]\n".format(final_results[i])
+    
+    with open(output_dir + result_file, "a") as output_file:
+        output_file.write("Result {} :".format(query_no))
+        output_file.write("\n")
+        output_file.write(final_result)
+        output_file.write("\n")
+        output_file.write("\n")
+        output_file.close()
+    
+    return final_result
+
+
+# run this python file only when a new vector DB is going to be set up
+if __name__ == "__main__":
+    # =====Setting Here=====
+    # Set the path of vector DB.
+    database_path = config.database_path
+    
+    # =====Setting Here=====
+    # These are parameters used to build vector DB.
+    paragraph_dir = config.paragraph_directory
+    file_names = glob.glob(paragraph_dir + "/*.txt")
+    chunk_size = config.chunk_size
+    embedding_model = config.embedding_model_path
+    
+    chunk_number = set_vector_db(file_names, chunk_size, embedding_model, database_path)
+    
+    database_path = database_path + "_{}".format(chunk_number)
+    
+    print("Number of chunks : ".format(chunk_number))
+    
+    # =====Setting Here=====
+    # Directory name and file name of query file.
+    query_dir = config.query_directory
+    query_file = config.query_file
+
+    with open(query_dir + query_file, 'r') as fr:
+        user_queries = fr.read().split("\n")
+    
+    retrieved_results = []  # List to store all retrieved results.
+    num = 50  # Number of similarity search results.
+
+    # Reranker model : TART from Facebook.
+    reranker_tokenizer =  EncT5Tokenizer.from_pretrained("facebook/tart-full-flan-t5-xl")
+    reranker_model = EncT5ForSequenceClassification.from_pretrained("facebook/tart-full-flan-t5-xl")
+    reranker_model.eval()
+
+    # =====Setting Here=====
+    # Directory name of both retrieved results file and generated answers file.
+    output_dir = config.output_directory
+    if not os.path.isdir(output_dir):
+        os.mkdir(output_dir)
+    
+    # =====Setting Here=====
+    # File name of retrieved results file.
+    result_file = config.result_file
+    
+    # =====Setting Here=====
+    # The number of retrieved results merged.
+    top_k = config.top_k
+
+    # Retrieve document and get result for each query.
+    for i in range(len(user_queries)):
+        query = user_queries[i]
+        # result, score = retrieve(query, num, embedding_model, output_dir, result_file, i)  # Naive retrieve
+        result = retrieve_with_re_ranker(database_path, query, num, embedding_model, reranker_model, reranker_tokenizer, output_dir, result_file, i, top_k)  # Retrieve with reranker
+        retrieved_results.append(result)
+        gc.collect()
+    
+    '''
+    # Seperate retrieving and generating.
+    # Read result file to fulfill "retrieved_results" list.
+    with open(output_dir+result_file, "r") as retrieved_file:
+        retrieved_list = retrieved_file.read().split("Result ")
+        for retrieved_result in retrieved_list:
+            if "\n" not in retrieved_result:
+                continue
+            retrieved_results.append(retrieved_result.split("\n")[1])
+    '''
+    
+    # =====Setting Here=====
+    # File name of generated answers file.
+    answer_file = config.answer_file
+    
+    # Generate answer and write into answer file for each retrieved result.
+    with open(output_dir + answer_file, "w") as output_file:
+        for i in range(len(retrieved_results)):
+            histories = []
+
+            retrieved_result = retrieved_results[i]
+            
+            prompt = "Here is a question : " + user_queries[i] + " And I give you a related document : " + retrieved_result + " Generate a answer for me."
+
+            # Call generating function to get generated answer.
+            generation_reranker = generate_with_loop(prompt, histories)
+
+            answer_reranker = ""
+            
+            # Keep update answer until the whole answer has been generated.
+            for ans in generation_reranker:
+                answer_reranker = ans
+            
+            output_file.write("Answer {} :".format(i))
+            output_file.write("\n")
+            output_file.write(answer_reranker)
+            output_file.write("\n")
+            output_file.write("\n")

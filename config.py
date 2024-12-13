@@ -16,5 +16,8 @@ output_directory = "results/6/"
 # File name of retrieved results file.
 result_file = "6_tart_stella1.5B_100Q_1st_Rtv.txt"
 
+# The number of retrieved results merged.
+top_k = 5
+
 # File name of generated answers file.
 answer_file = "6_tart_stella1.5B_100Q_1st_Ans.txt"
