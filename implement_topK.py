@@ -3,6 +3,7 @@ import shutil
 import glob
 import gc
 from typing import List
+import json
 
 # Import langchain frameware to build vector DB of RAG.
 from langchain.text_splitter import CharacterTextSplitter
@@ -110,7 +111,7 @@ def set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, databa
     return len(chunks)
 
 
-def retrieve(user_query, num, use_finetuned, embedding_model, output_dir, result_file, query_no):
+def retrieve(user_query, num, use_finetuned, embedding_model):
     """
     Retrieve the results from vector DB using smilarity search with score, and then compare the scores to select the best retrieved result.
 
@@ -119,9 +120,6 @@ def retrieve(user_query, num, use_finetuned, embedding_model, output_dir, result
         num (int): The number of results get from similarity search.
         use_finetuned (bool): A signal representing use finetuned embedding model or not.
         embedding_model (str): The repo name of the embedding model on HuggingFace or the directory path of the embedding model if the model is stored locally.
-        output_dir (str): The name of directory path which stores the retrieved results file.
-        result_file (str): The name of the retrieved results file.
-        query_no (int): The current query's number.
 
     Returns:
         str: The retrieved result which has the highest score.
@@ -162,20 +160,10 @@ def retrieve(user_query, num, use_finetuned, embedding_model, output_dir, result
     first_result = final_results[0]
     score = final_results[1]
     
-    with open(output_dir + result_file, "a") as output_file:
-        output_file.write("Result {} :".format(query_no))
-        output_file.write("\n")
-        output_file.write("Score = {}".format(score))
-        output_file.write("\n")
-        output_file.write(first_result)
-        output_file.write("\n")
-        output_file.write("\n")
-        output_file.close()
-    
     return first_result, score
 
 
-def retrieve_with_re_ranker(database_path, user_query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, output_dir, result_file, query_no, k):
+def retrieve_with_re_ranker(user_query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, k):
     """
     Retrieve the results from vector DB using smilarity search, and then use reranker to select the best retrieved result.
 
@@ -186,11 +174,8 @@ def retrieve_with_re_ranker(database_path, user_query, num, use_finetuned, embed
         embedding_model (str): The repo name of the embedding model on HuggingFace or the directory path of the embedding model if the model is stored locally.
         reranker_model : The reranker model loaded outside the function.
         reranker_tokenizer : The reranker tokenizer loaded outside the function.
-        output_dir (str): The name of directory path which stores the retrieved results file.
-        result_file (str): The name of the retrieved results file.
-        query_no (int): The current query's number.
         k (int): The number of retrieved results merged.
-
+        
     Returns:
         str: The retrieved result which is ranked by reranker.
     """
@@ -243,14 +228,6 @@ def retrieve_with_re_ranker(database_path, user_query, num, use_finetuned, embed
     for i in range(k):
         final_result = final_result + "Context {}: [{}]\n".format(i, final_results[i])
     
-    with open(output_dir + result_file, "a") as output_file:
-        output_file.write("Result {} :".format(query_no))
-        output_file.write("\n")
-        output_file.write(final_result)
-        output_file.write("\n")
-        output_file.write("\n")
-        output_file.close()
-    
     return final_result
 
 
@@ -301,6 +278,8 @@ if __name__ == "__main__":
     # File name of retrieved results file.
     result_file = config.result_file
     
+    json_results = []
+    
     # =====Setting Here=====
     # The number of retrieved results merged.
     top_k = config.top_k
@@ -309,11 +288,24 @@ if __name__ == "__main__":
     for i in range(len(user_queries)):
         query = user_queries[i]
         if config.reranker is not None:
-            result = retrieve_with_re_ranker(query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, output_dir, result_file, i)  # Retrieve with reranker
+            # Retrieve with reranker
+            result = retrieve_with_re_ranker(query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, top_k)
         else:
-            result, score = retrieve(query, num, use_finetuned, embedding_model, output_dir, result_file, i)  # Naive retrieve
+            # Naive retrieve
+            result, score = retrieve(query, num, use_finetuned, embedding_model)
+        
         retrieved_results.append(result)
+        
+        json_results.append({
+            "qid": i,
+            "query": query,
+            "retrieved_context": result
+        })
+        
         gc.collect()
+    
+    with open(result_file, 'w') as output_file:
+        json.dump(json_results, output_file, indent=4)
     
     '''
     # Seperate retrieving and generating.
@@ -335,21 +327,20 @@ if __name__ == "__main__":
         for i in range(len(retrieved_results)):
             histories = []
 
+            query = user_queries[i]
             retrieved_result = retrieved_results[i]
             
-            prompt = "Here is a question : " + user_queries[i] + " And I give you a related document : " + retrieved_result + " Generate a answer for me."
+            prompt = "Here is a question : {}\n And I give you a related document : {}\n Generate a answer for me.".format(query, retrieved_result)
 
             # Call generating function to get generated answer.
-            generation_reranker = generate_with_loop(prompt, histories)
+            generation = generate_with_loop(prompt, histories)
 
-            answer_reranker = ""
+            answer = ""
             
             # Keep update answer until the whole answer has been generated.
-            for ans in generation_reranker:
-                answer_reranker = ans
+            for ans in generation:
+                answer = ans
             
-            output_file.write("Answer {} :".format(i))
-            output_file.write("\n")
-            output_file.write(answer_reranker)
-            output_file.write("\n")
-            output_file.write("\n")
+            json_results[i]["answer"] = answer
+        
+        json.dump(json_results, output_file, indent=4)
