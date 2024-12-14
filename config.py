@@ -9,9 +9,9 @@ chunk_size = 200
 
 # Embedding model
 # The embedding model repo from HuggingFace or model path from local.
-embedding_model_path = 'dunzhang/stella_en_1.5B_v5'
+embedding_model_path = './finetune_embed/360k_b2/final'
 # Use finetuned embedding model or not.
-use_finetuned_model = False
+use_finetuned_model = True
 
 # Directory name and file name of query file.
 query_directory = "questions/"
@@ -21,7 +21,7 @@ query_file = "questions_1000.txt"
 output_directory = "results/97/"
 
 # File name of retrieved results file.
-result_file = "9907_tart_stella1.5B_100Q_5th_Rtv.json"
+result_file = "9907_tart_FT_Llama3.2_1000Q_5th_Rtv.json"
 
 # The number of retrieved results merged.
 top_k = 5
@@ -32,4 +32,4 @@ top_k = 5
 reranker = "facebook/tart-full-flan-t5-xl"
 
 # File name of generated answers file.
-answer_file = "9907_tart_stella1.5B_100Q_5th_Ans.json"
+answer_file = "9907_tart_FT_Llama3.2_100Q_5th_Ans.json"

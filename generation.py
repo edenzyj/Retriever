@@ -30,7 +30,7 @@ def generate_with_loop(message, histories):
     
     # =====Setting Here=====
     # Choose a version of llama3 from HuggingFace.
-    llm = get_llm("casperhansen/llama-3-8b-instruct-awq")
+    llm = get_llm("meta-llama/Llama-3.2-3B-Instruct")
     tokenizer = get_tokenizer()
     sampling_params = get_sampling_params()
     
