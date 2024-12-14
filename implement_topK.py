@@ -2,11 +2,15 @@ import os
 import shutil
 import glob
 import gc
+from typing import List
 
 # Import langchain frameware to build vector DB of RAG.
 from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
+
+# Import transformer to load finetuned embedding model from loacl.
+from transformers import AutoModel, AutoTokenizer
 
 # Import tart to implement reranker.
 # Torch and Numpy is needed when using tart to rerank.
@@ -23,13 +27,39 @@ from generation import generate_with_loop
 import config
 
 
-def set_vector_db(file_names, chunk_size, embedding_model, database_path):
+class MyEmbedding:
+    def __init__(self, model_path):
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.model = AutoModel.from_pretrained(model_path).to(self.device)
+        self.tokenizer = AutoTokenizer.from_pretrained(model_path)
+
+    def embed_documents(self, texts: List[str]) -> List[List[float]]:
+        embeddings = []
+        for text in texts:
+            inputs = self.tokenizer(text, return_tensors="pt", padding=True, truncation=True)
+            inputs = {k: v.to(self.device) for k, v in inputs.items()}
+            outputs = self.model(**inputs)
+            embeddings.append(outputs.last_hidden_state.mean(dim=1).squeeze(0).tolist())
+        return embeddings
+
+    def embed_query(self, query: str) -> List[float]:
+        inputs = self.tokenizer(query, return_tensors="pt", padding=True, truncation=True)
+        inputs = {k: v.to(self.device) for k, v in inputs.items()}
+        outputs = self.model(**inputs)
+        embedding = outputs.last_hidden_state.mean(dim=1).squeeze(0).tolist()
+        return embedding
+
+
+def set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, database_path):
     """
     Use vector store with embedding model to build vector DB.
 
     Parameters:
+        file_names (list[str]): A list including the file names of all revised paragraphs' text files. 
         chunk_size (int): A number representing the approximate length of every chunk.
+        use_finetuned (bool): A signal representing use finetuned embedding model or not.
         embedding_model (str): The repo name of the embedding model on HuggingFace or the directory path of the embedding model if the model is stored locally.
+        database_path (str): The directory name of vector database.
 
     Returns:
         int: The number of chunks.
@@ -54,11 +84,14 @@ def set_vector_db(file_names, chunk_size, embedding_model, database_path):
     print(len(chunks))
     print(chunks[0])
 
-    embeddings_model = HuggingFaceEmbeddings(
-        model_name = embedding_model,
-        model_kwargs = {'device': 'cuda'},
-        encode_kwargs = {'normalize_embeddings': False}
-    )
+    if use_finetuned:
+        embeddings_model = MyEmbedding(embedding_model)
+    else:
+        embeddings_model = HuggingFaceEmbeddings(
+            model_name = embedding_model,
+            model_kwargs = {'device': 'cuda'},
+            encode_kwargs = {'normalize_embeddings': False}
+        )
     
     database_path = database_path + "_{}".format(len(chunks))
     
@@ -77,13 +110,14 @@ def set_vector_db(file_names, chunk_size, embedding_model, database_path):
     return len(chunks)
 
 
-def retrieve(user_query, num, embedding_model, output_dir, result_file, query_no):
+def retrieve(user_query, num, use_finetuned, embedding_model, output_dir, result_file, query_no):
     """
     Retrieve the results from vector DB using smilarity search with score, and then compare the scores to select the best retrieved result.
 
     Args:
         user_query (str): The query given by user.
         num (int): The number of results get from similarity search.
+        use_finetuned (bool): A signal representing use finetuned embedding model or not.
         embedding_model (str): The repo name of the embedding model on HuggingFace or the directory path of the embedding model if the model is stored locally.
         output_dir (str): The name of directory path which stores the retrieved results file.
         result_file (str): The name of the retrieved results file.
@@ -94,11 +128,14 @@ def retrieve(user_query, num, embedding_model, output_dir, result_file, query_no
         int: The highest score.
     """
     
-    embeddings_model = HuggingFaceEmbeddings(
-        model_name = embedding_model,
-        model_kwargs = {'device': 'cuda'},
-        encode_kwargs = {'normalize_embeddings': False}
-    )
+    if use_finetuned:
+        embeddings_model = MyEmbedding(embedding_model)
+    else:
+        embeddings_model = HuggingFaceEmbeddings(
+            model_name = embedding_model,
+            model_kwargs = {'device': 'cuda'},
+            encode_kwargs = {'normalize_embeddings': False}
+        )
     
     chromadb = Chroma(embedding_function=embeddings_model,
                       collection_name='coll_cosine',
@@ -138,29 +175,34 @@ def retrieve(user_query, num, embedding_model, output_dir, result_file, query_no
     return first_result, score
 
 
-def retrieve_with_re_ranker(database_path, user_query, num, embedding_model, reranker_model, reranker_tokenizer, output_dir, result_file, query_no, k):
+def retrieve_with_re_ranker(database_path, user_query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, output_dir, result_file, query_no, k):
     """
     Retrieve the results from vector DB using smilarity search, and then use reranker to select the best retrieved result.
 
     Parameters:
         user_query (str): The query given by user.
         num (int): The number of results get from similarity search.
+        use_finetuned (bool): A signal representing use finetuned embedding model or not.
         embedding_model (str): The repo name of the embedding model on HuggingFace or the directory path of the embedding model if the model is stored locally.
         reranker_model : The reranker model loaded outside the function.
         reranker_tokenizer : The reranker tokenizer loaded outside the function.
         output_dir (str): The name of directory path which stores the retrieved results file.
         result_file (str): The name of the retrieved results file.
         query_no (int): The current query's number.
+        k (int): The number of retrieved results merged.
 
     Returns:
         str: The retrieved result which is ranked by reranker.
     """
     
-    embeddings_model = HuggingFaceEmbeddings(
-        model_name = embedding_model,
-        model_kwargs = {'device': 'cuda'},
-        encode_kwargs = {'normalize_embeddings': False}
-    )
+    if use_finetuned:
+        embeddings_model = MyEmbedding(embedding_model)
+    else:
+        embeddings_model = HuggingFaceEmbeddings(
+            model_name = embedding_model,
+            model_kwargs = {'device': 'cuda'},
+            encode_kwargs = {'normalize_embeddings': False}
+        )
     
     chromadb = Chroma(embedding_function=embeddings_model,
                       collection_name='coll_cosine',
@@ -199,7 +241,7 @@ def retrieve_with_re_ranker(database_path, user_query, num, embedding_model, rer
     final_result = ""
     
     for i in range(k):
-        final_result = final_result + "Context 1: [{}]\n".format(final_results[i])
+        final_result = final_result + "Context {}: [{}]\n".format(i, final_results[i])
     
     with open(output_dir + result_file, "a") as output_file:
         output_file.write("Result {} :".format(query_no))
@@ -224,8 +266,9 @@ if __name__ == "__main__":
     file_names = glob.glob(paragraph_dir + "/*.txt")
     chunk_size = config.chunk_size
     embedding_model = config.embedding_model_path
+    use_finetuned = config.use_finetuned_model
     
-    chunk_number = set_vector_db(file_names, chunk_size, embedding_model, database_path)
+    chunk_number = set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, database_path)
     
     database_path = database_path + "_{}".format(chunk_number)
     
@@ -264,8 +307,8 @@ if __name__ == "__main__":
     # Retrieve document and get result for each query.
     for i in range(len(user_queries)):
         query = user_queries[i]
-        # result, score = retrieve(query, num, embedding_model, output_dir, result_file, i)  # Naive retrieve
-        result = retrieve_with_re_ranker(database_path, query, num, embedding_model, reranker_model, reranker_tokenizer, output_dir, result_file, i, top_k)  # Retrieve with reranker
+        # result, score = retrieve(query, num, use_finetuned, embedding_model, output_dir, result_file, i)  # Naive retrieve
+        result = retrieve_with_re_ranker(database_path, query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, output_dir, result_file, i, top_k)  # Retrieve with reranker
         retrieved_results.append(result)
         gc.collect()
     

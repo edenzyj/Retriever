@@ -2,9 +2,10 @@
 database_path = "vectorDB"
 
 # These are parameters used to build vector DB.
-paragraph_directory = 'enterprises/revised_6'
+paragraph_directory = 'enterprises/revised_97'
 chunk_size = 200
 embedding_model_path = 'dunzhang/stella_en_1.5B_v5'
+use_finetuned_model = True
 
 # Directory name and file name of query file.
 query_directory = "questions/"
