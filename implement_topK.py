@@ -286,9 +286,10 @@ if __name__ == "__main__":
     num = 50  # Number of similarity search results.
 
     # Reranker model : TART from Facebook.
-    reranker_tokenizer =  EncT5Tokenizer.from_pretrained("facebook/tart-full-flan-t5-xl")
-    reranker_model = EncT5ForSequenceClassification.from_pretrained("facebook/tart-full-flan-t5-xl")
-    reranker_model.eval()
+    if config.reranker is not None:
+        reranker_tokenizer =  EncT5Tokenizer.from_pretrained(config.reranker)
+        reranker_model = EncT5ForSequenceClassification.from_pretrained(config.reranker)
+        reranker_model.eval()
 
     # =====Setting Here=====
     # Directory name of both retrieved results file and generated answers file.
@@ -307,8 +308,10 @@ if __name__ == "__main__":
     # Retrieve document and get result for each query.
     for i in range(len(user_queries)):
         query = user_queries[i]
-        # result, score = retrieve(query, num, use_finetuned, embedding_model, output_dir, result_file, i)  # Naive retrieve
-        result = retrieve_with_re_ranker(database_path, query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, output_dir, result_file, i, top_k)  # Retrieve with reranker
+        if config.reranker is not None:
+            result = retrieve_with_re_ranker(query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, output_dir, result_file, i)  # Retrieve with reranker
+        else:
+            result, score = retrieve(query, num, use_finetuned, embedding_model, output_dir, result_file, i)  # Naive retrieve
         retrieved_results.append(result)
         gc.collect()
     
