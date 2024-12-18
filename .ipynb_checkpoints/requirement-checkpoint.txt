@@ -5,6 +5,10 @@ langchain-community
 sentence-transformers
 chromadb
 
+# PEFT (LoRA)
+transformers
+peft
+
 # Re-ranker
 torch
 numpy

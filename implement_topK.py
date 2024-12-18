@@ -94,8 +94,6 @@ def set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, databa
             encode_kwargs = {'normalize_embeddings': False}
         )
     
-    database_path = database_path + "_{}".format(len(chunks))
-    
     if os.path.isdir(database_path):
         shutil.rmtree(database_path)
         
@@ -247,8 +245,6 @@ if __name__ == "__main__":
     
     chunk_number = set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, database_path)
     
-    database_path = database_path + "_{}".format(chunk_number)
-    
     print("Number of chunks : ".format(chunk_number))
     
     # =====Setting Here=====
@@ -304,8 +300,9 @@ if __name__ == "__main__":
         
         gc.collect()
     
-    with open(result_file, 'w') as output_file:
+    with open(output_file + result_file, 'w') as output_file:
         json.dump(json_results, output_file, indent=4)
+        output_file.close()
     
     '''
     # Seperate retrieving and generating.
@@ -344,3 +341,4 @@ if __name__ == "__main__":
             json_results[i]["answer"] = answer
         
         json.dump(json_results, output_file, indent=4)
+        output_file.close()
