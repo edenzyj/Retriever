@@ -243,9 +243,9 @@ if __name__ == "__main__":
     embedding_model = config.embedding_model_path
     use_finetuned = config.use_finetuned_model
     
-    chunk_number = set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, database_path)
+    # chunk_number = set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, database_path)
     
-    print("Number of chunks : ".format(chunk_number))
+    # print("Number of chunks : ".format(chunk_number))
     
     # =====Setting Here=====
     # Directory name and file name of query file.
@@ -300,7 +300,7 @@ if __name__ == "__main__":
         
         gc.collect()
     
-    with open(output_file + result_file, 'w') as output_file:
+    with open(output_dir + result_file, 'w') as output_file:
         json.dump(json_results, output_file, indent=4)
         output_file.close()
     

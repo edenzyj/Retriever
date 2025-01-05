@@ -21,10 +21,10 @@ query_file = "queries_1000.txt"
 output_directory = "results/97/"
 
 # File name of retrieved results file.
-result_file = "9907_tart_nFT_Llama3.2_1000Q_20th_Rtv.json"
+result_file = "9907_tart_nFT_Llama3.2_1000Q_10th_Rtv.json"
 
 # The number of retrieved results merged.
-top_k = 20
+top_k = 10
 
 # Use reranker or not.
 # If use reranker, fill in the model name in string type.
@@ -32,4 +32,4 @@ top_k = 20
 reranker = "facebook/tart-full-flan-t5-xl"
 
 # File name of generated answers file.
-answer_file = "9907_tart_nFT_Llama3.2_100Q_20th_Ans.json"
+answer_file = "9907_tart_nFT_Llama3.2_1000Q_10th_Ans.json"
