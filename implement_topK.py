@@ -244,9 +244,13 @@ if __name__ == "__main__":
     embedding_model = config.embedding_model_path
     use_finetuned = config.use_finetuned_model
     
-    # chunk_number = set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, database_path)
-    
-    # print("Number of chunks : ".format(chunk_number))
+    # Check if the database path exists and is not empty
+    if not os.path.exists(database_path) or os.path.getsize(database_path) == 0:
+        print("Database path does not exist or is empty. Running set_vector_db...")
+        chunk_number = set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, database_path)
+        print("Number of chunks: {}".format(chunk_number))
+    else:
+        print("Database path exists and is not empty. No need to run set_vector_db.")
     
     # =====Setting Here=====
     # Directory name and file name of query file.
