@@ -1,0 +1,15 @@
+Ðinh, Q.; Sangchote, S. Infection of Colletotrichum gloeosporioides on mango fruit and its resistance. Thai J. Agric. Sci. 2002, 33, 68–70.
+Ploetz, R.; Freeman, S. Foliar, floral, and soilborne diseases. In The Mango, 2nd ed.; Botany, Production and Uses, CABI International: Wallingford, UK, 2009; pp. 231–302.
+Ploetz, R.C. Diseases of mango. In Diseases of Tropical Fruit Crops; Ploetz, R.C., Ed.; CAB International: Wallingford, UK, 2003; pp. 327–363.
+Nelson, S.C. Mango Anthracnose (Colletotrichum gloeosporioides); University of Hawaii: Honolulu, HI, USA, 2008.
+Pongpisutta, R.; Rattanakreetakul, C.; Bunjoedchoedchoo, R. Non-chemical fungicide treatments for anthracnose control in mango fruits cv. Nam Dork Mai See Tong. Agric. Sci. J. 2012, 43, 464–467.
+Prusky, D.; Alkan, N.; Miyara, I.; Barad, S.; Davidzon, M.; Kobiler, I.; Braun Miara, S.; Lichter, A.; Sherman, A.; Fluhr, R. Mechanisms modulating postharvest pathogen colonization of decaying fruits. In Postharvest Pathology. Plant Pathology in the 21st Century; Prusky, D., Gullino, M., Eds.; Springer: Dordrecht, The Netherlands, 2009; Volume 2, pp. 43–55.
+Prakash, O. Diseases and disorders of mango and their management. In Diseases of Fruits and Vegetables; Naqvi, S.A.M.H., Ed.; Springer: Dordrecht, The Netherlands, 2007; Volume 1, pp. 511–619.
+Hyde, K.D.; Cai, L.; McKenzie, E.H.C.; Yang, Y.L.; Zhang, J.Z.; Prihastuti, H. Colletotrichum: A catalogue of confusion. Fungal Divers. 2009, 39, 1–17.
+Hyde, K.D.; Cai, L.; Cannon, P.F.; Crouch, J.A.; Crous, P.W.; Damm, U.; Goodwin, P.H.; Chen, H.; Johnston, P.R.; Jones, E.B.G.; et al. Colletotrichum—Names in current use. Fungal Divers. 2009, 39, 147–182.
+Plant Pathology Research Group. Host Index of Plant Diseases; Plant Protection Research and Development Office, Department of Agriculture: Bangkok, Thailand, 2014.
+Prihastuti, H.; McKenzie, E.; Hyde, K.D.; Cai, L.; McKenzie, E.H.C.; Hyde, E. Characterization of Colletotrichum species associated with coffee berries in northern Thailand. Fungal Divers. 2009, 39, 89–109.
+White, T.J.; Bruns, T.; Lee, S.; Taylor, J. Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In PCR Protocols: A Guide to Methods and Applications; Innis, M.A., Gelfand, D.H., Sninsky, J.J., White, T.J., Eds.; Academic Press: San Diego, CA, USA, 1990; pp. 315–322.
+R Core Team. R: A Language and Environment for Statistical Computing; R Foundation for Statistical Computing: Vienna, Austria, 2019; Available online: https://www.R-project.org/ (accessed on 10 October 2022).
+Agricolae: Statistical Procedures for Agricultural Research, R Package Version 1.4.0. Available online: https://myaseen208.github.io/agricolae/ (accessed on 10 October 2022).
+Disclaimer/Publisher’s Note: The statements, opinions, and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions, or products referred to in the content.

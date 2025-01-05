@@ -1,0 +1,56 @@
+Howard RJ, Ferrari MA, Roach DH, Money NP (1991) Penetration of hard substrates by a fungus employing enormous turgor pressures. Proc Natl Acad Sci U S A 88: 11281-11284.
+Davies KA, De Lorono I, Foster SJ, Li D, Johnstone K, et al. (2000) Evidence for a role of cutinase in the pathogenicity of Pyrenopeziza brassicae on brassicas. Physiological and Molecular Plant Pathology 57: 63-75.
+Dickman MB, Patil SS (1988) The role of cutinase from Colletotrichum gloeosporioides in the penetration of papaya. In Experimental and Conceptual Plant Pathology, W.M. Hess, R.S. Singh, U.S. Singh, D.J. Weber, Editors. Gordon and Breach Science Publishers: Montreux, Switzerland 175-182.
+Ranathunge NP, Mongkolporn O, Ford R, Taylor PWJ (2012) Colletotrichum truncatum pathosystem on Capsicum spp: infection, colonization and defense mechanisms. Australasian Plant Pathology 41: 463-473.
+Ettinger WF, Thukral SK, Kolattukudy PE (1987) Structure of cutinase gene, cDNA, and the derived amino acid sequence from phytopathogenic fungi. Biochemistry 26: 7883-7892.
+Chen Z, Franco CF, Baptista RP, Cabral JM, Coelho AV, et al. (2007) Purification and identification of cutinases from Colletotrichum kahawae and Colletotrichum gloeosporioides. Appl Microbiol Biotechnol 73: 1306-1313.
+Rubio MB, Cardoza RE, Hermosa R, Gutiérrez S, Monte E (2008) Cloning and characterization of the Thcut1 gene encoding a cutinase of Trichoderma harzianum T34. Curr Genet 54: 301-312.
+van der Vlugt-Bergmans CJ, Wagemakers CA, van Kan JA (1997) Cloning and expression of the cutinase A gene of Botrytis cinerea. Mol Plant Microbe Interact 10: 21-29.
+Köller W, Parker DM (1989) Purification and characterization of cutinase from Venturia inaequalis. Phytopathology 79: 278-283.
+Dickman MB, Kollattukudy PE (1989) Insertion of cutinase gene into a wound pathogen enables it to infect intact hosts. Nature 343: 446-448.
+Skamnioti P, Gurr SJ (2007) Magnaporthe grisea cutinase 2 mediates appressorium differentiation and host penetration and is required for full virulence. Plant Cell 19: 2674-2689.
+Deising H, Nicholson RL, Haug M, Howard RJ, Mendgen K (1992) Adhesion pad formation and the involvement of cutinase and esterases in the attachment of uredospores to the host cuticle. Plant Cell 4: 1101-1111.
+Lee MH, Chiu CM, Roubtsova T, Chou CM, Bostock RM (2010) Overexpression of a redox-regulated cutinase gene, MfCUT1, increases the virulence of the brown rot pathogen Monilinia fructicola on Prunus spp. Mol Plant Microbe Interact 23: 176-186.
+Li D, Ashby AM, Johnstone K (2003) Molecular evidence that the extracellular cutinase Pbc1 is required for the pathogenicity of Pyrenopeziza brassicae on oilseed rape. Mol Plant Microbe Interact 16: 545-552.
+Stahl DJ, Schäfer W (1992) Cutinase is not required for fungal pathogenicity on pea. Plant Cell 4: 621-629.
+Woloshuk, C.P., & Kolattukudy, P.E. (1986). Mechanism by which contact with plant cuticle triggers cutinase gene expression in the spores of Fusarium solani f. sp. pisi. Proceedings of the National Academy of Sciences of the United States of America, 83, 1704-1708.
+Wang, C.L., Chin, C.K., & Gianfagna, T. (2000). Relationship between cutin monomers and tomato resistance to powdery mildew infection. Physiological and Molecular Plant Pathology, 57, 55-61.
+Dickman, M.B., Ha, Y.S., Yang, Z., Adams, B., & Huang, C. (2003). A protein kinase from Colletotrichum trifolii is induced by plant cutin and is required for appressorium formation. Molecular Plant-Microbe Interactions, 16, 411-421.
+Bonnen, A.M., & Hammerschmidt, R. (1989). Cutinolytic enzymes from Colletotrichum lagenarium. Physiological and Molecular Plant Pathology, 35, 463-474.
+Bonnen, A.M., & Hammerschmidt, R. (1989). Role of cutinolytic enzymes in infection of cucumber by Colletotrichum lagenarium. Physiological and Molecular Plant Pathology, 35, 475-481.
+Ziv, C., & Yarden, O. (2010). Gene silencing for functional analysis: assessing RNAi as a tool for manipulation of gene expression. Methods in Molecular Biology, 638, 77-100.
+Fire, A., Xu, S., Montgomery, M.K., Kostas, S.A., Driver, S.E., et al. (1998). Potent and specific genetic interference by double-stranded RNA in Caenorhabditis elegans. Nature, 391, 806-811.
+Cogoni, C., & Macino, G. (2000). Post-transcriptional gene silencing across kingdoms. Current Opinion in Genetics & Development, 10, 638-643.
+Fulci, V., & Macino, G. (2007). Quelling: post-transcriptional gene silencing guided by small RNAs in Neurospora crassa. Current Opinion in Microbiology, 10, 199-203.
+Meister, G., & Tuschl, T. (2004). Mechanisms of gene silencing by double-stranded RNA. Nature, 431, 343-349.
+Salame, T.M., Ziv, C., Hadar, Y., & Yarden, O. (2011). RNAi as a potential tool for biotechnological applications in fungi. Applied Microbiology and Biotechnology, 89, 501-512.
+Shafran, H., Miyara, I., Eshed, R., Prusky, D., & Sherman, A. (2008). Development of new tools for studying gene function in fungi based on the Gateway system. Fungal Genetics and Biology, 45, 1147-1154.
+Nakayashiki, H., Hanada, S., Nguyen, B.Q., Kadotani, N., Tosa, Y., et al. (2005). RNA silencing as a tool for exploring gene function in ascomycete fungi. Fungal Genetics and Biology, 42, 275-283.
+Auyong, A.S.M., Ford, R., & Taylor, P.W.J. (2011). Genetic transformation of Colletotrichum truncatum associated with anthracnose disease of chili by random insertional mutagenesis. Journal of Basic Microbiology, 52, 372-382.
+Mongkolporn, O., Montri, P., Supakaew, T., & Taylor, P.W.J. (2010). Differential reactions on mature green and ripe chili fruit infected by three Colletotrichum species. Plant Disease, 94, 306-310.
+Montri, P., Taylor, P.W.J., & Mongkolporn, O. (2009). Pathotypes of Colletotrichum capsici, the causal agent of chili anthracnose, in Thailand. Plant Disease, 93, 17-20.
+Thompson, J.D., Higgins, D.G., & Gibson, T.J. (1994). CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties, and weight matrix choice. Nucleic Acids Research, 22, 4673-4680.
+Subramaniam, S. (1998). The Biology Workbench—a seamless database and analysis environment for the biologist. Proteins, 32, 1-2.
+Altschul, S.F., Madden, T.L., Schäffer, A.A., Zhang, J., Zhang, Z., et al. (1997). Gapped BLAST and PSI-BLAST: a new generation of protein database search programs. Nucleic Acids Research, 25, 3389-3402.
+Flowers, J.L., & Vaillancourt, L.J. (2005). Parameters affecting the efficiency of Agrobacterium tumefaciens-mediated transformation of Colletotrichum graminicola. Current Genetics, 48, 380-388.
+Lorang, J.M., Tuori, R.P., Martinez, J.P., Sawyer, T.L., Redman, R.S., et al. (2001). Green fluorescent protein is lighting up fungal biology. Applied and Environmental Microbiology, 67, 1987-1994.
+Brasileiro, B.T.R.V., Coimbra, M.R.M., Morais Jr, M.A.d., & Oliveira, N.T.d. (2004). Genetic variability within Fusarium solani species as revealed by PCR-fingerprinting based on PCR markers. Brazilian Journal of Microbiology, 35, 205-210.
+Fang, W., & Bidochka, M. J. (2006). Expression of genes involved in germination, conidiogenesis, and pathogenesis in Metarhizium anisopliae using quantitative real-time RT-PCR. Mycol. Res., 110, 1165-1171.
+Schmittgen, T. D., & Livak, K. J. (2008). Analyzing real-time PCR data by the comparative C(T) method. Nat. Protoc., 3, 1101-1108.
+Backman, P. A., Williams, J. C., & Crawford, M. A. (1982). Yield losses in soybean from anthracnose caused by Colletotrichum truncatum. Plant Disease, 66, 1032-1033.
+Khan, A., & Hsiang, T. (2003). The infection process of Colletotrichum graminicola and relative aggressiveness on four turfgrass species. Can. J. Microbiol., 49, 433-442.
+Dita, M. A., Brommonschenkel, S. H., Matsuoka, K., & Mizubuti, E. S. G. (2007). Histopathological study of the Alternaria solani infection process in potato cultivars with different levels of early blight resistance. J. Phytopathol., 155, 462-469.
+Bakar, F. D. A., Cooper, D., Zamrod, Z., Mahadi, N. M., & Sullivan, P. A. (2001). Cloning and characterization of the cutinase genomic and cDNA gene from the fungal phytopathogen Glomerella cingulata. Asia-Pacific J. Mol. Biol. Biotechnol., 9, 119-130.
+Sweigard, J. A., Chumley, F. G., & Valent, B. (1992). Cloning and analysis of CUT1, a cutinase gene from Magnaporthe grisea. Mol. Gen. Genet., 232, 174-182.
+Yao, C., & Köller, W. (1994). Diversity of cutinases from plant pathogenic fungi: cloning and characterization of a cutinase gene from Alternaria brassicicola. Physiol. Mol. Plant Pathol., 44, 81-92.
+Belbahri, L., Calmin, G., Mauch, F., & Andersson, J. O. (2008). Evolution of the cutinase gene family: evidence for lateral gene transfer of a candidate Phytophthora virulence factor. Gene, 408, 1-8.
+Martinez, C., Nicolas, A., van Tilbeurgh, H., Egloff, M. P., Cudrey, C., et al. (1994). Cutinase, a lipolytic enzyme with a preformed oxyanion hole. Biochemistry, 33, 83-89.
+Nguyen, Q. B., Kadotani, N., Kasahara, S., Tosa, Y., Mayama, S., et al. (2008). Systematic functional analysis of calcium-signalling proteins in the genome of the rice-blast fungus, Magnaporthe oryzae, using a high-throughput RNA-silencing system. Mol. Microbiol., 68, 1348-1365.
+Praveen, S., Ramesh, S. V., Mishra, A. K., Koundal, V., & Palukaitis, P. (2010). Silencing potential of viral derived RNAi constructs in Tomato leaf curl virus-AC4 gene suppression in tomato. Transgenic Res., 19, 45-55.
+Liyanage, H. D., Köller, W., McMillan, R. T. Jr., & Kistler, H. C. (1993). Variation in cutinase from two populations of Colletotrichum gloeosporioides from citrus. Phytopathology, 83, 113-116.
+Skamnioti, P., Furlong, R. F., & Gurr, S. J. (2008). Evolutionary history of the ancient cutinase family in five filamentous Ascomycetes reveals differential gene duplications and losses, and in Magnaporthe grisea shows evidence of sub- and neo-functionalization. New Phytol., 180, 711-721.
+Baulcombe, D. C. (1999). Gene silencing: RNA makes RNA makes no protein. Curr. Biol., 9, R599-601.
+Miki, D., Itoh, R., & Shimamoto, K. (2005). RNA silencing of single and multiple members in a gene family of rice. Plant Physiol., 138, 1903-1913.
+Matityahu, A., Hadar, Y., Dosoretz, C. G., & Belinky, P. A. (2008). Gene silencing by RNA interference in the white rot fungus Phanerochaete chrysosporium. Appl. Environ. Microbiol., 74, 5359-5365.
+Goldoni, M., Azzalin, G., Macino, G., & Cogoni, C. (2004). Efficient gene silencing by expression of double-stranded RNA in Neurospora crassa. Fungal Genet. Biol., 41, 1016-1024.
+Li, D., Sirakova, T., Rogers, L., Ettinger, W. F., & Kollattukudy, P. E. (2002). Regulation of constitutively expressed and induced cutinase genes by different zinc finger transcription factors in Fusarium solani f. sp. pisi (Nectria haematococca). J. Biol. Chem., 277, 7905-7912.

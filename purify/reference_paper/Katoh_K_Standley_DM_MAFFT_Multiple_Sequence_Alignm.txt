@@ -1,0 +1,31 @@
+Katoh K, Toh H. 2008a. Improved accuracy of multiple ncRNA alignment by incorporating structural information into a MAFFT-based sequence alignment program. Brief Bioinform. 9:286–298.
+Katoh K, Toh H. 2010. Parallelization of the MAFFT multiple sequence alignment program. Bioinformatics 26:1899–1900.
+Kielbasa SM, Wan R, Sato K, Horton P, Frith MC. 2011. Adaptive seeds for genomic sequence comparison. Genome Res. 21:487–493.
+Altschul SF. 1998. Generalized affine gap costs for protein sequence alignment. Proteins 32:88–96.
+Barton GJ, Sternberg MJ. 1987. A strategy for the rapid multiple alignment of protein sequences. Confidence levels from tertiary structure comparisons. J Mol Biol. 198:327–337.
+Berger MP, Munson PJ. 1991. A novel randomized iterative strategy for aligning multiple protein sequences. Comput Appl Biosci. 7:479–484.
+Berger SA, Stamatakis A. 2011. Aligning short reads to reference alignments and trees. Bioinformatics 27:2068–2075.
+Matsen FA, Kodner RB, Armbrust EV. 2010. pplacer: linear time maximum-likelihood and Bayesian phylogenetic placement of sequences onto a fixed reference tree. BMC Bioinformatics 11:538.
+Mirarab S, Nguyen N, Warnow T. 2012. SEPP: SATe-enabled phylogenetic placement. Pac Symp Biocomput. 17:247–258.
+Cannone JJ, Subramanian S, Schnare MN, et al. (14 co-authors). 2002. The comparative RNA web (CRW) site: an online database of comparative sequence and structure information for ribosomal, intron, and other RNAs. BMC Bioinformatics 3:2.
+Kristiansson E, Ryberg M, Jumpponen A, Abarenkov K. 2010. An open source software package for automated extraction of ITS1 and ITS2 from fungal ITS sequences for use in high-throughput community assays and molecular ecology. Fungal Ecology 3:284–287.
+Cole JR, Wang Q, Cardenas E, et al. (11 co-authors). 2009. The ribosomal database project: improved alignments and new tools for rRNA.
+O'Sullivan O, Suhre K, Abergel C, Higgins DG, Notredame C. 2004. Progressive sequence alignment as a prerequisite to correct phylogenetic trees. J Mol Evol. 25:351–360.
+Feng DF, Doolittle RF. 1987. 3DCoffee: combining protein sequences and structures within multiple sequence alignments. J Mol Biol. 340:385–395.
+Fletcher W, Yang Z. 2009. INDELible: a flexible simulator of biological sequence evolution. Mol Biol Evol. 26:1879–1888.
+Pei J, Kim BH, Grishin NV. 2008. PROMALS3D: a tool for multiple protein sequence and structure alignments. Nucleic Acids Res. 36:2295–2300.
+Golubchik T, Wise MJ, Easteal S, Jermiin LS. 2007. Mind the gaps: evidence of bias in estimates of multiple sequence alignments. Mol Biol Evol. 24:2433–2442.
+Gotoh O. 1993. Optimal alignment between groups of sequences and its application to multiple sequence alignment. Comput Appl Biosci. 9:361–370.
+Gotoh O. 1995. A weighting system and algorithm for aligning many phylogenetically related sequences. Comput Appl Biosci. 11:543–551.
+Henikoff S, Henikoff JG. 1992. Amino acid substitution matrices from protein blocks. Proc Natl Acad Sci U S A. 89:10915–10919.
+Higgins DG, Sharp PM. 1988. CLUSTAL: a package for performing multiple sequence alignment on a microcomputer. Gene. 73:237–244.
+Sigrist CJ, Cerutti L, de Castro E, Langendijk-Genevaux PS, Bulliard V, Jones DT, Taylor WR, Thornton JM. 1992. The rapid generation of mutation data matrices from protein sequences. Comput Appl Biosci. 8:197–203.
+Jones DT, Taylor WR, Thornton JM. 1994. A mutation data matrix for transmembrane proteins. FEBS Lett. 339:269–275.
+Katoh K, Asimenos G, Toh H. 2009. Multiple alignment of DNA sequences with MAFFT. Methods Mol Biol. 537:39–64.
+Katoh K, Frith MC. 2012. Adding unaligned sequences into an existing alignment using MAFFT and LAST. Bioinformatics. 28:3144–3146.
+Katoh K, Kuma K, Toh H, Miyata T. 2005. MAFFT version 5: improvement in accuracy of multiple sequence alignment. Nucleic Acids Res. 33:511–518.
+Katoh K, Misawa K, Kuma K, Miyata T. 2002. MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform. Nucleic Acids Res. 30:3059–3066.
+Katoh K, Standley DM. Forthcoming 2013. MAFFT: iterative refinement and additional methods. Methods Mol Biol. 22:4673–4680.
+Katoh K, Toh H. 2007. PartTree: An algorithm to build an approximate tree for large sequences.
+Waterhouse AM, Procter JB, Martin DM, Clamp M, Barton GJ. 2009. Bioinformatics.
+It looks like you've shared a brief snippet. If you have a longer context or additional text that needs revision, please paste it here, and I'll help you refine it!

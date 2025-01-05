@@ -1,0 +1,39 @@
+Gregory PH, Guthrie EJ, Bunce ME (1959) Experiments on splash dispersal of fungus spores. J Gen Microbiol 20: 328–354.
+Fitt, B.D., McCartney, H.A., & Walklate, P.J. (1989). The role of rain in the dispersal of pathogen inoculum. Annual Review of Phytopathology, 27, 241–270.
+Li, D.W., & Kendrick, B. (1994). Functional relationships between airborne fungal spores and environmental factors in Kitchener-Waterloo, Ontario, as detected by canonical correspondence analysis. Grana, 33, 166–176.
+Aylor, D.E. (1990). The role of intermittent wind in the dispersal of fungal pathogens. Annual Review of Phytopathology, 28, 73–92.
+Aylor, D.E. (1999). Biophysical scaling and the passive dispersal of fungus spores: Relationship to integrated pest management strategies. Agricultural and Forest Meteorology, 97, 275–292.
+Geagea, L., Huber, L., & Sache, I. (1999). Dry dispersal and rain splash of brown (Puccinia recondita f. sp. tritici) and yellow (P. striiformis) rust spores from infected wheat leaves exposed to simulated raindrops. Plant Pathology, 48, 472–482.
+Geagea, L., Huber, L., Sache, I., Flura, D., McCartney, H.A., et al. (2000). Influence of simulated rain on the dispersal of rust spores from infected wheat seedlings. Agricultural and Forest Meteorology, 101, 53–66.
+Fitzell, R.D., & Peak, C.M. (1984). The epidemiology of anthracnose disease of mango: Inoculum sources, spore production, and dispersal. Annals of Applied Biology, 104, 53–59.
+Pietravalle, S., Van den Bosch, F., Welham, S.J., Parker, S.R., & Lovell, D.J. (2001). Modelling of rain splash trajectories and prediction of rain splash height. Agricultural and Forest Meteorology, 109, 171–185.
+Yang, X., Wilson, L.L., Madden, L.V., & Ellis, M.A. (1990). Rain splash dispersal of Colletotrichum acutatum from infected strawberry fruit. Phytopathology, 80, 590–595.
+Sache, I. (2000). Short-distance dispersal of wheat rust spores by wind and rain. Agronomy: Science, Production, Vegetation, Environment, 20, 757–768.
+Ahimera, N., Gisler, S., Morgan, D.P., & Michailides, T.J. (2004). Effects of single-drop impactions and natural and simulated rains on the dispersal of Botryosphaeria dothidea conidia. Phytopathology, 94, 1189–1197.
+Madden, L.V., Yang, X., & Wilson, L.L. (1996). Effects of rain intensity on splash dispersal of Colletotrichum acutatum. Phytopathology, 86, 864–874.
+Yang, X., & Tebeest, D. (1992). Rain dispersal of Colletotrichum gloeosporioides in simulated rice field conditions. Phytopathology, 82, 1219–1222.
+Hörberg, H.M. (2002). Patterns of splash-dispersed conidia of Fusarium poae and Fusarium culmorum. European Journal of Plant Pathology, 108, 73–80.
+Huber, L., McCartney, H.A., & Fitt, B. (1997). Influence of target characteristics on the amount of water splashed by impacting drops. Agricultural and Forest Meteorology, 87, 201–211.
+Furbish, D.J., Hamner, K.K., Schmeeckle, M., Borosund, M.N., & Mudd, S.M. (2007). Rain splash of dry sand revealed by high-speed imaging and sticky paper splash targets. Journal of Geophysical Research, 112. Available: http://doi.wiley.com/10.1029/2006JF000498. Accessed March 17, 2014.
+Kliejunas, J.T., & Ko, W.H. (1976). Dispersal of Phytophthora cinnamomi on the island of Hawaii. Phytopathology, 66, 457–460.
+Reynolds, K.M., Bulger, M.A., Madden, L.V., & Ellis, M.A. (1987). New methods using simulated rain to study the splash dispersal of plant pathogens. Phytopathology, 77, 921–926.
+Reynolds, K.M., Bulger, M.A., Madden, L.V., & Ellis, M.A. (1987). New methods using simulated rain to study the splash dispersal of plant pathogens. Phytopathology, 77, 921–926.
+Hyde, K. D., Cai, L., Cannon, P. F., Crouch, J. A., Crous, P. W., et al. (2009). Colletotrichum—Names in current use. Fungal Diversity, 39, 147.
+Green, K. R. (1994). Studies on the epidemiology and control of yam anthracnose. [PhD dissertation]. UK: University of Reading.
+White, T. J., Bruns, T., Lee, S., & Taylor, J. (1990). Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In M. Innis, D. H. Gelfand, & J. J. Sninsky (Eds.), PCR Protocols: A guide to methods and applications (pp. 315–322).
+Mills, P. R., Sreenivasaprasad, S., & Brown, A. E. (1992). Detection and differentiation of Colletotrichum gloeosporioides isolates using PCR. FEMS Microbiology Letters, 98, 137–143.
+R Core Team. (2012). R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing. Available at: http://www.R-project.org/.
+Mitchell, R. J. (1992). Testing evolutionary and ecological hypotheses using path analysis and structural equation modeling. Functional Ecology, 123–129.
+Cook, R. D. (1977). Detection of influential observations in linear regression. Technometrics, 19, 15–18.
+Dag, O., Asar, O., & Ilk, O. (2014). AID: An R package to estimate Box-Cox power transformation parameters. Available at: http://CRAN.R-project.org/package=AID.
+Box, G. E. P., & Cox, D. R. (1964). An analysis of transformations. Journal of the Royal Statistical Society Series B, 26, 211–252.
+Petraitis, P. S., Dunham, A. E., & Niewiarowski, P. H. (1996). Inferring multiple causality: The limitations of path analysis. Functional Ecology, 421–431.
+MacCallum, R. C., & Austin, J. T. (2000). Applications of structural equation modeling in psychological research. Annual Review of Psychology, 51, 201–226.
+Hu, L., & Bentler, P. M. (1998). Fit indices in covariance structure modeling: Sensitivity to underparameterized model misspecification. Psychological Methods, 3, 424.
+Hooper, D., Coughlan, J., & Mullen, M. (2008). Structural equation modeling: Guidelines for determining model fit. Articles, 2.
+Ooka, J. J., & Kommedhal, T. (1977). Wind and rain dispersal of Fusarium moniliforme in corn fields. Phytopathology, 67, 1023–1026.
+Ntahimpera, N., Wilson, L. L., Ellis, M. A., & Madden, L. V. (1999). Comparison of rain effects on splash dispersal of three Colletotrichum species infecting strawberry. Phytopathology, 89, 555–563.
+Ntahimpera, N., Ellis, M. A., Wilson, L. L., & Madden, L. V. (1998). Effects of a cover crop on splash dispersal of Colletotrichum acutatum conidia. Phytopathology, 88, 536–543.
+Yang, X., Madden, L. V., Wilson, L. L., & Ellis, M. A. (1990). Effects of surface topography and rain intensity on splash dispersal of Colletotrichum acutatum. Phytopathology, 80, 1115–1120.
+Freeman, S., Shalev, Z., & Katan, J. (2002). Survival of Colletotrichum acutatum and C. gloeosporioides, pathogens of strawberry, in soil. Plant Disease, 86, 965–970.
+Freeman, S., Shalev, Z., & Katan, J. (2002). Survival of Colletotrichum acutatum and C. gloeosporioides, pathogens of strawberry, in soil. Plant Disease, 86, 965–970.

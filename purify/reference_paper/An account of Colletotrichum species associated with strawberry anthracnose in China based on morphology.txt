@@ -1,0 +1,57 @@
+Buddie AG, Martínez-Culebras P, Bridge PD, García MD, Querol A, Cannon PF, Monte E. (1999). Molecular characterization of Colletotrichum strains derived from strawberry. Mycological Research, 103, 385–394.
+Burland TG. (2000). DNASTAR’s Lasergene sequence analysis software. Methods in Molecular Biology, 132, 71–91.
+Cai L, Hyde KD, Taylor PWJ, Weir BS, Waller J, Abang MM, Zhang JZ, Yang YL, Phoulivong S, Liu ZY, Prihastuti H, Shivas RG, McKenzie EHC, Johnston PR. (2009). A polyphasic approach for studying Colletotrichum. Fungal Diversity, 39, 183–204.
+Cannon PF, Damm U, Johnston PR, Weir BS. (2012). Colletotrichum: current status and future directions. Studies in Mycology, 73, 181–213.
+Carbone I, Kohn LM. (1999). A method for designing primer sets for speciation studies in filamentous ascomycetes. Mycologia, 91, 553–556.
+Chomnunti P, Hongsanan S, Aguirre-Hudson B, Tian Q, Peršoh D, Dhami MK, Alias AS, Xu J-C, Liu X-Z, Stadler M, Hyde KD. (2014). The sooty moulds. Fungal Diversity, 66, 1–36.
+Dai FM, Ren XJ, Lu JP. (2006). First report of anthracnose fruit rot of strawberry caused by Colletotrichum acutatum in China. Plant Disease, 90, 1460.
+Damm U, Mostert L, Crous PW, Fourie PH. (2008). Novel Phaeoacremonium species associated with necrotic wood of Prunus trees. Persoonia, 20, 87–102.
+Damm U, Cannon PF, Woundenberg JHC, Crous PW. (2012). The Colletotrichum acutatum species complex. Studies in Mycology, 73, 37–113.
+Diao YZ, Zhang C, Liu F, Wang WZ, Cai L, Liu XL. (2017). Colletotrichum species causing anthracnose disease of chili in China. Persoonia, 38, 20–37.
+Freeman S, Katan T, Shabi E. (1998). Characterization of Colletotrichum species responsible for anthracnose disease of various fruits. Plant Disease, 82, 596–605.
+Hall TA. (1999). BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT. Nucleic Acids Symposium Series, 41, 95–98.
+Hillis DM, Bull JJ. (1993). An empirical test of bootstrapping as a method for assessing confidence in phylogenetic analysis. Systematic Biology, 42, 182.
+Hu S. (1990). The preliminary investigation of strawberry diseases. In Collected Abstracts for Fifth Meeting of East China, Chinese Society for Plant Pathology, Jiangsu, 58–59.
+Huson DH, Bryant D. (2006). Application of phylogenetic networks in evolutionary studies. Molecular Biology and Evolution, 23, 254–267.
+Huson DH. (1998). SplitsTree: analyzing and visualizing evolutionary data. Bioinformatics, 14, 68–81.
+Hyde KD, Cai L, Cannon PF, Crouch JA, Crous PW, Damm U, Goodwin PH, Chen H, Johnston PR, Jones EBG, Liu ZY, McKenzie EHC, Moriwaki J, Noireung P, Pennycook SR, Pfenning LH, Prihastuti H, Sato T, Shivas RG, Tan YP, Taylor PWJ, Weir BS, Yang YL, Zhang JZ. (2009a). Colletotrichum names in current use. Fungal Diversity, 39, 147–182.
+Hyde KD, Cai L, McKenzie EHC, Yang YL, Zhang JZ, Prihastuti H. (2009b). Colletotrichum: a catalogue of confusion. Fungal Diversity, 39, 1–17.
+Hyde KD, Nilsson RH, Alias SA, Ariyawansa HA, Blair JE, Cai L, de Cock AWAM, Dissanayake AJ, Glockling SL, Goonasekara ID, Gorczak M, Hahn M, Jayawardena RS, van Kan JAL, Laurence MH, Lévesque CA, Li XH, Liu JK, Maharachchikumbura SSN, Manamgoda DS, Martin FN, McKenzie EHC, McTaggart AR, Mortimer PE, Nair PVR, Pawłowska J, Rintoul TL, Shivas RG, Spies CFJ, Summerell BA, Taylor PWJ, Terhem RB, Udayanga D, ...
+Fungal Diversity 67, 21–125. Index Fungorum, 2016.
+Jayasiri SC, Hyde KD, Abd-Elsalam KA, Abdel-Wahab MA, Ariyawansa HA, Bhat J, Buyck B, Dai YC, Ertz D, Hidayat I, Jeewon R, Jones EBG, Karunarathna SC, Kirk P, Lei C, Liu JK, Maharachchikumbura SSN, McKenzie E, Ghobad-Nejhad M, Nilsson H, Pang KL, Phookamsak R, Rollins AW, Romero AI, Stephenson S, Suetrong S, Tsui CKM, Vizzini A, Wen TC, De Silva NI, Promputtha I, Kang JC. (2015). The Faces of Fungi Database: Fungal Names Linked with Morphology, Molecular, and Human Attributes. Fungal Diversity 74, 18–357.
+Jayawardena RS, Hyde KD, Jeewon R, Liu XH, Liu M, Yan JY. (2016). Why is it Important to Correctly Name Colletotrichum Species? Mycosphere (This issue - [http://doi 10.5943/mycosphere/si/1c/1](http://doi 10.5943/mycosphere/si/1c/1)).
+Jelev ZJ, Bobev SG, Minz D, Maymon M, Freeman S. (2008). First Report of Anthracnose Fruit Rot Caused by Colletotrichum acutatum on Pepper and Tomato in Bulgaria. Plant Disease 92, 172.
+Johnston RP, Jones D. (1997). Relationships Among Colletotrichum Isolates from Fruit-Rots Assessed Using rDNA Sequences. Mycologia 89, 420–430.
+Katoh K, Toh H. (2008). Recent Developments in the MAFFT Multiple Sequence Alignment Program. Briefings in Bioinformatics 9, 276–285.
+Kishino H, Hasegawa M. (1989). Evaluation of the Maximum Likelihood Estimate of the Evolutionary Tree Topologies from DNA Sequence Data. Journal of Molecular Evolution 29, 170–179.
+Mass JL. (1998). Compendium of Strawberry Diseases, 2nd Edition. U.S. Department of Agriculture, Beltsville, Maryland. APS Press.
+Mackenzie SJ, Mertely JC, Seijo TE, Peres NA. (2009). Colletotrichum fragariae is a Pathogen on Hosts Other than Strawberry. Plant Disease 92, 1432–1438.
+Martinez-Culebras PV, Barrio E, Suarez-Fernandes MB, Gracia Lopez MD, Querol A. (2002). RAPD Analysis of Colletotrichum Species Isolated from Strawberry and the Design of Specific Primers for the Identification of C. fragariae. Journal of Phytopathology 150, 680–686.
+Nilsson RH, Hyde KD, Pawlowska J, Ryberg M, Tedersoo L, Aas AB, Alias SA, Alves A, Anderson CL, Antonelli A, Arnold AE, Bahnmann B, Bahram M, Bengtsson-Palme J, Berlin A, Branco S, Chomnunti P, Dissanayake A, Drenkhan R, Friberg H, Frøslev TG, Halwachs B, Hartmann M, Henricot B, Jayawardena R, Jumpponen A, Kauserud H, Koskela S, Kulik T, Liimatainen K, Lindahl BD, Lindner D, Liu JK, Maharachchikumbura S, Manamgoda D, Martinsson S, Neves MA, Niskane T, Pereira OL, Pinho DB, Porter TM, Queloz V, Riit T, Sánchez-García M, de Sousa F, Stefańczyk E, Tadych M, Takamatsu S, Tian Q, Udayanga D, Unterseher M, Wang Z, Wikee S, Yan J, Larsson E, Larsson KH, Kõljalg U, Abarenkov K. (2014). Improving ITS Sequence Data for Identification of Plant Pathogenic Fungi. Fungal Diversity 67, 11–19.
+Nylander JAA. (2004). MrModeltest 2.0. Program distributed by author, Evolutionary Biology Centre, Uppsala University.
+O’Donnell K, Cigelnik E. (1997). Two Divergent Intragenomic rDNA ITS2 Types Within a Monophyletic Lineage of the Fungus Fusarium are Nonorthologous. Molecular Phylogeny and Evolution 7, 103–116.
+Philippe H, Bryant D. (2006). A Simple and Robust Statistical Test for Detecting the Presence of Recombination. Genetics 172, 2665–2681.
+Quaedvlieg W, Binder M, Groenewald JZ, Summerell BA, Carnegie AJ, Burgess TI, Crous PW. (2014). Introducing the Consolidated Species Concept to Resolve Species in the Teratosphaeriaceae. Persoonia 33, 1–40.
+Ren HY, Jiang GH, Fang L, Zhang YC, Yang XF, Miao LX, Wang HR. (2011). Identification and Biological Characteristics of Pathogens of Strawberry Anthracnose in Jiangsu Province. Acta Agriculturae Zhejiangensis 23, 937–941.
+Ren XJ, Liang Y, Lu JP, Yang BR, Xu JY, Dai FM. (2008). Identification of Colletotrichum Species.
+Ronquist, F., & Huelsenbeck, J. P. (2003). MrBayes 3: Bayesian phylogenetic inference under mixed models. Bioinformatics, 19, 1572.
+Sanderson, M. J., Donoghue, M. J., Piel, W., & Eriksson, T. (1994). TreeBase: A prototype database of phylogenetic analyses and an interactive tool for browsing the phylogeny of life. The Journal of Botany American, 81, article 6.
+Shao, X. H. (1992). New disease of strawberry: Strawberry anthracnose. Acta Agriculturae Shanghai.
+Sharma, G., Pinnaka, A. K., & Shenoy, B. D. (2013). Resolving the Colletotrichum siamense species complex using the ApMat marker. Fungal Diversity, 61, 117–138.
+Smith, B. J. (2008). Epidemiology and pathology of strawberry anthracnose: A North American perspective. HortScience, 43, 69–73.
+Sreenivasaprasad, S., & Talhinhas, P. (2005). Genotypic and phenotypic diversity in Colletotrichum acutatum, a cosmopolitan pathogen causing anthracnose on a wide range of hosts. Molecular Plant Pathology, 6, 361–378.
+Sutton, B. C. (1992). The genus Glomerella and its anamorph Colletotrichum. In J. A. Bailey & M. J. Jeger (Eds.), Colletotrichum: Biology, Pathology and Control (pp. 1–26). CAB International, Wallingford.
+Swofford, D. L. (2002). PAUP* 4.0: Phylogenetic analysis using parsimony (and other methods). Sinauer Associates, Sunderland.
+Templeton, M. D., Rikkerink, E. H. A., Solon, S. L., & Crowhurst, R. N. (1992). Cloning and molecular characterization of the glyceraldehyde-3-phosphate dehydrogenase encoding gene and cDNA from the plant pathogenic fungus Glomerella cingulata. Gene, 122, 225–230.
+The Ministry of Agriculture of the People’s Republic of China. (2013). China Agriculture Statistical Report [M]. ISBN 978-7-109-19711-4. Beijing: China Agriculture Press.
+Thompson, J. D., Gibson, T. J., Plewniak, F., Jeanmougin, F., & Higgins, D. G. (1997). The Clustal X windows interface: Flexible strategies for multiple sequence alignment aided by quality analysis tools. Nucleic Acids Research, 24, 4876–4882.
+Waller, J. M., Bridge, P. D., Black, R., & Hakiza, G. (1993). Characterization of the coffee berry disease pathogen, Colletotrichum kahawae sp. nov. Mycological Research, 97, 989–994.
+Wang, C. H. (2013). Occurrence and control of strawberry anthracnose in Donggang area.
+Weir, B., Johnston, P. R., & Damm, U. (2012). The Colletotrichum gloeosporioides species complex. Studies in Mycology, 73, 115–180.
+White, T. J., Bruns, T., Lee, S., & Taylor, J. W. (1990). Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In M. A. Innis, D. H. Gelfand, J. J. Sninsky, & T. J. White (Eds.), PCR protocols: A guide to methods and applications (pp. 315–322). Academic, New York.
+Whitelaw-Weckert, M. A., Curtin, S. J., Huang, R., Steel, C. C., Blanchard, C. L., & Roffey, P. E. (2007). Phylogenetic relationships and pathogenicity of Colletotrichum acutatum isolates from grape in subtropical Australia. Plant Pathology, 56, 448–463.
+Xiang, F. Y., Han, Y. C., Zeng, X. G., Zhang, P., Wu, R. L., Feng, X. M., & Gu, Y. C. (2012). A survey on the strawberry anthracnose disease in Hubei Province. Journal of Hubei Agricultural Sciences, 51, 5650–5653.
+Xie, L., Zhang, J. Z., Wan, Y., & Hu, D. W. (2010). Identification of Colletotrichum spp. isolated from strawberry in Zhejiang province and Shanghai city, China. Journal of Zhejiang University - SCIENCE B (Biomedicine & Biotechnology), 11, 61–70.
+Yan, J. Y., Jayawardena, M. M. R. S., Goonasekara, I., Wang, Y., Zhang, W., Liu, M., Yan, H., Huang, J. B., Wang, Z. Y., Shang, J. J., Peng, Y. L., Bahkali, A., Hyde, K. D., & Li, X. H. (2015). Diverse species of Colletotrichum associated with grapevine anthracnose in China. Fungal Diversity, 71, 233–246.
+Ye, Z. W., Zheng, H. Q., & Tong, Y. M. (1997). First report on species of strawberry anthracnose pathogen in Shanghai suburbs and resistance of some strawberry cultivars to anthracnose. Acta Agriculturae Shanghai, 13, 75–80.
+Zhang, H. Y., Zhang, M. H., Liu, Z. H., Yu, H. B., & Wang, D. L. (2007). Identification and biological...

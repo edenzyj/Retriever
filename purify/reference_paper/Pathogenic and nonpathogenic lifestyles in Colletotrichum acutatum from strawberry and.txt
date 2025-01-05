@@ -1,0 +1,30 @@
+Adaskaveg, J. E., and Hartin, R. J. 1997. Characterization of Colletotrichum acutatum isolates causing anthracnose of almond and peach in California. Phytopathology 87:979-987.
+Alahakoon, P. W., Brown, A. E., and Sreenivasaprasad, S. 1994. Cross-infection potential of genetic groups of Colletotrichum gloeosporioides on tropical fruits. Physiol. Mol. Plant Pathol. 44:93-103.
+Bernstein, B., Zehr, E. I., Dean, R. A., and Shabi, E. 1995. Characteristics of Colletotrichum from peach, apple, pecan, and other hosts. Plant Dis. 79:478-482.
+Brooks, A. N. 1931. Anthracnose of strawberry caused by Colletotrichum fragariae, n. sp. Phytopathology 21:739-744.
+Brown, A. E., Sreenivasaprasad, S., and Timmer, L. W. 1996. Molecular characterization of slow-growing orange and Key lime anthracnose strains of Colletotrichum from citrus as C. acutatum. Phytopathology 86:523-527.
+Delp, B. R., and Milholland, R. D. 1981. Susceptibility of strawberry cultivars and related species to Colletotrichum fragariae. Plant Dis. 65:421-423.
+Denoyes-Rothan, B., and Guérin, G. 1995. Comparison of six inoculation techniques with Colletotrichum acutatum on cold-stored strawberry plants and screening for resistance to this fungus in French strawberry collections. Eur. J. Plant Pathol. 102:615-621.
+Freeman, S., and Katan, T. 1997. Identification of Colletotrichum species responsible for anthracnose and root necrosis of strawberry in Israel. Phytopathology 87:516-521.
+Freeman, S., Katan, T., and Shabi, E. 1996. Differentiation between Colletotrichum gloeosporioides from avocado and almond using molecular and pathogenicity tests. Applied and Environmental Microbiology 62:1014-1020.
+Freeman, S., Katan, T., and Shabi, E. 1998. Characterization of Colletotrichum species responsible for anthracnose diseases of various fruits. Plant Disease 82:596-605.
+Freeman, S., Minz, D., Jurkevitch, E., Maymon, M., and Shabi, E. 2000. Molecular analyses of Colletotrichum species from almond and other fruits. Phytopathology 90:608-614.
+Freeman, S., Pham, M., and Rodriguez, R. J. 1993. Molecular genotyping of Colletotrichum species based on arbitrarily primed PCR, A+T-rich DNA, and nuclear DNA analyses. Experimental Mycology 17:309-322.
+Freeman, S., and Rodriguez, R. J. 1995. Differentiation of Colletotrichum species responsible for anthracnose of strawberry by arbitrarily primed PCR. Mycological Research 99:901-905.
+Freeman, S., and Shabi, E. 1996. Cross-infection of subtropical and temperate fruits by Colletotrichum species from various hosts. Physiological and Molecular Plant Pathology 49:395-404.
+Freeman, S., Shabi, E., and Katan, T. 2000. Characterization of Colletotrichum acutatum causing anthracnose disease of anemone (Anemone coronaria L.). Applied and Environmental Microbiology 66:5267-5272.
+Gupta, M., and Filner, P. 1991. Microsatellites amplify highly polymorphic DNA bands in SPAR of plant DNA. International Society for Plant Molecular Biology Abstracts 1705, Tucson, AZ.
+Howard, C. M., and Albregts, E. E. 1973. Cassia obtusifolia, a possible reservoir for inoculum of Colletotrichum fragariae. Phytopathology 63:533-534.
+Howard, C. M., Maas, J. L., Chandler, C. K., and Albregts, E. E. 1992. Anthracnose of strawberry caused by the Colletotrichum complex in Florida. Plant Disease 76:976-981.
+Leandro, L. F. S., Gleason, M. L., and Nutter, F. W., Jr. 2001. Germination and sporulation of Colletotrichum acutatum on symptomless strawberry leaves. Phytopathology 91:659-664.
+Maas, J. L., and Howard, C. M. 1985. Variation of several anthracnose fungi in virulence to strawberry and apple. Plant Disease 69:164-166.
+Madden, L. V., Yang, X., and Wilson, L. L. 1996. Effects of rain intensity on splash dispersal of Colletotrichum acutatum. Phytopathology 86:864-874.
+Ntahimpera, N., Wilson, L. L., Ellis, M. A., and Madden, L. V. 1999. Comparison of rain effects on splash dispersal of three Colletotrichum species infecting strawberry. Phytopathology 89:555-563.
+Prusky, D., and Keen, N. T. 1993. Involvement of preformed antifungal compounds in the resistance of subtropical fruits to fungal decay. Plant Disease 77:114-119.
+Rodriguez, R. J., and Redman, R. S. 2000. Colletotrichum as a model system for defining the genetic basis of fungal symbiotic lifestyles. Pages 114-130 in: Colletotrichum: Host Specificity, Pathology, and Host–Pathogen Interactions. D. Prusky, S. Freeman, and M. D. Dickman, eds. The American Phytopathological Society, St. Paul, MN.
+Rodriguez, R. J., and Yoder, O. C. 1991. A family of conserved repetitive DNA elements from the fungal plant pathogen Glomerella cingulata (Colletotrichum lindemuthianum). Experimental Mycology 15:232-242.
+Sambrook, J., Fritsch, E. F., and Maniatis, T. 1989. Molecular Cloning: A Laboratory Manual. 2nd ed. Cold Spring Harbor Laboratory, Cold Spring Harbor, NY.
+Smith, B. J., and Black, L. L. 1990. Morphological, cultural, and pathogenic variation among Colletotrichum species isolated from strawberry. Plant Disease 74:69-76.
+Strand, L. L. (1994). Integrated pest management for strawberries. University of California, Oakland, CA.
+Tu, J. C. (1985). An improved Mathur’s medium for growth, sporulation, and germination of Colletotrichum lindemuthianum. Microbiosis, 44, 87-93.
+Weising, K., Weigand, F., Driesel, A. J., Kahl, A. J., Zischer, H., & Epplen, J. T. (1989). Polymorphic simple GATA/GACA repeats in plant genomes. (Abstract) Nucleic Acids Research, 17, 10128.

@@ -1,0 +1,17 @@
+Kim TI, Jang WS, Nam MH, Lee WK, Lee SS. Breeding of strawberry ‘Seolhyang’ for forcing culture. IHC 2006;231.
+Kim HS, Jang WS, Kim TI, Nam MH, Lee IH, Lee HC. Breeding of big size strawberry ‘Kingsberry’ for forcing culture. Kor J Hort Sci Technol 2016;34:167.
+Nam MH, Kim TI, Gleason ML, Song JY, Kim HG. First report on anthracnose fruit rot caused by Colletotrichum acutatum on strawberry in Korea. Plant Dis 2008;92:1247.
+Nam MH, Yoo JH, Yun TS, Kim HH, Kim HG. Anthracnose of strawberry: Etiological and ecological characteristics and management. Res Plant Dis 2023;29:205-19.
+Nam MH, Park MS, Lee HD, Yu SH. Taxonomic re-evaluation of Colletotrichum gloeosporioides isolated from strawberry in Korea. Plant Pathol J 2013;29:317-22.
+Prihastuti H, Cai L, Chen H, McKenzie EHC, Hyde KD. Characterization of Colletotrichum species associated with coffee berries in northern Thailand. Fungal Divers 2009;39:89-109.
+Damm U, Cannon PF, Woudenberg JHC, Crous PW. The Colletotrichum acutatum species complex. Stud Mycol 2012;73:37-113.
+Zhang L, Song L, Xu X, Zou X, Duan K, Gao Q. Characterization and fungicide sensitivity of Colletotrichum species causing strawberry anthracnose in eastern China. Plant Dis 2020;104:1960-8.
+Rogers SO, Bendich AJ. Extraction of total cellular DNA from plants, algae, and fungi. In: Gelvin SB, Schilperoort RA, editors. Plant Molecular Biology Manual. Dordrecht: Springer Netherlands; 1994. p. 183-90.
+Tamura K, Peterson D, Peterson N, Stecher G, Nei M, Kumar S. MEGA5: Molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods. Mol Bio Evol 2011;28:2731-9.
+Katoh K, Standley DM. MAFFT multiple sequence alignment software version 7: Improvements in performance and usability. Mol Biol Evol 2013;30:772-80.
+Stamatakis A. RAxML-VI-HPC: Maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models. Bioinformatics 2006;22:2688-90.
+Miller MA, Pfeiffer W, Schwartz T. Creating the CIPRES science gateway for inference of large phylogenetic trees. LA: SC10 workshop on gateway computing environments (GCE10); 2010. pp. 1-8.
+Fernandez LM, Maumary RL, Seimandi GM, Pernuzzi C, Derita MG, Favaro MA. First report of anthracnose caused by Colletotrichum nymphaeae on strawberry fruits in central Argentina. Plant Dis 2024;108:221.
+Chang, T.H., Hassan, O., & Lee, Y.S. (2018). First report of anthracnose of Japanese plum (Prunus salicina) caused by Colletotrichum nymphaeae in Korea. Plant Disease, 102, 1461.
+Hassan, O., Lee, D.W., & Chang, T. (2019). First report of anthracnose of persimmon caused by Colletotrichum nymphaeae in Korea. Plant Disease, 103, 1772.
+The Korean Journal of Mycology, 2024, Vol. 52, 114.

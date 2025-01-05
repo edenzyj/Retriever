@@ -1,0 +1,32 @@
+Bailey, J.A., & Jeger, M.J. (1992). Colletotrichum: Biology, Pathology and Control. Wallingford, UK: Commonwealth Mycological Institute.
+Bogale, M., Wingfield, B.D., Wingfield, M.J., & Steenkamp, E.T. (2006). Characterization of Fusarium oxysporum isolates from Ethiopia using AFLP, SSR, and DNA sequence analyses. Fungal Diversity, 23, 51–66.
+Cannon, P.F., Bridge, P.D., & Monte, E. (2000). Linking the past, present, and future of Colletotrichum systematics. In: Prusky, D., Freeman, S., & Dickman, M. (Eds.), Colletotrichum: Host Specificity, Pathology, and Host-Pathogen Interaction. St. Paul, MN, USA: APS Press, 1–20.
+O'Donnell, K., Cigelnik, E., & Nirenberg, H.I. (1998). Molecular systematics and phylogeography of the Gibberella fujikuroi species complex. Mycologia, 90, 465–93.
+Choi, Y.W., Hyde, K.D., & Ho, W.H. (1999). Single spore isolation of fungi. Fungal Diversity, 3, 29–38.
+Dasgupta, B. (1981). Sporulation and relative virulence among isolates of Colletotrichum capsici causing anthracnose of betelvine. Indian Phytopathology, 34, 196–9.
+Denoyes-Rothan, B., Guerin, G., Delye, C. et al. (2003). Genetic diversity and pathogenic variability among isolates of Colletotrichum from strawberry. Phytopathology, 93.
+Du, M., Schardl, C.L., & Vaillancourt, L.J. (2005). Using mating-type gene sequences for improved phylogenetic resolution of Colletotrichum species complexes. Mycologia, 97, 641–58.
+Farris, J.S., Källersjö, M., Kluge, A.G., & Bult, C. (1995). Testing significance of incongruence. Cladistics, 10, 315–9.
+Felsenstein, J. (1985). Confidence limits on phylogenies: an approach using the bootstrap. Evolution, 39, 783–791.
+Pring RJ, Nash C, Zakaria M, Bailey JA (1995). Infection process and host range of Colletotrichum capsici. Physiological and Molecular Plant Pathology, 46, 137–152.
+Glass NL, Donaldson GC (1995). Development of primer sets designed for use with PCR to amplify conserved genes from filamentous ascomycetes. Applied and Environmental Microbiology, 61, 1323–1330.
+Promputtha I, Jeewon R, Lumyong S, McKenzie EHC, Hyde KD (2005). Ribosomal DNA fingerprinting in the identification of non-sporulating endophytes from Magnolia liliifera (Magnoliaceae). Fungal Diversity, 20, 167–186.
+Guerber JC, Liu B, Correll JC, Johnston PR (2003). Characterization of diversity in Colletotrichum acutatum sensu lato by sequence analysis of two gene introns, mtDNA, intron RFLPs, and mating compatibility. Mycologia, 95, 872–895.
+Hindorf H (1973). Colletotrichum population on Coffea arabica in Kenya. Phytopathologische Zeitschrift, 77, 97–116.
+Jeewon R, Liew ECY, Hyde KD (2004). Phylogenetic evaluation of species nomenclature of Pestalotiopsis in relation to host association. Fungal Diversity, 17, 39–55.
+Johnston PR, Jones D (1997). Relationships among Colletotrichum isolates from fruit rots assessed using rDNA sequences. Mycologia, 89, 420–430.
+Sharma PN, Kaur M, Sharma OP, Sharma P, Pathania A (2005). Morphological, pathological, and molecular variability in Colletotrichum capsici, the cause of fruit rot of chillies in the subtropical region of northwestern India. Journal of Phytopathology, 153, 232–237.
+Kanchana-udomkan C, Taylor PWJ, Mongkolporn O (2004). Development of a bioassay to study anthracnose infection of Capsicum chinense Jacq. fruit caused by Colletotrichum capsici. Thai Journal of Agricultural Science, 37, 293–297.
+Simmonds JH (1965). A study of the species of Colletotrichum causing ripe fruit rots in Queensland. Queensland Journal of Agricultural and Animal Science, 22, 437–459.
+Kim KD, Oh BJ, Yang J (1999). Differential interactions of a Colletotrichum gloeosporioides isolate with green and red pepper fruits. Phytoparasitica, 27, 1–10.
+Kirkpatrick LA, Feeney BC (2006). A Simple Guide to SPSS for Windows for Version 12.0 & 13.0. Belmont, NY, USA: Thomas Wadsworth.
+Sreenivasaprasad S, Tahinhas P (2005). Genotypic and phenotypic diversity in Colletotrichum acutatum, a cosmopolitan pathogen causing anthracnose on a wide range of hosts. Molecular Plant Pathology, 6, 361–378.
+Sreenivasaprasad S, Mills P, Meehan BM, Brown A (1996). Phylogeny and systematics of 18 Colletotrichum species based on ribosomal DNA spacer sequences. Genome, 39, 499–512.
+Manandhar JB, Hartman GL, Wang TC (1995). Anthracnose development on pepper fruits inoculated with Colletotrichum gloeosporioides. Plant Disease, 79, 380–383.
+Sutton BC (1992). The genus Glomerella and its anamorph Colletotrichum. In: Bailey JA, Jeger MJ, eds. Colletotrichum: Biology, Pathology and Control. Wallingford, UK: CAB International, 1–26.
+Mordue JEM (1971). Colletotrichum gloeosporioides: CMI Descriptions of Pathogenic Fungi and Bacteria no. 315. Kew, UK: Commonwealth Mycological Institute.
+Than, P. P., Thomson, J. D., Gibson, T. J., Plewniak, F., Jeanmougin, F., & Higgins, D. G. (1997). The Clustal X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools. Nucleic Acids Research, 24(24), 4876–4882.
+Vinnere, O., Fatehi, J., Wright, S. A. I., & Gerhardson, B. (2001). The causal agent of anthracnose of Rhododendron in Sweden and Latvia. Mycological Research, 106(1), 60–69.
+Voorrips, R. E., Finkers, R., Sanjaya, L., & Groenwold, R. (2004). QTL mapping of anthracnose (Colletotrichum spp.) resistance in a cross between Capsicum annuum and C. chinense. Theoretical and Applied Genetics, 109(6), 1275–1282.
+White, T. J., Bruns, T., Lee, S., & Taylor, J. W. (1990). Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In Innis, M. A., Gelfand, D. H., Sninsky, J. J., & White, T. J. (Eds.), PCR Protocols: A Guide to Methods and Applications. San Diego, CA, USA: Academic Press.
+Plant Pathology (2008), 57, 562–572.

@@ -1,0 +1,27 @@
+Grove, G. G., Madden, L. V., and Ellis, M. A. (1985). Influence of temperature and wetness duration on sporulation of Phytophthora cactorum on infected strawberry fruit. Phytopathology, 75, 700-703.
+Gubler, W. D., and Eastburn, D. M. (1988). Research progress report: Anthracnose in California. Advances in Strawberry Production, 7, 47-50.
+Gunnell, P. S., and Gubler, W. D. (1982). Taxonomy and morphology of Colletotrichum species pathogenic to strawberry. Mycologia, 84, 157-165.
+Howard, C. M., and Albregts, E. E. (1983). Black leaf spot phase of strawberry anthracnose caused by Colletotrichum gloeosporioides (= C. fragariae). Plant Disease, 67, 1144-1146.
+Howard, C. M., Mass, J. L., Chandler, C. K., and Albregts, E. E. (1992). Anthracnose of strawberry caused by the Colletotrichum complex in Florida. Plant Disease, 76, 976-981.
+King, W. T. (1995). Effects of temperature and wetness duration on immature strawberry fruit infected by Colletotrichum species. M.S. thesis, The Ohio State University, Wooster.
+Lalancette, N., Madden, L. V., and Ellis, M. A. (1988). A quantitative model for describing the sporulation of Plasmopara viticola on grape leaves. Phytopathology, 78, 1316-1321.
+Maas, J. L. (Ed.). (1984). Compendium of Strawberry Diseases. American Phytopathological Society, St. Paul, MN.
+Madden, L. V., and Ellis, M. A. (1988). How to develop plant disease forecasters. In J. Kranz & J. Rotem (Eds.), Experimental Techniques in Plant Disease Epidemiology (pp. 191-208). Springer-Verlag, Berlin.
+Madden, L. V., Wilson, L. L., and Ellis, M. A. (1993). Field spread of anthracnose fruit rot of strawberry in relation to ground cover and ambient weather conditions. Plant Disease, 77, 861-866.
+Madden, L. V., Wilson, L. L., Yang, X., and Ellis, M. A. (1992). Splash dispersal of Colletotrichum acutatum and Phytophthora cactorum by short duration simulated rains. Plant Pathology, 41, 427-436.
+Nair, J., and Corbin, J. B. (1981). Histopathology of Pinus radiata seedlings infected by Colletotrichum acutatum f. sp. pinea. Transactions of the British Mycological Society, 81, 53-63.
+Neter, J., Wasserman, W., and Kutner, M. H. (1983). Applied Linear Regression Models. Richard D. Irwin, Homewood, IL.
+Nicholson, R. L., Hipskind, J., and Hanau, R. M. (1989). Protection against phenol toxicity by the spore mucilage of Colletotrichum graminicola, an aid to secondary spread. Physiological and Molecular Plant Pathology, 35, 243-252.
+Nicholson, R. L., and Moraes, W. B. C. (1980). Survival of Colletotrichum graminicola: Importance of the spore matrix. Phytopathology, 70, 255-261.
+O’Connell, R. J., Uronu, A. B., Waksman, G., Nash, C., and Keon, J. P. R. (1993). Hemibiotrophic infection of Pisum sativum by Colletotrichum truncatum. Plant Pathology, 42, 774-783.
+Rodriguez-Marcano, A., and Sinclair, J. B. (1978). Fruiting structures of Colletotrichum dematium formed in soybean seeds. Plant Disease Reporter, 62, 873-876.
+Screenivasaprasad, S., Brown, A. E., and Mills, P. R. (1992). DNA sequence variation and interrelationships among Colletotrichum species causing strawberry anthracnose. Physiological and Molecular Plant Pathology, 41, 265-281.
+Shumway, C., Russo, V. M., and Pappelis, A. J. (1983). Germination and post-germination development of Colletotrichum dematium f. circinans on Allium cepa. Mycopathologia, 82, 125-127.
+Simmonds, J. H. (1965). A study of the species of Colletotrichum causing ripe fruit rots in Queensland. Queensland Journal of Agriculture and Animal Science, 22, 437-459.
+Smith, B. J., and Black, L. L. (1990). Morphological, cultural, and pathogenic variation among Colletotrichum species isolated from strawberry. Plant Disease, 74, 69-76.
+Sturgess, O. W. (1954). A strawberry ripe fruit rot. Queensland Journal of Agriculture and Animal Science, 11, 269-270.
+Timmer, L. W., and Zitko, S. E. 1993. Relationships of environmental factors and inoculum levels to the incidence of post-bloom fruit drop of citrus. Plant Dis. 77:501-504.
+Wilson, L. L., Madden, L. V., and Ellis, M. A. 1990. Influence of temperature and wetness duration on the infection of immature and mature strawberry fruit by Colletotrichum acutatum. Phytopathology 80:111-116.
+Wilson, L. L., Madden, L. V., and Ellis, M. A. 1994. Effect of temperature on strawberry fruit infection by geographic isolates of three Colletotrichum species. (Abstr.) Phytopathology 84:1071.
+Yang, X., Madden, L. V., Wilson, L. L., and Ellis, M. A. 1990. Effects of surface topography and rain intensity on splash dispersal of Colletotrichum acutatum. Phytopathology 80:1115-1120.
+Yang, X., Wilson, L. L., Madden, L. V., and Ellis, M. A. 1990. Rain splash dispersal of Colletotrichum acutatum from infected strawberry fruit. Phytopathology 80:590-595.

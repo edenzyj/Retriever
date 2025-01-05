@@ -1,0 +1,30 @@
+Bonde, M. R., Peterson, G. L., and Maas, J. L. 1991. Isozyme comparisons for identification of Colletotrichum species pathogenic to strawberry. Phytopathology 81:1523-1528.
+Brown, A. E., Sreenivasaprasad, S., and Timmer, L. W. 1996. Molecular characterization of slow-growing orange and key lime anthracnose strains of Colletotrichum from citrus as C. acutatum. Phytopathology 86:523-527.
+Buddie, A. G., Martinez-Culebras, P., Bridge, P. D., Garcia, M. D., Querol, A., Cannon, P. F., and Monte, E. 1999. Molecular characterization of Colletotrichum strains derived from strawberry. Mycol. Res. 103:385-394.
+Denoyes-Rothan, B. 1997. Étude des relations hôte-pathogène chez le couple Fragaria × ananassa et Colletotrichum spp. Ph.D. thesis. Université de Bordeaux II, France.
+Felsenstein, J. 1985. Confidence limits on phylogenies: An approach using the bootstrap. Evolution 39:783-791.
+Freeman, S., and Katan, T. 1997. Identification of Colletotrichum species responsible for anthracnose and root necrosis of strawberry in Israel. Phytopathology 87:516-521.
+Freeman, S., Katan, T., and Shabi, E. 1998. Characterization of Colletotrichum species responsible for anthracnose diseases of various fruits. Plant Disease 82:596-605.
+Freeman, S., Minz, D., Maymon, M., and Zveibil, A. 2001. Genetic diversity within Colletotrichum acutatum sensu Simmonds. Phytopathology 91:586-592.
+Freeman, S., and Rodriguez, R. J. 1995. Differentiation of Colletotrichum species responsible for anthracnose of strawberry by arbitrarily primed PCR. Mycological Research 99:501-504.
+Freeman, S., Shabi, E., and Katan, T. 2000. Characterization of Colletotrichum acutatum causing anthracnose disease of anemone. Applied and Environmental Microbiology 66:5267-5272.
+Gunnell, P. S., and Gubler, W. D. 1992. Taxonomy and morphology of Colletotrichum species pathogenic to strawberry. Mycologia 84:157-165.
+Hayden, H. L., Pegg, K. G., Aitken, E. A. B., and Irwin, J. A. G. 1994. Genetic relationships assessed by molecular markers and cross-infection among strains of Colletotrichum gloeosporioides. Australian Journal of Botany 42:9-18.
+Hodson, A., Mills, P. R., and Brown, A. E. 1993. Ribosomal and mitochondrial DNA polymorphisms in Colletotrichum gloeosporioides isolated from tropical fruits. Mycological Research 97:329-335.
+Howard, C. M., Maas, J. L., Chandler, C. K., and Albregts, E. E. 1992. Anthracnose of strawberry caused by the Colletotrichum complex in Florida. Plant Disease 76:976-981.
+Journal Officiel de la République Française. 1993. Arrêté du 2 septembre 1993 relatif aux exigences sanitaires des végétaux, produits végétaux et autres objets. 4 novembre 1993. Ed. Ministère de l’Agriculture et de la Pêche.
+Kohn, L. M. 1992. Developing new characters for fungal systematics: An experimental approach for determining the rank of resolution. Mycologia 84:139-153.
+Lenné, J. M. 1977. A study of the biology and taxonomy of the genus Colletotrichum. Ph.D. thesis. University of Melbourne, Australia.
+Maas, J. L. 1987. Compendium of Strawberry Diseases. The American Phytopathological Society, St. Paul, MN.
+Martinez-Culebras, V., Barrio, E., Garcia, M. D., and Querol, A. 2000. Identification of Colletotrichum species responsible for anthracnose of strawberry based on the internal transcribed spacers of the ribosomal region. FEMS Microbiology Letters 189:97-101.
+Nei, M., and Li, W. 1979. Mathematical model for studying genetic variation in terms of restriction endonucleases. Proceedings of the National Academy of Sciences 76:5269-5273.
+Perkins, D. D. 1962. Preservation of Neurospora stock cultures with anhydrous silica gel. Canadian Journal of Microbiology 8:591-594.
+Saghai-Maroof, M. A., Soliman, K. M., Jorgensen, R. A., and Allard, R. W. 1984. Ribosomal DNA spacer-length polymorphism in barley: Mendelian inheritance, chromosomal location, and population dynamics. Proceedings of the National Academy of Sciences USA 81:8014-8018.
+Smith, B. J., and Black, L. L. 1990. Morphological, cultural, and pathogenic variation among Colletotrichum species isolated from strawberry. Plant Disease 74:69-76.
+Sokal, R. R., and Michener, C. D. 1958. A statistical method for evaluating systematic relationships. University of Kansas Science Bulletin 38:1409-1438.
+Sreenivasaprasad, S., Brown, A. E., and Mills, P. R. 1992. DNA sequence variation and interrelationships among Colletotrichum species causing strawberry anthracnose. Physiological and Molecular Plant Pathology 41:265-281.
+Strunk, O., Ludwig, W., Gross, O., Reichel, B., Stuckmann, N., May, M., Nonhoff, B., Lenke, M., Ginhart, T., Vilbig, A., and Westran, R. (1998). ARB: A software environment for sequence data. Technische Universität München, Munich, Germany.
+Sutton, B. C. (1980). The Coelomycetes: Fungi Imperfecti with Pycnidia, Acervuli, and Stromata. CMI, Kew, Surrey, UK.
+Welsh, J., and McClelland, M. (1990). Fingerprinting genomes using PCR with arbitrary primers. Nucleic Acids Research, 18, 7213-7218.
+Williams, J. G. K., Kubelick, A. R., Livak, K. J., Rafalski, J. A., and Tingey, S. V. (1990). DNA polymorphism amplified by arbitrary primers is useful as genetic markers. Nucleic Acids Research, 18, 6531-6535.
+White, T. J., Bruns, T., Lee, S., and Taylor, J. (1990). Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In M. A. Innis, D. H. Gelfand, and J. J. Sninsky (Eds.), PCR Protocols: A Guide to Methods and Applications (pp. 315-322). Academic Press, San Diego, CA.

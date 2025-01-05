@@ -1,0 +1,36 @@
+Boudreau, M. A., and Madden, L. V. 1995. Effect of strawberry density on dispersal of Colletotrichum acutatum by simulated rain. Phytopathology 85:654.
+Brennan, R. M., Fitt, B. D. L., Taylor, G. C., and Colhoun, J. 1985. Dispersal of Septoria nodorum pycnidiospores by simulated raindrops in still air. Phytopathology Z. 112:281-290.
+Brennan, R. M., Fitt, B. D. L., Taylor, G. C., and Colhoun, J. 1985. Dispersal of Septoria nodorum pycnidiospores by simulated rain and wind. Phytopathology Z. 112:291-297.
+Eastburn, D. M., and Gubler, W. D. 1990. Strawberry anthracnose: Detection and survival of Colletotrichum acutatum in soil. Plant Disease 74:161-163.
+Fatemi, F., and Fitt, B. D. L. 1983. Dispersal of Pseudocercosporella herpotrichoides and Pyrenopeziza brassicae spores in splash droplets. Plant Pathology 32:401-404.
+Fitt, B. D. L., Creighton, N. F., Lacey, M. E., and McCartney, H. A. 1986. Effects of rainfall intensity and duration on dispersal of Rhynchosporium secalis conidia from infected barley leaves. Transactions of the British Mycological Society 86:611-618.
+Fitt, B. D. L., and McCartney, H. A. 1986. Spore dispersal in splash droplets. Pages 87-104 in: Water, Fungi and Plants. P. G. Ayres and L. Boddy, eds. Cambridge University Press, Cambridge.
+Fitt, B. D. L., McCartney, H. A., Creighton, N. F., Lacey, M. E., and Walklate, P. J. 1988. Dispersal of Rhynchosporium secalis conidia from infected barley leaves or straw by simulated rain. Annals of Applied Biology 112:49-59.
+Fitt, B. D. L., McCartney, H. A., and Walklate, P. J. 1989. The role of rain in dispersal of pathogen inoculum. Annual Review of Phytopathology 27:241-270.
+Grove, G. G., Madden, L. V., and Ellis, M. A. 1985. Splash dispersal of Phytophthora cactorum from infected strawberry fruit. Phytopathology 75:611-615.
+Huber, L., Fitt, B. D. L., and McCartney, H. A. 1996. The incorporation of pathogen spores into rain-splash droplets: A modeling approach. Plant Pathology 45:506-517.
+Kinnell, P. I. A. 1981. Rainfall intensity–kinetic energy relationships for soil loss prediction. Soil Science Society of America Journal 45:153-155.
+Madden, L. V. 1992. Rainfall and the dispersal of fungal spores. Advances in Plant Pathology 8:39-79.
+Madden, L. V. 1993. Aggregation of Colletotrichum acutatum in response to simulated rain episodes. Journal of Phytopathology 138:145-156.
+Madden, L. V., and Ellis, M. A. 1990. Effects of ground cover on splash dispersal of Phytophthora cactorum from strawberry fruits. Journal of Phytopathology 129:170-174.
+Madden, L. V., Wilson, L. L., and Ellis, M. A. 1993. Field spread of anthracnose fruit rot of strawberry in relation to ground cover and ambient weather conditions. Plant Disease 77:861-866.
+Madden, L. V., Wilson, L. L., Yang, X., and Ellis, M. A. 1992. Splash dispersal of Colletotrichum acutatum and Phytophthora cactorum by short-duration simulated rains. Plant Pathology 41:427-436.
+Madden, L. V., Yang, X., and Wilson, L. L. 1996. Effects of rain intensity on splash dispersal of Colletotrichum acutatum. Phytopathology 86:864-874.
+Marshall, J. S., and Palmer, W. M. 1948. The distribution of raindrops by size. Journal of Meteorology 5:165-166.
+Pedersen, E. A., Morrall, R. A. A., McCartney, H. A., and Fitt, B. D. L. 1994. Dispersal of conidia of Ascochyta fabae f. sp. lentis from infected lentil plants by simulated wind and rain. Plant Pathology 43:50-55.
+Prupacher, H. R., and Klett, J. D. 1980. Microphysics of Clouds and Precipitation. D. Reidel Publishing Co., Dordrecht, Holland.
+Reynolds, K. M., Madden, L. V., and Ellis, M. A. (1988). Effect of weather variables on strawberry leather rot epidemics. Phytopathology, 78: 822-827.
+Reynolds, K. M., Madden, L. V., Reichard, D. L., and Ellis, M. A. (1987). Methods for studying raindrop impact on plant surfaces with application to predicting inoculum dispersal by rain. Phytopathology, 77: 226-232.
+Reynolds, K. M., Madden, L. V., Reichard, D. L., and Ellis, M. A. (1989). Splash dispersal of Phytophthora cactorum from infected strawberry fruit by simulated canopy drip. Phytopathology, 79: 425-432.
+Smith, B. J., and Black, L. L. (1990). Morphological, cultural, and pathogenic variation among Colletotrichum species isolated from strawberry. Plant Disease, 74: 69-76.
+Smith, J. A., and De Veaux, R. D. (1994). A stochastic model relating rainfall intensity to raindrop processes. Water Resources Research, 30: 651-664.
+Ulbrich, C. W. (1983). Natural variations in the analytical form of the raindrop distribution. Journal of Climate and Applied Meteorology, 22: 1764-1775.
+Ulbrich, C. W. (1985). The effects of drop size distribution truncation on rainfall integral parameters and empirical relations. Journal of Climate and Applied Meteorology, 24: 580-590.
+Walklate, P. J., McCartney, H. A., and Fitt, B. D. L. (1989). Vertical dispersal of plant pathogens by splashing. Part II. Experimental study of the relationship between raindrop size and the maximum splash height. Plant Pathology, 38: 64-70.
+Wilson, L. L., Madden, L. V., and Ellis, M. A. (1990). Influence of temperature and wetness duration on infection of immature and mature strawberry fruit by Colletotrichum acutatum. Phytopathology, 80: 111-116.
+Yang, X., and Madden, L. V. (1993). Effect of ground cover, rain intensity, and strawberry plants on splash of simulated raindrops. Agricultural and Forest Meteorology, 65: 1-20.
+Yang, X., Madden, L. V., and Brazee, R. D. (1991). Application of the diffusion equation for modeling splash dispersal of point source pathogens. New Phytologist, 118: 295-301.
+Yang, X., Madden, L. V., Reichard, D. L., Fox, R. D., and Ellis, M. A. (1991). Motion analysis of drop impaction on a strawberry surface. Agricultural and Forest Meteorology, 56: 67-92.
+Yang, X., Madden, L. V., Reichard, D. L., Wilson, L. L., and Ellis, M. A. (1992). Splash dispersal of Colletotrichum acutatum and Phytophthora cactorum from strawberry fruit by single drop impactions. Phytopathology, 82: 332-340.
+Yang, X., Madden, L. V., Wilson, L. L., and Ellis, M. A. (1990). Effects of surface topography and rain intensity on splash dispersal of Colletotrichum acutatum. Phytopathology, 80: 1115-1120.
+Yang, X., Wilson, L. L., Madden, L. V., and Ellis, M. A. (1990). Rain splash dispersal of Colletotrichum acutatum from infected strawberry fruit. Phytopathology, 80: 590-595.

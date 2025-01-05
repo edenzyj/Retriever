@@ -1,0 +1,35 @@
+Boudreau, M.A., and L.V. Madden. 1995. Effect of strawberry density on the dispersal of Colletotrichum acutatum by simulated rain. Phytopathology 85:934-941.
+Campbell, C.L., and L.V. Madden. 1990. Introduction to Plant Disease Epidemiology. John Wiley and Sons, NY.
+Fitt, B.D.L., N.F. Creighton, M.E. Lacey, and H.A. McCartney. 1986a. Effects of rainfall intensity and duration on dispersal of Rhynchosporium secalis conidia from infected barley leaves. Trans. Brit. Mycol. Soc. 86:611-618.
+Fitt, B.D.L., P.J. Walklate, H.A. McCartney, H.A. Bainbridge, N.F. Creighton, J.M. Hirst, M.E. Lacey, and B.J. Legg. 1986b. A rain tower and wind tunnel for studying the dispersal of plant pathogens by rain and wind. Ann. Appl. Biol. 109:661-671.
+Splash dispersal of spores of Pseudocercosporella capsellae (white leaf spot) from oilseed rape leaves of different inclination, flexibility, and age. Z. Pflanzenkr. Pflanzenschutz, 99:1-15.
+Fitt, B.D.L., and M. Lysandrou. 1984. Studies on mechanisms of splash dispersal of spores, using Pseudocercosporella herpotrichoides spores. Phytopathol. Z., 111:323-331.
+Fitt, B.D.L., and H.A. McCartney. 1986. Spore dispersal in splash droplets. Pages 87-104 in P.G. Ayres and L. Boddy, eds., Water, Fungi and Plants, Cambridge University Press, Cambridge.
+Fitt, B.D.L., H.A. McCartney, and P.J. Walklate. 1989. The role of rain in dispersal of pathogen inoculum. Annu. Rev. Phytopathol., 27:241-270.
+Gregory, P.H. 1973. The Microbiology of the Atmosphere, 2nd Ed. Halstead Press, NY.
+Harlow, F.H., and J.P. Shannon. 1967. The splash of a liquid drop. J. Appl. Physics, 38:3855-3866.
+Hobbs, P.V., and A.J. Kezweeny. 1966. Splashing of a water drop. Science, 155:1112-1114.
+Huang, C., and J.M. Bradford. 1992. Applications of a laser scanner to quantify soil microtopography. Soil Sci. Soc. Am. J., 56:14-21.
+Huber, L., B.D.L. Fitt, and H.A. McCartney. 1996. The incorporation of pathogen spores into rain splash droplets: a modelling approach. Plant Pathol., 45:506-517.
+Macdonald, O.C., and H.A. McCartney. 1987. Calculation of splash droplet trajectories. Agric. Forest Meteorol., 39:95-110.
+Madden, L.V. 1992. Rainfall and the dispersal of fungal spores. Advances in Plant Pathology, 8:39-79.
+Madden, L.V. 1993. Aggregation of Colletotrichum acutatum in response to simulated rain episodes. J. Phytopathol., 138:145-156.
+Madden, L.V., and M.A. Ellis. 1990. Effect of ground cover on splash dispersal of Phytophthora cactorum. J. Phytopathol., 129:170-174.
+Madden, L.V., L.L. Wilson, and M.A. Ellis. 1993. Field spread of anthracnose fruit rot of strawberry in relation to ground cover and ambient weather conditions. Plant Dis., 77:861-866.
+Madden, L.V., L.L. Wilson, X. Yang, and M.A. Ellis. 1992. Splash dispersal of Colletotrichum acutatum and Phytophthora cactorum by short-duration simulated rains. Plant Pathol.
+Madden, L.V., X. Yang, and L.L. Wilson. 1996. Effects of rain intensity on splash dispersal of Colletotrichum acutatum. Phytopathology, 86:864-874.
+McCartney, H.A., and B.D.L. Fitt. 1985. Construction of dispersal models. Adv. in Plant Pathol., 3:107-143.
+Morrall, R.A.A. 1997. The evolution of lentil diseases over 25 years in western Canada. Can. J. Plant Pathol., 19:197-207.
+Pedersen, E.A., and R.A.A. Morrall. 1994. Effect of nonhost and fungicide-treated barriers on horizontal spread of ascochyta blight of lentil. Can. J. Plant Pathol., 16:317-325.
+Pedersen, E.A., R.A.A. Morrall, H.A. McCartney, and B.D.L. Fitt. 1994. Dispersal of conidia of Ascochyta fabae f. sp. lentis from infected lentil plants by simulated wind and rain. Plant Pathol., 43:50-55.
+Reynolds, K.M., M.A. Bulger, L.V. Madden, and M.A. Ellis. 1987. New methods using simulated rain to study the splash dispersal of plant pathogens. Phytopathology, 77:921-929.
+Reynolds, K.M., L.V. Madden, and M.A. Ellis. 1988. Effect of weather variables on strawberry leather rot epidemics. Phytopathology, 78:822-827.
+Shaw, M.W., and D.J. Royle. 1993. Factors determining the severity of epidemics of Mycosphaerella graminicola (formerly Septoria tritici) on winter wheat in the UK. Plant Pathol., 42:882-899.
+Stedman, O.J. 1980. Splash droplet and spore dispersal studies in field beans (Vicia faba L.). Agric. Meteorol., 21:111-127.
+Walklate, P.J., H.A. McCartney, and B.D.L. Fitt. 1989. Vertical...
+Yang, X., and L.V. Madden. 1993. Effects of ground cover, rain intensity, and strawberry plants on the splash of simulated raindrops. Agric. For. Meteorol. 65:1-20.
+Yang, X.B., L.V. Madden, and R.D. Brazee. 1991a. Application of the diffusion equation for modeling splash dispersal of point source pathogens. New Phytol. 118:295-301.
+Yang, X., L.V. Madden, D.L. Reichard, R.D. Fox, and M.A. Ellis. 1991b. Motion analysis of drop impaction on a strawberry surface. Agric. For. Meteorol. 56:67-92.
+Yang, X., L.V. Madden, D.L. Reichard, L.L. Wilson, and M.A. Ellis. 1992. Splash dispersal of Colletotrichum acutatum and Phytophthora cactorum from strawberry fruit by single drop impactions. Phytopathology 82:332-340.
+Yang, X., L.V. Madden, L.L. Wilson, and M.A. Ellis. 1990a. Effects of surface topography and rain intensity on the splash dispersal of Colletotrichum acutatum. Phytopathology 80:1115-1120.
+Yang, X., L.L. Wilson, L.V. Madden, and M.A. Ellis. 1990b. Rain splash dispersal of Colletotrichum acutatum from infected strawberry fruit. Phytopathology 80:590-595.

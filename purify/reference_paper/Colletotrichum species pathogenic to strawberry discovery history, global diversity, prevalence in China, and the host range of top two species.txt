@@ -1,0 +1,96 @@
+Beraha L, Wright WR. A new anthracnose of strawberry caused by Colletotrichum dematium. Plant Dis Rep. 1973;57:445-8.
+Bhunjun CS, Phukhamsakda C, Jayawardena RS, Jeewon R, Promputtha I, Hyde KD. Investigating species boundaries in Colletotrichum. Fungal Divers. 2021;107:107-27. https://doi.org/10.1007/s13225-021-00471-z.
+Bi Y, Guo W, Zhang GJ, Liu SC, Yang BD. First report of Colletotrichum boninense causing anthracnose of strawberry in China. Plant Dis. 2017;101:250. https://doi.org/10.1094/PDIS-06-16-0828-PDN.
+Bi Y, Guo W, Zhang GJ, Liu SC, Chen Y. First report of Colletotrichum truncatum causing anthracnose of strawberry in China. Plant Dis. 2017;101:832. https://doi.org/10.1094/PDIS-07-16-1036-PDN.
+Bobev SG, Zveibil A, Freeman S. First report of Colletotrichum acutatum on strawberry in Bulgaria. Plant Dis. 2002;86:1178. https://doi.org/10.1094/PDIS.2002.86.10.1178A.
+We thank Dr. Daolong Dou (Nanjing Agricultural University) for critical reading and discussion of an original draft, Dr. Zaoqing Chu (Lushan Botanical Garden, Chinese Academy of Sciences) and Dr. Yuan Wang (Shanghai Chen Shan Botanical Garden) for their advice on host taxonomy analysis, Dr. Liqing Zhang (Shanghai Academy of Agricultural Sciences) for technical assistance, and Ms. [Name not provided] for [additional assistance not specified].
+Braganca CAD, Damm U, Baroncelli R, Massola NS Jr, and Crous PW contributed to data curation, visualization, review, and editing. XL was responsible for data curation, review, and editing. QHG provided funding, review, and editing. CG contributed to review and editing. KD handled funding, conceptualization, visualization, and writing (including original draft, review, and editing). All authors read and approved the final manuscript.
+This work was partially supported by the Shanghai Agriculture Applied Technology Development Program, China, under Grant No. G2014070202 to Ke Duan and Grant No. Z20170201 to Qing-Hua Gao. Additional funding was provided by the Shanghai Academy of Agricultural Sciences (Grants No. JCYJ222201 and XCZX202003).
+The datasets used and/or analyzed during the current study are available from the corresponding author upon reasonable request.
+The authors declare that they have no competing interests.
+Ecological Technique and Engineering College, Shanghai Institute of Technology, Shanghai 201418, China.
+Shanghai Key Laboratory of Protected Horticultural Technology, Forestry and Fruit Tree Research Institute, Shanghai Academy of Agricultural Sciences (SAAS), Shanghai 201403, China.
+Brooks AN (1931) described anthracnose of strawberry caused by Colletotrichum fragariae. Phytopathology, 21:739-744.
+Buddie AG et al. (1999) provided molecular characterization of Colletotrichum strains from strawberry. Mycol Res, 103:385-394.
+Cannon PF et al. (2012) discussed the current status and future directions of Colletotrichum. Stud Mycol, 73:181-213.
+Capobiango NP et al. (2016) reported on anthracnose on strawberry fruits caused by Colletotrichum siamense in Brazil. Plant Dis, 100(4):859.
+Chen F et al. (2017) studied host resistance and temperature-dependent evolution of aggressiveness in Zymoseptoria tritici. Front Microbiol, 8:1217.
+Chen XY et al. (2020) analyzed the genetic diversity of Colletotrichum spp. causing strawberry anthracnose in Zhejiang, China. Plant Dis, 104:1351-1357.
+Chen Y et al. (2022) explored the diversity of Colletotrichum species causing apple bitter rot and Glomerella leaf spot in China. J Fungi, 8(7):740.
+Chethana CS et al. (2016) characterized six Colletotrichum species responsible for anthracnose disease of small cardamom in India. Eur J Plant Pathol, 146:465-481.
+Chung PC et al. (2021) studied telomeres and repeat-rich chromosomes encoding effector gene clusters in pathogenic Colletotrichum fungi. Environ Microbiol, 23(10):6004.
+Feel free to ask if you need further modifications or additional assistance!
+Colletotrichum fructicola is identified as the predominant virulent species in strawberry plants in Chiba Prefecture, Japan. A new species, Colletotrichum miaoliense sp. nov., has also been described.
+Corredor-Moreno P, Saunders DGO discuss the factors influencing the emergence of fungal and oomycete plant pathogens in their article.
+Grammen A et al. conducted an identification and pathogenicity assessment of Colletotrichum isolates causing bitter rot of apple fruit in Belgium.
+Dai FM and Ren XJ reported the first instance of anthracnose fruit rot of strawberry caused by Colletotrichum acutatum in China.
+Gunnell PS and Gubler WD focused on the taxonomy and morphology of Colletotrichum species pathogenic to strawberry.
+Damm U et al. explored the Colletotrichum acutatum species complex.
+Gupta DR et al. reported the first case of anthracnose crown rot of strawberry caused by Colletotrichum siamense in Rajshahi District, Bangladesh.
+Han YC et al. discussed the distribution and characteristics of Colletotrichum species associated with anthracnose of strawberry in Hubei, China.
+Dean R et al. listed the top ten fungal pathogens in molecular plant pathology.
+He L et al. characterized and assessed fungicide sensitivity of Colletotrichum species from various hosts in Shandong, China.
+Hirayama Y et al. identified weeds as a potential inoculum source of Colletotrichum fructicola, responsible for strawberry anthracnose in Nara, Japan.
+Denoyes-Rothan B et al. analyzed genetic diversity and pathogenic variability among isolates of Colletotrichum species from strawberry.
+Howard CM discussed the black leaf spot phase of strawberry anthracnose caused by Colletotrichum.
+Crops: A Complex Challenge. Plant Dis. 2020;104(9):2301-2316. https://doi.org/10.1094/PDIS-11-19-2378-FE.
+Hu M. A preliminary survey of strawberry diseases. In: Abstracts of the Fifth Annual Conference of the Eastern China Subdivision, Chinese Society of Plant Pathology. Wuxi, Jiangsu Province, 1990. p. 58-59 (in Chinese).
+Eaton MJ, Edwards S, Inocencio HA, Machado FJ, Nuckles EM, Farman M, et al. Diversity and cross-infection potential of Colletotrichum causing fruit rots in mixed-fruit orchards in Kentucky. Plant Dis. 2021;105(4):1115-1128. https://doi.org/10.1094/PDIS-06-20-1273-RE.
+Hyde KD, Cai L, McKenzie E, Yang YL, Zhang JZ, Prihastuti H. Colletotrichum: A catalogue of confusion. Fungal Divers. 2009;39:1-17. https://www.researchgate.net/publication/274385803.
+Embaby EM, Ragab ME, Doug Doug KAA, Ahmed R, Zveibil A, Maymon M, et al. First report of Colletotrichum acutatum and C. gloeosporioides causing anthracnose diseases on strawberry in Egypt. Plant Pathol. 2010;59:808. https://doi.org/10.1111/j.1365-3059.2009.02251.x.
+Hyde KD, Nilsson RH, Alias SA, Hiran AA, Jaime EB, Cai L, et al. One-stop shop: Backbone trees for important phytopathogenic genera. I. Fungal Divers. 2014;67:21-125. https://doi.org/10.1007/s13225-014-0298-1.
+Faedda R, Agosteo GE, Schena L, Mosca S, Frisullo S, Magnano di San Lio G, et al. Colletotrichum clavatum sp. nov. identified as the causal agent of olive anthracnose in Italy. Phytopathol Mediterr. 2011;50:283-302.
+Fang X, Chen W, Xin Y, Zhang H, Yan C, Yu H, et al. Proteomic analysis of strawberry leaves infected with Colletotrichum fragariae. J Proteom. 2012;75(13):4074-4090. https://doi.org/10.1016/j.jprot.2012.05.022.
+Farr DF, Rossman AY. Fungal Databases US National Fungus Collections, ARS, USDA. Retrieved July 9, 2022, from https://nt.ars-grin.gov/fungaldata.
+Jayawardena RS, Hyde KD, Chen YJ, Papp V, Palla B, Papp D, et al. One-stop shop IV: Taxonomic update with molecular phylogeny for important phytopathogenic genera. Fungal Divers. 2020;103:87-218. https://doi.org/10.1007/s13225-020-00460-8.
+Forcelini BB, Peres NA. Widespread resistance to QoI fungicides of Colletotrichum acutatum from strawberry nurseries and production fields. Plant Health Prog. 2018;19:338-341. https://doi.org/10.1094/PHP-08-18-0050-RS.
+Jayawardena RS, Huang JK, Jin BC, Yan JY, Li XH, Hyde KD, et al. An account of Colletotrichum species associated with strawberry anthracnose in China based on morphology and molecular data. Mycosphere. 2016a;7(8):1147-1163. https://doi.org/10.5943/mycosphere/si/2c/6.605.
+Jayawardena RS, Hyde KD, Damm U, Cai L, Liu M, Li XH, et al. Notes on currently accepted species of Colletotrichum. Mycosphere. 2016b;7(8):1192-1260.
+Fu M, Crous PW, Bai Q, Zhang PF, Xiang J, Guo YS, et al. Colletotrichum species associated with anthracnose of Pyrus spp. in China. Persoonia. 2019;42:1-35. https://doi.org/10.3767/persoonia.2019.42.01.
+Jelev ZJ, Bobev SG, Minz D, Maymon M, Freeman S. Characterization of Colletotrichum species responsible for anthracnose diseases of various fruits. Plant Dis. 1998;82:596-605. https://doi.org/10.1094/PDIS.1998.82.6.596.
+The study of anthracnose fungi has been advanced through a combination of PCR and microtube hybridization (Jian et al., 2017). For instance, Jian Y, Li Y, Tang G, Zheng X, Khaskheli MI, and Gong G identified Colletotrichum species associated with anthracnose disease of strawberry in Sichuan Province, China (Plant Dis. 2021; 105(10): 3025-36). The findings can be accessed at https://doi.org/10.1094/PDIS-10-20-2114-RE.
+Nilsson RH, Ryberg M, Kristiansson E, Abarenkov K, Larsson KH, and Kıljalg U. evaluated the taxonomic reliability of DNA sequences in public sequence databases from a fungal perspective (PLoS ONE, 2006; 1(1): e59). This research can be found at https://doi.org/10.1371/journal.pone.0000059.
+Kar RK, Sharma N, and Verma UK discussed the presence of Colletotrichum in a Deccan intertrappean bed (Maastrichtian) in India (Cretaceous Research, 2004; 25(6): 945-50). For more details, visit https://doi.org/10.1016/j.cretres.2004.09.003.
+Nirenberg HI, Feiler U, and Hagedorn G described Colletotrichum lupini in modern terms (Mycologia, 2002; 94: 307-20). The article can be accessed at https://doi.org/10.1080/15572536.2003.11833238.
+Karimi K, Ahari AB, Arzanlou M, Amini J, Pertot I, and Rota-Stabelli applied the consolidated species concept to identify the causal agent of strawberry anthracnose in Iran and conducted initial molecular dating of the Colletotrichum acutatum species complex (Eur J Plant Pathol, 2017; 147(2): 375-87).
+Novotn D, Kř žkovÆ I, KrÆtkÆ J, and Salava J reported the first occurrence of anthracnose caused by Colletotrichum acutatum on strawberry in the Czech Republic (Plant Dis. 2007; 91: 1516). The report is available at https://doi.org/10.1094/PDIS-91-11-1516.
+Kikuchi M, Ogawara T, Hashimoto Y, Miyamoto T, Kaneda M, and Tomita Y identified Colletotrichum species causing strawberry anthracnose and investigated the distribution of fungal strains resistant to certain fungicides in Ibaraki Prefecture (Bull Hortic Inst Ibaraki Agric Cent. 2010; 17: 35-42).
+Latinovic J, Latinovic N, Tiodorovic J, and Odalovic A documented the first report of anthracnose fruit rot of strawberry caused by Colletotrichum acutatum in Montenegro (Plant Dis. 2012; 96: 1066). Access the report at https://doi.org/10.1094/PDIS-02-12-0108-PDN.
+Li HT, Luo Y, Gan L, Ma PF, Gao LM, Yang JB, et al. provided plastid phylogenomic insights into the relationships of all flowering plant families (BMC Biol. 2021; 19(1): 232). More information is available at https://doi.org/10.1186/s12915-021-01166-2.
+Penzig AGO contributed to the study of parasitic fungi in citrus (Michelia, 1882; 2: 385-508). The publication can be found at https://www.researchgate.net/publication/281224191.
+Lilja A, Rytk nen A, and Hantula J reviewed introduced pathogens found on ornamentals, strawberries, and trees in Finland over the past 20 years (Agric Food Sci. 2011; 20: 74-85). Access their findings at https://doi.org/10.2137/145960611795163051.
+Lin T, Xu XF, Dai DJ, Shi HJ, Wang HD, and Zhang CQ explored the differentiation in the development of benzimidazole resistance in Colletotrichum gloeosporioides.
+Pathol. 2016; 45: 241–249. https://doi.org/10.1007/s13313-016-0413-8. www.researchgate.net/publication/297576586.
+Liu F, Cai L, Crous PW, Damm U. Circumscription of the anthracnose pathogens Colletotrichum lindemuthianum and C. nigrum. Mycologia. 2013; 105: 844–860. https://doi.org/10.3852/12-315.
+Rahman M, Ojiambo P, Louws F. Initial inoculum and spatial dispersal of Colletotrichum gloeosporioides, the causal agent of strawberry anthracnose crown rot. Plant Dis. 2015; 99(1): 80–86. https://doi.org/10.1094/PDIS-02-13-0144-RE.
+Liu Y, Ji Y, Han YC, Song LL, Zhang LQ, Ning ZY, et al. Loop-mediated isothermal amplification and PCR combined assay to detect and distinguish latent Colletotrichum spp. infection on strawberry. J Plant Pathol. 2021; 103: 887–899. https://doi.org/10.1007/s42161-021-00873-7.
+Ramallo CJ, Ploper LD, Ontivero M, Filippone MP, Castagnaro A, Ricci JD. First report of Colletotrichum acutatum on strawberry in northwestern Argentina. Plant Dis. 2000; 84: 706. https://doi.org/10.1094/PDIS.2000.84.6.706B.
+Liu F, Wang M, Damm U, Crous PW, Cai L. Species boundaries in plant pathogenic fungi: a Colletotrichum case study. BMC Evol Biol. 2016; 16(1): 81. https://doi.org/10.1186/s12862-016-0649-5.
+Ren XJ, Liang Y, Lu JP, Yang BR, Dai FM. Identification of Colletotrichum species from strawberry in Shanghai. Acta Phytopathol Sin. 2008; 3: 325–328. https://doi.org/10.13926/j.cnki.apps.2008.03.016. (in Chinese).
+Ren HY, Jiang GH, Fang L, Zhang YC, Yang XF, Miao LX, et al. Identification and characterization of the pathogen of strawberry anthracnose in Zhejiang Province. Acta Agric Zhejiangensis. 2011; 23: 937–941. http://www.zjnyxb.cn/CN/abstract/abstract117.shtml. (in Chinese).
+Martínez-Culebras PV, Barrio E, García MD, Querol A. Identification of Colletotrichum species responsible for anthracnose of strawberry based on the internal transcribed spacers of the ribosomal region. FEMS Microbiol Lett. 2000; 189(1): 97–101. https://doi.org/10.1016/S0378-1097(00)00260-3.
+Martínez-Culebras PV, Querol A, Suárez-Fernández MB, García-López MD, Rojas EI, Rehner SA, Samuels GJ, Van Bael SA, Herre EA, Cannon P, et al. Phylogenetic relationships among Colletotrichum pathogens of strawberry and design of PCR primers for their identification. J Phytopathol. 2003; 151: 135–143. https://doi.org/10.1046/j.1439-0434.2003.00694.x.
+Mills PR, Sreenivasaprasad S, Brown AE. Detection and differentiation of Colletotrichum gloeosporioides isolates using PCR. FEMS Microbiol Lett. 1992; 98: 137–144. https://doi.org/10.1111/j.1574-6968.1992.tb05503.x.
+Moreira RR, Peres NA, May De Mio LL. Colletotrichum acutatum and C. gloeosporioides species complexes associated with apple in Brazil. Plant Dis. 2019; 103(2): 268–275. https://doi.org/10.1094/PDIS-07-18-1187-RE.
+Sato T, Moriwaki J, Kaneko S. Anthracnose fungi with curved conidia, Colletotrichum spp. belonging to Ribosomal Groups 9–13, and their host ranges in Japan. Jpn Agric Res Q. 2015; 49: 351–362. https://doi.org/10.6090/jarq.49.351.
+Moriwaki J, Sato T, Tsukiboshi T. Morphological and molecular characterization of Colletotrichum boninense sp. nov. from Japan. Mycoscience. 2003; 44: 47–53. https://doi.org/10.1007/S10267-002-0079-7.
+This version addresses typographical errors, clarifies references, and improves overall readability. If you need any more assistance or specific changes, let me know!
+Annu Rev Phytopathol. 2019;57:63–90. https://doi.org/10.1146/annurev-phyto-082718-100034.
+Sharma G, Pinnaka AK, Shenoy BD. ITS-based diversity of Colletotrichum species in India. Cur Res Environ Appl Mycol. 2013;3(2):194–220. https://doi.org/10.5943/cream/3/2/3.
+M naco ME, Salazar SM, Aprea A, D áz Ricci JC, Zembo JC, et al. First report of Colletotrichum gloeosporioides on strawberry in northwestern Argentina. Plant Dis. 2000;84:595. https://doi.org/10.1094/PDIS.2000.84.5.595C.
+Shivas RG, Tan YP, Edwards J, Dinh Q, Maxwell A, Andjic V, et al. Colletotrichum species in Australia. Australas Plant Pathol. 2016;45(5):447–64. https://doi.org/10.1007/s13313-016-0443-2.
+Nam MH, Kim TI, Gleason ML, Song JY, Kim HG. First report of anthracnose fruit rot caused by Colletotrichum acutatum on strawberry in Korea. Plant Dis. 2008;92(8):1247. https://doi.org/10.1094/PDIS-92-8-1247C.
+Shivas RG, Tan YP. A taxonomic re-assessment of Colletotrichum acutatum, introducing C. fioriniae comb. et stat. nov. and C. simmondsii sp. nov. Fungal Divers. 2009;39:111–22.
+Simmonds JH. A study of the species of Colletotrichum causing ripe fruit rots in Queensland. Queensl J Agric Anim Sci. 1965;22:437–59.
+Ji et al. Phytopathology Research. 2022; 4:42.
+Singh B, Singh SK, Agarwal PC, Rani I, Khetarpal R. Colletotrichum dematium causing anthracnose in hybrid strawberry (Fragaria x ananassa), a new host record for India. Indian J Agric Sci. 2003;73(4):238–9.
+Zhang L, Song L, Xu X, Zou X, Duan K, Gao Q. Characterization and fungicide sensitivity of Colletotrichum species causing strawberry anthracnose in eastern China. Plant Dis. 2020;104(7):1960–8. https://doi.org/10.1094/PDIS-10-19-2241-RE.
+Smith BJ, Black LL. Resistance of strawberry plants to Colletotrichum fragariae affected by environmental conditions. Plant Dis. 1987;71:834–7. https://doi.org/10.1094/PD-71-0834.
+Smith BJ, Black LL. Morphological, cultural, and pathogenic variation in Colletotrichum species isolated from strawberry. Plant Dis. 1990;74(1):69–76. https://doi.org/10.1094/PD-74-0069.
+Zhang Z, Yan M, Li W, Guo Y, Liang X. First report of Colletotrichum aenigma causing apple Glomerella leaf spot on the Granny Smith cultivar in China. Plant Dis. 2021;105(5):1563. https://doi.org/10.1094/PDIS-10-20-2298-PDN.
+Soares VF, Velho AC, Carachenski A, Astolfi P, Stadnik MJ. First report of Colletotrichum karstii causing anthracnose on strawberry in Brazil. Plant Dis. 2021;105(10):3295. https://doi.org/10.1094/PDIS-03-21-0518-PDN.
+Suzuki T, Tanaka-Miwa C, Ebihara Y, Ito Y, Uematsu S. Genetic polymorphism and virulence of Colletotrichum gloeosporioides isolated from strawberry (Fragaria × ananassa Duchesne). J Gen Plant Pathol. 2010;76:247–53. https://doi.org/10.1007/s10327-010-0242-5.
+Talhinhas P, Baroncelli R. Colletotrichum species and complexes: geographic distribution and potential impact. In: Zhang YT, Mass J, editors. Proceedings of the seventh international strawberry symposium. Vol. 1. Beijing: China Agriculture Press; 2012. p. 69–73.
+Zhang YT. The great impact of the 7th International Strawberry Symposium on strawberry research and industry in China. In: Mezzetti B, Battino M, Baruzzi G, editors. Proceedings of the IX International Strawberry Symposium (abstract book). Belgium: Drukkerij Graphius (the International Society for Horticultural Science (ISHS)); 2021.
+Than PP, Shivas RG, Jeewon R, Pongsupasamit S, Marney TS, Taylor PWJ, et al. (2008b). Epitypification and phylogeny of Colletotrichum acutatum J.H. Simmonds. Fungal Diversity, 28, 97-108.
+Ye Z, Zheng H, Tong Y, Noguchi Y, Sugiyama K, Sakata Y, et al. Anthracnose pathogen in Shanghai suburbs and resistance of some strawberry varieties.

@@ -1,0 +1,20 @@
+Hart, B.L. (1988). Biological basis of the behavior of sick animals. Neurosci. Biobehav. Rev. 12, 123–137.
+Adelman, J.S., and Martin, L.B. (2009). Vertebrate sickness behaviors: adaptive and integrated neuroendocrine immune responses. Integr. Comp. Biol. 49, 202–214.
+Vale, P.F., McNally, L., Doeschl-Wilson, A., King, K.C., Popat, R., Domingo-Sananes, M.R., Allen, J.E., Soares, M.P., and Kümmerli, R. (2016). Beyond killing: can we find new ways to manage infection? Evol. Med. Public Health 2016, 148–157.
+Ayres, J.S., and Schneider, D.S. (2012). Tolerance of infections. Annu. Rev. Immunol. 30, 271–294.
+Cumnock, K., Gupta, A.S., Lissner, M., Chevee, V., Davis, N., and Schneider, D.S. (2018). Host energy source is important for disease tolerance to malaria. Curr. Biol. 28, 1635–1642.
+Min-Oo, G., Fortin, A., Tam, M.-F., Nantel, A., Stevenson, M.M., and Gros, P. (2003). Pyruvate kinase deficiency in mice protects against malaria. Nat. Genet. 35, 357–362.
+Ponton, F., Wilson, K., Cotter, S.C., Raubenheimer, D., and Simpson, S.J. (2011). Nutritional immunology: a multi-dimensional approach. PLoS Pathog. 7, e1002223.
+Wale, N., Sim, D.G., Jones, M.J., Salathe, R., Day, T., and Read, A.F. (2017). Resource limitation prevents the emergence of drug resistance by intensifying within-host competition. Proc. Natl. Acad. Sci. USA 114, 13774–13779.
+Vale, P.F., Wilson, A.J., Best, A., Boots, M., and Little, T.J. (2011). Epidemiological, evolutionary, and coevolutionary implications of context-dependent parasitism. Am. Nat. 177, 510–521.
+Ayres, J.S., and Schneider, D.S. (2009). The role of anorexia in resistance and tolerance to infections in Drosophila. PLoS Biol. 7, e1000150.
+Howick, V.M., and Lazzaro, B.P. (2014). Genotype and diet shape resistance and tolerance across distinct phases of bacterial infection. BMC Evol. Biol. 14, 56.
+Sternberg, E.D., Lefe‘vre, T., Li, J., de Castillejo, C.L.F., Li, H., Hunter, M.D., and de Roode, J.C. (2012). Food plant-derived disease tolerance and resistance in a natural butterfly-plant-parasite interaction. Evolution 66, 3367–3376.
+Cornet, S., Bichet, C., Larcombe, S., Faivre, B., and Sorci, G. (2014). Impact of host nutritional status on infection dynamics and parasite virulence in a bird-malaria system. J. Anim. Ecol. 83, 256–265.
+Clough, D., Prykhodko, O., and Ra˚berg, L. (2016). Effects of protein malnutrition on tolerance to helminth infection. Biol. Lett. 12, 20160189.
+Weis, S., Carlos, A.R., Moita, M.R., Singh, S., Blankenhaus, B., Cardoso, S., Larsen, R., Rebelo, S., Schauble, S., Del Barrio, L., et al. (2017). Metabolic adaptation establishes disease tolerance to sepsis. Cell 169, 1263.
+Wang, A., Huen, S.C., Luan, H.H., Yu, S., Zhang, C., Gallezot, J.-D., Booth, C.J., and Medzhitov, R. (2016). Opposing effects of fasting metabolism on tissue tolerance in bacterial and viral inflammation. Cell 166, 1512–1525.
+Pamplona, A., Ferreira, A., Balla, J., Jeney, V., Balla, G., Epiphanio, S., Chora, A., Rodrigues, C.D., Gregoire, I.P., Cunha-Rodrigues, M., et al. (2007). Heme oxygenase-1 and carbon monoxide suppress the pathogenesis of experimental cerebral malaria. Nat. Med. 13, 703–710.
+Ra˚berg, L., Sim, D., and Read, A.F. (2007). Disentangling genetic variation for resistance and tolerance to infectious diseases in animals. Science 318, 812–814.
+Gozzelino, R., Andrade, B.B., Larsen, R., Luz, N.F., Vanoaica, L., Seixas, E., Coutinho, A., Cardoso, S., Rebelo, S., Poli, M., et al. (2012). Metabolic adaptation to tissue iron overload confers tolerance to malaria. Cell Host Microbe 12, 693–704.
+The provided list contains references to various studies related to disease tolerance and resistance, focusing on malaria and other infections, with insights into nutritional and metabolic influences on these processes. Each citation includes the authors, year, title, journal, and page numbers for easy reference.

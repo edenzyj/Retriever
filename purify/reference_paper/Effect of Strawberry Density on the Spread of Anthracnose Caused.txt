@@ -1,0 +1,24 @@
+Anderson, R. M., and May, R. M. 1979. Population biology of infectious diseases: Part I. Nature 280:361-367.
+Boudreau, M. A., and Madden, L. V. 1994. An automated device for characterizing rainfall. (Abstr.) Phytopathology 84:1126.
+Boudreau, M. A., and Madden, L. V. 1995. Effect of strawberry density on dispersal of Colletotrichum acutatum by simulated rain. Phytopathology 85:934-941.
+Burdon, J. J., and Chilvers, G. A. 1975. Epidemiology of damping-off disease (Pythium irregulare) in relation to density of Lepidium sativum seedlings. Ann. Appl. Biol. 81:135-143.
+Burdon, J. J., and Chilvers, G. A. 1982. Host density as a factor in plant disease ecology. Annu. Rev. Phytopathol. 20:143-166.
+Burdon, J. J., Wennstrom, A., Ericson, L., Muller, W. J., and Morton, R. 1992. Density-dependent mortality in Pinus sylvestris caused by the snow blight pathogen Phacidium infestans. Oecologia 90:74-79.
+Campbell, C. L., and Madden, L. V. 1990. Introduction to Plant Disease Epidemiology. John Wiley & Sons, New York.
+Madden, L. V. (1992). Rainfall and the dispersal of fungal spores. Advances in Plant Pathology, 8, 39-79.
+Madden, L. V., & Ellis, M. A. (1990). Effect of ground cover on splash dispersal of Phytophthora cactorum from strawberry fruits. Journal of Phytopathology, 129, 170-174.
+Madden, L. V., Wilson, L. L., & Ellis, M. A. (1993). Field spread of anthracnose fruit rot of strawberry in relation to ground cover and ambient weather conditions. Plant Disease, 77, 861-866.
+Madden, L. V., Wilson, L. L., Yang, X., & Ellis, M. A. (1992). Splash dispersal of Colletotrichum acutatum and Phytophthora cactorum by short-duration simulated rains. Plant Pathology, 41, 427-436.
+Milliken, G. A., & Johnson, D. E. (1984). Analysis of Messy Data, Volume 1: Designed Experiments. Van Nostrand Reinhold, New York.
+Morris, W. F. (1993). Predicting the consequences of plant spacing and biased movement for pollen dispersal by honey bees. Ecology, 74, 493-500.
+Power, A. G. (1989). Influence of plant spacing and nitrogen fertilization in maize on Dalbulus maidis (Homoptera: Cicadellidae), vector of corn stunt. Environmental Entomology, 18, 494-498.
+Power, A. G. (1990). Cropping systems, insect movement, and the spread of insect-transmitted diseases in crops. In S. R. Gliessman (Ed.), Agroecology: Researching the Ecological Basis for Sustainable Agriculture (pp. 47-69). Springer-Verlag, New York.
+Power, A. G. (1992). Host plant dispersion, leafhopper movement, and disease transmission. Ecological Entomology, 17, 63-68.
+Reynolds, K. M., Madden, L. V., & Ellis, M. A. (1988). Spatio-temporal analysis of epidemic development of leather rot of strawberry. Phytopathology, 78, 246-252.
+Roy, B. A. (1993). Patterns of rust infection as a function of host genetic diversity and host density in natural populations of the apomictic crucifer, Arabis holboellii. Evolution, 47, 111-124.
+Waggoner, P. E. (1986). Progress curves of foliar diseases: Their interpretation and use. In K. J. Leonard & W. E. Fry (Eds.), Plant Disease Management, Volume 1 (pp. 3-37). Macmillan Publishing Co., New York.
+Wennström, A., Ericson, L., & Elveland, J. (1995). The dynamics of the plant Lactuca sibirica and the frequency of its rust Puccinia minussensis in river valleys in northern Sweden. Oikos, 72, 288-292.
+Wilson, L. L., Madden, L. V., & Ellis, M. A. (1990). Influence of temperature and wetness duration on infection of immature and mature strawberry fruit by Colletotrichum acutatum. Phytopathology, 80, 111-116.
+Yang, X., & Madden, L. V. (1993). Effects of ground cover, rain intensity, and strawberry plants on splash of simulated raindrops. Agricultural and Forest Meteorology, 65, 1-20.
+Yang, X., Madden, L. V., Wilson, L. L., & Ellis, M. A. (1990). Effects of surface topography and rain intensity on splash dispersal of Colletotrichum acutatum. Phytopathology, 80, 1115-1120.
+Yang, X., Wilson, L. L., Madden, L. V., & Ellis, M. A. (1990). Rain splash dispersal of Colletotrichum acutatum from infected strawberry fruit. Phytopathology, 80, 590-595.

@@ -17,6 +17,9 @@ use_finetuned_model = False
 query_directory = "questions/"
 query_file = "queries_1000.txt"
 
+# Directory name of non-formal content.
+reference_direcotry = "purify/reference_paper/"
+
 # Directory name of both retrieved results file and generated answers file.
 output_directory = "results/97/"
 

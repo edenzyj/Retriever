@@ -1,0 +1,41 @@
+Anscombe, F. J. (1948). The transformation of Poisson, binomial, and negative-binomial data. Biometrika, 35, 246-254.
+Binhamini, N., & Schiffmann-Nadel, M. (1972). Latent infection in avocado fruit due to Colletotrichum gloeosporioides. Phytopathology, 62, 592-594.
+Bos, L., & Parlevliet, J. E. (1995). Concepts and terminology on plant/pest relationships: Toward consensus in plant pathology and crop protection. Annual Review of Phytopathology, 33, 69-102.
+Brooks, A. N. (1931). Anthracnose of strawberry caused by Colletotrichum fragariae, n. sp. Phytopathology, 21, 739-744.
+Brooks, A. N. (1935). Anthracnose and wilt of strawberry caused by Colletotrichum fragariae. (Abstr.) Phytopathology, 25, 973-974.
+Brown, G. E. (1975). Factors affecting postharvest development of Colletotrichum gloeosporioides in citrus fruits. Phytopathology, 65, 404-409.
+Chakroborty, S., Cameron, D. F., Irwin, J. A. G., & Edye, L. A. (1988). Quantitatively expressed resistance to anthracnose (Colletotrichum gloeosporioides) in Stylosanthes scabra. Plant Pathology, 37, 529-537.
+Chandler, C. K. (2005). ‘Sweet Charlie’ strawberry. Journal of the American Pomological Society, 59, 67.
+Chandler, C. K., Albregts, E. E., & Howard, C. M. (1997). ‘Sweet Charlie’ strawberry. HortScience, 32, 1132-1133.
+Chandler, C. K., Legard, D. E., Crocker, T. E., & Sims, C. A. (2004). ‘Carmine’ strawberry. HortScience, 39, 1496-1497.
+Chandler, C. K., Legard, D. E., Dunigan, D. D., Crocker, T. E., & Sims, C. A. (2000). ‘Earlibrite’ strawberry. HortScience, 35, 1363-1365.
+Chandler, C. K., Legard, D. E., Dunigan, D. D., Crocker, T. E., & Sims, C. A. (2000). ‘Strawberry Festival’ strawberry. HortScience, 35, 1366-1367.
+Curry, K. J., Abril, M., Avant, J. B., & Smith, B. J. (2002). Strawberry anthracnose: Histopathology of Colletotrichum acutatum and C. fragariae. Phytopathology, 92, 1055-1063.
+Delp, B. R., & Milholland, R. D. (1981). Susceptibility of strawberry cultivars and related species to Colletotrichum fragariae. Plant Disease, 65, 421-423.
+Denoyes, B., & Baudry, A. (1995). Species identification and pathogenicity study of French Colletotrichum strains isolated from strawberry using morphological and cultural characteristics. Phytopathology, 85, 53-57.
+Denoyes-Rothan, B., Guérin, G., Lerceteau-Köhler, E., & Risser, G. (2005). Inheritance of resistance to Colletotrichum acutatum in Fragaria × ananassa. Phytopathology, 95, 405-412.
+Freeman, S., & Katan, T. (1997). Identification of Colletotrichum species responsible for anthracnose and root necrosis of strawberry in Israel. Phytopathology, 87, 516-521.
+Freeman, S., Phan, M., & Rodriguez, R. J. (1993). Molecular genotyping of Colletotrichum species based on arbitrarily primed PCR, A + T rich DNA, and nuclear DNA analysis. Experimental Mycology, 17, 309-322.
+Freeman, S., & Rodriguez, R. J. (1995). Differentiation of Colletotrichum species responsible for anthracnose of strawberry by arbitrarily primed PCR. Mycological Research, 99, 501-504.
+Gabriel, D. W. (1999). Why do pathogens carry avirulence genes? Physiological and Molecular Plant Pathology, 55, 205-214.
+Gunnell, P. S., & Gubler, W. D. (1992). Taxonomy and morphology of Colletotrichum species pathogenic to strawberry. Mycologia, 84, 157-165.
+Horn, N. L., Burnside, K. R., & Carver, R. B. (1972). Control of the crown rot phase of strawberry anthracnose through sanitation, breeding for resistance, and benomyl. Plant Disease Reporter, 56, 515-519.
+Howard, C. M. (1972). A strawberry fruit rot caused by Colletotrichum fragariae. Phytopathology, 63, 600-602.
+Howard, C. M., & Albregts, E. E. (1973). Cassia obtusifolia, a possible reservoir for inoculum of Colletotrichum fragariae. Phytopathology, 63, 533-534.
+Howard, C. M., & Albregts, E. E. (1973). Cassia obtusifolia, a possible reservoir for inoculum of Colletotrichum fragariae. Phytopathology, 63, 533-534.
+Howard, C. M., and Albregts, E. E. 1984. Anthracnose of strawberry fruit caused by Glomerella cingulata in Florida. Plant Dis. 68:824-825.
+Howard, C. M., Maas, J. L., Chandler, C. K., and Albregts, E. E. 1992. Anthracnose of strawberry caused by the Colletotrichum complex in Florida. Plant Dis. 68:976-981.
+Iwaro, A. D., Umaharan, P., and Sreenivasan, T. N. 1997. Inheritance of foliar resistance to Phytophthora palmivora (Butler) Butler in cacao (Theobroma cacao L.). Euphytica 96:377-383.
+Latunde-Dada, A. O. 2001. Colletotrichum: Tales of forcible entry, stealth, transient confinement, and breakout. Mol. Plant Pathol. 2:187-198.
+Mori, T. 1998. Effects of temperature as the selection pressure for resistance to anthracnose crown rot (Glomerella cingulata Spaulding et Schrenk) of young strawberry seedlings. J. Jpn. Soc. Hortic. Sci. 67:934-938.
+Parlevliet, J. E. 1976. Evaluation of the concept of horizontal resistance in the barley/Puccinia hordei host-pathogen relationship. Phytopathology 66:494-497.
+Parlevliet, J. E., and Zadoks, J. C. 1977. The integrated concept of disease resistance; a new view including horizontal and vertical resistance in plants. Euphytica 26:5-21.
+Smith, B. J., and Black, L. L. 1987. Resistance of strawberry plants to Colletotrichum fragariae affected by environmental conditions. Plant Dis. 71:834-837.
+Smith, B. J., and Black, L. L. 1990. Morphological, cultural, and pathogenic variation among Colletotrichum species isolated from strawberry. Plant Dis. 74:69-76.
+Sreenivasaprasad, S., Brown, A. E., and Mills, T. R. 1992. DNA sequence variation and interrelationships among Colletotrichum species causing strawberry anthracnose. Physiol. Mol. Plant Pathol. 41:265-281.
+TeBeest, D. O., Templeton, G. E., and Smith, T. J. 1978. Histopathology of Colletotrichum gloeosporioides f. sp. aeschynomene on northern jointvetch. Phytopathology 68:1271-1275.
+Trevorrow, P. R., and Irwin, J. A. G. 1988. Histopathology of compatible and incompatible interactions between Colletotrichum gloeosporioides and Stylosanthes scabra. Trans. Br. Mycol. Soc. 90:421-429.
+Ureña-Padilla, A. R., MacKenzie, S. J., Bowen, B. W., and Legard, D. E. 2002. Etiology and population genetics of Colletotrichum spp. causing crown rot and fruit rot of strawberry. Phytopathology 92:1245-1252.
+Vanderplank, J. E. 1968. Disease Resistance in Plants. Academic Press, New York.
+Xiao, C. L., MacKenzie, S. J., and Legard, D. T. 2004. Genetic and pathogenic analyses of Colletotrichum gloeosporioides isolates from strawberry and noncultivated hosts. Phytopathology 94:446-453.
+Young, R. A., and Kelly, J. D. 1996. Characterization of the genetic resistance to Colletotrichum lindemuthianum in common bean differential cultivars. Plant Dis. 80:650-654.

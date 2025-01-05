@@ -1,0 +1,15 @@
+Ané C, Larget B, Baum DA, Smith SD, Rokas A (2007) Bayesian estimation of concordance among gene trees. Molecular Biology and Evolution 24: 412–426.
+Asakura M, Ninomiya S, Sugimoto M, Oku M, Yamashita S, Okuno T, Sakai Y, Takano Y (2009) ATG26-Mediated Pexophagy is Required for Host Invasion by the Plant Pathogenic Fungus Colletotrichum orbiculare. Plant Cell 21: 1291–1304.
+Cai L, Hyde KD, Taylor PWJ, Weir BS, Waller J, Abang MM, Zhang JZ, Yang YL, Phoulivong S, Liu ZY, Prihastuti H, Shivas RG, McKenzie EHC, Johnston PR (2009) A polyphasic approach for studying Colletotrichum. Fungal Diversity 39: 183–204.
+Cannon PF, Buddie AG, Bridge PD (2008) The typification of Colletotrichum gloeosporioides. Mycotaxon 104: 189–204.
+Crouch JA, Clarke BB, White JW, Hillman BI (2009) Systematic analysis of the falcate-spored graminicolous Colletotrichum and a description of six new species of the fungus from warm-season grasses. Mycologia 101: 717–732.
+Damm U, Woudenberg JHC, Cannon PF, Crous PW (2009) Colletotrichum species with curved conidia from herbaceous hosts. Fungal Diversity 39: 45–87.
+Fujihara N, Sakaguchi A, Tanaka S, Fujii S, Tsuji G, Shiraishi T, O’Connell R, Kubo Y (2010) Peroxisome biogenesis factor PEX13 is required for appressorium-mediated plant infection by the anthracnose fungus Colletotrichum orbiculare. Molecular Plant-Microbe Interactions 23: 436–445.
+Hyde KD, Cai L, Cannon PF, Crouch JA, Crous PW, Damm U, Goodwin.
+This potential effector-triggered immunity might be repressed in this susceptible interaction. Moriwaki et al. (2009) announced a further genome project for Colletotrichum gloeosporioides. The project is a collaboration between CABI (CABI Europe-UK, Egham, UK) and The Genome Analysis Centre (TGAC), Norwich, UK (<tgac.bbsrc.ac.uk>), to carry out a whole genome sequence of the ex-epitype strain of C. gloeosporioides (IMI 356878). The DNA sequencing phase is nearing completion, and they are about to begin the assembly process.
+The meeting provided substantial evidence of the rapid advancement in our understanding of Colletotrichum genomics. This progress was nicely complemented by outputs from another Colletotrichum workshop held earlier in 2010, in conjunction with the 10th European Conference on Fungal Genetics in Leeuwenhorst, the Netherlands. It was particularly exciting to witness the increasing power of genomic research tools and their potential impact on our understanding of fungal interactions.
+Perfect et al. (1999) described Colletotrichum as a model genus for studies on pathology and fungal-plant interactions.
+Tanaka et al. (2009) investigated how the Colletotrichum orbiculare ssd1 mutant enhances plant basal resistance through the activation of a mitogen-activated protein kinase pathway.
+Phoulivong et al. (2010) noted that Colletotrichum gloeosporioides is not a common pathogen on tropical fruits.
+Weir and Johnston (2010) characterized and neotypified Gloeosporium kaki Hori as Colletotrichum horii nom. nov.
+These contributions reflect a diverse range of studies addressing the ecology and interactions of Colletotrichum, underscoring its significance in plant pathology.

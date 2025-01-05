@@ -1,0 +1,82 @@
+Aiello D, Carrieri R, Guarnaccia V, et al. 2015. Characterization and pathogenicity of Colletotrichum gloeosporioides and C. karstii causing preharvest disease on Citrus sinensis in Italy. Journal of Phytopathology 163: 168–177.
+AlSingapore, Donald Moore Press Ltd. 1967. Malayan fruits: An introduction to the cultivated species.
+Anderson J, Aitken EAB, Das PP, et al. 2013. Colletotrichum species causing anthracnose in lychee (Litchi chinensis) in Australia. Plant Pathology 62: 279–288.
+Bailey JA, Jeger MJ. 1992. Colletotrichum: Biology, pathology and control. CABI, Wallingford, UK.
+Baroncelli R, Zapparata A, Sarocco S, et al. 2015. Molecular diversity of anthracnose pathogen populations associated with UK strawberry production suggests multiple introductions of different Colletotrichum species. PLoS One 10(6): e0129140.
+Batista D, Silva DN, Vieira A, et al. 2016. Legitimacy and implications of reducing Colletotrichum kahawae to subspecies in plant pathology. Frontiers in Plant Science 7: 2051.
+Benyahia H, Jrifi A, Smaili C, et al. 2003. First report of Colletotrichum gloeosporioides causing withertip on twigs and tear stain on citrus fruit in Morocco. Plant Pathology 52: 798.
+Bernstein B, Zehr EI, Dean RA, et al. 1995. Characteristics of Colletotrichum due to its economically useful traits, including cold temperature and poor soil tolerance.
+Bragança CA, Damm U, Baroncelli R, et al. 2016. Species of the Colletotrichum acutatum complex associated with anthracnose diseases of fruit in Brazil. Fungal Biology 120: 547–561.
+Brown AE, Sreenivasaprasad S, Timmer LW. 1996. Molecular characterization of slow-growing orange and key lime anthracnose strains of Colletotrichum from citrus as C. acutatum. Phytopathology 86: 523–527.
+Brown GE. 1975. Factors affecting post-harvest development of Colletotrichum gloeosporioides in citrus fruits. Phytopathology 65: 404–409.
+Cai L, Hyde KD, Taylor PWJ, et al. 2009. A polyphasic approach for studying...
+Colletotrichum niense is phylogenetically close to both subspecies of C. kahawae, but it is clearly differentiated based on multi-locus phylogenetic analyses. Thus, it represents a new species within the C. kahawae clade in the C. gloeosporioides species complex (Cannon et al., 2000).
+Cannon, PF, Buddie AG, and Bridge PD (2008) provided insights into the typification of Colletotrichum gloeosporioides in their study published in Mycotaxon (104: 189–204). Additionally, C. hystricis, which is closely related to Citrus hystrix, was isolated from lesions cultivated on leaves and is known for its pleasant smell, being referred to as medicinal lime (Yaacob & Subhadrabandhu, 1995). While the fruit is not widely appreciated, it holds economic importance for the extraction of essential oils, often used in cooking and cosmetics (Allen, 1967).
+Colletotrichum hystricis is distinct from C. alienum, which is commonly associated with cultivated fruits (Weir et al., 2012). In the present study, C. hystricis is described as a distinct taxon, supported by morphological differences such as the presence of obovoidal conidia and a slower growth rate in culture. Notably, C. alienum is characterized by the development of perithecia in culture, which the two strains of C. hystricis did not produce on artificial media in this study.
+Various studies highlight the significance of Colletotrichum species in agriculture. Crouch et al. (2009) discussed anthracnose disease caused by the novel species Colletotrichum navitas, while Damm et al. (2013) addressed the Colletotrichum orbiculare species complex, which affects field crops and weeds. Other works by Damm et al. (2012) explored the Colletotrichum acutatum and Colletotrichum boninense species complexes.
+Further research emphasizes the need for effective fungal identification to secure global food and fiber supplies (Crous et al., 2016a). Crous et al. have also contributed significantly to fungal biodiversity literature and the description of new fungal species in various journals, outlining the ongoing developments in mycology.
+Damm U, Woudenberg JHC, Cannon PF, et al. (2009). Colletotrichum species with curved conidia from herbaceous hosts. Fungal Diversity, 39, 45–87.
+De Silva DD, Ades PK, Crous PW, et al. (2017). Colletotrichum species associated with chili anthracnose in Australia. Plant Pathology, 66, 254–267.
+Dean R, Van Kan JAL, Pretorius ZA, et al. (2012). The top 10 fungal pathogens in molecular plant pathology. Molecular Plant Pathology, 13, 414–430.
+Deising HB, Werner S, Wernitz M. (2000). The role of fungal appressoria in plant infection. Microbes and Infection, 2, 1631–1641.
+Diao YZ, Zhang C, Liu F, et al. (2017). Colletotrichum species causing anthracnose disease of chili in China. Persoonia, 38, 20–37.
+FAO - Food and Agricultural Organization of the United Nations (2016). Citrus fruits fresh and processed: annual statistics. Retrieved from FAO website.
+Farr DF, Aime MC, Rossman AY, et al. (2006). Species of Colletotrichum on Agavaceae. Mycological Research, 110, 1395–1408.
+Farr DF, Rossman AY. (2017). Fungal databases, systematic mycology and microbiology laboratory, ARS, USDA. Retrieved February 26.
+Freeman S, Katan T, Shabi E. (1998). Characterization of Colletotrichum species responsible for anthracnose diseases of various fruits. Plant Disease, 82, 596–605.
+Freeman S, Shabi E. (1996). Cross-infection of subtropical and temperate fruits by Colletotrichum species from various hosts. Physiological and Molecular Plant Pathology, 49, 395–404.
+Garnsey DJ, Barrett SM. (1987). Identification of citrus tristeza virus resistance in citrus relatives and its potential applications. Phytophylactica, 19, 187–192.
+Garrido C, Carbú M, Fernández-Acero FJ, et al. (2008). Isolation and pathogenicity of Colletotrichum spp. causing anthracnose of strawberry in southwest Spain. European Journal of Plant Pathology, 120, 409–415.
+Glass NL, Donaldson G. (1995). Development of primer sets designed for use with PCR to amplify conserved genes from filamentous ascomycetes. Applied and Environmental Microbiology, 61, 1323–1330.
+Guarnaccia V, Vitale A, Cirvilleri G, et al. (2016). Characterization and pathogenicity of fungal species associated with branch cankers and stem-end rot of avocado in Italy. European Journal of Plant Pathology, 146, 963–976.
+Guerber JC, Liu B, Correll JC, et al. (2003). Characterization of diversity in Colletotrichum acutatum sensu lato by sequence analysis of two gene introns, mtDNA, and intron RFLPs, and mating compatibility.
+Hillis DM, Bull JJ. (1993). An empirical test of bootstrapping as a method for assessing confidence in phylogenetic analysis. Systematic Biology, 42, 182–192.
+Honger JO, Offei SK, Oduro KA, et al. (2016). Identification and molecular characterization of Colletotrichum species from avocado, citrus, and pawpaw in Ghana. South African Journal of Plant and Soil, 33, 177–185.
+Huang F, Chen GQ, Hou X, et al. (2013). Colletotrichum species associated with cultivated citrus in China. Fungal Diversity, 61, 61–74.
+Ismail AM, Cirvilleri G, Yaseen T, et al. (2015). Characterization of Colletotrichum species causing anthracnose disease of mango in Italy. Journal of Plant Pathology, 97, 167–171.
+Katoh K, Standley DM. (2013). MAFFT Multiple sequence alignment software version 7: improvements in performance and usability. Molecular Biology and Evolution, 30, 772–780.
+Kaur R, Rewal HS, Sethi A. (2007). Pre-harvest stem-end rot in citrus cultivars due to Colletotrichum gloeosporioides. European Journal of Horticultural Science, 72, 20–25.
+Klotz J. (1961). Color Handbook of Citrus Diseases. University of California.
+Lima WG, Sposito MB, Amorim L, et al. (2011). Colletotrichum gloeosporioides, a new causal agent of citrus post-bloom fruit drop. European Journal of Plant Pathology, 131, 157–165.
+Liu F, Cai L, Crous PW, et al. (2014). The Colletotrichum gigasporum species complex. Persoonia, 33, 83–97.
+Liu F, Wang M, Damm U, et al. 2016. Species boundaries in plant pathogenic fungi: a Colletotrichum case study. BMC Evolutionary Biology 16: 81.
+Liu F, Weir BS, Damm U, et al. 2015. Unraveling Colletotrichum species associated with Camellia: employing ApMat and GS loci to resolve species in the C. gloeosporioides complex. Persoonia 35: 63–86.
+Lubbe CM, Denman S, Cannon PF, et al. 2004. Characterization of Colletotrichum species associated with diseases of Proteaceae. Mycologia 96: 1268–1279.
+MacKenzie SJ, Peres NA, Barquero MP, et al. 2009. Host range and genetic relatedness of Colletotrichum acutatum isolates from fruit crops and leatherleaf fern in Florida. Phytopathology 99: 620–631.
+Marcelino J, Giordano R, Gouli S, et al. 2008. Colletotrichum acutatum var. fioriniae (teleomorph: Glomerella acutata var. fioriniae var. nov.) infection of a scale insect. Mycologia 100: 353–374.
+Marin-Felix Y, Groenewald JZ, Cai L, et al. 2017. Genera of phytopathogenic fungi: GOPHY 1. Studies in Mycology, doi: 10.1016/j.simyco.2017.04.002.
+McGovern RJ, Seijo TE, Hendricks K, et al. 2012. New report of Colletotrichum gloeosporioides causing postbloom fruit drop on citrus in Bermuda. Canadian Journal of Plant Pathology 34: 187–194.
+Moges AD, Admassu B, Belew D, et al. 2016. Development of microsatellite markers and analysis of genetic diversity and population structure of Colletotrichum gloeosporioides from Ethiopia. PLoS ONE 11(3): e0151257.
+Moral J, Bouhmidi K, Trapero A. 2008. Influence of fruit maturity, cultivar susceptibility, and inoculation method on infection of olive fruit by Colletotrichum acutatum. Plant Disease 92: 1421–1426.
+Moriwaki J, Sato T, Tsukiboshi T. 2003. Morphological and molecular characterization of Colletotrichum boninense sp. nov. from Japan. Mycoscience 44: 47–53.
+Nirenberg HI. 1976. Untersuchungen über die morphologische und biologische Differenzierung in der Fusarium-Sektion Liseola. Mitteilungen aus der Biologischen Bundesanstalt für Land- und Forstwirtschaft Berlin-Dahlem 169: 1–117.
+Nylander JAA. 2004. MrModeltest v. 2. Program distributed by the author. Evolutionary Biology Centre, Uppsala University.
+O’Donnell K, Cigelnik E. 1997. Two divergent intragenomic rDNA ITS2 types within a monophyletic lineage of the fungus Fusarium are nonorthologous. Molecular Phylogenetics and Evolution 7: 103–116.
+O’Donnell K, Nirenberg HI, Aoki T, et al. 2000. A multigene phylogeny of the Gibberella fujikuroi species complex: Detection of additional phylogenetically distinct species. Mycoscience 41: 61–78.
+Peng LJ, Yang YL, Hyde KD, et al. 2012. Colletotrichum species on citrus leaves in Guizhou and Yunnan provinces, China. Cryptogamie Mycologie 33: 267–283.
+Peres N, MacKenzie S, Peever T, et al. 2008. Postbloom fruit drop of citrus and key lime anthracnose are caused by distinct phylogenetic lineages of Colletotrichum acutatum. Phytopathology 98: 345–352.
+Perfect SE, Hughes HB, O’Connell RJ, et al. 1999. Colletotrichum: a model genus for studies on pathology and fungal–plant interactions. Fungal Genetics and Biology 27: 186–198.
+Perrone G, Magistà D, Ismail AM. 2016. First report of Colletotrichum kahawe subsp. ciggaro on mandarin in Italy. Journal of Plant Pathology 98: 12.
+Phoulivong S, Cai L, Parinn N, et al. 2010. A new species of Colletotrichum from Cordyline fruticosa and Eugenia javanica causing anthracnose disease. Mycotaxon 114: 247–257.
+Phoulivong S, Mckenzie EHC, Hyde KD. 2012. Cross-infection of Colletotrichum species: a case study with tropical fruits. Current Research in Environmental & Applied Mycology 2: 99–111.
+Polizzi G, Aiello D, Guarnaccia V, et al. 2011. First report of damping-off on strawberry tree caused by Colletotrichum acutatum and C. simmondsii in Italy. Plant Disease 95: 1588.
+Polizzi G, Aiello D, Guarnaccia V, et al. 2011. First report of damping-off on strawberry tree caused by Colletotrichum acutatum and C. simmondsii in Italy. Plant Disease 95: 1588.
+Colletotrichum gloeosporioides is identified as the main causal agent of citrus anthracnose, while C. karstii is preferentially associated with lemon twig dieback in Portugal (Phytoparasitica 44: 549–561).
+Rapisarda, P., & Russo, G. (2003). Fruit quality of five 'Tarocco' selections grown in Italy. In Proceedings of the International Society of Citriculture, 9th Congress, 3–7 December 2000 (Vol. 2, pp. 1149–1153). International Society of Citriculture, Riverside, CA, USA.
+Rayner, R.W. (1970). A mycological colour chart. CMI and British Mycological Society, Kew, Surrey, England.
+Rhaiem, A., & Taylor, P.W. (2016). Colletotrichum gloeosporioides associated with anthracnose symptoms on citrus: a new report for Tunisia. European Journal of Plant Pathology, 146, 219–224.
+Ronquist, F., Teslenko, M., Van der Mark, P., et al. (2012). MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space. Systematic Biology, 61, 539–542.
+Shivas, R.G., & Tan, Y.P. (2009). A taxonomic reassessment of Colletotrichum acutatum, introducing C. fioriniae comb. et stat. nov. and C. simmondsii sp. nov. Fungal Diversity, 39, 111–122.
+Silva, A.O., Savi, D.C., Gomes, F.B., et al. (2016). Identification of Colletotrichum species associated with postbloom fruit drop in Brazil through GAPDH sequencing analysis and multiplex PCR. European Journal of Plant Pathology, 147, 731–748.
+Sutton, B.C. (1980). The coelomycetes: Fungi imperfecti with pycnidia, acervuli, and stromata (pp. 1–696). Commonwealth Mycological Institute, Kew, Surrey, England.
+Sutton, B.C. (1992). The genus Glomerella and its anamorph Colletotrichum. In J.A. Bailey & M.J. Jeger (Eds.), Colletotrichum: biology, pathology and control (pp. 1–26). CAB International, Wallingford, UK.
+Swofford, D.L. (2003). PAUP*: Phylogenetic analysis using parsimony (*and other methods), v. 4.0b10. Sinauer Associates, Sunderland, Massachusetts.
+Talhinhas, P., Mota Capitão, C., Martins, S., et al. (2011). Epidemiology, histopathology, and aetiology of olive anthracnose caused by Colletotrichum acutatum and C. gloeosporioides in Portugal. Plant Pathology, 60, 483–495.
+Tamura, K., Stecher, G., Peterson, D., et al. (2013). MEGA6: Molecular Evolutionary Genetics Analysis version 6.0. Molecular Biology and Evolution.
+Timmer, L.W., Garnsey, S.M., & Graham, J.H. (2000). Compendium of Citrus diseases (2nd ed.). The American Phytopathological Society.
+Udayanga, D., Manamgoda, D.S., Liu, X., et al. (2013). What are the common anthracnose pathogens of tropical fruits? Fungal Diversity, 61, 165–179.
+Von Arx, J.A. (1957). Die Arten der Gattung Colletotrichum Cda. Phytopathologische Zeitschrift, 29, 413–468.
+Weir, B.S., Johnston, P.R., & Damm, U. (2012). The Colletotrichum gloeosporioides species complex. Studies in Mycology, 73, 115–180.
+White, T.J., Bruns, T., Lee, S., et al. (1990). Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In M.A. Innis, D.H. Gelfand, J.J. Sninsky, et al. (Eds.), PCR Protocols: a guide to methods and applications (pp. 315–322). Academic Press, San Diego, California.
+Yaacob, O., & Subhadrabandhu, S. (1995). The production of economic fruits in Southeast Asia (p. 156). Oxford University Press, Kuala Lumpur.
+Yang, Y.L., Liu, Z.Y., Cai, L., et al. (2009). Colletotrichum anthracnose of Amaryllidaceae. Fungal Diversity, 39, 123–146.

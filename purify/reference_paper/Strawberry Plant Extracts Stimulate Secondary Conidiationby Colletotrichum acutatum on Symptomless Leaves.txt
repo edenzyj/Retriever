@@ -1,0 +1,33 @@
+Agostini, J. P., and Timmer, L. W. 1994. Population dynamics and survival of strains of Colletotrichum gloeosporioides on citrus in Florida. Phytopathology 84:420-425.
+Banttari, E. E., and Wilcoxson, R. D. 1964. Relation of nutrients, inoculum, and inoculum concentrations to the severity of spring black stem of alfalfa. Phytopathology 54:1048-1052.
+Boosalis, M. G. 1962. Precocious sporulation and longevity of conidia of Helminthosporium sativum in soil. Phytopathology 52:1172-1177.
+Dhingra, O. D., and Sinclair, J. B. 1985. Basic Plant Pathology Methods. CRC Press, Inc., Boca Raton, FL.
+Eastburn, D. M., and Gubler, W. D. 1990. Strawberry anthracnose: Detection and survival of Colletotrichum acutatum in soil. Plant Dis. 74:161-163.
+Eastburn, D. M., and Gubler, W. D. 1992. Effects of soil moisture and temperature on the survival of Colletotrichum acutatum. Plant Dis. 76:841-842.
+Freeman, S., Horowitz, S., and Sharon, A. 2001. Pathogenic and non-pathogenic lifestyles in Colletotrichum acutatum from strawberry and other plants. Phytopathology 91:986-992.
+Freeman, S., and Katan, T. 1997. Identification of Colletotrichum species responsible for anthracnose and root necrosis of strawberry in Israel. Phytopathology 87:516-521.
+Freeman, S., Nizani, Y., Dotan, S., Even, S., and Sando, T. 1997. Control of Colletotrichum acutatum in strawberry under laboratory, greenhouse, and field conditions. Plant Dis. 81:749-752.
+Grover, R. K. 1971. Participation of host exudate chemicals in appressorium formation of Colletotrichum piperatum. Pages 509-518 in: Ecology of Leaf Surface Microorganisms. T. F. Preece and C. H. Dickinson, eds. Academic Press, London.
+Howard, C. M., Chandler, C. K., and Albregts, E. E. 1991. Strawberry anthracnose in Florida. Pages 219-220 in: The Strawberry into the 21st Century: Proc. North Am. Strawberry Conf. 3rd. A. Dale and J. J. Luby, eds. Timber Press, Portland, OR.
+Howard, C. M., Maas, J. L., Chandler, C. K., and Albregts, E. E. 1992. Anthracnose of strawberry caused by the Colletotrichum complex in Florida. Plant Dis. 76:976-981.
+Leandro, L. F. S., Gleason, M. L., Nutter, F. W., Jr., Wegulo, S. N., and Dixon, P. M. 2001. Germination and sporulation of Colletotrichum acutatum on symptomless strawberry leaves. Phytopathology 91:659-664.
+Leandro, L. F. S., Gleason, M. L., Wegulo, S. N., and Nutter, F. W., Jr. 2002. Effects of strawberry plant extracts on conidiation and appressorial production by Colletotrichum acutatum. (Abstr.) Phytopathology.
+Legard, D. E., Whidden, A. J., and Chandler, C. K. 1997. Incidence and occurrence of strawberry diseases in Florida from 1991 to 1996. Advances in Strawberry Research 16:35-47.
+McInnes, T. B., Black, L. L., and Gatti, J. M., Jr. 1992. Disease-free plants for the management of strawberry anthracnose crown rot. Plant Disease 76:260-264.
+Muirhead, I. F. 1998. The role of appressorial dormancy in latent infection. Pages 155-167 in: Microbial Ecology of the Phylloplane. J. P. Blakeman, ed. Academic Press, New York.
+Norman, D. J., and Strandberg, O. J. 1997. Survival of Colletotrichum acutatum in soil and plant debris of leatherleaf fern. Plant Disease 81:1177-1180.
+Pantidou, M. E., and Schroeder, W. T. 1955. Foliage as a source of secondary inoculum for tomato anthracnose. Phytopathology 45:338-345.
+Parbery, D. G. 1981. Biology of anthracnose on leaf surfaces. Pages 135-154 in: Microbial Ecology of the Phylloplane. J. P. Blakeman, ed. Academic Press, New York.
+Parbery, D. G., and Blakeman, J. P. 1978. Effect of substances associated with leaf surfaces on appressorium formation by Colletotrichum acutatum. Transactions of the British Mycological Society 70:7-19.
+Peterson, R. A. 1977. Green leaves as a source of inoculum for anthracnose fungi, with special reference to Colletotrichum acutatum on strawberry. M.S. thesis. Department of Botany, University of Queensland, Australia.
+Schisler, D. A., Jackson, M. A., and Bothast, R. J. 1991. Influence of nutrition during conidiation of Colletotrichum truncatum on conidial germination and efficacy in inciting disease in Sesbania exaltata. Phytopathology 81:458-461.
+Sharma, J. K., and Sinha, S. 1971. Effects of leaf exudates of sorghum varieties varying in susceptibility and maturity on the germination of conidia of Colletotrichum graminicola (Ces.) Wilson. Pages 597-601 in: Ecology of Leaf Surface Microorganisms. T. F. Preece and C. H. Dickinson, eds. Academic Press, London.
+Slade, S. J., Harris, R. F., Smith, C. S., and Andrews, J. H. 1987. Microcyclic conidiation and spore-carrying capacity of Colletotrichum gloeosporoides on solid media. Applied and Environmental Microbiology 53:2106-2110.
+Smith, B. J. 1998. Anthracnose fruit rot (black spot). Pages 31-33 in: Compendium of Strawberry Diseases. 2nd ed. J. L. Maas, ed. The American Phytopathological Society, St. Paul, MN.
+Smith, B. J., and Black, L. L. 1990. Morphological, cultural, and pathogenic variation among Colletotrichum species isolated from strawberry. Plant Disease 74:69-76.
+Smith, J. E., Anderson, J. G., Deans, S. G., and Berry, D. R. 1981. Biochemistry of microcycle conidiation. Pages 329-356 in: Biology of Conidial Fungi. G. T. Cole and B. Kendrick, eds. Academic Press, New York.
+Timmer, L. W., and Brown, G. E. 2000. Biology and control of anthracnose diseases of citrus. Pages 300-316 in: Colletotrichum: Host Specificity, Pathology, and Host-Pathogen Interaction. D. Prusky, S. Freeman, and M. B. Dickman, eds. The American Phytopathological Society, St. Paul, MN.
+Trainor, M. J., and Martinson, C. A. 1978. Nutrition during spore production and the inoculum potential of Helminthosporium maydis race T. Phytopathology 68:1049-1053.
+Weinhold, A. R., and Bowman, T. D. R. L. 1969. Virulence of Rhizoctonia solani as affected by the nutrition of the pathogen. Phytopathology 59:1601-1605.
+Wilson, L. L., Madden, L. V., and Ellis, M. A. 1992. Overwinter survival of Colletotrichum acutatum in infected strawberry fruit in Ohio. Plant Disease 76:948-950.
+Zulfiqar, M., Brlansky, R. H., and Timmer, L. W. 1996. Infection of flower and vegetative tissues of citrus by Colletotrichum acutatum and C. gloeosporioides. Mycologia 88:121-128.

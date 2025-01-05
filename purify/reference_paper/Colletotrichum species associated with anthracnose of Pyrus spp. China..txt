@@ -1,0 +1,61 @@
+MGaribaldi A, Gilardi G, Franco-Ortega SF, et al. 2016. First report of leaf spot caused by Colletotrichum fioriniae on Mexican bush sage (Salvia leucantha) in Italy. Plant Disease 100: 654.
+Glass NL, Donaldson GC. 1995. Development of primer sets designed for use with PCR to amplify conserved genes from filamentous ascomycetes. Applied and Environmental Microbiology 61: 1323–1330.
+González E, Sutton TB, Correll JC. 2006. Clarification of the etiology of Glomerella based on molecular pathology and pathogenicity tests. Phytopathology 96: 982–992.
+Guarnaccia V, Groenewald JZ, Polizzi G, et al. 2017. High species diversity in Colletotrichum associated with citrus diseases in Europe. Persoonia 39: 32–50.
+Guerber JC, Liu B, Correll JC, et al. 2003. Characterization of diversity in Colletotrichum acutatum sensu lato by sequence analysis of two gene introns, mtDNA and intron RFLPs, and mating compatibility. Mycologia 95: 872–895.
+Hou LW, Liu F, Duan WJ, et al. 2016. Colletotrichum aracearum and C. camelliae-japonicae, two holomorphic new species from China and Japan. Mycosphere 7: 1111–1123.
+Huang F, Chen GQ, Hou X, et al. 2013. Colletotrichum species associated with cultivated citrus in China. Fungal Diversity 61: 61–74.
+Huson DH. 1998. SplitsTree: analyzing and visualizing evolutionary data. Bioinformatics 14: 68–73.
+Huson DH, Bryant D. 2006. Application of phylogenetic networks in evolutionary studies. Molecular Biology and Evolution 23: 254–267.
+Huson DH, Kloepper TH. 2005. Computing recombination networks from binary sequences. Bioinformatics 21: 159–165.
+Hyde KD, Cai L, McKenzie EHC, et al. 2009. Colletotrichum: a catalogue of confusion. Fungal Diversity 39: 1–17.
+Ivic D, Voncina D, Sever Z, et al. 2013. Identification of Colletotrichum species causing bitter rot of apple and pear in Croatia. Journal of Phytopathology 161: 284–286.
+Jiang JJ, Zhai HY, Li HN, et al. 2014. Identification and characterization of Colletotrichum fructicola causing black spots on young fruits related to...
+Studies in filamentous ascomycetes have contributed significantly to mycology. In "Mycologia," Kanchana-udomkan et al. (2004) developed a bioassay to study anthracnose infection caused by Colletotrichum capsici in Capsicum chinense Jacq. Choi et al. (1999) focused on single spore isolation of fungi. Crous et al. (2009) compiled important findings in "Fungal Biodiversity," published in the CBS Laboratory Manual Series by the Centraalbureau voor Schimmelcultures, Utrecht, Netherlands.
+Katoh and Standley (2013) introduced improvements in MAFFT multiple sequence alignment software (version 7), enhancing performance and usability for molecular biology research (Molecular Biology and Evolution 30: 772–780). Da Lio et al. (2017) reported the first occurrence of pear bitter rot caused by Colletotrichum fioriniae in France (Plant Disease 101: 1319).
+Damm et al. (2013) described the Colletotrichum orbiculare species complex, which includes significant pathogens of field crops and weeds. Further studies by Damm et al. (2012) and Li et al. (2013) explored the Colletotrichum boninense and Colletotrichum fructicola species complexes, respectively, with Li et al. identifying the latter as responsible for bitter rot of pear in China (Plant Disease 97: 1000).
+Lima et al. (2013) identified five Colletotrichum species associated with mango anthracnose in northeastern Brazil (Fungal Diversity 61: 75–88). Damm et al. (2014) investigated the Colletotrichum destructivum species complex, while Lin et al. (2002) conducted genetic analyses on resistance to pepper anthracnose caused by Colletotrichum capsici.
+Further insights into the diversity of Colletotrichum species and their implications for plant biosecurity were presented by De Silva et al. (2017). Dean et al. (2012) highlighted the top ten fungal pathogens in molecular plant pathology, underscoring their significance.
+Diao et al. (2017) documented Colletotrichum species causing anthracnose in chili peppers in China, while Douanla-Meli et al. (2018) conducted a multi-approach analysis of the diversity within Colletotrichum cliviae sensu lato.
+Marin-Felix, Y., Groenewald, J.Z., Cai, L., et al. (2017). Genera of phytopathogenic fungi: GOPHY 1. Studies in Mycology, 86, 99–216.
+Munir, M., Amsden, B., Dixon, E., et al. (2016). Characterization of Colletotrichum species causing bitter rot of apple in Kentucky orchards. Plant Disease.
+Nirenberg, H.I. (1976). Untersuchungen über die morphologische und biologische Differenzierung in der Fusarium-Sektion Liseola. Mitteilungen aus der Biologischen Bundesanstalt für Land- und Forstwirtschaft Berlin-Dahlem, 169, 1–117.
+Nylander, J.A.A. (2004). MrModelTest v. 2. Program distributed by the author. Evolutionary Biology Centre, Uppsala University.
+O’Donnell, K., Cigelnik, E. (1997). Two divergent intragenomic rDNA ITS2 types within a monophyletic lineage of the fungus Fusarium. Molecular Phylogenetics and Evolution, 7, 103–116.
+Peres, N.A., Timmer, L.W., Adaskaveg, J.E., et al. (2005). Lifestyles of Colletotrichum acutatum. Plant Disease, 89, 784–796.
+Photita, W., Taylor, P.W.J., Ford, R., et al. (2005). Morphological and molecular characterization of Colletotrichum species from herbaceous plants in Thailand. Fungal Diversity, 18, 117–133.
+Prihastuti, H., Cai, L., Chen, H., et al. (2009). Characterization of Colletotrichum species associated with coffee berries in northern Thailand. Fungal Diversity, 39, 89–109.
+Quaedvlieg, W., Binder, M., Groenewald, J.Z., et al. (2014). Introducing the consolidated species concept to resolve species in the Teratosphaeriaceae. Persoonia, 33, 1–40.
+Rambaut, A. (2014). FigTree v.1.4.2. Institute of Evolutionary Biology, University of Edinburgh. http://tree.bio.ed.ac.uk/software/figtree/.
+Rambaut, A., Suchard, M., Drummond, A.J. (2013). Tracer v. 1.6. Institute of Evolutionary Biology, University of Edinburgh. http://tree.bio.ed.ac.uk/software/tracer/.
+Ronquist, F., Huelsenbeck, J.P. (2003). MrBayes 3: Bayesian phylogenetic inference under mixed models. Bioinformatics, 19, 1572–1574.
+Rubtsov, G.A. (1944). Geographical distribution of the genus Pyrus and trends and factors in its evolution. American Naturalist, 78, 358–366.
+Schena, L., Mosca, S., Cacciola, S.O., et al. (2014). Species of the Colletotrichum gloeosporioides and C. boninense complexes associated with olive anthracnose. Plant Pathology, 63, 437–446.
+Sharma, G., Pinnaka, A.K., Shenoy, B.D. (2015). Resolving the Colletotrichum siamense species complex using ApMat marker. Fungal Diversity, 71, 247–264.
+Shivas, R.G., Tan, Y.P. (2009). A taxonomic re-assessment of Colletotrichum acutatum, introducing C. fioriniae comb. et stat. nov. and C. simmondsii sp. nov. Fungal Diversity, 39, 111–122.
+Silva, G.J., Souza, T.M., Barbieri, R.L., et al. (2014). Origin, domestication, and dispersal of pear (Pyrus spp.). Advances in Agriculture, 2014, 1–8.
+Silvestro, D., Michalak, I. (2012). raxmlGUI: A graphical front-end for RAxML. Organisms Diversity & Evolution, 12, 335–337.
+Sun, W., Su, Y.Y., Cai, L., et al. (2012). First report of leaf disease on Cinnamomum subavenium caused by Colletotrichum fioriniae in China. Plant Disease.
+Sutton, B.C. (1980). The coelomycetes. Fungi imperfecti with pycnidia, acervuli and stromata. Commonwealth Mycological Institute, Kew, Surrey, England.
+Swofford, D. (2002). PAUP 4.0 b10: Phylogenetic analysis using parsimony (and other methods). Computer program. Sinauer Associates.
+Sun-Tao, G., Liu, Z.Y., Liu, F., et al. (2013). Endophytic Colletotrichum species from Bletilla ochracea (Orchidaceae), with descriptions of seven new species. Fungal Diversity, 61, 139–164.
+Tashiro, N., Manabe, K., Ide, Y. (2012). Emergence and frequency of highly benzimidazole-resistant Colletotrichum gloeosporioides, pathogen of Japanese pear anthracnose, after discontinued use of benzimidazole. Journal of General Plant Pathology, 78, 221–226.
+Than, P.P., Jeewon, R., Hyde, K.D., et al. (2008). Characterization and pathogenicity of Colletotrichum species associated with anthracnose on chili (Capsicum spp.) in Thailand. Plant Pathology, 57, 562–572.
+Vavilov, N.I. (1951). The origin, variation, immunity, and breeding of cultivated plants. Soil Science, 72, 482.
+Vieira, W.A.S., Michereff, S.J., De Morais, M.A., et al. (2014). Endophytic species.
+Von Arx, J.A. 1957. Die Arten der Gattung Colletotrichum Cda. Phytopathologische Zeitschrift 29: 413–468.
+Wang, Y.C., Hao, X.Y., Wang, L., et al. 2016. Diverse Colletotrichum species cause anthracnose of tea plants (Camellia sinensis (L.) O. Kuntze) in China. Scientific Reports 6: 35287.
+Weir, B.S., Johnston, P.R., Damm, U. 2012. The Colletotrichum gloeosporioides species complex. Studies in Mycology 73: 115–180.
+White, T.J., Bruns, T., Lee, S., et al. 1990. Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In: Innis, M.A., Gelfand, D.H., Sninsky, J.J., et al. (eds), PCR Protocols: A Guide to Methods and Applications: 315–322. Academic Press, San Diego, California.
+Wikee, S., Cai, L., Pairin, N., et al. 2011. Colletotrichum species from Jasmine (Jasminum sambac). Fungal Diversity 46: 171–182.
+Wu, J., Wang, Z.W., Shi, Z.B., et al. 2013. The genome of the pear (Pyrus bret-schneideri Rehd.). Genome Research 23: 396–408.
+Wu, L.Q., Zhu, L.W., Heng, W., et al. 2010. Identification of Dangshan pear anthracnose pathogen and screening fungicides against it. Scientia Agricultura Sinica 43: 3750–3758.
+Yan, J.Y., Jayawardena, M.M.R.S., Goonasekara, I.D., et al. 2015. Diverse species of Colletotrichum associated with grapevine anthracnose in China. Fungal Diversity 71: 233–246.
+Yang, Y.L., Cai, L., Yu, Z.N., et al. 2011. Colletotrichum species on Orchidaceae in southwest China. Cryptogamie Mycologie 32: 229–253.
+Yang, Y.L., Liu, Z.Y., Cai, L., et al. 2009. Colletotrichum anthracnose of Amaryllidaceae. Fungal Diversity 39: 123–146.
+Yano, K., Ishii, H., Fukaya, M., et al. 2004. Anthracnose on Japanese pear caused by intermediate benzimidazole-resistant strains of Colletotrichum gloeosporioides (Glomerella cingulata). Japanese Journal of Phytopathology 70: 314–319.
+Zeven, A.C., Zhukovsky, P.M. 1975. Dictionary of Cultivated Plants and Their Centers of Diversity: 62–63. Center for Agricultural Publishing and Documentation, Wageningen, The Netherlands.
+Zhang, P.F., Zhai, L.F., Zhang, X.K., et al. 2015. Characterization of Colletotrichum fructicola, a new causal agent of leaf black spot disease of sandy pear (Pyrus pyrifolia). European Journal of Plant Pathology 143: 651–662.
+Zhao, D.Y., Xu, K., Yuan, J.C., et al. 2016. Analysis on the current situation of production and sales of the world's main countries of origin and its development. China Fruits 2: 94–100.
+Zhu, Y.Z., Liao, W.J., Zou, D.X., et al. 2015. First report of leaf spot disease on walnut caused by Colletotrichum fioriniae in China. Plant Disease 99: 289.
+This revised context improves readability and corrects typographical errors. If you have more content or need further adjustments, feel free to share!

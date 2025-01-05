@@ -1,0 +1,41 @@
+Adaskaveg, J. E., and Hartin, R. J. (1997). Characterization of Colletotrichum acutatum isolates causing anthracnose of almond and peach in California. Phytopathology, 87, 979-987.
+J. Z., Yang, Y. L., Phoulivong, S., and Liu, Z. Y. (2009). A polyphasic approach for studying Colletotrichum. Fungal Divers., 39, 183-204.
+Cannon, P. F., Buddie, A. G., and Bridge, P. D. (2008). The typification of Colletotrichum gloeosporioides. Mycotaxon, 104, 189-204.
+Cannon, P. F., Damm, U., Johnston, P. R., and Weir, B. S. (2012). Colletotrichum: Current status and future directions. Stud. Mycol., 73, 181-213.
+Damm, U., Cannon, P. F., Woudenberg, J. H. C., and Crous, P. W. (2012a). The Colletotrichum acutatum species complex. Stud. Mycol., 73, 37-113.
+Damm, U., Cannon, P. F., Woudenberg, J. H. C., Johnston, P. R., Weir, B. S., Tan, Y. P., Shivas, R. G., and Crous, P. W. (2012b). The Colletotrichum boninense species complex. Stud. Mycol., 73, 1-36.
+Denoyes, B., and Baudry, A. (1995). Species identification and pathogenicity study of French Colletotrichum strains isolated from strawberry using morphological and cultural characteristics. Phytopathology, 85, 53-57.
+Felsenstein, J. (1985). Confidence limits on phylogenies: An approach using the bootstrap. Evolution, 39, 783-791.
+Freeman, S., Shalev, Z., and Katan, J. (2002). Survival in soil of Colletotrichum acutatum and C. gloeosporioides pathogens on strawberry. Plant Dis., 86, 965-970.
+Gamagae, S. U., Sivakumar, D., Wijeratnam, R. S. W., and Wijesundera, R. L. C. (2003). Use of sodium bicarbonate and Candida oleophila to control anthracnose in papaya during storage. Crop Prot., 22, 775-779.
+Grabke, A., Williamson, M., Henderson, G. W., and Schnabel, G. (2014). First report of anthracnose on peach fruit caused by Colletotrichum truncatum in South Carolina. Plant Dis., 98, 1154.
+Hartung, J. S., Burton, C. L., and Ramsdell, D. C. (1981). Epidemiological studies of blueberry anthracnose disease caused by Colletotrichum gloeosporioides. Phytopathology, 71, 449-453.
+Hu, M. J., Grabke, A., Dowling, M. E., Holstein, H. J., and Schnabel, G. (2015). Resistance in Colletotrichum siamense from peach and blueberry to thiophanate-methyl and azoxystrobin. Plant Dis., 99, 806-814.
+Hyde, K. D., Cai, L., Cannon, P. F., Crouch, J. A., Crous, P. W., Damm, U., Goodwin, P. H., Chen, H., Johnston, P. R., Jones, E. B. G., Liu, Z. Y., McKenzie, E. H. C., Moriwaki, J., Noireung, P., Pennycook, S. R., Pfenning, L. H., Prihastuti, H., Sato, T., Shivas, R. G., Tan, Y. P., Taylor, P. W. J., Weir, B. S., Yang, Y. L., and Zhang, J. Z. (2009a). Colletotrichum names in current use. Fungal Divers., 39, 147-183.
+Hyde, K. D., Cai, L., McKenzie, E. H. C., Yang, Y. L., Zhang, J. Z., and Prihastuti, H. (2009b). Colletotrichum: A catalogue of confusion. Fungal Divers., 39, 1-17.
+Kim, W. G., and Hong, S. K. (2008). Occurrence of anthracnose on peach tree caused by Colletotrichum species. Plant Pathol. J., 24, 80-83.
+Larkin, M. A., Blackshields, G., Brown, N. P., Chenna, R., McGettigan, P. A., McWilliam, H., Valentin, F., Wallace, I. M., Wilm, A., Lopez, R., Thompson, J. D., Gibson, T. J., and Higgins, D. G. (2007). Clustal W and Clustal X version 2.0. Bioinformatics, 23, 2947-2948.
+Liyanage, H. D., McMillan, R. T., and Kistler, H. C. (1992). Two genetically distinct populations of Colletotrichum gloeosporioides from citrus. Phytopathology, 82.
+Moriwaki, J., Sato, T., and Tsukiboshi, T. (2003). Morphological and molecular characterization of Colletotrichum boninense sp. nov. from Japan. Mycoscience, 44, 47-53.
+O'Donnell, K., and Cigelnik, E. (1997). Two divergent intragenomic rDNA ITS2 types within a monophyletic lineage of the fungus Fusarium are nonorthologous. Mol. Phylogenet. Evol., 7, 103-116.
+Ogawa, J. M., and English, H. (1991). Diseases of Temperate Zone Tree Fruit and Nut Crops. Publ. 3345. University of California, Oakland, CA. Ogawa, J. M., Zehr, E. I., Bird, G. W., Ritchie, D. F., Uriu, K., and Uyemoto, J. K., eds. (1995). Compendium of Stone Fruit Diseases. The American Phytopathological Society, St. Paul, MN.
+Penzig, A. (1882). Fungi agrumicoli. Contributo allo studio dei funghi parassiti degli agrumi. Michelia, 2, 385-508.
+Prihastuti, H., Cai, L., Chen, H., McKenzie, E. H. C., and Hyde, K. D. (2009). Characterization of Colletotrichum species associated with coffee berries in northern Thailand. Fungal Diversity, 39, 89-109.
+Ramsey, G. B., Smith, M. A., and Heiberg, B. C. (1951). Anthracnose of peaches. Phytopathology, 41, 447-455.
+Rojas, E. I., Rehner, S. A., Samuels, G. J., Van Bael, S. A., Herre, E. A., Cannon, P., Chen, R., Pang, J. F., Wang, R. W., Zhang, Y. P., Peng, Y. Q., and Sha, T. (2010). Colletotrichum gloeosporioides s.l. associated with Theobroma cacao and other plants in Panama: multilocus phylogenies distinguish host-associated pathogens from asymptomatic endophytes. Mycologia, 102, 1318-1338.
+Schnabel, G., Chai, W., and Cox, K. D. (2006). Identifying and characterizing summer diseases on Baby Gold peach in South Carolina. Plant Health Progress, 10.1094/PHP-2006-0301-01.
+Shi, Y., Correll, J. C., Guerber, J. C., and Rom, C. R. (1996). Frequency of Colletotrichum species causing bitter rot of apple in the southeastern United States. Plant Disease, 80, 692-696.
+Simmonds, J. H. (1965). A study of the species of Colletotrichum causing ripe fruit rots in Queensland. Queensland Journal of Agricultural and Animal Sciences, 22, 437-459.
+Smith, B. J., and Black, L. L. (1990). Morphological, cultural, and pathogenic variation among Colletotrichum species isolated from strawberry. Plant Disease, 74, 69-76.
+Smith, B. J., Magee, J. B., and Gupton, C. L. (1996). Susceptibility of rabbiteye blueberry cultivars to postharvest diseases. Plant Disease, 80, 215-218.
+Stanley, F., Talma, K., and Ezra, S. (1996). Characterization of Colletotrichum gloeosporioides isolates from avocado and almond fruits with molecular and pathogenicity tests. Applied and Environmental Microbiology, 62, 1014-1020.
+Sutton, B. C. (1992). The genus Glomerella and its anamorph Colletotrichum. In: Colletotrichum: Biology, Pathology and Control (pp. 1-26). CAB International.
+Tamura, K., Stecher, G., Peterson, D., Filipski, A., and Kumar, S. (2013). MEGA6: Molecular Evolutionary Genetics Analysis version 6.0. Molecular Biology and Evolution, 30, 2725-2729.
+Templeton, M. D., Rikkerink, E. H. A., Solon, S. L., and Crowhurst, R. N. (1992). Cloning and molecular characterization of the glyceraldehyde-3-phosphate dehydrogenase-encoding gene and cDNA from the plant pathogenic fungus Glomerella cingulata. Gene, 122, 225-230.
+Thompson, J. D., Gibson, T. J., Plewniak, F., Jeanmougin, F., and Higgins, D. G. (1997). The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools. Nucleic Acids Research, 25, 4876-4882.
+von Arx, J. A. (1957). Die Arten der Gattung Colletotrichum Cda. Phytopathologische Zeitschrift.
+von Arx, J. A. (1970). A revision of the fungi classified as Gloeosporium. Bibliotheca Mycologica, 24, 1-203.
+Weir, B. S., Johnston, P. R., and Damm, U. (2012). The Colletotrichum gloeosporioides species complex. Studies in Mycology, 73, 115-180.
+Yang, Y. L., Liu, Z. Y., Cai, L., Hyde, K. D., Yu, Z. N., and McKenzie, E. H. C. (2009). Colletotrichum anthracnose of Amaryllidaceae. Fungal Diversity, 39, 123-149.
+Zehr, E. I., Toler, J. E., and Luszcz, L. A. (1991). Spread and persistence of benomyl-resistant Monilinia fructicola in South Carolina peach orchards.
+Zhu, F., Bryson, P. K., and Schnabel, G. (2012). Influence of storage approaches on instability of propiconazole resistance in Monilinia fructicola. Pest Management Science, 68, 1003-1009.

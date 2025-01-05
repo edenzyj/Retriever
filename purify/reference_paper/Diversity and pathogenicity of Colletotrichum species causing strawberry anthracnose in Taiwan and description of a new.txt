@@ -1,0 +1,70 @@
+FAOSTAT. Food and Agriculture Organization Statistical Database. Groundnut production and export data. https://www.fao.org/faostat/en/#data/QC (Accessed 20 April 2020). (2020).
+Howard, C. M., Maas, J. L., Chandler, C. K., & Albregts, E. E. Anthracnose of strawberry caused by the Colletotrichum complex in Florida. Plant Disease 76, 976-981 (1992).
+Penet, L., Guyader, S., Petro, D., Salles, M., & Busslere, F. Direct splash dispersal prevails over indirect and subsequent spread during rains in Colletotrichum gloeosporioides infecting yams. PLoS ONE 9, e115757 (2014).
+Perfect, S. E., Hughes, H. B., O'Connell, R. J., & Green, J. R. Colletotrichum: a model genus for studies on pathology and fungal-plant interactions. Fungal Genetics and Biology 27, 186-198 (1999).
+Chung, P. C., Wu, H. Y., Ariyawansa, H. A., Tzean, S. S., & Chung, C. L. First report of anthracnose crown rot of strawberry caused by Colletotrichum siamense in Taiwan. Plant Disease 103, 1775-1776 (2019).
+Gunnell, P. S., & Gubler, W. D. Taxonomy and morphology of Colletotrichum species pathogenic to strawberry. Mycologia 84, 157-165 (1992).
+Cannon, P. F., Damm, U., Johnston, P. R., & Weir, B. S. Colletotrichum: current status and future directions. Studies in Mycology 73, 181-213 (2012).
+Freeman, S., & Katan, T. Identification of Colletotrichum species responsible for anthracnose and root necrosis of strawberry in Israel. Phytopathology 87, 516-521 (1997).
+Cai, L. et al. A polyphasic approach for studying Colletotrichum. Fungal Diversity 39, 183-204 (2009).
+Hyde, K. D. et al. Colletotrichum: a catalogue of confusion. Fungal Diversity 39, 1-17 (2009).
+Vieira, W. A. S. et al. The impact of phenotypic and molecular data on the inference of Colletotrichum diversity associated with Musa. Mycologia 109, 912-934 (2017).
+Damm, U., Cannon, P. F., Woudenberg, J. H. C., & Crous, P. W. The Colletotrichum acutatum species complex. Studies in Mycology 73, 37-113 (2012).
+Weir, B. S., Johnston, P. R., & Damm, U. The Colletotrichum gloeosporioides species complex. Studies in Mycology 73, 115-180 (2012).
+Baroncelli, R. et al. Molecular diversity of anthracnose pathogen populations associated with UK strawberry production suggests multiple introductions of three different Colletotrichum species. PLoS ONE 10, e0129140 (2015).
+Bi, Y., Guo, W., Zhang, G. J., Liu, S. C., & Yang, B. D. First report of Colletotrichum boninense causing anthracnose of strawberry in China. Plant Disease 101, 250-251 (2017).
+Han, Y. C. et al. Distribution and characteristics of Colletotrichum spp. associated with anthracnose of strawberry in Hubei, China. Plant Disease 100, 996-1006 (2016).
+Jayawardena, R. S. et al. An account of Colletotrichum species associated with strawberry anthracnose in China based on morphology and molecular data. Mycosphere 7, 1147-1163 (2016).
+Chen, X. Y. et al. Genetic diversity of Colletotrichum spp. causing strawberry anthracnose in Zhejiang, China. Plant Disease 104, 1351-1357 (2020).
+Tzean, S. S. et al. List of Plant Diseases in Taiwan, 5th edn, 140-141 (Taiwan Phytopathological Society Press, Taiwan, 2019).
+Fu, M. et al. Colletotrichum species associated with anthracnose of Pyrus spp. in China. Persoonia 42, 1-35 (2019).
+Damm, U. et al. The Colletotrichum boninense species complex. Studies in Mycology 73, 1-36 (2012).
+Porta-Puglia, A., & Mifsud, D. (2006). First record of Colletotrichum acutatum on strawberry in Malta. Journal of Plant Pathology, 88, 228.
+Adhikari, T. B., Chacon, J. G., Fernandez, G. E., & Louws, F. J. (2019). First report of anthracnose causing both crown and fruit rot of strawberry by Colletotrichum siamense in North Carolina. Plant Disease, 103, 1775.
+Gan, P., Nakata, N., Suzuki, T., & Shirasu, K. (2017). Markers to differentiate species of anthracnose fungi identify Colletotrichum fructicola as the predominant virulent species in strawberry plants in Chiba Prefecture of Japan. Journal of General Plant Pathology, 83, 14-22.
+Nam, M. H., Kim, T. I., Gleason, M. L., Song, J. Y., & Kim, H. G. (2008). First report of anthracnose fruit rot caused by Colletotrichum acutatum on strawberry in Korea. Plant Disease, 92, 1247.
+Latinovic, J., Latinovic, N., Tiodorovic, J., & Odalovic, A. (2012). First report of anthracnose fruit rot of strawberry caused by Colletotrichum acutatum in Montenegro. Plant Disease, 96, 1066.
+Polizzi, G., et al. (2011). First report of damping-off on strawberry tree caused by Colletotrichum acutatum and C. simmondsii in Italy. Plant Disease, 95, 1588-1589.
+Bobev, S. G., Zveibil, A., & Freeman, S. (2002). First report of Colletotrichum acutatum on strawberry in Bulgaria. Plant Disease, 86, 1178.
+Novotny, D., Krizkova, I., & Salava, J. (2007). First report of anthracnose caused by Colletotrichum acutatum on strawberry in the Czech Republic. Plant Disease, 91, 1516.
+Hirayama, Y., Asano, S., Okayama, K., Ohki, S. T., & Tojo, M. (2018). Weeds as the potential inoculum source of Colletotrichum fructicola responsible for strawberry anthracnose in Nara, Japan. Journal of General Plant Pathology, 84, 12-19.
+Diao, Y. Z., et al. (2017). Colletotrichum species causing anthracnose disease of chili in China. Persoonia, 38, 20-37.
+Guarnaccia, V., Groenewald, J. Z., Polizzi, G., & Crous, P. W. (2017). High species diversity in Colletotrichum associated with citrus diseases in Europe. Persoonia, 39, 32-50.
+Peres, N. A., Timmer, L. W., Adaskaveg, J. E., & Correll, J. C. (2005). Lifestyles of Colletotrichum acutatum. Plant Disease, 89, 784-796.
+Ranathunge, N. P., Mongkolporn, O., Ford, R., & Taylor, P. W. J. (2012). The Colletotrichum truncatum pathosystem on Capsicum spp: infection, colonization, and defense mechanisms. Australasian Plant Pathology, 41, 463-473.
+Sm Auyong, A. (2016). The role of cutinase and its impact on the pathogenicity of Colletotrichum truncatum. Journal of Plant Pathology and Microbiology, 6.
+Wang, Y. X., Chen, J. Y., Li, D. W., Zheng, L., & Huang, J. B. (2017). The CglCUT1 gene required for cutinase activity and pathogenicity of Colletotrichum gloeosporioides causing anthracnose of Camellia oleifera. European Journal of Plant Pathology, 147, 103-114.
+Silva, D. N., et al. (2012). Application of the Apn2/MAT locus to improve the systematics of the Colletotrichum gloeosporioides complex: an example from coffee (Coffea spp.). Mycologia, 104, 396-409.
+Yang, Y. L., et al. (2009). Colletotrichum anthracnose of Amaryllidaceae. Fungal Diversity, 39, 123-146.
+Hu, M. J., Grabke, A., & Schnabel, G. (2015). Investigation of the Colletotrichum gloeosporioides species complex causing peach anthracnose in South Carolina. Plant Disease, 99, 797-805.
+Li, Q., et al. (2019). Colletotrichum species associated with mango in southern China. Scientific Reports, 9, 18891.
+Velásquez, A. C., Castroverde, C. D. M., & He, S. Y. (2018). Plant pathogen warfare under changing climate conditions. Current Biology, 28, 619-634.
+Bebber, D. P., Ramotowski, M. A. T., & Gurr, S. J. (2013). Crop pests and pathogens move polewards in a warming world. Nature Climate Change, 3, 985-988.
+Duan, C. H., Pan, H. R., & Wang, C. C. (2018). Identification, pathogenicity, and fungicide sensitivity of Colletotrichum isolates from five fruit crops in Taiwan. Taiwan Pesticide Science, 5, 91-111.
+Duan, C. H., Pan, H. R., & Wang, C. C. (2018). Identification, pathogenicity, and fungicide sensitivity of Colletotrichum isolates from five fruit crops in Taiwan. Taiwan Pesticide Science, 5, 91-111.
+Ni, H. F. et al. First report of pepper spot disease of lychee caused by Colletotrichum siamense in Taiwan. J. Plant Pathol. 99, 808–808 (2017).
+Wu, C. J., Chen, H. K. & Ni, H. F. Identification and characterization of Colletotrichum species associated with mango anthracnose in Taiwan. Eur. J. Plant Pathol. 157, 1–15 (2020).
+Lin, Y. H. Identification of antagonistic microorganisms against anthracnose on tea and passion fruit and their potential application in disease control (National Chung Hsing University, Taichung City, 2015).
+Lin, C. P., Ann, P. J., Huang, H. C., Chang, J. T. & Tsai, J. N. Anthracnose of pitaya (Hylocereus spp.) caused by Colletotrichum spp., a new postharvest disease in Taiwan. J. Taiwan Agric. Res. 66, 171–183 (2017).
+Freeman, S., Horowitz, S. & Sharon, A. Pathogenic and non-pathogenic lifestyles in Colletotrichum acutatum from strawberry and other plants. Phytopathology 91, 986–992 (2001).
+Forcelini, B. B. & Peres, N. A. Widespread resistance to QoI fungicides in Colletotrichum acutatum from strawberry nurseries and production fields. Plant Health Prog. 19, 338–341 (2018).
+Xie, L., Zhang, J. Z., Wan, Y. & Hu, D. W. Identification of Colletotrichum spp. isolated from strawberry in Zhejiang Province and Shanghai City, China. J. Zhejiang Univ. Sci. B 11, 61–70 (2010).
+Mori, T. Effects of temperature as the selection pressure for resistance to anthracnose crown rot (Glomerella cingulata Spaulding et Schrenk) of young strawberry seedlings. J. Jpn. Soc. Hortic. Sci. 67, 934–938 (1998).
+Smith, B. J. & Black, L. L. Resistance of strawberry plants to Colletotrichum fragariae affected by environmental conditions. Plant Dis. 71, 834–837 (1987).
+Crous, P., Stalpers, J. & Robert, V. MycoBank: an online initiative to launch mycology into the 21st century. Stud. Mycol. 50, 19–22 (2004).
+Katoh, K. & Standley, D. M. MAFFT multiple sequence alignment software version 7: improvements in performance and usability. Mol. Biol. Evol. 30, 772–780 (2013).
+Kumar, S., Stecher, G., Li, M., Knyaz, C. & Tamura, K. MEGA X: molecular evolutionary genetics analysis across computing platforms. Mol. Biol. Evol. 35, 1547–1549 (2018).
+Nylander, J. MrModeltest V2. Program distributed by the author. 24 (2004).
+Swofford, D. L. PAUP. Phylogenetic Analysis Using Parsimony (and Other Methods). Version 4.0b10. (2002).
+Ronquist, F. & Huelsenbeck, J. P. MrBayes 3: Bayesian phylogenetic inference under mixed models. Bioinformatics 19, 1572–1574 (2003).
+Rambaut, A., Drummond, A. J., Xie, D., Baele, G. & Suchard, M. A. Posterior summarization in Bayesian phylogenetics using Tracer 1.7. Syst. Biol. 67, 901–904 (2018).
+Stamatakis, A. RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies. Bioinformatics 30(9), 1312–1313 (2014).
+Dettman, J. R., Jacobson, D. J. & Taylor, J. W. A multilocus genealogical approach to phylogenetic species recognition in the model eukaryote Neurospora. Evolution 57, 2703–2720 (2003).
+Taylor, J. W. et al. Phylogenetic species recognition and species concepts in fungi. Fungal Genet. Biol. 31, 21–32 (2000).
+Su, Y.-Y., Qi, Y.-L. & Cai, L. Induction of sporulation in plant pathogenic fungi. Mycology 3, 195–200 (2012).
+Rueden, C. T. et al. ImageJ2: ImageJ for the next generation of scientific image data. BMC Bioinform. 18, 529 (2017).
+We acknowledge Dr. Dai-Rong Wu for sharing plant materials. We thank Ms. Feng-Ching Tu, Shih-Jhu Jiang, and Mr. Ji-Feng Li (Miaoli District Agricultural Research and Extension Station, Taiwan) for help in the inoculation trials. This research was funded by the Ministry of Science and Technology, Taiwan (grant no. 108-2321-B-002-023).
+P.C.C., H.Y.W., T.H.H., S.S.T., and C.L.C. designed the experiments, analyzed the data, and drafted the manuscript. P.C.C., H.Y.W., Y.W.W., and H.P.H. performed the experiments. P.C.C., H.Y.W., and H.A.A. conducted phylogenetic analyses. All authors read and approved the final manuscript. The authors declare no competing interests.
+Additional Information: Supplementary information is available for this paper at https://doi.org/10.1038/s41598-020-70878-2. Correspondence and requests for materials should be addressed to T.-H.H., S.-S.T., or C.-L.C. Reprints and permissions information is available at www.nature.com/reprints.
+Publisher's Note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Open Access: This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution, and reproduction in any medium or format, as long as appropriate credit is given to the original authors and the source, a link to the Creative Commons license is provided, and any changes made are indicated. The images or other third-party material in this article are included in the article's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.

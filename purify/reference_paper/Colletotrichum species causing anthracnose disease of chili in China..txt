@@ -1,0 +1,57 @@
+Bailey, J.A., & Jeger, M.J. (1992). Colletotrichum: biology, pathology, and control. Tropical Plant Pathology, 40, 265–274.
+Acknowledgements: This work was supported by the Special Fund for Agro-scientific Research in the Public Interest of China (No. 201303023) and was partially supported by the National High Technology Research and Development Program of China (2012CB111401).
+Cai, L., Hyde, K.D., Taylor, P.W.J., et al. (2009). A polyphasic approach for studying Colletotrichum. Fungal Diversity, 39, 183–204.
+Cai, L., Jeewon, R., & Hyde, K.D. (2006). Phylogenetic investigations of Sordariaceae based on multiple gene sequences and morphology. Mycological Research, 110, 137–150.
+Carbone, I., & Kohn, L.M. (1999). A method for designing primer sets for speciation studies in filamentous ascomycetes. Mycologia, 91, 553–556.
+Diao, Y.-Z., et al. (2014). Colletotrichum causing anthracnose disease.
+Chai, A.L., Zhao, Y.J., Shi, Y.X., et al. (2014). Identification of Colletotrichum capsici (Syd.) Butler causing anthracnose on pumpkin in China. Canadian Journal of Plant Pathology, 36, 121–124.
+Cheng, B.P., Huang, Y.H., Peng, A.T., et al. (2014). First report of leaf and fruit spot of Citrus reticulata Blanco cv. Nian Ju caused by Colletotrichum truncatum in China. Plant Disease, 98, 422.
+Crouch, J.A. (2014). Colletotrichum caudatum s.l. is a species complex.
+Crous, P.W., Gams, W., Stalpers, J.A., et al. (2004a). MycoBank: an online initiative to launch mycology into the 21st century. Studies in Mycology, 50, 19–22.
+Crous, P.W., Groenewald, J.Z., Risède, J.M., et al. (2004b). Calonectria species and their Cylindrocladium anamorphs: species with sphaeropedunculate vesicles. Studies in Mycology, 50, 415–430.
+Damm, U., Cannon, P.F., Liu, F., et al. (2013). The Colletotrichum orbiculare species complex: important pathogens of field crops and weeds. Fungal Diversity, 61, 29–59.
+Damm, U., Cannon, P.F., Woudenberg, J.H.C., et al. (2012a). The Colletotrichum acutatum species complex. Studies in Mycology, 73, 37–113.
+Damm, U., Cannon, P.F., Woudenberg, J.H.C., et al. (2012b). The Colletotrichum boninense species complex. Studies in Mycology, 73, 1–36.
+Damm, U., O’Connell, R.J., Groenewald, J.Z., et al. (2014). The Colletotrichum destructivum species complex – hemibiotrophic pathogens of forage and field crops. Studies in Mycology, 79, 49–84.
+Damm, U., Woudenberg, J.H.C., Cannon, P.F., et al. (2009). Colletotrichum species with curved conidia from herbaceous hosts. Fungal Diversity, 39, 45–87.
+Dean, R., Van Kan, J.A., Pretorius, Z.A., et al. (2012). The Top 10 fungal pathogens in molecular plant pathology. Molecular Plant Pathology, 13, 414–430.
+Diao, Y.Z., Zhang, C., Lin, D., et al. (2014). First report of Colletotrichum truncatum causing anthracnose of tomato in China. Plant Disease, 98, 687.
+Diao, Y.Z., Zhang, C., Xu, J.P., et al. (2015). Genetic differentiation and recombination among geographic populations of the fungal pathogen Colletotrichum truncatum from chili peppers in China. Evolutionary Applications, 8, 108–118.
+Farr, D.F., & Rossman, A.Y. (2016). Fungal Databases, Systematic Mycology and Microbiology Laboratory, ARS, USDA. Retrieved February 6, 2016, from http://nt.ars-grin.gov/fungaldatabases/.
+Glass, N.L., & Donaldson, G.C. (1995). Development of primer sets designed for use with PCR to amplify conserved genes from filamentous ascomycetes. Applied and Environmental Microbiology, 61, 1323–1330.
+Guo, L.W., Wu, Y.X., Ho, H.H., et al. (2014). First report of dragon fruit (Hylocereus undatus) anthracnose caused by Colletotrichum truncatum in China. Journal of Phytopathology, 162, 272–275.
+Huson, D.H. (1998). SplitsTree: analyzing and visualizing evolutionary data. Bioinformatics, 14, 68–73.
+Huson, D.H., & Bryant, D. (2006). Application of phylogenetic networks in evolutionary studies. Molecular Biology and Evolution, 23, 254–267.
+Kanto, T., Uematsu, S., Tsukamoto, T., et al. (2014). Anthracnose of sweet pepper caused by Colletotrichum scovillei in Japan. Journal of General Plant Pathology, 80, 73–78.
+Kim JT, Park SY, Choi W, et al. (2008). Characterization of Colletotrichum isolates causing anthracnose of pepper in Korea. The Plant Pathology Journal, 24: 17–23.
+Kohli Y, Brunner LJ, Yoell H, et al. (1995). Clonal dispersal and spatial mixing in populations of the plant pathogenic fungus, Sclerotinia sclerotiorum. Molecular Ecology, 4: 69–77.
+Li Q, Han YZ, Zhang GC (2009). Status and development trends of the hot pepper industry at home and abroad. Hubei Agricultural Science, 9: 2278–2281.
+Liao CY, Chen MY, Chen YK, et al. (2012). Characterization of three Colletotrichum acutatum isolates from Capsicum spp. European Journal of Plant Pathology, 133: 599–608.
+Lin Q, Lv Z, Huang R, et al. (2004). Screening of pepper germplasm for resistance to TMV, CMV, Phytophthora blight, and anthracnose. Southwest China Journal of Agricultural Sciences, 18: 108–110.
+Liu F, Damm U, Cai L, et al. (2013). Species of the Colletotrichum gloeosporioides complex associated with anthracnose diseases of Proteaceae. Fungal Diversity, 61: 89–105.
+Liu JK, Phookamsak R, Doilom M, et al. (2012). Towards a natural classification of Botryosphaeriales. Fungal Diversity, 57: 149–210.
+Manamgoda DS, Udayanga D, Cai L, et al. (2013). Endophytic Colletotrichum from tropical grasses with a new species, C. endophytica. Fungal Diversity, 61: 107–115.
+Mongkolporn O, Montri P, Supakaew T, et al. (2010). Differential reactions on mature green and ripe chili fruit infected by three Colletotrichum species. Plant Disease, 94: 306–310.
+Montri P, Taylor PWJ, Mongkolporn O (2009). Pathotypes of Colletotrichum capsici, the causal agent of chili anthracnose, in Thailand. Plant Disease, 93: 17–20.
+Murray MG, Thompson WF (1980). Rapid isolation of high molecular weight plant DNA. Nucleic Acids Research, 8: 4321–4326.
+Noireung P, Phoulivong S, Liu F, et al. (2012). Novel species of Colletotrichum revealed by morphology and molecular analysis. Cryptogamie Mycologie, 33: 347–362.
+Nylander JAA (2004). MrModelTest v2. Program distributed by the author. Evolutionary Biology Centre, Uppsala University.
+O’Donnell K, Cigelnik E (1997). Two divergent intragenomic rDNA ITS2 types within a monophyletic lineage of the fungus Fusarium are nonorthologous. Molecular Phylogenetics and Evolution, 7: 103–116.
+O’Donnell K, Nirenberg HI, Aoki T, et al. (2000). A multigene phylogeny of the Gibberella fujikuroi species complex: Detection of additional phylogenetically distinct species. Mycoscience, 41: 61–78.
+Perfect SE, Hughes HB, O’Connell RJ, et al. (1999). Colletotrichum: A model genus for studies on pathology and fungal–plant interactions. Fungal Genetics and Biology, 27: 186–198.
+Phoulivong S, Cai L, Chen H, et al. (2010). Colletotrichum gloeosporioides is not a common pathogen on tropical fruits. Fungal Diversity, 44: 33–43.
+Poonpolgul S, Kumphai S (2007). Chili pepper anthracnose in Thailand. In: The First International Symposium on Chili Anthracnose, 23. Convention Center, Seoul National University, Korea.
+Prihastuti H, Cai L, Chen H, et al. (2009). Characterization of Colletotrichum species associated with coffee berries in northern Thailand. Fungal Diversity, 39: 89–109.
+Quaedvlieg W, Binder M, Groenewald JZ, et al. (2014). Introducing the Consolidated Species Concept to resolve species in the Teratosphaeriaceae. Persoonia, 33: 1–40.
+Rojas EI, Rehner SA, Samuels GJ, et al. (2010). Colletotrichum gloeosporioides s.l. associated with Theobroma cacao and other plants in Panama: multilocus phylogenies distinguish host-associated pathogens from asymptomatic endophytes. Mycologia, 102: 1318–1338.
+Ronquist F, Huelsenbeck JP (2003). MrBayes 3: Bayesian phylogenetic inference under mixed models. Bioinformatics, 19: 1572–1574.
+Sharma G, Kumar PA, Damodara SB (2014). Intra-specific diversity of Colletotrichum.
+Sharma, G., & Shenoy, B.D. (2014). Colletotrichum fructicola and C. siamense are involved in chili anthracnose in India. Archives of Phytopathology and Plant Protection, 47, 1179–1194.
+Shin, H., Xu, T., Zhang, C., et al. (1999). A comparative study of Capsicum anthracnose pathogens from Korea and China. Journal of Zhejiang University (Agriculture and Life Sciences), 26, 629–634.
+Simmonds, J.H. (1965). A study of the species of Colletotrichum causing ripe fruit rots in Queensland. Queensland Journal of Agricultural and Animal Science, 22, 437–459.
+Swofford, D. (2002). PAUP 4.0 b10: Phylogenetic analysis using parsimony (and other methods). Computer program. Sinauer Associates, Sunderland, MA, USA.
+Templeton, M.D., Rikkerink, E.H.A., Solon, S.L., et al. (1992). Cloning and molecular characterization of the glyceraldehyde-3-phosphate dehydrogenase-encoding gene and cDNA from the plant pathogenic fungus Glomerella cingulata. Gene, 122, 225–230.
+Than, P.P., Prihastuti, H., Phoulivong, S., et al. (2008). Chilli anthracnose disease caused by Colletotrichum species. Journal of Zhejiang University Science B, 9, 764–778.
+Weir, B.S., Johnston, P.R., & Damm, U. (2012). The Colletotrichum gloeosporioides species complex. Studies in Mycology, 73, 115–180.
+White, T.J., Bruns, T., Lee, J., et al. (1990). Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In Innis, M.A., Gelfand, D.H., Sninsky, J.J., et al. (Eds.), PCR protocols: A guide to methods and applications (pp. 315–322). Academic Press, San Diego, California, USA.
+Yan, J.Y., Jayawardena, M., Goonasekara, I.D., et al. (2015). Diverse species of Colletotrichum associated with grapevine anthracnose in China. Fungal Diversity, 71, 233–246.

@@ -1,0 +1,33 @@
+Agostini, J. P., Gottwald, T. R., and Timmer, L. W. 1993. Temporal and spatial dynamics of postbloom fruit drop of citrus in Florida. Phytopathology 83:485-490.
+Ahimera, N., Gisler, S., Morgan, D. P., and Michailides, T. J. 2004. Effects of single-drop impactions and natural and simulated rains on the dispersal of Botryosphaeria dothidea conidia. Phytopathology 94:1189-1197.
+Arauz, L. F. 2000. Mango anthracnose: Economic impact and current options for integrated management. Plant Dis. 84:600-611.
+Avelino, J., Willocquet, L., and Savary, S. 2004. Effects of crop management patterns on coffee rust epidemics. Plant Pathol. 53:541-547.
+Berry, D., and Cilas, C. 1994. Etude génétique de la réaction à la pourriture brune des cabosses chez des cacaoyers (Theobroma cacao L) issus d’un plan de croisements diallèle. Agronomie 14:599-609.
+Bhatia, A., and Munkvold, G. P. 2002. Relationships of environmental and cultural factors with severity of gray leaf spots on maize. Plant Dis. 86:1127-1133.
+Bieysse, D., Bella Manga, D., Mouen Bedimo, J. A., Ndeumeni, J. P., Roussel, V., Fabre, J. V., and Berry, D. 2002. L’anthracnose des baies une menace potentielle pour la culture mondiale de l’Arabica. Plantations, Recherche, Développement. May 2002:145-152.
+Bouharmont, P. 1992. Sélection de la variété Java et son utilisation pour la régénération de la caféière arabica au Cameroun. Café Cacao Thé 36:247-262.
+Cilas, C., and Lecoustre, R. 1988. Étude spatiale de la production d’une cacaoyère suivant la méthode des variables régionalisées. Café Cacao Thé 32:299-308.
+Denham, T. G., and Waller, J. M. 1981. Some epidemiological aspects of post-bloom fruit drop disease (Colletotrichum gloeosporioides) in citrus. Ann. Appl. Biol. 98:65-77.
+Estrada, A. B., Dodd, J. C., and Jeffries, P. 1993. Effects of environment on the in vitro growth and development of Colletotrichum gloeosporioides isolates from the Philippines. Acta Hortic. 341:360-370.
+Fitzell, R. D. 1981. Effects of regular applications of benomyl on the population of Colletotrichum in mango leaves. Trans. Br. Mycol. Soc. 77:529-533.
+Fitzell, R. D., and Peak, C. M. 1984. The epidemiology of anthracnose disease of mango: inoculum sources, spore production, and dispersal. Ann. Appl. Biol. 104:53-59.
+Gibbs, J. N. 1969. Inoculum sources for coffee berry disease. Ann. Appl. Biol. 64:515-522.
+Griffiths, E., and Waller, J. M. 1971. Rainfall and cropping patterns in relation to coffee berry disease. Ann. Appl. Biol. 67:75-91.
+Gupta, A. K., and Pathak, V. N. 1990. Epidemiology and management of papaya fruit rots. Summa Phytopathol. 16:92-105.
+Guyot, J., Ntawanga Omanda, E., Ndoutoume, A., Mbah Otsaghe, A.-A., Enjalric, F., and Ngoua Assoumou, H.-G. 2001. Effect of controlling Colletotrichum leaf fall of the rubber tree on epidemic development and rubber production. Crop Prot. 20:581-590.
+Hillocks, R. J., Phiri, N. A., and Overfield, D. 1999. Coffee pest and disease management options for smallholders in Malawi. Crop Prot. 18:199-206.
+Madden, L. V., Hughes, G., and Irwin, M. E. 2000. Coupling disease-progress-curve and time-of-infection functions for predicting yield loss of crops. Phytopathology 90:788-800.
+Muller, R. A. 1980. Contribution à la connaissance de la phytomycocénose constituée par Coffea arabica, Hemileia vastatrix, et Hemileia coffeicola. Inst. Français Café Cacao, Bull. no. 15. Paris, France.
+Ndoumbè Nkeng, M. 2002. Incidence des facteurs agro-écologiques sur l’épidémiologie de la pourriture brune des fruits du cacaoyer au Cameroun: contribution à la mise en place d’un modèle d’avertissements agricoles. Ph.D. thesis. Institut National Paris-Grignon, France.
+Ntahimpera, N., Wilson, L. L., Ellis, M. A., and Madden, L. V. 1999. Comparison of rain effects on splash dispersal of three Colletotrichum species infecting strawberry. Phytopathology 89:555-563.
+Nutman, F. J., and Roberts, F. M. 1960. Investigations on a disease of Coffea Arabica caused by a form of Colletotrichum Noack. I – Some factors affecting infection by the pathogen. Trans. Br. Mycol. Soc. 43:489-505.
+Paul, P. A., El-Allaf, S. M., Lipps, P. E., and Madden, L. V. 2004. Rain splash dispersal of Gibberella zeae within wheat canopies in Ohio. Phytopathology 94:1342-1349.
+Phiri, N. A., Hillocks, R. J., and Jeffries, P. 2001. Incidence and severity of coffee disease in smallholder plantations in northern Malawi. Crop Prot. 20:325-332.
+Rapilly, F. 1991. L’épidémiologie en pathologie végétale: mycoses aériennes. Institut National de la Recherche Agronomique, Paris, France.
+Sache, Y. 2003. L’épidémiologie. Pages 193-213 in: Phytopathologie. Bases Moléculaires et Biologiques des Pathosystèmes et Fondements des Stratégies de Lutte. P. Lepoivre, ed. De Boeck Université, Gembloux, Belgium.
+Van der Graaff, N. A. 1992. Coffee berry disease. Pages 202-230 in: Plant Diseases of International Importance, Vol. 6. A. N. Mukhopadhyay, J. Kumar, U. S. Singh, and H. S. Chaube. Prentice Hall, NJ, USA.
+Van Maanen, A., and Xu, X.-M. (2003). Modeling plant epidemics. European Journal of Plant Pathology.
+Waller, J. M. (1972). Water-borne spore dispersal in coffee berry disease and its relation to control. Annals of Applied Biology, 71, 1-18.
+Waller, J. M., Bridge, P. D., Black, R., and Hakiza, G. (1993). Characterization of the coffee berry disease pathogen, Colletotrichum kahawae sp. nov. Mycological Research, 97, 989-994.
+Zadoks, J. C., and Schein, R. D. (1979). Epidemiology and Plant Disease Management. Oxford University Press, Oxford.
+Plant Disease, Vol. 91, No. 10.

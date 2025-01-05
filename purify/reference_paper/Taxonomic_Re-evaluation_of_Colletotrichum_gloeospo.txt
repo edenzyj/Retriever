@@ -1,0 +1,21 @@
+Beraha, L. and Wright, W. R. (1973). A new anthracnose of strawberry caused by Colletotrichum dematium. Plant Dis. Rep., 57, 445–448.
+Brooks, A. N. (1931). Anthracnose of strawberry caused by Colletotrichum fragariae f. sp. Phytopathology, 21, 739–744.
+Cai, L. et al. (2009). A polyphasic approach for studying Colletotrichum. Fungal Divers., 39, 183–204.
+Cannon, P. F. et al. (2008). The typification of Colletotrichum gloeosporioides. Mycotaxon, 104, 189–204.
+Chun, J. (1995). Computer-assisted classification and identification of actinomycetes. Ph.D. thesis, University of Newcastle, Newcastle upon Tyne, UK.
+Damm, U. et al. (2010). Colletotrichum: species, ecology and interactions. IMA Fungus, 1, 161–165.
+Freeman, S. et al. (1998). Characterization of...
+Gunnell, P. S., and Gubler, W. D. 1992. Taxonomy and morphology of Colletotrichum species pathogenic to strawberry. Mycologia 84:157–165.
+Hyde, K. D., Cai, L., Cannon, P. F., Crouch, J. A., Crous, P. W., Damm, U., Goodwin, P. H., Chen, H., Johnston, P. R., Jones, E. B. G., Liu, Z. Y., McKenzie, E. H. C., Moriwaki, J., Noireung, P., Pennycook, S. R., Pfenning, L. H., Prihastuti, H., Sato, T., Shivas, R. G., Tan, Y. P., Taylor, P. W. J., Weir, B. S., Yang, Y. L., and Zhang, J. Z. 2009a. Colletotrichum names in current use. Fungal Diversity 39:147–182.
+Hyde, K. D., Cai, L., McKenzie, E. H. C., Yang, Y. L., Zhang, J. Z., and Prihastuti, H. 2009b. Colletotrichum: a catalogue of confusion. Fungal Diversity 39:1–17.
+Nam, M. H., Jung, S. K., Lee, Y. S., Choi, J. M., and Kim, H. G. 2006. Effects of nitrogen, phosphorus, potassium, and calcium nutrition on strawberry anthracnose. Plant Pathology 55:246–249.
+Park, M. S., Seo, G. S., Bae, K. S., and Yu, S. H. 2005. Characterization of Trichoderma spp. associated with green mold of oyster mushroom by PCR-RFLP and sequence analysis of ITS regions of rDNA. Plant Pathology Journal 21:229–236.
+Peres, N. A., MacKenzie, S. J., Peever, T. L., and Timmer, L. W. 2008. Postbloom fruit drop of citrus and key lime anthracnose are caused by distinct phylogenetic lineages of Colletotrichum acutatum. Phytopathology 98:345–352.
+Phoulivong, S., Cai, L., Chen, H., McKenzie, E. H. C., Abdel-Salam, K., Chukeatirote, E., and Hyde, K. D. 2010. Colletotrichum gloeosporioides is not a common pathogen on tropical fruits. Fungal Diversity 44:33–43.
+Prihastuti, H., Cai, L., Chen, H., McKenzie, E. H. C., and Hyde, K. D. 2009. Characterization of Colletotrichum species associated with coffee berries in northern Thailand. Fungal Diversity 39:89–109.
+Smith, B. J., and Black, L. L. 1986. First report of Colletotrichum acutatum on strawberry in the United States. Plant Disease 70:1074.
+Smith, B. J., and Black, L. L. 1990. Morphological, cultural, and pathogenic variation among Colletotrichum species isolated from strawberry. Plant Disease 74:69–76.
+Tamura, K., Peterson, D., Peterson, N., Stecher, G., and Nei, M. 2011. MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods. Molecular Biology and Evolution 28:2731–2739.
+Thompson, J. D., Gibson, T. J., Plewniak, F., Jeanmougin, F., and Higgins, D. G. 1997. The Clustal X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools. Nucleic Acids Research 24:4876–4882.
+Weir, B. S., Johnson, P. R., and Damm, U. 2012. The Colletotrichum gloeosporioides species complex. Studies in Mycology 73:115–180.
+Wright, W. R., Smith, M. A., Ramsey, G. B., and Beraha, L. (1960). Gloeosporium rot of strawberry fruit. Plant Disease Reporter, 44, 212−213.

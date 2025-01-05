@@ -1,0 +1,25 @@
+Beech MG, Simpson DW. Strawberry production in the United Kingdom. ISHS Acta Horticulturae. 1989; 265: 693-696.
+Garrido C, Carbu M, Fernandez-Acero FJ, Budge G, Vallejo I, Colyer A, et al. Isolation and pathogenicity of Colletotrichum spp. causing anthracnose of strawberry in southwest Spain. European Journal of Plant Pathology. 2008; 120(4): 409-415.
+Jelev ZJ, Bobev SG, Minz D, Maymon M, Freeman S. Characterization of Colletotrichum species causing strawberry anthracnose in Bulgaria. Journal of Phytopathology. 2008; 156: 668-677.
+Van Hemelrijck W, Debode J, Heungens K, Maes M, Creemers P. Phenotypic and genetic characterization of Colletotrichum isolates from Belgian strawberry fields. Plant Pathology. 2010; 59(5): 53-861.
+Howard CM, Albregts EE. Anthracnose. In: Compendium of Strawberry Diseases. American Phytopathological Society: Paul St, ed. Maas JL, USA; 1984. pp. 85-87.
+Maas JL, Howard CM. Variation of several anthracnose fungi in virulence to strawberry and apple. Plant Disease. 1985; 69: 164-166.
+Sutton BC. Colletotrichum: Biology, Pathology and Control. Bailey JA, Jeger MJ, editors. Wallingford: CAB International, UK. 1992.
+Buddie AG, Martinez-Culebras P, Bridge PD, García MD, Querol A, Cannon PF, et al. Molecular characterization of Colletotrichum strains derived from strawberry. Mycological Research. 1999; 103: 385.
+Smith BJ, Black LL. First report of Colletotrichum acutatum on strawberry in the United States. Plant Disease. 1986; 70: 1074.
+Peres, N.A., Timmer, L.W., Adaskaveg, J.E., Correll, J.C. Life styles of Colletotrichum acutatum. Plant Disease. 2005; 89: 784-796.
+Whitelaw-Weckert, M.A., Curtin, S.J., Huang, R., Steel, C.C., Blanchard, C.L., Roffey, P.E. Phylogenetic relationships and pathogenicity of Colletotrichum acutatum isolates from grape in subtropical Australia. Plant Pathology. 2007; 56(3): 448-463.
+Jones, D., Baker, R. Introductions of non-native plant pathogens into Great Britain, 1970-2004. Plant Pathology. 2007; 56: 891-910.
+Calleja, E.J., Ilbery, B., Spence, N.J., Mills, P.R. The effectiveness of phytosanitary controls in preventing the entry of Colletotrichum acutatum in the UK strawberry sector. Plant Pathology. 2012; 62(2): 266-278.
+Baroncelli, R. Colletotrichum acutatum sensu lato: From Diversity Study to Genome Analysis. PhD Dissertation, University of Warwick. 2012. Available: http://wrap.warwick.ac.uk/56428/.
+Baroncelli, R., Sreenivasaprasad, S., Lane, C.R., Thon, M.R., Sukno, S.A. First report of Colletotrichum acutatum sensu lato (Colletotrichum godetiae) causing anthracnose on grapevine (Vitis vinifera) in the United Kingdom. New Disease Reports. 2014; 29: 26.
+Baroncelli, R., Sreenivasaprasad, S., Thon, M.R., Sukno, S.A. First report of apple bitter rot caused by Colletotrichum godetiae in the United Kingdom. Plant Disease. 2014; 98(7): 1000.
+Howard, C.M., Maas, J.L., Chandler, C.K., Albregts, E.E. Anthracnose of strawberry caused by the Colletotrichum complex in Florida. Plant Disease. 1992; 76: 976-981.
+Baroncelli, R., Sreenivasaprasad, S., Sukno, S.A., Thon, M.R., Holub, E. Draft genome sequence of Colletotrichum acutatum sensu lato (Colletotrichum fioriniae). Genome Announcement. 2014; 2: e00112-4.
+Baroncelli, R., Sarrocco, S., Zapparata, A., Tavarini, S., Angelini, L.G., Vannacci, G. Characterization and epidemiology of Colletotrichum acutatum sensu lato (C. chrysanthemi) causing Carthamus tinctorius anthracnose. Plant Pathology. 2015; 64(2): 375-384.
+Kearse, M., Moir, R., Wilson, A., Stones-Havas, S., Cheung, M., Sturrock, S., Buxton, S., et al. Geneious Basic: An integrated and extendable desktop software platform for the organization and analysis of sequence data. Bioinformatics. 2012; 28(12): 1647–1649. doi: 10.1093/bioinformatics/bts199 PMID: 22543367.
+Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M., Kumar, S. MEGA5: Molecular Evolutionary Genetics Analysis Using Maximum Likelihood, Evolutionary Distance, and Maximum Parsimony Methods. Molecular Biology and Evolution. 2011; 28(10): 2731–2739. doi: 10.1093/molbev/msr121 PMID: 21546353.
+Mason-Gamer, R. J., Kellogg, E. A. Testing for phylogenetic conflict among molecular data sets in the tribe Triticeae (Gramineae). Systematic Biology. 1996; 45: 524–545.
+Ronquist, F., Huelsenbeck, J. P. MrBayes 3: Bayesian phylogenetic inference under mixed models. Bioinformatics. 2003; 19: 1572–1574. PMID: 12912839.
+Simpson, D. W., Winterbottom, C. Q., Bell, J. A., Maltoni, M. L. Resistance to a single UK isolate of Colletotrichum acutatum in strawberry germplasm from Northern Europe. Euphytica. 1994; 77: 161–164.
+Denoyes-Rothan, B., Lafargue, M., Guerin, G., Clerjeau, M. Fruit resistance to Colletotrichum acutatum in strawberries. Plant Disease. 1999; 83: 549–553.
