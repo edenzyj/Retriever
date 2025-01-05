@@ -4,6 +4,7 @@ import glob
 import gc
 from typing import List
 import json
+from tqdm import tqdm
 
 # Import langchain frameware to build vector DB of RAG.
 from langchain.text_splitter import CharacterTextSplitter
@@ -151,7 +152,7 @@ def retrieve(user_query, num, use_finetuned, embedding_model, k):
     
     final_results.sort(key=lambda a: a[1])
     
-    print("number of unique results : {}".format(len(unique_results)))
+    tqdm.write("number of unique results : {}".format(len(unique_results)))
     print("=======================")
     print()
     
@@ -200,7 +201,7 @@ def retrieve_with_re_ranker(user_query, num, use_finetuned, embedding_model, rer
         if content not in unique_results:
             unique_results.add(content)
     
-    print("number of unique results : {}".format(len(unique_results)))
+    tqdm.write("number of unique results : {}".format(len(unique_results)))
     print("=======================")
     print()
 
@@ -281,7 +282,7 @@ if __name__ == "__main__":
     top_k = config.top_k
 
     # Retrieve document and get result for each query.
-    for i in range(len(user_queries)):
+    for i, query in enumerate(user_queries):
         query = user_queries[i]
         if config.reranker is not None:
             # Retrieve with reranker
