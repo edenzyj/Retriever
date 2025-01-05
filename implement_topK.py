@@ -174,7 +174,7 @@ def retrieve_with_re_ranker(user_query, num, use_finetuned, embedding_model, rer
         k (int): The number of retrieved results merged.
         
     Returns:
-        str: The retrieved result which is ranked by reranker.
+        list[str]: The top k retrieved results which are ranked by reranker.
     """
     
     if use_finetuned:
@@ -207,25 +207,26 @@ def retrieve_with_re_ranker(user_query, num, use_finetuned, embedding_model, rer
     unique_results = list(unique_results)
     
     in_answer = "retrieve a passage that answers this question from some paper"
-
-    final_results = []
     
-    for i in range(len(unique_results)):
-        features = reranker_tokenizer(['{0} [SEP] {1}'.format(in_answer, user_query), '{0} [SEP] {1}'.format(in_answer, user_query)], 
-                             [unique_results[0], unique_results[i]], padding=True, truncation=True, return_tensors="pt")
-        with torch.no_grad():
-            scores = reranker_model(**features).logits
-            normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
-            final_results.append([unique_results[i], normalized_scores[1]])
+    features = reranker_tokenizer(
+        ['{0} [SEP] {1}'.format(in_answer, user_query)] * len(unique_results),
+        unique_results,
+        padding=True,
+        truncation=True,
+        return_tensors="pt",
+        max_length=4096
+    )
     
-    final_results.sort(reverse=True, key=lambda a: a[1])
+    with torch.no_grad():
+        scores = reranker_model(**features).logits
+        normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
+        
+    final_results = zip(normalized_scores, unique_results)
+    final_results.sort(reverse=True, key=lambda a: a[0])
     
-    final_result = ""
+    retrieved_results = [res for score, res in final_results]
     
-    for i in range(k):
-        final_result = final_result + "Context {}: [{}]\n".format(i, final_results[i])
-    
-    return final_result
+    return retrieved_results
 
 
 # run this python file only when a new vector DB is going to be set up
