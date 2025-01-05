@@ -109,19 +109,19 @@ def set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, databa
     return len(chunks)
 
 
-def retrieve(user_query, num, use_finetuned, embedding_model):
+def retrieve(user_query, num, use_finetuned, embedding_model, k):
     """
     Retrieve the results from vector DB using smilarity search with score, and then compare the scores to select the best retrieved result.
 
-    Args:
+    Parameters:
         user_query (str): The query given by user.
         num (int): The number of results get from similarity search.
         use_finetuned (bool): A signal representing use finetuned embedding model or not.
         embedding_model (str): The repo name of the embedding model on HuggingFace or the directory path of the embedding model if the model is stored locally.
+        k (int): The number of retrieved results merged.
 
     Returns:
-        str: The retrieved result which has the highest score.
-        int: The highest score.
+        list[str]: The top k retrieved results which are ranked by score of similarity search.
     """
     
     if use_finetuned:
@@ -155,10 +155,9 @@ def retrieve(user_query, num, use_finetuned, embedding_model):
     print("=======================")
     print()
     
-    first_result = final_results[0]
-    score = final_results[1]
+    retrieved_results = [res[0] for res in final_results]
     
-    return first_result, score
+    return retrieved_results[:k]
 
 
 def retrieve_with_re_ranker(user_query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, k):
