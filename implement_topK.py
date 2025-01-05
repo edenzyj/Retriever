@@ -226,7 +226,7 @@ def retrieve_with_re_ranker(user_query, num, use_finetuned, embedding_model, rer
     
     retrieved_results = [res for score, res in final_results]
     
-    return retrieved_results
+    return retrieved_results[:k]
 
 
 # run this python file only when a new vector DB is going to be set up
@@ -285,17 +285,17 @@ if __name__ == "__main__":
         query = user_queries[i]
         if config.reranker is not None:
             # Retrieve with reranker
-            result = retrieve_with_re_ranker(query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, top_k)
+            results = retrieve_with_re_ranker(query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, top_k)
         else:
             # Naive retrieve
-            result, score = retrieve(query, num, use_finetuned, embedding_model)
+            results = retrieve(query, num, use_finetuned, embedding_model)
         
-        retrieved_results.append(result)
+        retrieved_results.append(results)
         
         json_results.append({
             "qid": i,
             "query": query,
-            "retrieved_context": result
+            "retrieved_context": results
         })
         
         gc.collect()
@@ -327,7 +327,12 @@ if __name__ == "__main__":
             query = user_queries[i]
             retrieved_result = retrieved_results[i]
             
-            prompt = "Here is a question : {}\n And I give you a related document : {}\n Generate a answer for me.".format(query, retrieved_result)
+            prompt = f"Question: {query}\n\nRelated documents: "
+            
+            for j in range(top_k):
+                prompt += ("\n" + f"{j}. " + retrieved_result)
+            
+            prompt += "\n\nGenerate a answer for me."
 
             # Call generating function to get generated answer.
             generation = generate_with_loop(prompt, histories)
