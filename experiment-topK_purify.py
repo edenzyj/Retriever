@@ -52,7 +52,7 @@ class MyEmbedding:
         return embedding
 
 
-def set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, database_path):
+def set_vector_db(file_names, chunk_size, use_finetuned, embeddings_model, database_path):
     """
     Use vector store with embedding model to build vector DB.
 
@@ -85,15 +85,6 @@ def set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, databa
     chunks = text_splitter.create_documents(texts)
     print(len(chunks))
     print(chunks[0])
-
-    if use_finetuned:
-        embeddings_model = MyEmbedding(embedding_model)
-    else:
-        embeddings_model = HuggingFaceEmbeddings(
-            model_name = embedding_model,
-            model_kwargs = {'device': 'cuda'},
-            encode_kwargs = {'normalize_embeddings': False}
-        )
     
     if os.path.isdir(database_path):
         shutil.rmtree(database_path)
@@ -110,7 +101,7 @@ def set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, databa
     return len(chunks)
 
 
-def retrieve(user_query, num, use_finetuned, embedding_model, non_formal_contents, k):
+def retrieve(user_query, num, use_finetuned, embeddings_model, non_formal_contents, k):
     """
     Retrieve the results from vector DB using smilarity search with score, and then compare the scores to select the best retrieved result.
 
@@ -125,15 +116,6 @@ def retrieve(user_query, num, use_finetuned, embedding_model, non_formal_content
     Returns:
         list[str]: The top k retrieved results which are ranked by score of similarity search.
     """
-    
-    if use_finetuned:
-        embeddings_model = MyEmbedding(embedding_model)
-    else:
-        embeddings_model = HuggingFaceEmbeddings(
-            model_name = embedding_model,
-            model_kwargs = {'device': 'cuda'},
-            encode_kwargs = {'normalize_embeddings': False}
-        )
     
     chromadb = Chroma(embedding_function=embeddings_model,
                       collection_name='coll_cosine',
@@ -170,7 +152,7 @@ def retrieve(user_query, num, use_finetuned, embedding_model, non_formal_content
     return retrieved_results
 
 
-def retrieve_with_re_ranker(user_query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, non_formal_contents, k):
+def retrieve_with_re_ranker(user_query, num, use_finetuned, embeddings_model, reranker_model, reranker_tokenizer, non_formal_contents, k):
     """
     Retrieve the results from vector DB using smilarity search, and then use reranker to select the best retrieved result.
 
@@ -187,15 +169,6 @@ def retrieve_with_re_ranker(user_query, num, use_finetuned, embedding_model, rer
     Returns:
         list[str]: The top k retrieved results which are ranked by reranker.
     """
-    
-    if use_finetuned:
-        embeddings_model = MyEmbedding(embedding_model)
-    else:
-        embeddings_model = HuggingFaceEmbeddings(
-            model_name = embedding_model,
-            model_kwargs = {'device': 'cuda'},
-            encode_kwargs = {'normalize_embeddings': False}
-        )
     
     chromadb = Chroma(embedding_function=embeddings_model,
                       collection_name='coll_cosine',
@@ -261,11 +234,20 @@ if __name__ == "__main__":
     chunk_size = config.chunk_size
     embedding_model = config.embedding_model_path
     use_finetuned = config.use_finetuned_model
+
+    if use_finetuned:
+        embeddings_model = MyEmbedding(embedding_model)
+    else:
+        embeddings_model = HuggingFaceEmbeddings(
+            model_name = embedding_model,
+            model_kwargs = {'device': 'cuda'},
+            encode_kwargs = {'normalize_embeddings': False}
+        )
     
     # Check if the database path exists and is not empty
     if not os.path.exists(database_path) or os.path.getsize(database_path) == 0:
         print("Database path does not exist or is empty. Running set_vector_db...")
-        chunk_number = set_vector_db(file_names, chunk_size, use_finetuned, embedding_model, database_path)
+        chunk_number = set_vector_db(file_names, chunk_size, use_finetuned, embeddings_model, database_path)
         print("Number of chunks: {}".format(chunk_number))
     else:
         print("Database path exists and is not empty. No need to run set_vector_db.")
@@ -326,10 +308,10 @@ if __name__ == "__main__":
         query = user_queries[i]
         if config.reranker is not None:
             # Retrieve with reranker
-            results = retrieve_with_re_ranker(query, num, use_finetuned, embedding_model, reranker_model, reranker_tokenizer, strings_to_check, top_k)
+            results = retrieve_with_re_ranker(query, num, use_finetuned, embeddings_model, reranker_model, reranker_tokenizer, strings_to_check, top_k)
         else:
             # Naive retrieve
-            results = retrieve(query, num, use_finetuned, embedding_model, strings_to_check, top_k)
+            results = retrieve(query, num, use_finetuned, embeddings_model, strings_to_check, top_k)
         
         retrieved_results.append(results)
         
