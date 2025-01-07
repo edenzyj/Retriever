@@ -24,11 +24,7 @@ reference_directory = "purify/reference_paper/"
 output_directory = "results/97/"
 
 # File name of retrieved results file.
-<<<<<<< HEAD
 result_file = "9907_tart_nFT_Llama3.2_1000Q_10th_Rtv_test.json"
-=======
-result_file = "9907_tart_nFT_Llama3.2_1000Q_10th_pure_Rtv.json"
->>>>>>> bd27009f3c29175c0d59d998b24ea7946ad35510
 
 # The number of retrieved results merged.
 top_k = 10
@@ -39,8 +35,4 @@ top_k = 10
 reranker = "facebook/tart-full-flan-t5-xl"
 
 # File name of generated answers file.
-<<<<<<< HEAD
 answer_file = "9907_tart_nFT_Llama3.2_1000Q_10th_Ans_test.json"
-=======
-answer_file = "9907_tart_nFT_Llama3.2_1000Q_10th_pure_Ans.json"
->>>>>>> bd27009f3c29175c0d59d998b24ea7946ad35510
