@@ -222,7 +222,7 @@ def retrieve_with_re_ranker(user_query, num, use_finetuned, embedding_model, rer
         scores = reranker_model(**features).logits
         normalized_scores = [float(score[1]) for score in F.softmax(scores, dim=1)]
         
-    final_results = zip(normalized_scores, unique_results)
+    final_results = list(zip(normalized_scores, unique_results))
     final_results.sort(reverse=True, key=lambda a: a[0])
     
     retrieved_results = [res for score, res in final_results]
@@ -284,7 +284,7 @@ if __name__ == "__main__":
     # =====Setting Here=====
     # The number of retrieved results merged.
     top_k = config.top_k
-
+    
     # Retrieve document and get result for each query.
     for i, query in enumerate(user_queries):
         query = user_queries[i]
@@ -312,12 +312,12 @@ if __name__ == "__main__":
     '''
     # Seperate retrieving and generating.
     # Read result file to fulfill "retrieved_results" list.
-    with open(output_dir+result_file, "r") as retrieved_file:
-        retrieved_list = retrieved_file.read().split("Result ")
-        for retrieved_result in retrieved_list:
-            if "\n" not in retrieved_result:
-                continue
-            retrieved_results.append(retrieved_result.split("\n")[1])
+    # Also fulfill "json_results" list for writing answer to answer_file.
+    with open(output_dir + result_file, "r") as retrieved_file:
+        data = json.load(retrieved_file)
+        for item in data:
+            json_results.append(item)
+            retrieved_results.append(item["retrieved_context"])
     '''
     
     # =====Setting Here=====
