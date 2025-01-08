@@ -4,7 +4,7 @@ sys.path.append("..")  # Llama3 model will be outside this repository/directory,
 
 # =====Setting Here=====
 # Import llama3 from repository pcs_llama3 cloned from https://github.com/IoTtalk/pcs_llama3.git.
-from pcs_llama3.llama3_new import get_llm, get_sampling_params
+from pcs_llama3.llama3_local import get_llm, get_tokenizer, get_sampling_params
 
 
 def generate_with_loop(message, histories):
@@ -31,13 +31,13 @@ def generate_with_loop(message, histories):
     # =====Setting Here=====
     # Choose a version of llama3 from HuggingFace.
     llm = get_llm("meta-llama/Llama-3.2-3B-Instruct")
-    # tokenizer = get_tokenizer()
+    tokenizer = get_tokenizer()
     sampling_params = get_sampling_params()
     
-    # prompt = tokenizer.apply_chat_template(history, tokenize=False)
+    prompt = tokenizer.apply_chat_template(history, tokenize=False)
     
     # Keep return the newest result generated from llm.
-    for chunk in llm.generate(message, sampling_params):
+    for chunk in llm.generate(prompt, sampling_params):
         yield chunk.outputs[0].text
 
 

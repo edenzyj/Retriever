@@ -6,7 +6,7 @@ if __name__ == "__main__":
     # =====Setting Here=====
     # Directory name and file name of query file (input file).
     query_dir = "questions/"
-    query_file = "questions_100.txt"
+    query_file = "queries_1000.txt"
 
     with open(query_dir + query_file, 'r') as fr:
         user_queries = fr.read().split("\n")
@@ -14,7 +14,7 @@ if __name__ == "__main__":
     # =====Setting Here=====
     # Directory name of results and file name of answer file (output file).
     result_dir = "results/naive/"
-    answer_file = "Llama3-8b_100Q_1st_Ans.txt"
+    answer_file = "Llama3.2-3b_1000Q_1st_Ans.txt"
 
     # Check whether the directory of results exists.
     # If the directory of results does not exist, create it.
