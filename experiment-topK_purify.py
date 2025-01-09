@@ -253,11 +253,13 @@ if __name__ == "__main__":
         print("Database path exists and is not empty. No need to run set_vector_db.")
     
     # =====Setting Here=====
-    # Directory name of non-formal contents.
+    # Directory/File name of non-formal contents.
     reference_dir = config.reference_directory
+    keywords_file = config.keywords_file
     
     strings_to_check = []  # List to store all non-formal contents.
-    
+    '''
+    # Store non-formal contents belonging to references.
     file_names = glob.glob(reference_dir + "*.txt")
     for file_name in file_names:
         with open(file_name, 'r', encoding='utf-8') as fr:
@@ -269,6 +271,15 @@ if __name__ == "__main__":
                     strings_to_check.append(paragraph)
 
             fr.close()
+    '''
+    # Store non-formal contents belonging to keywords.
+    with open(keywords_file, 'r') as fr:
+        content = fr.read()
+        paragraphs = content.split("\n")
+        for paragraph in paragraphs:
+            if len(paragraph) > 0:
+                strings_to_check.append(paragraph)
+        fr.close()
     
     # =====Setting Here=====
     # Directory name and file name of query file.
