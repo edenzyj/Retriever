@@ -4,4 +4,5 @@ finetune_embed
 vectorDB*
 
 __pycache__
+*.ipynb_checkpoints*
 
